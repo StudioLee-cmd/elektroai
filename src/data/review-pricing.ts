@@ -19,7 +19,6 @@ export const reviewPackages: IReviewPackage[] = [
             '2x NFC Deurstickers (Dubbelzijdig)',
             '1x NFC Balie Display (Acryl)',
             '50x Review Visitekaartjes (QR)',
-            'Digitale Email Handtekening',
             'Toegang tot Review Dashboard',
             'Google Review Link Shortener'
         ],
@@ -54,9 +53,6 @@ export const reviewPackages: IReviewPackage[] = [
         features: [
             'Volledige Whitelabel Opties',
             'Bulk Hardware (100+ stuks)',
-            'Custom API Integraties',
-            'Multi-Locatie Dashboard',
-            'Training voor Personeel',
             'Dedicated Account Manager'
         ],
         highlight: false,
