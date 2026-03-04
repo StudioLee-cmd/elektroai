@@ -148,10 +148,17 @@ const ScanForm = ({ onStartScan }: { onStartScan: (data: any) => void }) => {
 export default function GratisScanPage() {
     const [isModalOpen, setIsModalOpen] = useState(false);
 
-    const startScan = (data: any) => {
+    const startScan = async (data: any) => {
         setIsModalOpen(true);
-        // Here you would typically trigger the webhook/n8n workflow
-        console.log("Starting scan with data:", data);
+        try {
+            await fetch('https://n8n.aireclamestudio.nl/webhook/free-scan', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ ...data, niche: 'Elektricien' }),
+            });
+        } catch (err) {
+            console.error('Webhook error:', err);
+        }
     };
 
     return (
@@ -210,7 +217,7 @@ export default function GratisScanPage() {
                                     <iframe
                                         width="100%"
                                         height="100%"
-                                        src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=1"
+                                        src="https://www.youtube.com/embed/3RaBKCJdLMA?autoplay=1&mute=1"
                                         title="Waiting Room Video"
                                         frameBorder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
