@@ -65,15 +65,15 @@ const FallingText = () => {
         });
 
         const allWords = [
-            // HERO USPs (DAKDEKKER EDITION)
-            "Meer Winst per Dak 🏠",
-            "Alles-in-1 Systeem 🛠️",
-            "Nooit Meer Gemiste Oproepen 📞",
+            // HERO USPs (ELEKTRICIEN EDITION)
+            "Meer Winst per Klus ⚡",
+            "Alles-in-1 Systeem 🔌",
+            "Nooit Meer Gemiste Aanvragen 📅",
             "Je Werkbonnen op Orde 📋",
             "Ondernemen Zonder Zorgen 🚀",
-            "Je Kantoor in je Broekzak 📱",
+            "Je Bedrijf in je Broekzak 📱",
             "Jouw AI Receptioniste 🤖",
-            "Je Cijfers Waterdicht 💧",
+            "Stop Omzetlekkages 💸",
             "Geen Gedoe Met Facturen 🧾",
             "Alle Tools in 1 App 📱",
             "Meer Vrijheid, Minder Stress 🧘",
@@ -83,20 +83,20 @@ const FallingText = () => {
             "Offertes die scoren 📝",
             "Slapende klanten wakker schudden ⏰",
 
-            // DAKDEKKER PUNS & FUN
-            "Minder kantoor, meer dak op 🏠",
-            "Tijd voor koffie & je klus ☕",
+            // ELEKTRICIEN PUNS & FUN
+            "Minder draden, meer verdienen ⚡",
+            "Tijd voor koffie & je multimeter ☕",
             "Laat de telefoon maar rinkelen (AI pakt op) 📞",
             "Laat de AI je planning doen 🤖",
-            "Sleutelen, niet telefoneren 🔨",
-            "Geen lekkage in je planning 📅",
-            "Geknipt voor Jouw Business ✂️",
-            "Jij de vakman, AI de rest 👷‍♂️",
-            "Van dakdekker naar top-ondernemer 🚀",
-            "Handen in het haar? Nergens voor nodig! 👐",
-            "Meer omzet in minder tijd ⏳",
-            "Altijd scherp, net als je tools 🔪",
-            "Strakke planning, blije klanten 📅",
+            "Installeren, niet telefoneren 🔌",
+            "Geen kortsluiting in je planning 📅",
+            "Spanning genoeg, AI regelt de rest ⚡",
+            "Jij de stroom, AI het gedoe 🤖",
+            "Van elektricien naar top-ondernemer 🚀",
+            "Geschrokken van de rekening? AI helpt 😬",
+            "Meer klussen in minder tijd ⏳",
+            "Altijd onder spanning, maar rustig 🧘",
+            "Strakke bedrading, strakke planning ⚡",
             "Eindelijk rustig lunchen 🥪"
         ];
 
