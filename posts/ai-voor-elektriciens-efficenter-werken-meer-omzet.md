@@ -44,4 +44,4 @@ Bovendien helpt AI bij compliance: keuringsdata worden automatisch bewaard, cert
 
 Elektriciens die AI inzetten groeien sneller dan de concurrent die alles nog handmatig doet. Minder administratie, meer klussen, hogere tevredenheid.
 
-Ontdek hoe ElektroAI jouw bedrijf versterkt op [elektroai.nl](https://elektroai.nl).
+Ontdek hoe ElektroAI jouw bedrijf versterkt op [elektroai.nl](https://www.elektroai.nl).
