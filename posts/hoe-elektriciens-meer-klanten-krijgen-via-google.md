@@ -100,7 +100,7 @@ Jij werkt met spanning. Wij regelen de marketing:
 
 Meer klanten, minder gemiste kansen. Alles op autopilot.
 
-**Ontdek wat ElektroAI voor jouw installatiebedrijf doet.** Neem contact op via elektroai.nl.
+**Ontdek wat ElektroAI voor jouw installatiebedrijf doet.** Neem contact op via [elektroai.nl](https://www.elektroai.nl).
 
 ---
 
