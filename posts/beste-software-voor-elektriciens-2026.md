@@ -91,4 +91,4 @@ De beste aanpak hangt af van je situatie:
 - **Meer leads via je website?** Klusio zet bezoekers om in klanten.
 - **Compleet systeem met AI?** [ElektroAI](/) combineert planning, facturatie, reviews, chatbot en vindbaarheid in één — zonder commissie en zonder afhankelijkheid van platformen.
 
-Benieuwd wat ElektroAI voor jouw installatiebedrijf kan betekenen? [Neem contact op](/contact).
+Benieuwd wat ElektroAI voor jouw installatiebedrijf kan betekenen? [Plan een gratis gesprek](https://calendly.com/tim-studiolee).
