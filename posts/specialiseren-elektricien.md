@@ -15,7 +15,7 @@ In dit artikel ontdek je welke specialisaties het meest opleveren en hoe je de o
 
 ## Waarom specialisatie de toekomst is
 
-De elektrotechnische branche verandert snel. [Verduurzaming](/blog/verduurzaming-elektriciens-zonnepanelen-laadpalen), domotica en elektrificatie creëren nieuwe markten waar expertise meer telt dan prijs.
+De elektrotechnische branche verandert snel. [Verduurzaming](/blog/verduurzaming-elektricien-zonnepanelen-laadpalen), domotica en elektrificatie creëren nieuwe markten waar expertise meer telt dan prijs.
 
 Specialisten profiteren van:
 
@@ -54,15 +54,15 @@ Analyseer je regio: hoeveel EV-laadpalen zijn er al? Hoeveel woningen hebben zon
 
 ### Stap 2: Investeer in certificeringen
 
-Certificeringen zoals [NEN 1010](/blog/nen-1010-certificering-elektricien-online-vertrouwen) en fabrikanttrainingen (Tesla, ABB, Enphase) geven je geloofwaardigheid en toegang tot installateursprogramma's.
+Certificeringen zoals [NEN 1010](/blog/nen-1010-certificering-elektricien-online) en fabrikanttrainingen (Tesla, ABB, Enphase) geven je geloofwaardigheid en toegang tot installateursprogramma's.
 
 ### Stap 3: Bouw een specialist-portfolio
 
-Documenteer elk project in je niche. Gebruik [social media](/blog/social-media-elektriciens-online-zichtbaar) om je expertise te tonen.
+Documenteer elk project in je niche. Gebruik [social media](/blog/social-media-elektriciens-zichtbaar) om je expertise te tonen.
 
 ### Stap 4: Update je online aanwezigheid
 
-Je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-elektricien-meer-klanten) en website moeten je specialisatie weerspiegelen. Voeg specifieke diensten toe, gebruik nichegerelateerde zoekwoorden.
+Je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-elektricien) en website moeten je specialisatie weerspiegelen. Voeg specifieke diensten toe, gebruik nichegerelateerde zoekwoorden.
 
 ## Specialist en generalist combineren
 

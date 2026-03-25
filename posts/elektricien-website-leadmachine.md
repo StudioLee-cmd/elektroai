@@ -21,9 +21,9 @@ Een effectieve website heeft een heldere structuur:
 
 **Homepage**: direct duidelijk wat je doet, waar je werkt en waarom klanten jou moeten kiezen. Eindig met een duidelijke call-to-action: "Vraag een offerte aan" of "Bel direct".
 
-**Dienstenpagina's**: maak aparte pagina's voor je belangrijkste diensten. Niet een lange lijst, maar per dienst een eigen pagina met uitleg, foto's en een contactmogelijkheid. Denk aan: elektra-aanleg nieuwbouw, [slimme installaties](/blog/slimme-installaties-elektricien-domotica), storingsdienst, [laadpalen en zonnepanelen](/blog/verduurzaming-kans-elektriciens).
+**Dienstenpagina's**: maak aparte pagina's voor je belangrijkste diensten. Niet een lange lijst, maar per dienst een eigen pagina met uitleg, foto's en een contactmogelijkheid. Denk aan: elektra-aanleg nieuwbouw, [slimme installaties](/blog/slimme-installaties-elektricien-domotica), storingsdienst, [laadpalen en zonnepanelen](/blog/verduurzaming-elektricien-zonnepanelen-laadpalen).
 
-**Over ons**: laat zien wie je bent. Een foto, je ervaring, je [certificeringen](/blog/nen-1010-certificering-elektricien) en je werkgebied. Klanten willen weten wie er in hun huis komt werken.
+**Over ons**: laat zien wie je bent. Een foto, je ervaring, je [certificeringen](/blog/nen-1010-certificering-elektricien-online) en je werkgebied. Klanten willen weten wie er in hun huis komt werken.
 
 **Contact**: telefoonnummer (klikbaar op mobiel), contactformulier en eventueel WhatsApp. Maak het zo makkelijk mogelijk.
 

@@ -39,7 +39,7 @@ Wat ze wel beoordelen: was je op tijd, legde je uit wat je deed, was de factuur 
 
 **Jaarlijkse onderhoudsherinnering**. Via je [email marketing](/blog/email-marketing-elektricien-onderhoud): "Het is een jaar geleden dat we je groepenkast hebben gecontroleerd. Tijd voor een periodieke keuring." Dit genereert terugkerend werk.
 
-**Informeren over nieuwe mogelijkheden**. Heb je een klant geholpen met stopcontacten? Vertel over [slimme installaties](/blog/slimme-installaties-elektricien-domotica) of [verduurzamingsopties](/blog/verduurzaming-elektriciens). Niet als verkooppraatje, maar als advies.
+**Informeren over nieuwe mogelijkheden**. Heb je een klant geholpen met stopcontacten? Vertel over [slimme installaties](/blog/slimme-installaties-elektricien-domotica) of [verduurzamingsopties](/blog/verduurzaming-elektricien-zonnepanelen-laadpalen). Niet als verkooppraatje, maar als advies.
 
 ## Digitale communicatietools
 
@@ -50,6 +50,6 @@ Wat ze wel beoordelen: was je op tijd, legde je uit wat je deed, was de factuur 
 
 ## Aan de slag
 
-Communicatie die vertrouwen bouwt, kost geen geld — alleen aandacht. Snel reageren, helder uitleggen, netjes opleveren en altijd opvolgen. Die vier stappen maken je de [elektricien](/blog/hoe-elektriciens-meer-klanten-krijgen-google) waar klanten specifiek om vragen.
+Communicatie die vertrouwen bouwt, kost geen geld — alleen aandacht. Snel reageren, helder uitleggen, netjes opleveren en altijd opvolgen. Die vier stappen maken je de [elektricien](/blog/hoe-elektriciens-meer-klanten-krijgen-via-google) waar klanten specifiek om vragen.
 
 Wil je als elektricien online beter gevonden worden? [Vraag een gratis scan aan](/gratis-scan) en ontdek wat er beter kan.

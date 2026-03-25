@@ -63,7 +63,7 @@ Als elektricien of installateur draai je lange dagen op locatie. Software uitzoe
 
 [ElektroAI](/) is een compleet AI-systeem voor installatiebedrijven: planning, facturatie, automatische reviews via WhatsApp, AI-chatbot, Voice AI-telefonist en optimalisatie voor Google én AI-zoekmachines — zonder commissie.
 
-**Sterkste punt:** Alles in één systeem met AI: planning en agenda, facturatie, review-automatisering via WhatsApp, AI-chatbot die leads opvangt, en [betere vindbaarheid op Google](/blog/hoe-een-elektricien-meer-opdrachten-krijgt-via-google). Geen commissie per opdracht.
+**Sterkste punt:** Alles in één systeem met AI: planning en agenda, facturatie, review-automatisering via WhatsApp, AI-chatbot die leads opvangt, en [betere vindbaarheid op Google](/blog/hoe-elektriciens-meer-klanten-krijgen-via-google). Geen commissie per opdracht.
 
 **Nadeel:** De facturatie is minder diepgaand dan een dedicated boekhoudprogramma als Moneybird — voor complexe BTW-administratie kun je beide combineren.
 

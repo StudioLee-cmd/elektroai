@@ -45,7 +45,7 @@ Woningcorporaties beheren duizenden woningen die periodiek elektrotechnisch onde
 
 ### 3. Energieadviseurs en duurzaamheidsconsulenten
 
-Met de [verduurzamingstrend](/blog/verduurzaming-elektriciens-zonnepanelen-laadpalen) groeit de vraag naar elektriciens die zonnepanelen, laadpalen en warmtepompen installeren. Energieadviseurs zijn vaak het eerste aanspreekpunt voor huiseigenaren die willen verduurzamen.
+Met de [verduurzamingstrend](/blog/verduurzaming-elektricien-zonnepanelen-laadpalen) groeit de vraag naar elektriciens die zonnepanelen, laadpalen en warmtepompen installeren. Energieadviseurs zijn vaak het eerste aanspreekpunt voor huiseigenaren die willen verduurzamen.
 
 Bouw relaties op met energieadviseurs in jouw regio. Zij adviseren, jij installeert. Win-win.
 
@@ -57,7 +57,7 @@ De investering is bescheiden (enkele honderden euro's per jaar), maar het rendem
 
 ### 5. Social media als portfoliokanaal
 
-[Social media voor elektriciens](/blog/social-media-elektriciens-online-zichtbaar) wordt onderschat. Instagram en Facebook zijn uitstekende kanalen om je werk te tonen:
+[Social media voor elektriciens](/blog/social-media-elektriciens-zichtbaar) wordt onderschat. Instagram en Facebook zijn uitstekende kanalen om je werk te tonen:
 
 - Foto's van nette installatiekasten
 - Voor-en-na beelden van renovaties
@@ -90,4 +90,4 @@ De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei? Geld terug. H
 
 Google is een uitstekend kanaal, maar niet het enige. Elektriciens die investeren in relaties met aannemers, woningcorporaties en energieadviseurs, bouwen een robuust bedrijf dat niet afhankelijk is van één bron. Begin met één nieuw kanaal, doe het goed, en bouw van daaruit verder.
 
-Lees ook hoe je [klanten behoudt als elektricien](/blog/vaste-klanten-elektricien) en hoe [email marketing onderhoudsopdrachten oplevert](/blog/email-marketing-elektriciens).
+Lees ook hoe je [klanten behoudt als elektricien](/blog/vaste-klanten-elektricien-doorlopend-contact) en hoe [email marketing onderhoudsopdrachten oplevert](/blog/email-marketing-elektricien-onderhoud).
