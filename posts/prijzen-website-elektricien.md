@@ -7,8 +7,6 @@ image: "/images/blog/prijzen-website-elektricien.png"
 tags: ["prijzen communiceren", "elektricien", "website"]
 ---
 
-# Prijzen op je website als elektricien: transparantie die meer klussen oplevert
-
 "Wat kost een elektricien?" Het is een van de meest gezochte vragen op Google als het gaat om elektrotechnisch werk. Toch durven de meeste elektriciens hun prijzen niet op hun website te zetten. Bang om klanten af te schrikken, bang dat concurrenten meekijken, bang om zichzelf vast te pinnen.
 
 Maar die angst kost je klanten. In dit artikel lees je waarom prijstransparantie juist meer klussen oplevert — en hoe je het slim aanpakt.

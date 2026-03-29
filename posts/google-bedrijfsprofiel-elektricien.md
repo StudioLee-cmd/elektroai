@@ -21,7 +21,7 @@ Ga naar business.google.com en claim je profiel. Vul vervolgens elk veld zorgvul
 - **Categorie**: "Elektricien" als primaire categorie, eventueel "Elektrische installatie" als secundair
 - **Beschrijving**: 750 tekens over je diensten, werkgebied en specialisaties (domotica, zonnepanelen, laadpalen)
 - **Werkgebied**: alle gemeenten waar je actief bent
-- **Diensten**: voeg al je diensten toe — van meterkastvernieuwing tot [NEN 1010 keuringen](/blog/nen-1010-certificering-elektricien-online)
+- **Diensten**: voeg al je diensten toe — van meterkastvernieuwing tot [NEN 1010 keuringen](/blog/nen-1010-certificering-elektricien-online-online)
 
 Hoe completer je profiel, hoe hoger Google je plaatst. Een 100% ingevuld profiel scoort significant beter dan een profiel met lege velden.
 

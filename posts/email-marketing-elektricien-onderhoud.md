@@ -37,7 +37,7 @@ Je hoeft geen marketeer te zijn. Er zijn vijf soorten emails die direct werken:
 
 **Projectupdates**. Heb je een mooie [slimme installatie](/blog/slimme-installaties-elektricien-domotica) gedaan? Deel het met je lijst. "Onlangs hebben we een complete domotica-installatie geplaatst in Almere. Benieuwd wat de mogelijkheden zijn voor jouw huis?" Dit inspireert klanten om na te denken over hun eigen woning.
 
-**Wetswijzigingen en normen**. Veranderingen in [NEN 1010](/blog/nen-1010-certificering-elektricien-online) of nieuwe regels voor laadpalen zijn relevant voor je klanten. Leg het uit in begrijpelijke taal en bied direct een keuring of upgrade aan.
+**Wetswijzigingen en normen**. Veranderingen in [NEN 1010](/blog/nen-1010-certificering-elektricien-online-online) of nieuwe regels voor laadpalen zijn relevant voor je klanten. Leg het uit in begrijpelijke taal en bied direct een keuring of upgrade aan.
 
 **Verwijzingsverzoek**. "Kent u iemand die elektrisch werk nodig heeft? Een aanbeveling van u is het mooiste compliment." Voeg een link toe naar je website en maak doorverwijzen makkelijk.
 

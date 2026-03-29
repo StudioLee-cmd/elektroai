@@ -7,8 +7,6 @@ image: "/images/blog/specialiseren-elektricien.png"
 tags: ["specialisatie", "elektricien", "niche"]
 ---
 
-# Specialiseren als elektricien: niche-expertise die meer oplevert
-
 Storingen oplossen, groepen bijplaatsen, bekabeling aanleggen — het standaardwerk van een elektricien. Maar juist omdat elke elektricien dit kan, concurreer je op prijs. Specialiseren doorbreekt dat patroon.
 
 In dit artikel ontdek je welke specialisaties het meest opleveren en hoe je de overstap maakt zonder je bestaande klanten te verliezen.
@@ -54,7 +52,7 @@ Analyseer je regio: hoeveel EV-laadpalen zijn er al? Hoeveel woningen hebben zon
 
 ### Stap 2: Investeer in certificeringen
 
-Certificeringen zoals [NEN 1010](/blog/nen-1010-certificering-elektricien-online) en fabrikanttrainingen (Tesla, ABB, Enphase) geven je geloofwaardigheid en toegang tot installateursprogramma's.
+Certificeringen zoals [NEN 1010](/blog/nen-1010-certificering-elektricien-online-online) en fabrikanttrainingen (Tesla, ABB, Enphase) geven je geloofwaardigheid en toegang tot installateursprogramma's.
 
 ### Stap 3: Bouw een specialist-portfolio
 

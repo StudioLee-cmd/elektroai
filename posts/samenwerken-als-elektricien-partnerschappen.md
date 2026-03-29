@@ -7,8 +7,6 @@ image: "/images/blog/samenwerken-als-elektricien-partnerschappen.png"
 tags: ["samenwerkingen", "elektricien", "groei"]
 ---
 
-# Samenwerken als elektricien: partnerschappen die je omzet verhogen
-
 De energietransitie heeft het werk van elektriciens fundamenteel veranderd. Zonnepanelen, warmtepompen, laadpalen, domotica — al deze installaties vereisen samenwerking met andere vakmensen. Elektriciens die slim samenwerken, profiteren het meest van deze groeimarkt.
 
 ## Waarom samenwerking nu belangrijker is dan ooit
@@ -51,7 +49,7 @@ Bied samen met een loodgieter een "compleet verduurzamingspakket" aan: warmtepom
 
 Bij nieuwbouw en grote renovaties werken aannemers met vaste teams. Als jij de vaste elektricien bent, heb je maandenlang werk gegarandeerd. Lever altijd kwaliteit, wees betrouwbaar en communiceer duidelijk — dat is hoe je een vaste positie verdient.
 
-Versterk dit met [NEN 1010 certificering](/blog/nen-1010-certificering-elektricien) die aannemers vereisen.
+Versterk dit met [NEN 1010 certificering](/blog/nen-1010-certificering-elektricien-online) die aannemers vereisen.
 
 ## Online zichtbaarheid voor samenwerkingen
 

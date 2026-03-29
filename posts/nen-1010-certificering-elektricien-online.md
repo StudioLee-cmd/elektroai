@@ -3,7 +3,7 @@ title: "NEN 1010 certificering als elektricien: hoe je het online uitdraagt voor
 excerpt: "NEN 1010 certificering heb je als elektricien al — maar communiceer je het ook online? Zo zet je je keurmerk in als vertrouwenssignaal."
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
-image: "/images/blog/nen-1010-certificering-elektricien-online.png"
+image: "/images/blog/nen-1010-certificering-elektricien-online-online.png"
 tags: ["Elektricien", "Certificering", "NEN 1010"]
 ---
 

@@ -7,8 +7,6 @@ image: "/images/blog/branding-elektricien.png"
 tags: ["branding", "elektricien", "marketing"]
 ---
 
-# Branding als elektricien: herkenbaar worden in je regio
-
 "Een elektricien is een elektricien." Dat denken de meeste mensen. En zolang jij er ook zo over denkt, concurreer je alleen op prijs. Branding verandert dat. Het maakt van "een elektricien" de elektricien die mensen herkennen, vertrouwen en aanbevelen.
 
 In dit artikel leer je hoe je een herkenbaar merk opbouwt — zonder marketingbudget.

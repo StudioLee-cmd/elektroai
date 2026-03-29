@@ -7,8 +7,6 @@ image: "/images/blog/offertes-elektricien-snelheid-duidelijkheid.png"
 tags: ["Offertes", "Conversie", "Bedrijfsvoering"]
 ---
 
-# Offertes als elektricien: hoe snelheid en duidelijkheid meer klussen opleveren
-
 Je bent goed in je vak. Je installaties zijn netjes, je werkt volgens NEN 1010, en je klanten zijn tevreden. Maar toch verlies je opdrachten aan concurrenten. Niet omdat zij beter zijn — maar omdat zij sneller offreren. In een markt waar klanten vaak drie offertes aanvragen, wint de elektricien die het eerst reageert met een duidelijk, professioneel aanbod.
 
 In dit artikel laten we zien hoe je je offerteproces kunt verbeteren zodat je meer klussen wint — zonder je prijs te verlagen.
@@ -35,7 +33,7 @@ Een totaalprijs zonder specificatie voelt als een black box. Splits op in materi
 
 ### Benoem je kwalificaties
 
-Vermeld je NEN 1010 certificering, je inschrijving bij een erkend installateursregister, en je verzekering. Dit zijn vertrouwenssignalen die je concurrent misschien niet noemt. Lees ook ons artikel over [hoe je certificeringen online uitdraagt](/blog/nen-1010-certificering-elektricien-online).
+Vermeld je NEN 1010 certificering, je inschrijving bij een erkend installateursregister, en je verzekering. Dit zijn vertrouwenssignalen die je concurrent misschien niet noemt. Lees ook ons artikel over [hoe je certificeringen online uitdraagt](/blog/nen-1010-certificering-elektricien-online-online).
 
 ### Geef een planning
 

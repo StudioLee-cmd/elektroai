@@ -23,7 +23,7 @@ Elektrische installaties moeten regelmatig gecontroleerd worden. De NEN 1010 sch
 
 Bied je klanten proactief een periodieke keuring aan. Stuur een herinnering wanneer hun installatie aan inspectie toe is. Dit is geen opdringerige verkoop — het is een waardevolle service die veiligheid waarborgt. Klanten waarderen het als je meedenkt over hun veiligheid.
 
-Maak het concreet: "Uw meterkast is in 2019 geinstalleerd. Wij adviseren een controle in 2026. Zal ik een afspraak inplannen?" Je kennis van [certificeringen en keuringsnormen](/blog/nen-1010-certificering-elektricien-online) versterkt je positie als betrouwbare partner.
+Maak het concreet: "Uw meterkast is in 2019 geinstalleerd. Wij adviseren een controle in 2026. Zal ik een afspraak inplannen?" Je kennis van [certificeringen en keuringsnormen](/blog/nen-1010-certificering-elektricien-online-online) versterkt je positie als betrouwbare partner.
 
 ## Onderhoudspakketten aanbieden
 
