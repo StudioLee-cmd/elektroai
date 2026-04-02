@@ -1,1954 +1,1115 @@
 "use client";
 
-import React, { useReducer, useCallback, useEffect, useRef, useState } from "react";
+import React, { useReducer, useEffect, useRef, useCallback } from "react";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// TYPES
-// ─────────────────────────────────────────────────────────────────────────────
+/* ═══════════════════════════════════════════════════════════════════════════
+   CONSTANTS
+   ═══════════════════════════════════════════════════════════════════════════ */
 
-type CellType =
-  | "empty"
-  | "wall"
-  | "source"
-  | "device"
-  | "wire"
-  | "wire-node"; // wire-node = junction / corner placed by player
+const COLS = 12;
+const ROWS = 10;
+const CELL = 48; // px per cell
 
-interface Cell {
-  type: CellType;
-  powered: boolean;
-  label?: string; // emoji / icon label
-  deviceId?: number; // links device cells to their id
-}
+// Colors
+const CLR = {
+  bg: "#0a0a1a",
+  wall: "#1a1a3e",
+  wallBorder: "#2d2d6b",
+  floor: "#111128",
+  floorAlt: "#0e0e22",
+  player: "#00e5ff",
+  playerHat: "#ffb300",
+  coin: "#ffd700",
+  progress: "#00e676",
+  progressBg: "#1a1a3e",
+  cooldown: "#ff5252",
+  neon: "#00e5ff",
+  neonPink: "#ff00ff",
+  neonGreen: "#00e676",
+  textPrimary: "#e0e0ff",
+  textSecondary: "#8888aa",
+  overlay: "rgba(5,5,20,0.92)",
+  shopBtn: "#7c4dff",
+  shopBtnHover: "#b388ff",
+  stationZ: "#ff6f00",
+  stationS: "#00bfa5",
+  stationB: "#2979ff",
+  stationC: "#ffab00",
+  stationM: "#d500f9",
+  stationExtra: "#76ff03",
+};
 
-interface Level {
-  id: number;
+/* Station definitions */
+interface StationDef {
+  id: string;
   name: string;
-  description: string;
-  grid: CellType[][]; // 8x8
-  labels: (string | null)[][]; // emoji per cell (null = none)
-  deviceIds: (number | null)[][]; // device id per cell
-  maxMoves: number;
-  coinsPerCircuit: number;
-  totalDevices: number;
+  emoji: string;
+  baseCoins: number;
+  baseDuration: number; // ms
+  cooldown: number; // ms
+  color: string;
+  gridX: number;
+  gridY: number;
 }
 
-type Screen = "menu" | "game" | "level-complete" | "game-over" | "all-complete";
-
-interface GameState {
-  screen: Screen;
-  currentLevel: number;
-  grid: Cell[][];
-  movesUsed: number;
-  maxMoves: number;
-  coins: number;
-  totalCoins: number;
-  devicesConnected: number;
-  totalDevices: number;
-  coinsPerCircuit: number;
-  hintsRemaining: number;
-  extraMovesUsed: number;
-  highScore: number;
-  levelsCompleted: number;
-  message: string | null;
-  messageType: "success" | "error" | "info";
-}
-
-type GameAction =
-  | { type: "START_GAME" }
-  | { type: "SELECT_LEVEL"; level: number }
-  | { type: "PLACE_WIRE"; row: number; col: number }
-  | { type: "REMOVE_WIRE"; row: number; col: number }
-  | { type: "BUY_HINT" }
-  | { type: "BUY_EXTRA_MOVES" }
-  | { type: "CHECK_CIRCUITS" }
-  | { type: "NEXT_LEVEL" }
-  | { type: "BACK_TO_MENU" }
-  | { type: "LOAD_SAVE"; highScore: number; levelsCompleted: number }
-  | { type: "CLEAR_MESSAGE" };
-
-// ─────────────────────────────────────────────────────────────────────────────
-// LEVEL DATA — 8 progressively harder levels
-// ─────────────────────────────────────────────────────────────────────────────
-
-// Helper to build a grid
-function makeGrid(template: string[]): {
-  grid: CellType[][];
-  labels: (string | null)[][];
-  deviceIds: (number | null)[][];
-} {
-  let deviceCounter = 0;
-  const grid: CellType[][] = [];
-  const labels: (string | null)[][] = [];
-  const deviceIds: (number | null)[][] = [];
-
-  for (let r = 0; r < 8; r++) {
-    const row: CellType[] = [];
-    const labelRow: (string | null)[] = [];
-    const deviceIdRow: (number | null)[] = [];
-    const line = template[r] || "........";
-    for (let c = 0; c < 8; c++) {
-      const ch = line[c] || ".";
-      switch (ch) {
-        case "#":
-          row.push("wall");
-          labelRow.push(null);
-          deviceIdRow.push(null);
-          break;
-        case "S":
-          row.push("source");
-          labelRow.push("\u26A1");
-          deviceIdRow.push(null);
-          break;
-        case "1":
-          deviceCounter++;
-          row.push("device");
-          labelRow.push("\uD83D\uDCA1");
-          deviceIdRow.push(deviceCounter);
-          break;
-        case "2":
-          deviceCounter++;
-          row.push("device");
-          labelRow.push("\uD83D\uDCFA");
-          deviceIdRow.push(deviceCounter);
-          break;
-        case "3":
-          deviceCounter++;
-          row.push("device");
-          labelRow.push("\u2744\uFE0F");
-          deviceIdRow.push(deviceCounter);
-          break;
-        case "4":
-          deviceCounter++;
-          row.push("device");
-          labelRow.push("\uD83C\uDF73");
-          deviceIdRow.push(deviceCounter);
-          break;
-        case "5":
-          deviceCounter++;
-          row.push("device");
-          labelRow.push("\uD83D\uDCBB");
-          deviceIdRow.push(deviceCounter);
-          break;
-        case "6":
-          deviceCounter++;
-          row.push("device");
-          labelRow.push("\uD83C\uDFB5");
-          deviceIdRow.push(deviceCounter);
-          break;
-        default:
-          row.push("empty");
-          labelRow.push(null);
-          deviceIdRow.push(null);
-      }
-    }
-    grid.push(row);
-    labels.push(labelRow);
-    deviceIds.push(deviceIdRow);
-  }
-
-  return { grid, labels, deviceIds };
-}
-
-function countDevices(grid: CellType[][]): number {
-  let count = 0;
-  for (const row of grid) for (const c of row) if (c === "device") count++;
-  return count;
-}
-
-const LEVEL_TEMPLATES: {
-  name: string;
-  description: string;
-  template: string[];
-  maxMoves: number;
-  coinsPerCircuit: number;
-}[] = [
-  {
-    // Level 1 — Simple straight line
-    name: "De Eerste Klus",
-    description: "Verbind de stroombron met de lamp. Een rechte lijn volstaat!",
-    template: [
-      "########",
-      "#S.....#",
-      "#......#",
-      "#......#",
-      "#......#",
-      "#......#",
-      "#.....1#",
-      "########",
-    ],
-    maxMoves: 12,
-    coinsPerCircuit: 10,
-  },
-  {
-    // Level 2 — Two devices, one source, wall in the middle
-    name: "Dubbele Aansluiting",
-    description: "Twee apparaten, een bron. Bedrading mag niet door muren!",
-    template: [
-      "########",
-      "#S..#.1#",
-      "#...#..#",
-      "#...#..#",
-      "#......#",
-      "#......#",
-      "#.....2#",
-      "########",
-    ],
-    maxMoves: 16,
-    coinsPerCircuit: 15,
-  },
-  {
-    // Level 3 — L-shaped corridor
-    name: "De L-Gang",
-    description: "De gang maakt een bocht. Volg het pad!",
-    template: [
-      "########",
-      "#S.....#",
-      "#.####.#",
-      "#.#..#.#",
-      "#.#..#.#",
-      "#....#.#",
-      "#.####1#",
-      "########",
-    ],
-    maxMoves: 14,
-    coinsPerCircuit: 20,
-  },
-  {
-    // Level 4 — Three devices, maze-like
-    name: "Het Appartement",
-    description: "Drie kamers, drie apparaten. Sluit ze allemaal aan!",
-    template: [
-      "########",
-      "#S.#..1#",
-      "#..#...#",
-      "#..#.#.#",
-      "#....#.#",
-      "#.##.#.#",
-      "#2...#3#",
-      "########",
-    ],
-    maxMoves: 22,
-    coinsPerCircuit: 20,
-  },
-  {
-    // Level 5 — Central source, devices in corners
-    name: "Het Kruispunt",
-    description: "De bron zit in het midden. Bereik alle hoeken!",
-    template: [
-      "########",
-      "#1.#..2#",
-      "#..#...#",
-      "#......#",
-      "###S###",
-      "#......#",
-      "#3.#..4#",
-      "########",
-    ],
-    maxMoves: 28,
-    coinsPerCircuit: 25,
-  },
-  {
-    // Level 6 — Tight maze, 2 devices
-    name: "Het Doolhof",
-    description: "Veel muren, weinig ruimte. Elke draad telt!",
-    template: [
-      "########",
-      "#S.#...#",
-      "#.##.#.#",
-      "#....#.#",
-      "#.##.#.#",
-      "#..#...#",
-      "#.##..1#",
-      "########",
-    ],
-    maxMoves: 14,
-    coinsPerCircuit: 30,
-  },
-  {
-    // Level 7 — Open plan, 4 devices, efficiency matters
-    name: "De Villa",
-    description: "Groot huis, veel apparaten. Je hebt beperkte bedrading!",
-    template: [
-      "########",
-      "#1....2#",
-      "#......#",
-      "#..S...#",
-      "#......#",
-      "#......#",
-      "#3....4#",
-      "########",
-    ],
-    maxMoves: 20,
-    coinsPerCircuit: 25,
-  },
-  {
-    // Level 8 — The finale, complex maze, 5 devices
-    name: "De Wolkenkrabber",
-    description: "Het ultieme level. 5 apparaten, minimale ruimte. Veel succes!",
-    template: [
-      "########",
-      "#1.#.2.#",
-      "#..#...#",
-      "##...#.#",
-      "#.S..#3#",
-      "#..#...#",
-      "#4.#..5#",
-      "########",
-    ],
-    maxMoves: 32,
-    coinsPerCircuit: 35,
-  },
+const STATIONS: StationDef[] = [
+  { id: "Z", name: "Zekeringkast", emoji: "\u26A1", baseCoins: 10, baseDuration: 1500, cooldown: 6000, color: CLR.stationZ, gridX: 2, gridY: 2 },
+  { id: "M", name: "Meterkast", emoji: "\uD83D\uDCCA", baseCoins: 25, baseDuration: 3000, cooldown: 10000, color: CLR.stationM, gridX: 9, gridY: 2 },
+  { id: "K", name: "Schakelaar", emoji: "\uD83D\uDCA1", baseCoins: 12, baseDuration: 1800, cooldown: 7000, color: CLR.stationS, gridX: 7, gridY: 4 },
+  { id: "B", name: "Bedrading", emoji: "\uD83D\uDD0C", baseCoins: 20, baseDuration: 2500, cooldown: 8000, color: CLR.stationB, gridX: 2, gridY: 6 },
+  { id: "C", name: "Stopcontact", emoji: "\uD83D\uDD0B", baseCoins: 15, baseDuration: 2000, cooldown: 7000, color: CLR.stationC, gridX: 7, gridY: 7 },
 ];
 
-const LEVELS: Level[] = LEVEL_TEMPLATES.map((t, i) => {
-  const { grid, labels, deviceIds } = makeGrid(t.template);
-  return {
-    id: i + 1,
-    name: t.name,
-    description: t.description,
-    grid,
-    labels,
-    deviceIds,
-    maxMoves: t.maxMoves,
-    coinsPerCircuit: t.coinsPerCircuit,
-    totalDevices: countDevices(grid),
-  };
-});
+/* Extra station unlocked via upgrade */
+const EXTRA_STATION: StationDef = {
+  id: "X", name: "Verdeelkast", emoji: "\uD83D\uDEE0\uFE0F", baseCoins: 18, baseDuration: 2200, cooldown: 8000, color: CLR.stationExtra, gridX: 5, gridY: 5,
+};
 
-// ─────────────────────────────────────────────────────────────────────────────
-// BFS CIRCUIT VALIDATION
-// ─────────────────────────────────────────────────────────────────────────────
+/* Upgrade definitions */
+interface UpgradeDef {
+  id: string;
+  name: string;
+  description: string;
+  cost: number;
+  emoji: string;
+}
 
-function findConnectedDevices(grid: Cell[][]): Set<number> {
-  const rows = grid.length;
-  const cols = grid[0].length;
-  const visited = Array.from({ length: rows }, () => new Array(cols).fill(false));
-  const connectedDevices = new Set<number>();
+const UPGRADES: UpgradeDef[] = [
+  { id: "speed", name: "Snellere Handen", description: "Taken 30% sneller voltooid", cost: 50, emoji: "\uD83D\uDC4B" },
+  { id: "bonus", name: "Betere Gereedschap", description: "+5 munten per taak", cost: 100, emoji: "\uD83D\uDD27" },
+  { id: "extra", name: "Extra Verdeelkast", description: "Ontgrendel 6e werkstation", cost: 150, emoji: "\uD83C\uDFED" },
+  { id: "turbo", name: "Turbo Modus", description: "Taken direct af (30 sec)", cost: 200, emoji: "\uD83D\uDE80" },
+];
 
-  // Find the source cell
-  let sourceR = -1,
-    sourceC = -1;
-  for (let r = 0; r < rows; r++) {
-    for (let c = 0; c < cols; c++) {
-      if (grid[r][c].type === "source") {
-        sourceR = r;
-        sourceC = c;
-      }
+/* Build wall map */
+function buildWallMap(): boolean[][] {
+  const map: boolean[][] = [];
+  for (let y = 0; y < ROWS; y++) {
+    map[y] = [];
+    for (let x = 0; x < COLS; x++) {
+      map[y][x] = y === 0 || y === ROWS - 1 || x === 0 || x === COLS - 1;
     }
   }
-  if (sourceR === -1) return connectedDevices;
+  return map;
+}
+const WALL_MAP = buildWallMap();
 
-  // BFS from source
-  const queue: [number, number][] = [[sourceR, sourceC]];
-  visited[sourceR][sourceC] = true;
-  const dirs = [
-    [-1, 0],
-    [1, 0],
-    [0, -1],
-    [0, 1],
-  ];
+/* ═══════════════════════════════════════════════════════════════════════════
+   GAME STATE
+   ═══════════════════════════════════════════════════════════════════════════ */
 
-  while (queue.length > 0) {
-    const [r, c] = queue.shift()!;
-    for (const [dr, dc] of dirs) {
-      const nr = r + dr;
-      const nc = c + dc;
-      if (nr < 0 || nr >= rows || nc < 0 || nc >= cols) continue;
-      if (visited[nr][nc]) continue;
-      const cell = grid[nr][nc];
-      if (cell.type === "wire" || cell.type === "wire-node" || cell.type === "device") {
-        visited[nr][nc] = true;
-        if (cell.type === "device" && cell.deviceId != null) {
-          connectedDevices.add(cell.deviceId);
-        }
-        queue.push([nr, nc]);
-      }
-    }
-  }
-
-  return connectedDevices;
+interface StationState {
+  cooldownEnd: number; // timestamp when cooldown ends (0 = ready)
 }
 
-function markPowered(grid: Cell[][]): Cell[][] {
-  const rows = grid.length;
-  const cols = grid[0].length;
-  const visited = Array.from({ length: rows }, () => new Array(cols).fill(false));
-
-  // Clone grid
-  const newGrid = grid.map((row) => row.map((cell) => ({ ...cell, powered: false })));
-
-  // Find source
-  let sourceR = -1,
-    sourceC = -1;
-  for (let r = 0; r < rows; r++) {
-    for (let c = 0; c < cols; c++) {
-      if (grid[r][c].type === "source") {
-        sourceR = r;
-        sourceC = c;
-      }
-    }
-  }
-  if (sourceR === -1) return newGrid;
-
-  // BFS
-  const queue: [number, number][] = [[sourceR, sourceC]];
-  visited[sourceR][sourceC] = true;
-  newGrid[sourceR][sourceC].powered = true;
-  const dirs = [
-    [-1, 0],
-    [1, 0],
-    [0, -1],
-    [0, 1],
-  ];
-
-  while (queue.length > 0) {
-    const [r, c] = queue.shift()!;
-    for (const [dr, dc] of dirs) {
-      const nr = r + dr;
-      const nc = c + dc;
-      if (nr < 0 || nr >= rows || nc < 0 || nc >= cols) continue;
-      if (visited[nr][nc]) continue;
-      const cell = newGrid[nr][nc];
-      if (cell.type === "wire" || cell.type === "wire-node" || cell.type === "device") {
-        visited[nr][nc] = true;
-        cell.powered = true;
-        queue.push([nr, nc]);
-      }
-    }
-  }
-
-  return newGrid;
+interface GameState {
+  playerX: number;
+  playerY: number;
+  facing: "up" | "down" | "left" | "right";
+  coins: number;
+  totalCoins: number;
+  stations: Record<string, StationState>;
+  activeStations: string[]; // IDs of available stations
+  working: { stationId: string; startTime: number; duration: number } | null;
+  upgrades: Record<string, boolean>;
+  turboEnd: number; // timestamp when turbo ends
+  shopOpen: boolean;
+  message: string;
+  messageEnd: number;
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SOUND EFFECTS — Web Audio API micro-synth
-// ─────────────────────────────────────────────────────────────────────────────
+type Action =
+  | { type: "MOVE"; dx: number; dy: number }
+  | { type: "INTERACT" }
+  | { type: "TICK"; now: number }
+  | { type: "FINISH_WORK"; now: number }
+  | { type: "BUY_UPGRADE"; upgradeId: string; now: number }
+  | { type: "TOGGLE_SHOP" }
+  | { type: "SET_MESSAGE"; msg: string; duration: number; now: number };
 
-let audioCtx: AudioContext | null = null;
-
-function getAudioCtx(): AudioContext | null {
-  if (typeof window === "undefined") return null;
-  if (!audioCtx) {
-    try {
-      audioCtx = new (window.AudioContext || (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext)();
-    } catch {
-      return null;
-    }
-  }
-  return audioCtx;
-}
-
-function playTone(freq: number, duration: number, type: OscillatorType = "square", volume = 0.1) {
-  const ctx = getAudioCtx();
-  if (!ctx) return;
-  const osc = ctx.createOscillator();
-  const gain = ctx.createGain();
-  osc.type = type;
-  osc.frequency.setValueAtTime(freq, ctx.currentTime);
-  gain.gain.setValueAtTime(volume, ctx.currentTime);
-  gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + duration);
-  osc.connect(gain);
-  gain.connect(ctx.destination);
-  osc.start(ctx.currentTime);
-  osc.stop(ctx.currentTime + duration);
-}
-
-function sfxPlace() {
-  playTone(440, 0.08, "square", 0.06);
-}
-function sfxRemove() {
-  playTone(220, 0.08, "square", 0.06);
-}
-function sfxConnect() {
-  playTone(523, 0.1, "square", 0.08);
-  setTimeout(() => playTone(659, 0.1, "square", 0.08), 80);
-  setTimeout(() => playTone(784, 0.15, "square", 0.08), 160);
-}
-function sfxError() {
-  playTone(200, 0.15, "sawtooth", 0.08);
-  setTimeout(() => playTone(150, 0.2, "sawtooth", 0.08), 120);
-}
-function sfxCoin() {
-  playTone(988, 0.06, "square", 0.06);
-  setTimeout(() => playTone(1319, 0.1, "square", 0.06), 60);
-}
-function sfxLevelComplete() {
-  [523, 659, 784, 1047].forEach((f, i) => {
-    setTimeout(() => playTone(f, 0.15, "square", 0.08), i * 120);
+function getActiveStationDefs(state: GameState): StationDef[] {
+  return state.activeStations.map(id => {
+    if (id === "X") return EXTRA_STATION;
+    return STATIONS.find(s => s.id === id)!;
   });
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// STATE INIT & REDUCER
-// ─────────────────────────────────────────────────────────────────────────────
-
-function buildGrid(level: Level): Cell[][] {
-  return level.grid.map((row, r) =>
-    row.map((type, c) => ({
-      type,
-      powered: type === "source",
-      label: level.labels[r][c] ?? undefined,
-      deviceId: level.deviceIds[r][c] ?? undefined,
-    }))
-  );
+function isWalkable(x: number, y: number, state: GameState): boolean {
+  if (x < 0 || x >= COLS || y < 0 || y >= ROWS) return false;
+  if (WALL_MAP[y][x]) return false;
+  // Stations are walkable (you walk onto them)
+  return true;
 }
 
-function initialState(): GameState {
+function getStationAt(x: number, y: number, state: GameState): StationDef | null {
+  const defs = getActiveStationDefs(state);
+  return defs.find(s => s.gridX === x && s.gridY === y) || null;
+}
+
+function isAdjacentToStation(px: number, py: number, station: StationDef): boolean {
+  const dx = Math.abs(px - station.gridX);
+  const dy = Math.abs(py - station.gridY);
+  return (dx + dy === 1) || (dx === 0 && dy === 0);
+}
+
+function getEffectiveDuration(base: number, state: GameState, now: number): number {
+  if (state.turboEnd > now) return 50; // instant in turbo
+  let d = base;
+  if (state.upgrades["speed"]) d *= 0.7;
+  return d;
+}
+
+function getEffectiveCoins(base: number, state: GameState): number {
+  let c = base;
+  if (state.upgrades["bonus"]) c += 5;
+  return c;
+}
+
+function initState(): GameState {
+  const activeIds = STATIONS.map(s => s.id);
+  const stations: Record<string, StationState> = {};
+  for (const s of STATIONS) {
+    stations[s.id] = { cooldownEnd: 0 };
+  }
   return {
-    screen: "menu",
-    currentLevel: 0,
-    grid: [],
-    movesUsed: 0,
-    maxMoves: 0,
+    playerX: 5,
+    playerY: 5,
+    facing: "down",
     coins: 0,
     totalCoins: 0,
-    devicesConnected: 0,
-    totalDevices: 0,
-    coinsPerCircuit: 0,
-    hintsRemaining: 3,
-    extraMovesUsed: 0,
-    highScore: 0,
-    levelsCompleted: 0,
-    message: null,
-    messageType: "info",
+    stations,
+    activeStations: activeIds,
+    working: null,
+    upgrades: {},
+    turboEnd: 0,
+    shopOpen: false,
+    message: "Welkom, elektricien! Loop naar een werkstation en druk op Spatie.",
+    messageEnd: Date.now() + 5000,
   };
 }
 
-function reducer(state: GameState, action: GameAction): GameState {
+function reducer(state: GameState, action: Action): GameState {
   switch (action.type) {
-    case "LOAD_SAVE":
-      return {
-        ...state,
-        highScore: action.highScore,
-        levelsCompleted: action.levelsCompleted,
-      };
-
-    case "START_GAME": {
-      const level = LEVELS[0];
-      return {
-        ...state,
-        screen: "game",
-        currentLevel: 0,
-        grid: buildGrid(level),
-        movesUsed: 0,
-        maxMoves: level.maxMoves,
-        coins: state.coins,
-        totalCoins: state.totalCoins,
-        devicesConnected: 0,
-        totalDevices: level.totalDevices,
-        coinsPerCircuit: level.coinsPerCircuit,
-        message: null,
-        messageType: "info",
-        extraMovesUsed: 0,
-      };
+    case "MOVE": {
+      if (state.working || state.shopOpen) return state;
+      const nx = state.playerX + action.dx;
+      const ny = state.playerY + action.dy;
+      const facing: GameState["facing"] =
+        action.dx === 1 ? "right" : action.dx === -1 ? "left" :
+        action.dy === 1 ? "down" : "up";
+      if (!isWalkable(nx, ny, state)) return { ...state, facing };
+      return { ...state, playerX: nx, playerY: ny, facing };
     }
 
-    case "SELECT_LEVEL": {
-      const level = LEVELS[action.level];
-      if (!level) return state;
-      return {
-        ...state,
-        screen: "game",
-        currentLevel: action.level,
-        grid: buildGrid(level),
-        movesUsed: 0,
-        maxMoves: level.maxMoves,
-        devicesConnected: 0,
-        totalDevices: level.totalDevices,
-        coinsPerCircuit: level.coinsPerCircuit,
-        message: null,
-        messageType: "info",
-        extraMovesUsed: 0,
-      };
-    }
-
-    case "PLACE_WIRE": {
-      const { row, col } = action;
-      const cell = state.grid[row][col];
-      if (cell.type !== "empty") return state;
-      if (state.movesUsed >= state.maxMoves) {
-        sfxError();
-        return {
-          ...state,
-          message: "Geen zetten meer over! Koop extra zetten of herstart.",
-          messageType: "error",
-        };
-      }
-
-      sfxPlace();
-      const newGrid = state.grid.map((r) => r.map((c) => ({ ...c })));
-      newGrid[row][col] = { type: "wire", powered: false };
-
-      // Re-check power flow
-      const poweredGrid = markPowered(newGrid);
-
-      // Check how many devices are now connected
-      const connected = findConnectedDevices(poweredGrid);
-      const newConnected = connected.size;
-      const prevConnected = state.devicesConnected;
-
-      // Award coins for newly connected devices
-      let coinBonus = 0;
-      if (newConnected > prevConnected) {
-        coinBonus = (newConnected - prevConnected) * state.coinsPerCircuit;
-        sfxConnect();
-        if (coinBonus > 0) setTimeout(sfxCoin, 200);
-      }
-
-      const newCoins = state.coins + coinBonus;
-      const newTotalCoins = state.totalCoins + coinBonus;
-
-      // Check if all devices connected
-      if (newConnected === state.totalDevices) {
-        sfxLevelComplete();
-        const newHighScore = Math.max(state.highScore, newTotalCoins);
-        const newCompleted = Math.max(
-          state.levelsCompleted,
-          state.currentLevel + 1
-        );
-        // Save to localStorage
-        try {
-          localStorage.setItem(
-            "stroommeester",
-            JSON.stringify({
-              highScore: newHighScore,
-              levelsCompleted: newCompleted,
-            })
-          );
-        } catch {
-          // ignore
-        }
-
-        const isLast = state.currentLevel >= LEVELS.length - 1;
-
-        return {
-          ...state,
-          screen: isLast ? "all-complete" : "level-complete",
-          grid: poweredGrid,
-          movesUsed: state.movesUsed + 1,
-          coins: newCoins,
-          totalCoins: newTotalCoins,
-          devicesConnected: newConnected,
-          highScore: newHighScore,
-          levelsCompleted: newCompleted,
-          message: null,
-          messageType: "success",
-        };
-      }
-
-      return {
-        ...state,
-        grid: poweredGrid,
-        movesUsed: state.movesUsed + 1,
-        coins: newCoins,
-        totalCoins: newTotalCoins,
-        devicesConnected: newConnected,
-        message: coinBonus > 0 ? `+${coinBonus} munten!` : null,
-        messageType: coinBonus > 0 ? "success" : "info",
-      };
-    }
-
-    case "REMOVE_WIRE": {
-      const { row, col } = action;
-      const cell = state.grid[row][col];
-      if (cell.type !== "wire" && cell.type !== "wire-node") return state;
-
-      sfxRemove();
-      const newGrid = state.grid.map((r) => r.map((c) => ({ ...c })));
-      newGrid[row][col] = { type: "empty", powered: false };
-
-      const poweredGrid = markPowered(newGrid);
-      const connected = findConnectedDevices(poweredGrid);
-
-      return {
-        ...state,
-        grid: poweredGrid,
-        devicesConnected: connected.size,
-        message: null,
-        messageType: "info",
-        // Note: moves are NOT refunded — strategic choice
-      };
-    }
-
-    case "BUY_HINT": {
-      if (state.coins < 15) {
-        sfxError();
-        return {
-          ...state,
-          message: "Niet genoeg munten! (15 nodig)",
-          messageType: "error",
-        };
-      }
-      if (state.hintsRemaining <= 0) {
-        return {
-          ...state,
-          message: "Geen hints meer beschikbaar!",
-          messageType: "error",
-        };
-      }
-
-      sfxCoin();
-
-      // Find an empty cell adjacent to a powered cell that would extend the network
-      const grid = state.grid;
-      let hintR = -1,
-        hintC = -1;
-      const dirs = [
-        [-1, 0],
-        [1, 0],
-        [0, -1],
-        [0, 1],
-      ];
-
-      // Strategy: find empty cells next to powered wires/source that are also near unpowered devices
-      outer: for (let r = 0; r < 8; r++) {
-        for (let c = 0; c < 8; c++) {
-          if (grid[r][c].type !== "empty") continue;
-          let nearPowered = false;
-          let nearUnpoweredDevice = false;
-          for (const [dr, dc] of dirs) {
-            const nr = r + dr;
-            const nc = c + dc;
-            if (nr < 0 || nr >= 8 || nc < 0 || nc >= 8) continue;
-            if (grid[nr][nc].powered) nearPowered = true;
-            if (grid[nr][nc].type === "device" && !grid[nr][nc].powered)
-              nearUnpoweredDevice = true;
-          }
-          // Prefer cells near both powered cells and unpowered devices
-          if (nearPowered && nearUnpoweredDevice) {
-            hintR = r;
-            hintC = c;
-            break outer;
-          }
-          // Fallback: just near a powered cell
-          if (nearPowered && hintR === -1) {
-            hintR = r;
-            hintC = c;
+    case "INTERACT": {
+      if (state.shopOpen || state.working) return state;
+      const now = Date.now();
+      // Find station player is on or adjacent to
+      const defs = getActiveStationDefs(state);
+      let target: StationDef | null = null;
+      // Prefer station player is standing on
+      target = getStationAt(state.playerX, state.playerY, state);
+      if (!target) {
+        // Check adjacent
+        for (const s of defs) {
+          if (isAdjacentToStation(state.playerX, state.playerY, s) && !(s.gridX === state.playerX && s.gridY === state.playerY)) {
+            target = s;
+            break;
           }
         }
       }
-
-      if (hintR === -1) {
+      if (!target) {
         return {
           ...state,
-          message: "Geen hint beschikbaar voor dit level.",
-          messageType: "info",
+          message: "Geen werkstation in de buurt. Loop er naartoe!",
+          messageEnd: now + 2000,
         };
       }
+      const ss = state.stations[target.id];
+      if (ss && ss.cooldownEnd > now) {
+        const remaining = Math.ceil((ss.cooldownEnd - now) / 1000);
+        return {
+          ...state,
+          message: `${target.name} heeft nog ${remaining}s cooldown...`,
+          messageEnd: now + 1500,
+        };
+      }
+      const duration = getEffectiveDuration(target.baseDuration, state, now);
+      return {
+        ...state,
+        working: { stationId: target.id, startTime: now, duration },
+        message: `${target.emoji} Bezig met ${target.name}...`,
+        messageEnd: now + duration + 500,
+      };
+    }
 
-      // Place the hint wire automatically
-      const newGrid = state.grid.map((r) => r.map((c) => ({ ...c })));
-      newGrid[hintR][hintC] = { type: "wire-node", powered: false };
-      const poweredGrid = markPowered(newGrid);
-      const connected = findConnectedDevices(poweredGrid);
+    case "FINISH_WORK": {
+      if (!state.working) return state;
+      const w = state.working;
+      const def = w.stationId === "X" ? EXTRA_STATION : STATIONS.find(s => s.id === w.stationId)!;
+      const earned = getEffectiveCoins(def.baseCoins, state);
+      const newStations = { ...state.stations };
+      newStations[w.stationId] = { cooldownEnd: action.now + def.cooldown };
+      return {
+        ...state,
+        working: null,
+        coins: state.coins + earned,
+        totalCoins: state.totalCoins + earned,
+        stations: newStations,
+        message: `+${earned} munten! ${def.name} klaar!`,
+        messageEnd: action.now + 2000,
+      };
+    }
 
-      let coinBonus = 0;
-      if (connected.size > state.devicesConnected) {
-        coinBonus =
-          (connected.size - state.devicesConnected) * state.coinsPerCircuit;
-        sfxConnect();
+    case "BUY_UPGRADE": {
+      const upg = UPGRADES.find(u => u.id === action.upgradeId);
+      if (!upg) return state;
+      if (state.upgrades[action.upgradeId] && action.upgradeId !== "turbo") return state;
+      if (state.coins < upg.cost) {
+        return {
+          ...state,
+          message: `Niet genoeg munten! Je hebt ${state.coins}, nodig: ${upg.cost}`,
+          messageEnd: action.now + 2000,
+        };
+      }
+      const newUpgrades = { ...state.upgrades, [action.upgradeId]: true };
+      let newActiveStations = [...state.activeStations];
+      let newStationsMap = { ...state.stations };
+      let turboEnd = state.turboEnd;
+
+      if (action.upgradeId === "extra" && !state.activeStations.includes("X")) {
+        newActiveStations.push("X");
+        newStationsMap["X"] = { cooldownEnd: 0 };
+      }
+      if (action.upgradeId === "turbo") {
+        turboEnd = action.now + 30000;
       }
 
-      const newCoins = state.coins - 15 + coinBonus;
-      const newTotalCoins = state.totalCoins + coinBonus;
+      return {
+        ...state,
+        coins: state.coins - upg.cost,
+        upgrades: newUpgrades,
+        activeStations: newActiveStations,
+        stations: newStationsMap,
+        turboEnd,
+        message: `${upg.emoji} ${upg.name} gekocht!`,
+        messageEnd: action.now + 2500,
+      };
+    }
 
-      // Check completion
-      if (connected.size === state.totalDevices) {
-        sfxLevelComplete();
-        const newHighScore = Math.max(state.highScore, newTotalCoins);
-        const newCompleted = Math.max(
-          state.levelsCompleted,
-          state.currentLevel + 1
-        );
-        try {
-          localStorage.setItem(
-            "stroommeester",
-            JSON.stringify({
-              highScore: newHighScore,
-              levelsCompleted: newCompleted,
-            })
-          );
-        } catch {
-          // ignore
+    case "TOGGLE_SHOP": {
+      if (state.working) return state;
+      return { ...state, shopOpen: !state.shopOpen };
+    }
+
+    case "SET_MESSAGE": {
+      return { ...state, message: action.msg, messageEnd: action.now + action.duration };
+    }
+
+    case "TICK": {
+      // Auto-finish work
+      if (state.working) {
+        const elapsed = action.now - state.working.startTime;
+        if (elapsed >= state.working.duration) {
+          return reducer(state, { type: "FINISH_WORK", now: action.now });
         }
-        const isLast = state.currentLevel >= LEVELS.length - 1;
-        return {
-          ...state,
-          screen: isLast ? "all-complete" : "level-complete",
-          grid: poweredGrid,
-          movesUsed: state.movesUsed + 1,
-          coins: newCoins,
-          totalCoins: newTotalCoins,
-          devicesConnected: connected.size,
-          hintsRemaining: state.hintsRemaining - 1,
-          highScore: newHighScore,
-          levelsCompleted: newCompleted,
-          message: null,
-          messageType: "success",
-        };
       }
-
-      return {
-        ...state,
-        grid: poweredGrid,
-        movesUsed: state.movesUsed + 1,
-        coins: newCoins,
-        totalCoins: newTotalCoins,
-        devicesConnected: connected.size,
-        hintsRemaining: state.hintsRemaining - 1,
-        message: `Hint geplaatst! (-15 munten${coinBonus > 0 ? `, +${coinBonus} munten` : ""})`,
-        messageType: "info",
-      };
+      return state;
     }
-
-    case "BUY_EXTRA_MOVES": {
-      if (state.coins < 20) {
-        sfxError();
-        return {
-          ...state,
-          message: "Niet genoeg munten! (20 nodig voor 5 extra zetten)",
-          messageType: "error",
-        };
-      }
-      sfxCoin();
-      return {
-        ...state,
-        coins: state.coins - 20,
-        maxMoves: state.maxMoves + 5,
-        extraMovesUsed: state.extraMovesUsed + 1,
-        message: "+5 extra zetten! (-20 munten)",
-        messageType: "success",
-      };
-    }
-
-    case "CHECK_CIRCUITS": {
-      const connected = findConnectedDevices(state.grid);
-      if (connected.size === 0) {
-        sfxError();
-        return {
-          ...state,
-          message: "Nog geen apparaten verbonden. Leg bedrading van de bron naar een apparaat!",
-          messageType: "error",
-        };
-      }
-      return {
-        ...state,
-        message: `${connected.size}/${state.totalDevices} apparaten verbonden.`,
-        messageType: connected.size === state.totalDevices ? "success" : "info",
-      };
-    }
-
-    case "NEXT_LEVEL": {
-      const nextIdx = state.currentLevel + 1;
-      if (nextIdx >= LEVELS.length) {
-        return { ...state, screen: "all-complete" };
-      }
-      const level = LEVELS[nextIdx];
-      return {
-        ...state,
-        screen: "game",
-        currentLevel: nextIdx,
-        grid: buildGrid(level),
-        movesUsed: 0,
-        maxMoves: level.maxMoves,
-        devicesConnected: 0,
-        totalDevices: level.totalDevices,
-        coinsPerCircuit: level.coinsPerCircuit,
-        message: null,
-        messageType: "info",
-        extraMovesUsed: 0,
-      };
-    }
-
-    case "BACK_TO_MENU":
-      return {
-        ...state,
-        screen: "menu",
-        message: null,
-      };
-
-    case "CLEAR_MESSAGE":
-      return { ...state, message: null };
 
     default:
       return state;
   }
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// WIRE DIRECTION HELPER — determine pipe/wire sprite character
-// ─────────────────────────────────────────────────────────────────────────────
+/* ═══════════════════════════════════════════════════════════════════════════
+   AUDIO
+   ═══════════════════════════════════════════════════════════════════════════ */
 
-function getWireChar(grid: Cell[][], r: number, c: number): string {
-  const rows = grid.length;
-  const cols = grid[0].length;
-  const isConnectable = (type: CellType) =>
-    type === "wire" || type === "wire-node" || type === "source" || type === "device";
+function playSound(type: "coin" | "work" | "buy" | "step" | "error") {
+  try {
+    const ctx = new (window.AudioContext || (window as any).webkitAudioContext)();
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+    osc.connect(gain);
+    gain.connect(ctx.destination);
 
-  const up = r > 0 && isConnectable(grid[r - 1][c].type);
-  const down = r < rows - 1 && isConnectable(grid[r + 1][c].type);
-  const left = c > 0 && isConnectable(grid[r][c - 1].type);
-  const right = c < cols - 1 && isConnectable(grid[r][c + 1].type);
-
-  const count = [up, down, left, right].filter(Boolean).length;
-
-  if (count === 0) return "\u2022"; // dot
-  if (count === 1) {
-    if (up || down) return "\u2502"; // vertical
-    return "\u2500"; // horizontal
+    switch (type) {
+      case "coin":
+        osc.type = "square";
+        osc.frequency.setValueAtTime(880, ctx.currentTime);
+        osc.frequency.setValueAtTime(1320, ctx.currentTime + 0.08);
+        gain.gain.setValueAtTime(0.12, ctx.currentTime);
+        gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.2);
+        osc.start(ctx.currentTime);
+        osc.stop(ctx.currentTime + 0.2);
+        break;
+      case "work":
+        osc.type = "sawtooth";
+        osc.frequency.setValueAtTime(220, ctx.currentTime);
+        osc.frequency.linearRampToValueAtTime(440, ctx.currentTime + 0.15);
+        gain.gain.setValueAtTime(0.06, ctx.currentTime);
+        gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.2);
+        osc.start(ctx.currentTime);
+        osc.stop(ctx.currentTime + 0.2);
+        break;
+      case "buy":
+        osc.type = "square";
+        osc.frequency.setValueAtTime(523, ctx.currentTime);
+        osc.frequency.setValueAtTime(659, ctx.currentTime + 0.1);
+        osc.frequency.setValueAtTime(784, ctx.currentTime + 0.2);
+        gain.gain.setValueAtTime(0.1, ctx.currentTime);
+        gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.35);
+        osc.start(ctx.currentTime);
+        osc.stop(ctx.currentTime + 0.35);
+        break;
+      case "step":
+        osc.type = "triangle";
+        osc.frequency.setValueAtTime(150, ctx.currentTime);
+        gain.gain.setValueAtTime(0.03, ctx.currentTime);
+        gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.05);
+        osc.start(ctx.currentTime);
+        osc.stop(ctx.currentTime + 0.05);
+        break;
+      case "error":
+        osc.type = "square";
+        osc.frequency.setValueAtTime(120, ctx.currentTime);
+        gain.gain.setValueAtTime(0.08, ctx.currentTime);
+        gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.15);
+        osc.start(ctx.currentTime);
+        osc.stop(ctx.currentTime + 0.15);
+        break;
+    }
+  } catch (_) {
+    // Audio not available
   }
-  if (count === 2) {
-    if (up && down) return "\u2502";
-    if (left && right) return "\u2500";
-    if (down && right) return "\u250C";
-    if (down && left) return "\u2510";
-    if (up && right) return "\u2514";
-    if (up && left) return "\u2518";
-  }
-  if (count === 3) {
-    if (!up) return "\u252C";
-    if (!down) return "\u2534";
-    if (!left) return "\u251C";
-    if (!right) return "\u2524";
-  }
-  return "\u253C"; // four-way cross
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// COMPONENT
-// ─────────────────────────────────────────────────────────────────────────────
+/* ═══════════════════════════════════════════════════════════════════════════
+   COMPONENT
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 export default function SpelContent() {
-  const [state, dispatch] = useReducer(reducer, initialState());
-  const messageTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
-  const [fontsLoaded, setFontsLoaded] = useState(false);
+  const [state, dispatch] = useReducer(reducer, null, initState);
+  const gameRef = useRef<HTMLDivElement>(null);
+  const animRef = useRef<number>(0);
+  const lastStepRef = useRef(0);
+  const prevCoinsRef = useRef(0);
+  const prevWorkingRef = useRef<string | null>(null);
 
-  // Load Google Fonts
+  /* Sound effects on state changes */
   useEffect(() => {
-    const link = document.createElement("link");
-    link.href =
-      "https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap";
-    link.rel = "stylesheet";
-    document.head.appendChild(link);
-    link.onload = () => setFontsLoaded(true);
-    // Fallback if onload doesn't fire
-    const timeout = setTimeout(() => setFontsLoaded(true), 2000);
-    return () => clearTimeout(timeout);
-  }, []);
-
-  // Load save from localStorage
-  useEffect(() => {
-    try {
-      const saved = localStorage.getItem("stroommeester");
-      if (saved) {
-        const { highScore, levelsCompleted } = JSON.parse(saved);
-        dispatch({
-          type: "LOAD_SAVE",
-          highScore: highScore || 0,
-          levelsCompleted: levelsCompleted || 0,
-        });
-      }
-    } catch {
-      // ignore
+    if (state.coins > prevCoinsRef.current) {
+      playSound("coin");
     }
+    prevCoinsRef.current = state.coins;
+  }, [state.coins]);
+
+  useEffect(() => {
+    if (state.working && !prevWorkingRef.current) {
+      playSound("work");
+    }
+    prevWorkingRef.current = state.working?.stationId || null;
+  }, [state.working]);
+
+  /* Game loop */
+  useEffect(() => {
+    const tick = () => {
+      dispatch({ type: "TICK", now: Date.now() });
+      animRef.current = requestAnimationFrame(tick);
+    };
+    animRef.current = requestAnimationFrame(tick);
+    return () => cancelAnimationFrame(animRef.current);
   }, []);
 
-  // Clear messages after 3s
+  /* Keyboard input */
+  const handleKeyDown = useCallback((e: KeyboardEvent) => {
+    const key = e.key.toLowerCase();
+    switch (key) {
+      case "arrowup": case "w":
+        e.preventDefault();
+        dispatch({ type: "MOVE", dx: 0, dy: -1 });
+        playSound("step");
+        break;
+      case "arrowdown": case "s":
+        if (e.key === "s" || e.key === "S") {
+          // S key: if not shift, treat as move down. Shift+S or just capital S for shop
+          // Actually, let's use lowercase s for down, uppercase S or dedicated button for shop
+          if (!e.shiftKey) {
+            e.preventDefault();
+            dispatch({ type: "MOVE", dx: 0, dy: 1 });
+            playSound("step");
+          } else {
+            e.preventDefault();
+            dispatch({ type: "TOGGLE_SHOP" });
+          }
+        } else {
+          e.preventDefault();
+          dispatch({ type: "MOVE", dx: 0, dy: 1 });
+          playSound("step");
+        }
+        break;
+      case "arrowleft": case "a":
+        e.preventDefault();
+        dispatch({ type: "MOVE", dx: -1, dy: 0 });
+        playSound("step");
+        break;
+      case "arrowright": case "d":
+        e.preventDefault();
+        dispatch({ type: "MOVE", dx: 1, dy: 0 });
+        playSound("step");
+        break;
+      case " ": case "enter":
+        e.preventDefault();
+        dispatch({ type: "INTERACT" });
+        break;
+      case "e":
+        e.preventDefault();
+        dispatch({ type: "TOGGLE_SHOP" });
+        break;
+      case "escape":
+        if (state.shopOpen) {
+          e.preventDefault();
+          dispatch({ type: "TOGGLE_SHOP" });
+        }
+        break;
+    }
+  }, [state.shopOpen]);
+
   useEffect(() => {
-    if (state.message) {
-      if (messageTimeoutRef.current) clearTimeout(messageTimeoutRef.current);
-      messageTimeoutRef.current = setTimeout(
-        () => dispatch({ type: "CLEAR_MESSAGE" }),
-        3000
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [handleKeyDown]);
+
+  /* Focus game on mount */
+  useEffect(() => {
+    gameRef.current?.focus();
+  }, []);
+
+  /* Derived values */
+  const now = Date.now();
+  const workProgress = state.working
+    ? Math.min(1, (now - state.working.startTime) / state.working.duration)
+    : 0;
+  const turboActive = state.turboEnd > now;
+  const turboRemaining = turboActive ? Math.ceil((state.turboEnd - now) / 1000) : 0;
+  const allStationDefs = getActiveStationDefs(state);
+  const showMessage = state.messageEnd > now;
+
+  /* ─── Render helpers ─── */
+
+  function renderCell(x: number, y: number) {
+    const isWall = WALL_MAP[y][x];
+    const station = getStationAt(x, y, state);
+    const isPlayer = state.playerX === x && state.playerY === y;
+    const isAltFloor = (x + y) % 2 === 0;
+
+    let bg = isAltFloor ? CLR.floorAlt : CLR.floor;
+    let content: React.ReactNode = null;
+    let border = "1px solid rgba(40,40,80,0.3)";
+    let boxShadow = "none";
+
+    if (isWall) {
+      bg = CLR.wall;
+      border = `1px solid ${CLR.wallBorder}`;
+    }
+
+    if (station) {
+      const ss = state.stations[station.id];
+      const onCooldown = ss && ss.cooldownEnd > now;
+      const cooldownPct = onCooldown ? Math.max(0, (ss.cooldownEnd - now) / station.cooldown) : 0;
+
+      bg = onCooldown ? `${station.color}33` : `${station.color}55`;
+      border = `2px solid ${onCooldown ? CLR.cooldown + "88" : station.color}`;
+      boxShadow = onCooldown ? "none" : `0 0 12px ${station.color}44, inset 0 0 8px ${station.color}22`;
+
+      content = (
+        <div style={{ position: "relative", width: "100%", height: "100%", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center" }}>
+          <span style={{ fontSize: 20, lineHeight: 1, filter: onCooldown ? "grayscale(0.7) opacity(0.5)" : "none" }}>
+            {station.emoji}
+          </span>
+          <span style={{
+            fontSize: 6,
+            fontFamily: "'Press Start 2P', monospace",
+            color: onCooldown ? CLR.cooldown : CLR.textPrimary,
+            marginTop: 2,
+            textAlign: "center",
+            lineHeight: 1.1,
+            whiteSpace: "nowrap",
+            overflow: "hidden",
+            textOverflow: "ellipsis",
+            maxWidth: CELL - 4,
+          }}>
+            {station.name}
+          </span>
+          {onCooldown && (
+            <div style={{
+              position: "absolute",
+              bottom: 2,
+              left: 2,
+              right: 2,
+              height: 3,
+              background: CLR.progressBg,
+              borderRadius: 1,
+            }}>
+              <div style={{
+                width: `${cooldownPct * 100}%`,
+                height: "100%",
+                background: CLR.cooldown,
+                borderRadius: 1,
+                transition: "width 0.5s linear",
+              }} />
+            </div>
+          )}
+        </div>
       );
     }
-    return () => {
-      if (messageTimeoutRef.current) clearTimeout(messageTimeoutRef.current);
-    };
-  }, [state.message]);
-
-  const handleCellClick = useCallback(
-    (r: number, c: number) => {
-      if (state.screen !== "game") return;
-      const cell = state.grid[r][c];
-      if (cell.type === "empty") {
-        dispatch({ type: "PLACE_WIRE", row: r, col: c });
-      } else if (cell.type === "wire" || cell.type === "wire-node") {
-        dispatch({ type: "REMOVE_WIRE", row: r, col: c });
-      }
-    },
-    [state.screen, state.grid]
-  );
-
-  if (!fontsLoaded) {
-    return (
-      <div className="min-h-[60vh] flex items-center justify-center">
-        <div className="text-center" style={{ fontFamily: "monospace" }}>
-          <div className="text-2xl mb-4 animate-pulse">
-            \u26A1 Laden...
-          </div>
-        </div>
-      </div>
-    );
-  }
-
-  // ── PIXEL ART STYLE CONSTANTS ─────────────────────────────────────────────
-  const pixelFont = "'Press Start 2P', monospace";
-  const bodyFont = "'VT323', monospace";
-
-  // Retro color palette
-  const colors = {
-    bg: "#0a0e27",
-    bgLight: "#131836",
-    border: "#2a3060",
-    borderBright: "#4a5090",
-    neonYellow: "#FFD700",
-    neonBlue: "#00BFFF",
-    neonGreen: "#39FF14",
-    neonRed: "#FF3131",
-    neonPurple: "#BF40BF",
-    white: "#E8E8E8",
-    dimWhite: "#8888AA",
-    wallColor: "#1a1e3a",
-    emptyColor: "#0d1130",
-    wireColor: "#FFD700",
-    wirePowered: "#39FF14",
-    sourceGlow: "#FFD700",
-    deviceOff: "#444466",
-    deviceOn: "#39FF14",
-  };
-
-  // ── RENDER HELPERS ────────────────────────────────────────────────────────
-
-  const renderCell = (cell: Cell, r: number, c: number) => {
-    const isWire = cell.type === "wire" || cell.type === "wire-node";
-    const isInteractive =
-      cell.type === "empty" || isWire;
-
-    let bg = colors.emptyColor;
-    let borderColor = colors.border;
-    let shadow = "none";
-    let content: React.ReactNode = null;
-    let cursor = "default";
-    let textColor = colors.white;
-
-    switch (cell.type) {
-      case "wall":
-        bg = colors.wallColor;
-        borderColor = "#0a0e1a";
-        content = (
-          <span style={{ fontSize: "10px", opacity: 0.2, color: "#333355" }}>
-            {"\u2593"}
-          </span>
-        );
-        break;
-      case "source":
-        bg = cell.powered ? "#2a2000" : "#1a1500";
-        borderColor = colors.neonYellow;
-        shadow = `inset 0 0 12px ${colors.neonYellow}40, 0 0 8px ${colors.neonYellow}30`;
-        content = (
-          <span
-            style={{
-              fontSize: "18px",
-              filter: "drop-shadow(0 0 4px #FFD700)",
-            }}
-          >
-            {cell.label || "\u26A1"}
-          </span>
-        );
-        break;
-      case "device": {
-        const isOn = cell.powered;
-        bg = isOn ? "#001a00" : "#1a0a1a";
-        borderColor = isOn ? colors.neonGreen : colors.deviceOff;
-        shadow = isOn
-          ? `inset 0 0 12px ${colors.neonGreen}40, 0 0 8px ${colors.neonGreen}30`
-          : "none";
-        textColor = isOn ? colors.neonGreen : colors.dimWhite;
-        content = (
-          <span
-            style={{
-              fontSize: "18px",
-              filter: isOn
-                ? "drop-shadow(0 0 4px #39FF14)"
-                : "grayscale(0.6) opacity(0.7)",
-              transition: "all 0.3s ease",
-            }}
-          >
-            {cell.label || "\uD83D\uDCA1"}
-          </span>
-        );
-        break;
-      }
-      case "wire":
-      case "wire-node": {
-        const isPow = cell.powered;
-        bg = isPow ? "#0a1a00" : "#1a1800";
-        borderColor = isPow ? colors.wirePowered : colors.wireColor;
-        shadow = isPow
-          ? `inset 0 0 8px ${colors.wirePowered}30, 0 0 4px ${colors.wirePowered}20`
-          : `inset 0 0 4px ${colors.wireColor}20`;
-        textColor = isPow ? colors.wirePowered : colors.wireColor;
-        cursor = "pointer";
-        const wireChar = getWireChar(state.grid, r, c);
-        content = (
-          <span
-            style={{
-              fontFamily: bodyFont,
-              fontSize: "24px",
-              fontWeight: "bold",
-              color: textColor,
-              filter: isPow ? "drop-shadow(0 0 3px #39FF14)" : "none",
-              transition: "all 0.2s ease",
-            }}
-          >
-            {wireChar}
-          </span>
-        );
-        break;
-      }
-      case "empty":
-        cursor = "pointer";
-        content = (
-          <span
-            style={{
-              fontSize: "8px",
-              opacity: 0.15,
-              color: colors.dimWhite,
-            }}
-          >
-            {"\u00B7"}
-          </span>
-        );
-        break;
-    }
 
     return (
-      <button
-        key={`${r}-${c}`}
-        onClick={() => handleCellClick(r, c)}
-        disabled={!isInteractive || state.screen !== "game"}
-        aria-label={`Cel ${r},${c}: ${cell.type}${cell.powered ? " (stroom)" : ""}`}
+      <div
+        key={`${x}-${y}`}
         style={{
-          width: "100%",
-          aspectRatio: "1",
-          display: "flex",
-          alignItems: "center",
-          justifyContent: "center",
+          width: CELL,
+          height: CELL,
           background: bg,
-          border: `2px solid ${borderColor}`,
-          boxShadow: shadow,
-          cursor: isInteractive && state.screen === "game" ? cursor : "default",
-          transition: "all 0.15s ease",
-          imageRendering: "pixelated" as React.CSSProperties["imageRendering"],
-          padding: 0,
-          outline: "none",
+          border,
+          boxShadow,
           position: "relative",
-          borderRadius: "2px",
-        }}
-        onMouseEnter={(e) => {
-          if (isInteractive && state.screen === "game") {
-            (e.currentTarget as HTMLButtonElement).style.borderColor =
-              colors.neonBlue;
-            (e.currentTarget as HTMLButtonElement).style.boxShadow =
-              `0 0 8px ${colors.neonBlue}40`;
-          }
-        }}
-        onMouseLeave={(e) => {
-          (e.currentTarget as HTMLButtonElement).style.borderColor = borderColor;
-          (e.currentTarget as HTMLButtonElement).style.boxShadow = shadow;
+          overflow: "hidden",
+          boxSizing: "border-box",
         }}
       >
         {content}
-      </button>
-    );
-  };
-
-  // ── PIXEL BUTTON COMPONENT ────────────────────────────────────────────────
-  const PixelButton = ({
-    children,
-    onClick,
-    color = colors.neonYellow,
-    disabled = false,
-    small = false,
-  }: {
-    children: React.ReactNode;
-    onClick: () => void;
-    color?: string;
-    disabled?: boolean;
-    small?: boolean;
-  }) => (
-    <button
-      onClick={onClick}
-      disabled={disabled}
-      style={{
-        fontFamily: pixelFont,
-        fontSize: small ? "8px" : "10px",
-        padding: small ? "8px 12px" : "12px 20px",
-        background: disabled ? "#333" : "transparent",
-        color: disabled ? "#666" : color,
-        border: `2px solid ${disabled ? "#444" : color}`,
-        cursor: disabled ? "not-allowed" : "pointer",
-        transition: "all 0.15s ease",
-        imageRendering: "pixelated" as React.CSSProperties["imageRendering"],
-        textTransform: "uppercase" as const,
-        letterSpacing: "1px",
-        boxShadow: disabled ? "none" : `0 0 8px ${color}20, inset 0 0 8px ${color}10`,
-        borderRadius: "0px",
-      }}
-      onMouseEnter={(e) => {
-        if (!disabled) {
-          (e.currentTarget as HTMLButtonElement).style.background = `${color}15`;
-          (e.currentTarget as HTMLButtonElement).style.boxShadow = `0 0 16px ${color}40, inset 0 0 12px ${color}20`;
-        }
-      }}
-      onMouseLeave={(e) => {
-        if (!disabled) {
-          (e.currentTarget as HTMLButtonElement).style.background = "transparent";
-          (e.currentTarget as HTMLButtonElement).style.boxShadow = `0 0 8px ${color}20, inset 0 0 8px ${color}10`;
-        }
-      }}
-    >
-      {children}
-    </button>
-  );
-
-  // ── SCREENS ───────────────────────────────────────────────────────────────
-
-  // --- MENU SCREEN ---
-  if (state.screen === "menu") {
-    return (
-      <div
-        style={{
-          minHeight: "70vh",
-          background: `linear-gradient(180deg, ${colors.bg} 0%, ${colors.bgLight} 100%)`,
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "center",
-          justifyContent: "center",
-          padding: "40px 16px",
-          imageRendering: "pixelated" as React.CSSProperties["imageRendering"],
-        }}
-      >
-        {/* Pixel border frame */}
-        <div
-          style={{
-            border: `3px solid ${colors.neonYellow}`,
-            boxShadow: `0 0 20px ${colors.neonYellow}20, inset 0 0 40px ${colors.bg}`,
-            padding: "40px",
-            maxWidth: "500px",
-            width: "100%",
-            textAlign: "center",
-            background: colors.bg,
-          }}
-        >
-          {/* Title */}
-          <div
-            style={{
-              fontFamily: pixelFont,
-              fontSize: "clamp(14px, 4vw, 24px)",
-              color: colors.neonYellow,
-              marginBottom: "8px",
-              textShadow: `0 0 10px ${colors.neonYellow}60`,
-              lineHeight: "1.8",
-            }}
-          >
-            {"\u26A1"} STROOMMEESTER
-          </div>
-          <div
-            style={{
-              fontFamily: bodyFont,
-              fontSize: "20px",
-              color: colors.dimWhite,
-              marginBottom: "32px",
-            }}
-          >
-            Het Bedrading Puzzelspel
-          </div>
-
-          {/* Pixel art decorative separator */}
-          <div
-            style={{
-              fontFamily: bodyFont,
-              fontSize: "14px",
-              color: colors.border,
-              marginBottom: "32px",
-              letterSpacing: "4px",
-            }}
-          >
-            {"\u2500\u2500\u2500\u253C\u2500\u2500\u2500\u253C\u2500\u2500\u2500"}
-          </div>
-
-          {/* High score */}
-          {state.highScore > 0 && (
-            <div
-              style={{
-                fontFamily: bodyFont,
-                fontSize: "18px",
-                color: colors.neonGreen,
-                marginBottom: "8px",
-              }}
-            >
-              Highscore: {state.highScore} munten
-            </div>
-          )}
-          {state.levelsCompleted > 0 && (
-            <div
-              style={{
-                fontFamily: bodyFont,
-                fontSize: "16px",
-                color: colors.dimWhite,
-                marginBottom: "24px",
-              }}
-            >
-              Levels voltooid: {state.levelsCompleted}/{LEVELS.length}
-            </div>
-          )}
-
-          {/* Start button */}
-          <div style={{ marginBottom: "16px" }}>
-            <PixelButton
-              onClick={() => dispatch({ type: "START_GAME" })}
-              color={colors.neonGreen}
-            >
-              {state.levelsCompleted > 0 ? "Nieuw Spel" : "Start Spel"}
-            </PixelButton>
-          </div>
-
-          {/* Level select (only if levels completed) */}
-          {state.levelsCompleted > 0 && (
-            <div style={{ marginTop: "24px" }}>
-              <div
-                style={{
-                  fontFamily: pixelFont,
-                  fontSize: "8px",
-                  color: colors.dimWhite,
-                  marginBottom: "12px",
-                  textTransform: "uppercase" as const,
-                }}
-              >
-                Kies Level:
-              </div>
-              <div
-                style={{
-                  display: "flex",
-                  gap: "8px",
-                  flexWrap: "wrap",
-                  justifyContent: "center",
-                }}
-              >
-                {LEVELS.map((level, i) => (
-                  <PixelButton
-                    key={level.id}
-                    onClick={() => dispatch({ type: "SELECT_LEVEL", level: i })}
-                    color={
-                      i < state.levelsCompleted
-                        ? colors.neonGreen
-                        : i === state.levelsCompleted
-                          ? colors.neonYellow
-                          : colors.dimWhite
-                    }
-                    disabled={i > state.levelsCompleted}
-                    small
-                  >
-                    {level.id}
-                  </PixelButton>
-                ))}
-              </div>
-            </div>
-          )}
-
-          {/* How to play */}
-          <div
-            style={{
-              marginTop: "32px",
-              border: `1px solid ${colors.border}`,
-              padding: "16px",
-              textAlign: "left",
-            }}
-          >
-            <div
-              style={{
-                fontFamily: pixelFont,
-                fontSize: "8px",
-                color: colors.neonBlue,
-                marginBottom: "12px",
-                textTransform: "uppercase" as const,
-              }}
-            >
-              Hoe te spelen:
-            </div>
-            <div
-              style={{
-                fontFamily: bodyFont,
-                fontSize: "16px",
-                color: colors.dimWhite,
-                lineHeight: "1.6",
-              }}
-            >
-              <p style={{ marginBottom: "6px" }}>
-                {"\u26A1"} Verbind de <span style={{ color: colors.neonYellow }}>stroombron</span> met alle{" "}
-                <span style={{ color: colors.neonGreen }}>apparaten</span>
-              </p>
-              <p style={{ marginBottom: "6px" }}>
-                {"\uD83D\uDC46"} Klik op lege cellen om <span style={{ color: colors.wireColor }}>bedrading</span> te leggen
-              </p>
-              <p style={{ marginBottom: "6px" }}>
-                {"\uD83D\uDCB0"} Verdien munten per aangesloten apparaat
-              </p>
-              <p>
-                {"\u274C"} Klik op bedrading om het te verwijderen
-              </p>
-            </div>
-          </div>
-        </div>
-
-        {/* Attribution */}
-        <div
-          style={{
-            fontFamily: bodyFont,
-            fontSize: "14px",
-            color: colors.border,
-            marginTop: "24px",
-          }}
-        >
-          Een spel van ElektroAI.nl
-        </div>
+        {isPlayer && renderPlayer()}
       </div>
     );
   }
 
-  // --- LEVEL COMPLETE SCREEN ---
-  if (state.screen === "level-complete") {
-    const level = LEVELS[state.currentLevel];
-    const movesLeft = state.maxMoves - state.movesUsed;
-    const efficiency = Math.round((movesLeft / state.maxMoves) * 100);
-    const stars = efficiency >= 50 ? 3 : efficiency >= 25 ? 2 : 1;
+  function renderPlayer() {
+    const facingArrow = state.facing === "up" ? "\u25B2" : state.facing === "down" ? "\u25BC" : state.facing === "left" ? "\u25C0" : "\u25B6";
 
     return (
-      <div
-        style={{
-          minHeight: "70vh",
-          background: `linear-gradient(180deg, ${colors.bg} 0%, #001a00 100%)`,
+      <div style={{
+        position: "absolute",
+        inset: 0,
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+        justifyContent: "center",
+        zIndex: 10,
+        pointerEvents: "none",
+      }}>
+        {/* Hard hat */}
+        <div style={{
+          width: 18,
+          height: 10,
+          background: CLR.playerHat,
+          borderRadius: "6px 6px 0 0",
+          border: `1px solid ${CLR.playerHat}`,
+          marginBottom: -2,
+          boxShadow: `0 0 6px ${CLR.playerHat}66`,
+        }} />
+        {/* Body */}
+        <div style={{
+          width: 22,
+          height: 22,
+          background: CLR.player,
+          borderRadius: 4,
           display: "flex",
-          flexDirection: "column",
           alignItems: "center",
           justifyContent: "center",
-          padding: "40px 16px",
-        }}
-      >
-        <div
-          style={{
-            border: `3px solid ${colors.neonGreen}`,
-            boxShadow: `0 0 30px ${colors.neonGreen}30`,
-            padding: "40px",
-            maxWidth: "460px",
-            width: "100%",
-            textAlign: "center",
-            background: colors.bg,
-          }}
-        >
-          <div
-            style={{
-              fontFamily: pixelFont,
-              fontSize: "clamp(12px, 3vw, 18px)",
-              color: colors.neonGreen,
-              marginBottom: "8px",
-              textShadow: `0 0 10px ${colors.neonGreen}60`,
-              lineHeight: "1.8",
-            }}
-          >
-            Level Voltooid!
-          </div>
-
-          <div
-            style={{
-              fontFamily: bodyFont,
-              fontSize: "20px",
-              color: colors.white,
-              marginBottom: "24px",
-            }}
-          >
-            {level.name}
-          </div>
-
-          {/* Stars */}
-          <div style={{ fontSize: "32px", marginBottom: "24px", letterSpacing: "8px" }}>
-            {Array.from({ length: 3 }, (_, i) => (
-              <span
-                key={i}
-                style={{
-                  filter:
-                    i < stars
-                      ? "drop-shadow(0 0 4px #FFD700)"
-                      : "grayscale(1) opacity(0.3)",
-                }}
-              >
-                {"\u2B50"}
-              </span>
-            ))}
-          </div>
-
-          {/* Stats */}
-          <div
-            style={{
-              fontFamily: bodyFont,
-              fontSize: "18px",
-              color: colors.dimWhite,
-              lineHeight: "2",
-              marginBottom: "24px",
-            }}
-          >
-            <div>
-              Zetten: {state.movesUsed}/{state.maxMoves}
-            </div>
-            <div>
-              Zetten over: <span style={{ color: colors.neonGreen }}>{movesLeft}</span>
-            </div>
-            <div>
-              Munten verdiend:{" "}
-              <span style={{ color: colors.neonYellow }}>
-                {state.devicesConnected * state.coinsPerCircuit}
-              </span>
-            </div>
-            <div>
-              Totaal munten:{" "}
-              <span style={{ color: colors.neonYellow }}>{state.totalCoins}</span>
-            </div>
-          </div>
-
-          <div style={{ display: "flex", gap: "12px", justifyContent: "center", flexWrap: "wrap" }}>
-            <PixelButton
-              onClick={() => dispatch({ type: "NEXT_LEVEL" })}
-              color={colors.neonGreen}
-            >
-              Volgend Level {"\u25B6"}
-            </PixelButton>
-            <PixelButton
-              onClick={() => dispatch({ type: "BACK_TO_MENU" })}
-              color={colors.dimWhite}
-              small
-            >
-              Menu
-            </PixelButton>
-          </div>
+          boxShadow: `0 0 12px ${CLR.neon}66`,
+          border: `2px solid ${CLR.neon}`,
+          position: "relative",
+        }}>
+          <span style={{ fontSize: 10, color: CLR.bg, fontWeight: "bold", fontFamily: "'Press Start 2P', monospace" }}>
+            {facingArrow}
+          </span>
         </div>
+        {/* Working progress bar */}
+        {state.working && (
+          <div style={{
+            position: "absolute",
+            top: -8,
+            left: 4,
+            right: 4,
+            height: 5,
+            background: CLR.progressBg,
+            borderRadius: 2,
+            border: `1px solid ${CLR.neonGreen}44`,
+          }}>
+            <div style={{
+              width: `${workProgress * 100}%`,
+              height: "100%",
+              background: `linear-gradient(90deg, ${CLR.neonGreen}, ${CLR.neon})`,
+              borderRadius: 2,
+              transition: "width 0.1s linear",
+              boxShadow: `0 0 4px ${CLR.neonGreen}`,
+            }} />
+          </div>
+        )}
       </div>
     );
   }
 
-  // --- ALL COMPLETE SCREEN ---
-  if (state.screen === "all-complete") {
-    return (
-      <div
-        style={{
-          minHeight: "70vh",
-          background: `linear-gradient(180deg, ${colors.bg} 0%, #1a0a2a 100%)`,
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "center",
-          justifyContent: "center",
-          padding: "40px 16px",
-        }}
-      >
-        <div
-          style={{
-            border: `3px solid ${colors.neonPurple}`,
-            boxShadow: `0 0 40px ${colors.neonPurple}30`,
-            padding: "40px",
-            maxWidth: "500px",
-            width: "100%",
-            textAlign: "center",
-            background: colors.bg,
-          }}
-        >
-          <div style={{ fontSize: "48px", marginBottom: "16px" }}>{"\uD83C\uDFC6"}</div>
-          <div
-            style={{
-              fontFamily: pixelFont,
-              fontSize: "clamp(12px, 3vw, 18px)",
-              color: colors.neonPurple,
-              marginBottom: "8px",
-              textShadow: `0 0 10px ${colors.neonPurple}60`,
-              lineHeight: "1.8",
-            }}
-          >
-            Stroommeester!
-          </div>
-          <div
-            style={{
-              fontFamily: bodyFont,
-              fontSize: "20px",
-              color: colors.white,
-              marginBottom: "24px",
-            }}
-          >
-            Je hebt alle levels voltooid!
-          </div>
-
-          <div
-            style={{
-              fontFamily: bodyFont,
-              fontSize: "22px",
-              color: colors.neonYellow,
-              marginBottom: "8px",
-            }}
-          >
-            Eindscore: {state.totalCoins} munten
-          </div>
-          <div
-            style={{
-              fontFamily: bodyFont,
-              fontSize: "18px",
-              color: colors.dimWhite,
-              marginBottom: "32px",
-            }}
-          >
-            Highscore: {state.highScore} munten
-          </div>
-
-          <div
-            style={{
-              border: `1px solid ${colors.border}`,
-              padding: "16px",
-              marginBottom: "24px",
-            }}
-          >
-            <div
-              style={{
-                fontFamily: bodyFont,
-                fontSize: "16px",
-                color: colors.dimWhite,
-                lineHeight: "1.6",
-              }}
-            >
-              Je bent een echte elektricien! Wil je ook jouw bedrijf laten groeien
-              met slimme AI-tools?
-            </div>
-            <a
-              href="/gratis-scan"
-              style={{
-                display: "inline-block",
-                marginTop: "12px",
-                fontFamily: pixelFont,
-                fontSize: "9px",
-                padding: "10px 16px",
-                color: colors.neonGreen,
-                border: `2px solid ${colors.neonGreen}`,
-                textDecoration: "none",
-                textTransform: "uppercase" as const,
-              }}
-            >
-              Gratis Scan {"\u2192"}
-            </a>
-          </div>
-
-          <PixelButton
-            onClick={() => dispatch({ type: "BACK_TO_MENU" })}
-            color={colors.neonYellow}
-          >
-            Terug naar Menu
-          </PixelButton>
+  function renderGrid() {
+    const rows: React.ReactNode[] = [];
+    for (let y = 0; y < ROWS; y++) {
+      const cells: React.ReactNode[] = [];
+      for (let x = 0; x < COLS; x++) {
+        cells.push(renderCell(x, y));
+      }
+      rows.push(
+        <div key={y} style={{ display: "flex" }}>
+          {cells}
         </div>
-      </div>
-    );
+      );
+    }
+    return rows;
   }
 
-  // --- GAME SCREEN ---
-  const level = LEVELS[state.currentLevel];
-  const movesLeft = state.maxMoves - state.movesUsed;
+  function renderDPad() {
+    const btnStyle = (active?: boolean): React.CSSProperties => ({
+      width: 52,
+      height: 52,
+      background: active ? CLR.neon + "44" : CLR.wall,
+      border: `2px solid ${CLR.neon}66`,
+      borderRadius: 8,
+      display: "flex",
+      alignItems: "center",
+      justifyContent: "center",
+      fontSize: 20,
+      color: CLR.neon,
+      cursor: "pointer",
+      userSelect: "none",
+      WebkitTapHighlightColor: "transparent",
+      touchAction: "manipulation",
+    });
 
-  return (
-    <div
-      style={{
-        minHeight: "70vh",
-        background: `linear-gradient(180deg, ${colors.bg} 0%, ${colors.bgLight} 100%)`,
-        padding: "20px 16px 40px",
-      }}
-    >
-      <div
-        style={{
-          maxWidth: "600px",
-          margin: "0 auto",
-        }}
-      >
-        {/* Header bar */}
-        <div
-          style={{
-            display: "flex",
-            justifyContent: "space-between",
-            alignItems: "center",
-            marginBottom: "12px",
-            flexWrap: "wrap",
-            gap: "8px",
-          }}
+    return (
+      <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 4, marginTop: 12 }}>
+        <button
+          style={btnStyle()}
+          onTouchStart={(e) => { e.preventDefault(); dispatch({ type: "MOVE", dx: 0, dy: -1 }); playSound("step"); }}
+          onClick={() => { dispatch({ type: "MOVE", dx: 0, dy: -1 }); playSound("step"); }}
+          aria-label="Omhoog"
         >
+          {"\u25B2"}
+        </button>
+        <div style={{ display: "flex", gap: 4 }}>
           <button
-            onClick={() => dispatch({ type: "BACK_TO_MENU" })}
+            style={btnStyle()}
+            onTouchStart={(e) => { e.preventDefault(); dispatch({ type: "MOVE", dx: -1, dy: 0 }); playSound("step"); }}
+            onClick={() => { dispatch({ type: "MOVE", dx: -1, dy: 0 }); playSound("step"); }}
+            aria-label="Links"
+          >
+            {"\u25C0"}
+          </button>
+          <button
             style={{
-              fontFamily: pixelFont,
-              fontSize: "8px",
-              color: colors.dimWhite,
-              background: "none",
-              border: `1px solid ${colors.border}`,
-              padding: "6px 10px",
+              ...btnStyle(),
+              background: CLR.neonGreen + "33",
+              border: `2px solid ${CLR.neonGreen}`,
+              fontSize: 10,
+              fontFamily: "'Press Start 2P', monospace",
+              color: CLR.neonGreen,
+            }}
+            onTouchStart={(e) => { e.preventDefault(); dispatch({ type: "INTERACT" }); }}
+            onClick={() => dispatch({ type: "INTERACT" })}
+            aria-label="Actie"
+          >
+            ACTIE
+          </button>
+          <button
+            style={btnStyle()}
+            onTouchStart={(e) => { e.preventDefault(); dispatch({ type: "MOVE", dx: 1, dy: 0 }); playSound("step"); }}
+            onClick={() => { dispatch({ type: "MOVE", dx: 1, dy: 0 }); playSound("step"); }}
+            aria-label="Rechts"
+          >
+            {"\u25B6"}
+          </button>
+        </div>
+        <button
+          style={btnStyle()}
+          onTouchStart={(e) => { e.preventDefault(); dispatch({ type: "MOVE", dx: 0, dy: 1 }); playSound("step"); }}
+          onClick={() => { dispatch({ type: "MOVE", dx: 0, dy: 1 }); playSound("step"); }}
+          aria-label="Omlaag"
+        >
+          {"\u25BC"}
+        </button>
+      </div>
+    );
+  }
+
+  function renderShop() {
+    if (!state.shopOpen) return null;
+    return (
+      <div
+        style={{
+          position: "fixed",
+          inset: 0,
+          background: CLR.overlay,
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          zIndex: 100,
+          padding: 16,
+        }}
+        onClick={() => dispatch({ type: "TOGGLE_SHOP" })}
+      >
+        <div
+          style={{
+            background: CLR.bg,
+            border: `2px solid ${CLR.neonPink}`,
+            borderRadius: 12,
+            padding: 24,
+            maxWidth: 420,
+            width: "100%",
+            boxShadow: `0 0 30px ${CLR.neonPink}44`,
+          }}
+          onClick={(e) => e.stopPropagation()}
+        >
+          <h2 style={{
+            fontFamily: "'Press Start 2P', monospace",
+            fontSize: 16,
+            color: CLR.neonPink,
+            textAlign: "center",
+            marginTop: 0,
+            marginBottom: 16,
+            textShadow: `0 0 10px ${CLR.neonPink}88`,
+          }}>
+            {"\uD83D\uDED2"} Winkel
+          </h2>
+          <p style={{
+            fontFamily: "'Press Start 2P', monospace",
+            fontSize: 10,
+            color: CLR.coin,
+            textAlign: "center",
+            marginBottom: 16,
+          }}>
+            {"\uD83E\uDE99"} {state.coins} munten
+          </p>
+          <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
+            {UPGRADES.map(upg => {
+              const owned = state.upgrades[upg.id] && upg.id !== "turbo";
+              const canAfford = state.coins >= upg.cost;
+              const isTurboActive = upg.id === "turbo" && turboActive;
+
+              return (
+                <button
+                  key={upg.id}
+                  disabled={owned || !canAfford || isTurboActive}
+                  onClick={() => {
+                    dispatch({ type: "BUY_UPGRADE", upgradeId: upg.id, now: Date.now() });
+                    playSound("buy");
+                  }}
+                  style={{
+                    background: owned ? CLR.neonGreen + "22" : canAfford ? CLR.shopBtn : CLR.wall,
+                    border: `1px solid ${owned ? CLR.neonGreen : canAfford ? CLR.shopBtnHover : CLR.textSecondary}44`,
+                    borderRadius: 8,
+                    padding: "10px 14px",
+                    cursor: owned || !canAfford || isTurboActive ? "not-allowed" : "pointer",
+                    opacity: owned || isTurboActive ? 0.5 : 1,
+                    display: "flex",
+                    alignItems: "center",
+                    gap: 12,
+                    transition: "all 0.2s",
+                  }}
+                >
+                  <span style={{ fontSize: 24 }}>{upg.emoji}</span>
+                  <div style={{ flex: 1, textAlign: "left" }}>
+                    <div style={{
+                      fontFamily: "'Press Start 2P', monospace",
+                      fontSize: 9,
+                      color: owned ? CLR.neonGreen : CLR.textPrimary,
+                      marginBottom: 4,
+                    }}>
+                      {upg.name} {owned && "\u2713"}
+                    </div>
+                    <div style={{
+                      fontFamily: "'Press Start 2P', monospace",
+                      fontSize: 7,
+                      color: CLR.textSecondary,
+                    }}>
+                      {upg.description}
+                    </div>
+                  </div>
+                  {!owned && (
+                    <div style={{
+                      fontFamily: "'Press Start 2P', monospace",
+                      fontSize: 9,
+                      color: canAfford ? CLR.coin : CLR.cooldown,
+                      whiteSpace: "nowrap",
+                    }}>
+                      {"\uD83E\uDE99"}{upg.cost}
+                    </div>
+                  )}
+                </button>
+              );
+            })}
+          </div>
+          <button
+            onClick={() => dispatch({ type: "TOGGLE_SHOP" })}
+            style={{
+              marginTop: 16,
+              width: "100%",
+              padding: 10,
+              background: "transparent",
+              border: `1px solid ${CLR.textSecondary}`,
+              borderRadius: 8,
+              fontFamily: "'Press Start 2P', monospace",
+              fontSize: 9,
+              color: CLR.textSecondary,
               cursor: "pointer",
             }}
           >
-            {"\u25C0"} MENU
+            Sluiten (ESC)
           </button>
-          <div
+        </div>
+      </div>
+    );
+  }
+
+  function renderStationList() {
+    return (
+      <div style={{
+        display: "flex",
+        flexWrap: "wrap",
+        gap: 6,
+        justifyContent: "center",
+        marginTop: 8,
+      }}>
+        {allStationDefs.map(s => {
+          const ss = state.stations[s.id];
+          const onCooldown = ss && ss.cooldownEnd > now;
+          const cdSec = onCooldown ? Math.ceil((ss.cooldownEnd - now) / 1000) : 0;
+          return (
+            <div key={s.id} style={{
+              background: onCooldown ? CLR.wall : `${s.color}22`,
+              border: `1px solid ${onCooldown ? CLR.cooldown + "44" : s.color + "66"}`,
+              borderRadius: 6,
+              padding: "4px 8px",
+              display: "flex",
+              alignItems: "center",
+              gap: 4,
+              fontSize: 8,
+              fontFamily: "'Press Start 2P', monospace",
+              color: onCooldown ? CLR.cooldown : CLR.textPrimary,
+              opacity: onCooldown ? 0.6 : 1,
+            }}>
+              <span style={{ fontSize: 14 }}>{s.emoji}</span>
+              <span>{s.name}</span>
+              {onCooldown && <span>({cdSec}s)</span>}
+              {!onCooldown && <span style={{ color: CLR.coin }}>+{getEffectiveCoins(s.baseCoins, state)}</span>}
+            </div>
+          );
+        })}
+      </div>
+    );
+  }
+
+  /* ─── Main render ─── */
+
+  return (
+    <>
+      <style>{`
+        @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+        .elektro-game * { box-sizing: border-box; }
+        .elektro-game { outline: none; }
+
+        .shop-btn:hover {
+          background: ${CLR.shopBtnHover} !important;
+          transform: scale(1.05);
+        }
+
+        @keyframes pulse-neon {
+          0%, 100% { text-shadow: 0 0 8px ${CLR.neon}88; }
+          50% { text-shadow: 0 0 16px ${CLR.neon}, 0 0 24px ${CLR.neon}66; }
+        }
+
+        @keyframes coin-bounce {
+          0%, 100% { transform: translateY(0); }
+          50% { transform: translateY(-3px); }
+        }
+
+        @keyframes fade-in {
+          from { opacity: 0; transform: translateY(8px); }
+          to { opacity: 1; transform: translateY(0); }
+        }
+
+        .turbo-indicator {
+          animation: pulse-neon 0.5s ease-in-out infinite;
+        }
+      `}</style>
+
+      <div
+        ref={gameRef}
+        className="elektro-game"
+        tabIndex={0}
+        style={{
+          minHeight: "100vh",
+          background: CLR.bg,
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          padding: "16px 8px",
+          fontFamily: "'Press Start 2P', monospace",
+          color: CLR.textPrimary,
+          userSelect: "none",
+        }}
+      >
+        {/* Header */}
+        <div style={{
+          textAlign: "center",
+          marginBottom: 12,
+        }}>
+          <h1 style={{
+            fontSize: 20,
+            color: CLR.neon,
+            margin: "0 0 4px 0",
+            textShadow: `0 0 10px ${CLR.neon}88`,
+            animation: "pulse-neon 3s ease-in-out infinite",
+            letterSpacing: 2,
+          }}>
+            {"\u26A1"} ElektroSim
+          </h1>
+          <p style={{
+            fontSize: 8,
+            color: CLR.textSecondary,
+            margin: 0,
+          }}>
+            Elektricien Simulator
+          </p>
+        </div>
+
+        {/* HUD */}
+        <div style={{
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          gap: 16,
+          marginBottom: 8,
+          flexWrap: "wrap",
+        }}>
+          <div style={{
+            display: "flex",
+            alignItems: "center",
+            gap: 6,
+            background: CLR.coin + "11",
+            border: `1px solid ${CLR.coin}44`,
+            borderRadius: 8,
+            padding: "6px 12px",
+          }}>
+            <span style={{ fontSize: 16, animation: "coin-bounce 1s ease-in-out infinite" }}>{"\uD83E\uDE99"}</span>
+            <span style={{ fontSize: 14, color: CLR.coin }}>{state.coins}</span>
+          </div>
+
+          {turboActive && (
+            <div className="turbo-indicator" style={{
+              fontSize: 9,
+              color: CLR.neonPink,
+              background: CLR.neonPink + "11",
+              border: `1px solid ${CLR.neonPink}44`,
+              borderRadius: 8,
+              padding: "6px 10px",
+            }}>
+              {"\uD83D\uDE80"} TURBO {turboRemaining}s
+            </div>
+          )}
+
+          <button
+            className="shop-btn"
+            onClick={() => { dispatch({ type: "TOGGLE_SHOP" }); }}
             style={{
-              fontFamily: pixelFont,
-              fontSize: "clamp(8px, 2vw, 11px)",
-              color: colors.neonYellow,
-              textShadow: `0 0 6px ${colors.neonYellow}40`,
+              background: CLR.shopBtn,
+              border: `1px solid ${CLR.shopBtnHover}`,
+              borderRadius: 8,
+              padding: "6px 14px",
+              fontFamily: "'Press Start 2P', monospace",
+              fontSize: 9,
+              color: "#fff",
+              cursor: "pointer",
+              transition: "all 0.2s",
             }}
           >
-            Level {level.id}: {level.name}
+            {"\uD83D\uDED2"} Winkel (E)
+          </button>
+
+          <div style={{
+            fontSize: 8,
+            color: CLR.textSecondary,
+            background: CLR.wall,
+            borderRadius: 8,
+            padding: "6px 10px",
+          }}>
+            Totaal: {state.totalCoins}
           </div>
         </div>
 
-        {/* Stats bar */}
-        <div
-          style={{
-            display: "grid",
-            gridTemplateColumns: "repeat(4, 1fr)",
-            gap: "8px",
-            marginBottom: "12px",
-          }}
-        >
-          {[
-            {
-              label: "Zetten",
-              value: `${movesLeft}`,
-              color: movesLeft <= 3 ? colors.neonRed : colors.white,
-              sub: `/${state.maxMoves}`,
-            },
-            {
-              label: "Apparaten",
-              value: `${state.devicesConnected}`,
-              color:
-                state.devicesConnected === state.totalDevices
-                  ? colors.neonGreen
-                  : colors.white,
-              sub: `/${state.totalDevices}`,
-            },
-            {
-              label: "Munten",
-              value: `${state.coins}`,
-              color: colors.neonYellow,
-              sub: "",
-            },
-            {
-              label: "Totaal",
-              value: `${state.totalCoins}`,
-              color: colors.neonYellow,
-              sub: "",
-            },
-          ].map((stat) => (
-            <div
-              key={stat.label}
-              style={{
-                border: `1px solid ${colors.border}`,
-                padding: "8px 4px",
-                textAlign: "center",
-                background: colors.bg,
-              }}
-            >
-              <div
-                style={{
-                  fontFamily: pixelFont,
-                  fontSize: "6px",
-                  color: colors.dimWhite,
-                  marginBottom: "4px",
-                  textTransform: "uppercase" as const,
-                }}
-              >
-                {stat.label}
-              </div>
-              <div
-                style={{
-                  fontFamily: bodyFont,
-                  fontSize: "22px",
-                  color: stat.color,
-                  lineHeight: "1",
-                }}
-              >
-                {stat.value}
-                <span style={{ fontSize: "14px", color: colors.dimWhite }}>
-                  {stat.sub}
-                </span>
-              </div>
-            </div>
-          ))}
-        </div>
-
-        {/* Level description */}
-        <div
-          style={{
-            fontFamily: bodyFont,
-            fontSize: "16px",
-            color: colors.dimWhite,
+        {/* Message bar */}
+        {showMessage && (
+          <div style={{
+            marginBottom: 8,
+            padding: "6px 16px",
+            background: CLR.neon + "11",
+            border: `1px solid ${CLR.neon}33`,
+            borderRadius: 8,
+            fontSize: 8,
+            color: CLR.neon,
             textAlign: "center",
-            marginBottom: "12px",
-            padding: "6px",
-            borderBottom: `1px solid ${colors.border}`,
-          }}
-        >
-          {level.description}
-        </div>
-
-        {/* Message toast */}
-        {state.message && (
-          <div
-            style={{
-              fontFamily: bodyFont,
-              fontSize: "16px",
-              padding: "8px 16px",
-              marginBottom: "12px",
-              textAlign: "center",
-              border: `1px solid ${
-                state.messageType === "success"
-                  ? colors.neonGreen
-                  : state.messageType === "error"
-                    ? colors.neonRed
-                    : colors.neonBlue
-              }`,
-              color:
-                state.messageType === "success"
-                  ? colors.neonGreen
-                  : state.messageType === "error"
-                    ? colors.neonRed
-                    : colors.neonBlue,
-              background: colors.bg,
-              animation: "fadeIn 0.2s ease",
-            }}
-          >
+            maxWidth: COLS * CELL,
+            animation: "fade-in 0.3s ease-out",
+          }}>
             {state.message}
           </div>
         )}
 
-        {/* THE GRID */}
-        <div
-          style={{
-            border: `3px solid ${colors.borderBright}`,
-            boxShadow: `0 0 20px ${colors.neonYellow}10, inset 0 0 30px ${colors.bg}`,
-            padding: "4px",
-            background: colors.bg,
-            marginBottom: "16px",
-          }}
-        >
-          <div
-            style={{
-              display: "grid",
-              gridTemplateColumns: "repeat(8, 1fr)",
-              gap: "2px",
-            }}
-          >
-            {state.grid.map((row, r) =>
-              row.map((cell, c) => renderCell(cell, r, c))
-            )}
-          </div>
+        {/* Game grid */}
+        <div style={{
+          border: `2px solid ${CLR.neon}44`,
+          borderRadius: 4,
+          overflow: "hidden",
+          boxShadow: `0 0 20px ${CLR.neon}22`,
+          lineHeight: 0,
+        }}>
+          {renderGrid()}
         </div>
 
-        {/* Legend */}
-        <div
-          style={{
-            display: "flex",
-            justifyContent: "center",
-            gap: "16px",
-            marginBottom: "16px",
-            flexWrap: "wrap",
-          }}
-        >
-          {[
-            { emoji: "\u26A1", label: "Bron", color: colors.neonYellow },
-            { emoji: "\uD83D\uDCA1", label: "Apparaat", color: colors.dimWhite },
-            { emoji: "\u2500", label: "Bedrading", color: colors.wireColor },
-            { emoji: "\u2593", label: "Muur", color: "#333355" },
-          ].map((item) => (
-            <div
-              key={item.label}
-              style={{
-                fontFamily: bodyFont,
-                fontSize: "14px",
-                color: colors.dimWhite,
-                display: "flex",
-                alignItems: "center",
-                gap: "4px",
-              }}
-            >
-              <span style={{ color: item.color }}>{item.emoji}</span> {item.label}
-            </div>
-          ))}
+        {/* Station status bar */}
+        {renderStationList()}
+
+        {/* Mobile D-pad controls */}
+        {renderDPad()}
+
+        {/* Controls help */}
+        <div style={{
+          marginTop: 16,
+          fontSize: 7,
+          color: CLR.textSecondary,
+          textAlign: "center",
+          lineHeight: 2,
+          maxWidth: 500,
+        }}>
+          <span style={{ color: CLR.neon }}>Pijltjes/WASD</span> = bewegen &nbsp;|&nbsp;
+          <span style={{ color: CLR.neonGreen }}>Spatie</span> = actie &nbsp;|&nbsp;
+          <span style={{ color: CLR.neonPink }}>E</span> = winkel &nbsp;|&nbsp;
+          <span style={{ color: CLR.textSecondary }}>ESC</span> = sluiten
         </div>
 
-        {/* Action buttons */}
-        <div
-          style={{
-            display: "flex",
-            gap: "8px",
-            justifyContent: "center",
-            flexWrap: "wrap",
-          }}
-        >
-          <PixelButton
-            onClick={() => dispatch({ type: "CHECK_CIRCUITS" })}
-            color={colors.neonBlue}
-            small
-          >
-            {"\uD83D\uDD0D"} Check
-          </PixelButton>
-          <PixelButton
-            onClick={() => dispatch({ type: "BUY_HINT" })}
-            color={colors.neonPurple}
-            disabled={state.coins < 15 || state.hintsRemaining <= 0}
-            small
-          >
-            {"\uD83D\uDCA1"} Hint (15{"\uD83E\uDE99"}) [{state.hintsRemaining}]
-          </PixelButton>
-          <PixelButton
-            onClick={() => dispatch({ type: "BUY_EXTRA_MOVES" })}
-            color={colors.neonYellow}
-            disabled={state.coins < 20}
-            small
-          >
-            +5 Zetten (20{"\uD83E\uDE99"})
-          </PixelButton>
-          <PixelButton
-            onClick={() =>
-              dispatch({ type: "SELECT_LEVEL", level: state.currentLevel })
-            }
-            color={colors.neonRed}
-            small
-          >
-            {"\uD83D\uDD04"} Herstart
-          </PixelButton>
-        </div>
-
-        {/* Mobile touch hint */}
-        <div
-          style={{
-            fontFamily: bodyFont,
-            fontSize: "13px",
-            color: colors.border,
-            textAlign: "center",
-            marginTop: "16px",
-          }}
-        >
-          Tik op een leeg vak om bedrading te leggen. Tik op bedrading om te verwijderen.
+        {/* Credits */}
+        <div style={{
+          marginTop: 12,
+          fontSize: 7,
+          color: CLR.textSecondary + "88",
+          textAlign: "center",
+        }}>
+          Een spel van <a href="https://www.elektroai.nl" style={{ color: CLR.neon, textDecoration: "none" }}>ElektroAI.nl</a>
         </div>
       </div>
 
-      {/* CSS animation for message toast */}
-      <style>{`
-        @keyframes fadeIn {
-          from { opacity: 0; transform: translateY(-4px); }
-          to { opacity: 1; transform: translateY(0); }
-        }
-      `}</style>
-    </div>
+      {/* Shop overlay */}
+      {renderShop()}
+    </>
   );
 }

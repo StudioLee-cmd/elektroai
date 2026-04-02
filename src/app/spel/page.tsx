@@ -1,23 +1,20 @@
 import type { Metadata } from "next";
-import { siteDetails } from "@/data/siteDetails";
 import SpelContent from "./SpelContent";
 
 export const metadata: Metadata = {
-  title: `Stroommeester - Het Bedrading Puzzelspel | ${siteDetails.siteName}`,
+  title: "ElektroSim - Elektricien Simulator | ElektroAI",
   description:
-    "Speel Stroommeester: verbind de stroom met apparaten door slim bedrading te leggen. Een retro pixel-art puzzelgame van ElektroAI.",
+    "Word een virtuele elektricien! Loop rond in de werkplaats, repareer zekeringen, installeer stopcontacten en verdien munten om upgrades te kopen. Gratis online spel van ElektroAI.",
   openGraph: {
-    title: `Stroommeester - Het Bedrading Puzzelspel | ${siteDetails.siteName}`,
+    title: "ElektroSim - Elektricien Simulator | ElektroAI",
     description:
-      "Speel Stroommeester: verbind de stroom met apparaten door slim bedrading te leggen.",
-    url: `${siteDetails.siteUrl}spel`,
+      "Word een virtuele elektricien! Loop rond, voltooi opdrachten en koop upgrades in deze leuke pixel-art simulator.",
     type: "website",
-    locale: "nl_NL",
+    url: "https://www.elektroai.nl/spel",
+    siteName: "ElektroAI",
   },
-  robots: {
-    index: true,
-    follow: true,
-  },
+  robots: { index: true, follow: true },
+  alternates: { canonical: "https://www.elektroai.nl/spel" },
 };
 
 export default function SpelPage() {
