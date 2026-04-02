@@ -1,7 +1,7 @@
 ---
 title: "Elektricien website laten maken: meer storingsaanvragen"
 excerpt: "Een professionele website voor elektriciens. Must-have functies voor meer klanten en storingsaanvragen."
-date: "2026-04-01"
+date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-website-laten-maken.png"
 tags: ["Website", "Marketing"]
