@@ -1,180 +1,78 @@
 ---
-title: "Elektricien website laten maken: meer storingsaanvragen via je site"
-excerpt: "Ontdek hoe een goed gebouwde website als elektricien meer storingsaanvragen oplevert en je bedrijf laat groeien."
+title: "Elektricien website laten maken: meer storingsaanvragen"
+excerpt: "Een professionele website voor elektriciens. Must-have functies voor meer klanten en storingsaanvragen."
 date: "2026-04-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-website-laten-maken.png"
-tags: ["Website", "Conversie", "Elektricien"]
+tags: ["Website", "Marketing"]
 ---
 
-## Elektricien website laten maken: zo haal je meer storingsaanvragen binnen
+In de huidige digitale wereld is online zichtbaarheid essentieel voor elke elektricien. Dit artikel behandelt de belangrijkste strategieën en praktische tips om meer klanten te bereiken en je bedrijf te laten groeien.
 
-Als elektricien ben je technisch onderlegd. Je lost complexe storingen op, installeert verdeelkasten en legt complete bekabelingen aan. Maar als het op je website aankomt, is het verhaal vaak anders. Een verouderd ontwerp, geen mobiele versie, en een contactformulier dat niemand invult. Ondertussen gaan de storingsaanvragen naar je concurrent — die wel een website heeft die werkt.
+## Waarom dit belangrijk is voor elektriciens
 
-In dit artikel lees je wat een goede elektricien-website nodig heeft om storingsaanvragen binnen te halen, hoe je gevonden wordt in Google en welke elementen het verschil maken tussen een bezoeker die wegklikt en een klant die belt.
+De manier waarop klanten een elektricien vinden is de afgelopen jaren drastisch veranderd. Waar vroeger mond-tot-mondreclame en de Gouden Gids volstonden, begint tegenwoordig **meer dan 80% van de klanten** hun zoektocht online.
 
-## Waarom je website als elektricien cruciaal is
+Dit betekent dat je als elektricien niet alleen goed moet zijn in je vak, maar ook zichtbaar moet zijn op het moment dat potentiële klanten zoeken. En dat moment is steeds vaker buiten kantooruren — 's avonds, in het weekend en op feestdagen.
 
-"Ik heb geen website nodig, ik heb genoeg werk via mond-tot-mondreclame." Dat hoor je vaak in de elektrotechniek. En ja, mond-tot-mondreclame is waardevol. Maar het heeft grenzen.
+### De uitdaging voor elektriciens
 
-### De realiteit van 2026
+Het grootste probleem? Je bent druk met je werk. Je hebt geen tijd om de hele dag achter je computer te zitten of je telefoon op te nemen. Maar ondertussen missen je leads die wel bij de concurrent terechtkomen.
 
-- **92%** van de consumenten zoekt online naar een elektricien bij een storing
-- **75%** belt de eerste elektricien die ze vinden met een professionele website
-- **60%** van de zoekopdrachten gebeurt op mobiel — vaak in een stresssituatie (stroom uitgevallen, kortsluiting)
+De oplossing ligt in slimme automatisering en een sterke online aanwezigheid die voor je werkt, ook wanneer jij dat niet kunt.
 
-Geen website? Dan besta je niet voor deze zoekers. Een slechte website? Dan kiezen ze de concurrent.
+## Praktische stappen die je vandaag kunt nemen
 
-### Storingsaanvragen: de meest waardevolle klanten
+### 1. Begin met de basis
 
-Storingswerk is het lucratieve segment van de elektrotechniek. Klanten in nood hebben geen tijd om drie offertes te vergelijken. Ze willen nu iemand die komt. En ze zijn bereid daarvoor te betalen.
+Zorg dat je online vindbaar bent met de juiste informatie. Dit betekent een up-to-date Google Bedrijfsprofiel, correcte openingstijden en een bereikbaar telefoonnummer.
 
-Een website die geoptimaliseerd is voor storingsaanvragen, richt zich precies op dit moment: de klant heeft een probleem en zoekt direct een oplossing. Jouw website moet die oplossing zijn.
+### 2. Investeer in je website
 
-## Wat maakt een goede elektricien-website?
+Je website is je digitale visitekaartje. Het moet snel laden, mobiel-vriendelijk zijn en duidelijk communiceren wat je aanbiedt en hoe klanten contact kunnen opnemen.
 
-Niet elke website is gelijk. Een template met je logo en een telefoonnummer is beter dan niets, maar het laat kansen liggen. Hier zijn de elementen die het verschil maken.
+### 3. Verzamel reviews
 
-### 1. Mobiel-eerst ontwerp
+Vraag tevreden klanten actief om een Google review. Bedrijven met meer dan 10 reviews en een gemiddelde boven de 4 sterren krijgen significant meer aanvragen dan bedrijven zonder reviews.
 
-Meer dan 60% van je bezoekers komt via een smartphone. Ze staan in een donkere meterkast te turen met hun telefoon als zaklamp, en proberen een elektricien te bellen. Als je website niet perfect werkt op mobiel, verlies je ze direct.
+### 4. Wees bereikbaar
 
-**Must-haves voor mobiel:**
-- Grote, klikbare belknop bovenaan elke pagina
-- Snel ladende pagina's (onder 3 seconden)
-- Leesbare tekst zonder zoomen
-- Formulieren die makkelijk in te vullen zijn met je duim
+Klanten verwachten snelle reacties. Als je niet altijd kunt opnemen, overweeg dan een chatbot of AI-telefonist die basisvragen beantwoordt en leads vastlegt.
 
-### 2. Click-to-call knop
+### 5. Deel je expertise
 
-Dit is het belangrijkste element op je website. Een grote, opvallende knop met "Bel direct" of "Storing melden" die direct je telefoonnummer belt. Geen menu's, geen zoeken — een klik en de telefoon gaat.
+Door regelmatig content te delen — op je blog, social media of via een nieuwsbrief — bouw je autoriteit op in je vakgebied. Dit versterkt het vertrouwen van potentiële klanten.
 
-Plaats deze knop:
-- In de header (altijd zichtbaar)
-- Na elke sectie op je homepagina
-- Op je storingspagina
-- In de footer
+## De cijfers die ertoe doen
 
-### 3. Duidelijke diensten-pagina's
+Bedrijven die investeren in hun online aanwezigheid zien gemiddeld:
 
-Maak aparte pagina's voor je belangrijkste diensten:
+- **40-60% meer aanvragen** via hun website
+- **25% hogere conversie** door reviews en sociaal bewijs
+- **30% minder gemiste leads** door betere bereikbaarheid
 
-- **Storingsdienst** — 24/7 bereikbaarheid, responstijd, tarieven
-- **Elektra-installaties** — nieuwbouw, uitbreidingen, verhuizingen
-- **Periodieke keuring (NEN 1010)** — voor bedrijven en verhuurders
-- **Groepenkast vervangen** — veel gezocht, hoge conversie
-- **Laadpaal installatie** — groeiende markt
-
-Elke pagina richt zich op een specifieke zoekopdracht. "Groepenkast vervangen [stad]" is een zoekopdracht met hoge koopintentie. Als jij daarvoor een pagina hebt, kom je bovenaan in Google.
-
-### 4. Reviews en vertrouwenselementen
-
-Een klant met een storing wil zekerheid. Is deze elektricien betrouwbaar? Komt hij op tijd? Reviews geven dat vertrouwen.
-
-**Toon op je website:**
-- Google Reviews (minimaal 4,5 sterren)
-- Keurmerken: Keurmerk Elektro, UNETO-VNI, Techniek Nederland
-- Verzekering en KvK-nummer
-- Foto's van jezelf en je bus (maakt je menselijk en herkenbaar)
-
-### 5. Lokale SEO-elementen
-
-Als elektricien werk je lokaal. Je wilt gevonden worden in jouw stad of regio, niet in heel Nederland.
-
-**Essentieel voor lokale vindbaarheid:**
-- Je vestigingsplaats in de paginatitel ("Elektricien Amsterdam — 24/7 Storingsdienst")
-- Een Google Maps-embed op je contactpagina
-- Je NAW-gegevens (Naam, Adres, Woonplaats) consistent op elke pagina
-- Lokale zoekwoorden in je teksten
-
-## Hoe word je als elektricien gevonden in Google?
-
-Een mooie website zonder bezoekers is als een reclamebord in de woestijn. Je moet gevonden worden. Hier is hoe.
-
-### Google Mijn Bedrijf
-
-Dit is gratis en het meest effectieve dat je kunt doen. Een volledig ingevuld Google Mijn Bedrijf-profiel verschijnt boven de organische zoekresultaten wanneer iemand zoekt op "elektricien [stad]".
-
-**Optimaliseer je profiel:**
-- Voeg foto's toe van je werk, je bus, jezelf
-- Vraag actief om reviews na elke klus
-- Plaats wekelijks een update (foto van een afgeronde klus)
-- Vul alle categorieen in: elektricien, elektrische installatie, storingsdienst
-
-### Zoekwoorden die converteren
-
-Niet alle zoekwoorden zijn gelijk. Focus op termen met hoge koopintentie:
-
-| Zoekwoord | Intentie | Waarde |
-|---|---|---|
-| "elektricien [stad] spoed" | Nood — directe actie | Zeer hoog |
-| "groepenkast vervangen kosten" | Orientatie — bijna klaar om te kiezen | Hoog |
-| "storing meterkast" | Probleem — zoekt oplossing | Hoog |
-| "elektricien tarieven" | Vergelijking — kijkt rond | Gemiddeld |
-| "wat doet een elektricien" | Informatief — nog niet koopklaar | Laag |
-
-Richt je pagina's op de hoge-waarde zoekwoorden. Informatieve content is goed voor je blog, maar je homepagina en diensten-pagina's moeten converteren.
-
-### Technische SEO
-
-- **Snelle laadtijd** — comprimeer afbeeldingen, gebruik modern hosting
-- **SSL-certificaat** — je URL moet beginnen met https://
-- **Gestructureerde data** — voeg LocalBusiness schema toe zodat Google je bedrijfsgegevens herkent
-- **Sitemap** — stuur je sitemap in via Google Search Console
-
-## Veelvoorkomende fouten bij elektricien-websites
-
-### Geen duidelijke call-to-action
-
-Je bezoeker moet binnen 5 seconden weten wat de volgende stap is. "Bel ons" of "Vraag een offerte aan" — maak het duidelijk en prominent.
-
-### Te veel tekst, te weinig actie
-
-Lange lappen tekst over de geschiedenis van je bedrijf leest niemand. Hou het kort, relevant en actiegericht. Je klant heeft een storing en wil dat het opgelost wordt.
-
-### Geen onderscheidend vermogen
-
-"Wij zijn een allround elektricien met jarenlange ervaring." Dat zegt iedereen. Wat maakt jou anders? 24/7 bereikbaar? Binnen 45 minuten ter plaatse? Gratis diagnose? Benoem het.
-
-## Wat kost een goede elektricien-website?
-
-De kosten varieren. Hier een realistisch overzicht:
-
-| Optie | Kosten | Geschikt voor |
-|---|---|---|
-| Zelf bouwen (Wix of Squarespace) | 10-30 euro per maand | Startende ZZP'er |
-| Template-website door professional | 500-1.500 euro | Groeiend bedrijf |
-| Maatwerk website | 2.000-5.000 euro | Gevestigd bedrijf |
-| Website met SEO en onderhoud | 150-500 euro per maand | Bedrijf dat wil domineren |
-
-De investering verdien je terug met een paar extra storingsaanvragen per maand. Bij een gemiddeld storingstarief van 150-250 euro heb je dat snel terugverdiend.
+De investering betaalt zichzelf vaak al terug met één extra klant per maand.
 
 ## Veelgestelde vragen
 
-### Hoe snel kan ik resultaat verwachten van een nieuwe website?
+### Hoeveel kost het om mijn online aanwezigheid te verbeteren?
 
-Een nieuwe website kan direct storingsaanvragen opleveren als je tegelijkertijd je Google Mijn Bedrijf-profiel optimaliseert. Organische SEO-resultaten bouwen langzamer op — reken op 3-6 maanden voor merkbaar meer verkeer via Google.
+Er zijn opties voor elk budget. Beginnen met een Google Bedrijfsprofiel is gratis. Een professionele website kost eenmalig €800-€2.500. Complete pakketten met website, SEO en automatisering zijn beschikbaar vanaf €79/maand.
 
-### Moet ik een website laten maken of kan ik het zelf?
+### Hoe snel zie ik resultaat?
 
-Dat hangt af van je ambitie. Een eenvoudige Wix- of Squarespace-website kun je zelf maken. Maar als je serieus wilt scoren in Google en je concurrent wilt verslaan, is een professioneel gebouwde website met SEO-optimalisatie de betere investering.
+Sommige verbeteringen werken direct — een beter Google Bedrijfsprofiel geeft binnen weken meer zichtbaarheid. SEO en content marketing hebben 3-6 maanden nodig voor structureel resultaat.
 
-### Hoe belangrijk zijn Google Reviews voor mijn website?
+### Kan ik dit zelf doen of moet ik het uitbesteden?
 
-Zeer belangrijk. Reviews beinvloeden zowel je Google-ranking als het vertrouwen van potentiele klanten. Streef naar minimaal 20 reviews met een score boven de 4,5. Vraag actief na elke klus om een review.
+De basis kun je zelf doen: Google Bedrijfsprofiel aanmaken, reviews vragen, foto's uploaden. Voor een professionele website en SEO-strategie is uitbesteden vaak effectiever — je bespaart tijd en krijgt beter resultaat.
 
-### Wat is het verschil tussen SEO en Google Ads voor elektriciens?
+### Wat is de belangrijkste eerste stap?
 
-SEO zorgt voor organisch (gratis) verkeer op de lange termijn. Google Ads geeft direct zichtbaarheid maar kost per klik (5-15 euro voor elektricien-zoekwoorden). De ideale strategie combineert beide: Ads voor directe aanvragen, SEO voor duurzame groei.
+Begin met je Google Bedrijfsprofiel. Het is gratis, kost een uurtje om in te richten en levert direct meer lokale zichtbaarheid op.
 
-### Hoe meet ik of mijn website werkt?
+## Conclusie
 
-Installeer Google Analytics (gratis) en houd bij: hoeveel bezoekers je krijgt, hoeveel er bellen (via call tracking), hoeveel het contactformulier invullen en welke pagina's het meest bekeken worden. Zonder meten is optimaliseren gokken.
+De digitale wereld wacht niet — je concurrenten die wél investeren in hun online aanwezigheid, vangen jouw klanten op. Begin vandaag met kleine stappen en bouw systematisch aan je online zichtbaarheid.
 
-## Conclusie: je website is je beste verkoper
-
-Een goede website werkt 24/7 voor je. Terwijl jij slaapt, vindt een klant met een storing jouw website, ziet je reviews, klikt op de belknop en de volgende ochtend heb je een opdracht erbij.
-
-Investeer in een website die converteert. Mobiel-eerst, snelle laadtijd, duidelijke call-to-action en sterke lokale SEO. Het is een van de beste investeringen die je als elektricien kunt doen.
-
-Wil je weten hoe je huidige website scoort? Doe de [gratis scan](/gratis-scan) en ontvang direct een analyse met verbeterpunten. Of bekijk meer tips op ons [blog](/blog).
+Wil je weten waar de kansen liggen voor jouw bedrijf? [Vraag een gratis scan aan](/gratis-scan) en krijg direct inzicht in je verbeterpunten.
