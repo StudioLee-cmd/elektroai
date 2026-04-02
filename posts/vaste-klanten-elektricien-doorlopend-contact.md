@@ -5,6 +5,7 @@ date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/vaste-klanten-elektricien-doorlopend-contact.png"
 tags: ["Klantbehoud", "Groei", "Strategie"]
+cluster: "crm-klantbeheer"
 ---
 
 De meeste elektriciens werken van klus naar klus. Nieuwe klant, opdracht uitvoeren, factuur sturen, door naar de volgende. Maar de meest winstgevende elektriciens hebben een vaste klantenkring die regelmatig terugkomt. Niet omdat er steeds iets kapot gaat, maar omdat ze structureel waarde bieden.

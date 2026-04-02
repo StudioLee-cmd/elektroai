@@ -5,6 +5,7 @@ date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-elektricien.png"
 tags: ["branding", "elektricien", "marketing"]
+cluster: "branding"
 ---
 
 "Een elektricien is een elektricien." Dat denken de meeste mensen. En zolang jij er ook zo over denkt, concurreer je alleen op prijs. Branding verandert dat. Het maakt van "een elektricien" de elektricien die mensen herkennen, vertrouwen en aanbevelen.

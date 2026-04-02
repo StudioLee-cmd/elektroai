@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-elektricien-partnerschappen.png"
 tags: ["samenwerkingen", "elektricien", "groei"]
+cluster: "samenwerkingen"
 ---
 
 De energietransitie heeft het werk van elektriciens fundamenteel veranderd. Zonnepanelen, warmtepompen, laadpalen, domotica — al deze installaties vereisen samenwerking met andere vakmensen. Elektriciens die slim samenwerken, profiteren het meest van deze groeimarkt.

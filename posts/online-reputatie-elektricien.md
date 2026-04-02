@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-elektricien.png"
 tags: ["online reputatie", "elektricien", "reviews"]
+cluster: "online-reputatie"
 ---
 
 Elektrotechnisch werk is voor klanten een black box. Ze kunnen niet beoordelen of de bedrading correct is of de groepenkast goed is aangesloten. Daarom vertrouwen ze op reviews. Jouw online reputatie is het bewijs dat je vakkundig en betrouwbaar bent.

@@ -5,6 +5,7 @@ date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-elektricien-app.png"
 tags: ["Elite Plan", "Client App", "Innovatie"]
+cluster: ""
 ---
 
 Als je vooral voor particulieren werkt is snelheid en een goede prijs belangrijk. Maar werk je voor zakelijke klanten? Aannemers, vastgoedbeleggers, woningbouwverenigingen of VvE-beheerders? Dan draait alles om **GEMAK**, **INZICHT** en **CONTROLE**.

@@ -5,6 +5,7 @@ date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verduurzaming-elektricien-zonnepanelen-laadpalen.png"
 tags: ["Elektricien", "Verduurzaming", "Energietransitie"]
+cluster: "verduurzaming"
 ---
 
 ## De energietransitie: een groeimarkt voor elektriciens

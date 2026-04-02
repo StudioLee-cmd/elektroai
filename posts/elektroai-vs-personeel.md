@@ -5,6 +5,7 @@ date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektroai-vs-personeel.png"
 tags: ["Managed Service", "Kostenbesparing", "Strategie"]
+cluster: ""
 ---
 
 Als je als elektricien groeit, loop je vroeg of laat tegen een muur aan. Je agenda zit vol, je telefoon blijft gaan, en de administratie stapelt zich op. Je kunt het kantoorwerk niet meer alleen af naast je fysieke werk. De logische stap die ondernemers al decennia maken is dan: iemand aannemen voor op kantoor. Een planner, een werkvoorbereider, of een administratief medewerker/telefoniste.

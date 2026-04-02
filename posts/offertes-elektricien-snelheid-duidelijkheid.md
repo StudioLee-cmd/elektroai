@@ -5,6 +5,7 @@ date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offertes-elektricien-snelheid-duidelijkheid.png"
 tags: ["Offertes", "Conversie", "Bedrijfsvoering"]
+cluster: "offerte-proces"
 ---
 
 Je bent goed in je vak. Je installaties zijn netjes, je werkt volgens NEN 1010, en je klanten zijn tevreden. Maar toch verlies je opdrachten aan concurrenten. Niet omdat zij beter zijn — maar omdat zij sneller offreren. In een markt waar klanten vaak drie offertes aanvragen, wint de elektricien die het eerst reageert met een duidelijk, professioneel aanbod.

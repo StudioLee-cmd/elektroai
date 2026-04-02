@@ -5,6 +5,7 @@ date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-elektriciens.png"
 tags: ["Voice AI", "Innovatie", "Ondernemen"]
+cluster: ""
 ---
 
 Het meest frustrerende moment voor een elektricien? Je staat net met je handen vol kabels in een groepenkast, of erger nog, je bent onder spanning aan het meten en je concentratie mag niet verbroken worden. Het moet NU veilig gebeuren. En dan... gaat je telefoon. Je voelt hem trillen in je broekzak. Je weet dat het een potentiële klant kan zijn met een mooie klus.

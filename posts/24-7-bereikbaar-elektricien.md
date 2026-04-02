@@ -5,6 +5,7 @@ date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/24-7-bereikbaar-elektricien.png"
 tags: ["Elektricien", "Bereikbaarheid", "Spoedklussen"]
+cluster: "voice-ai"
 ---
 
 ## Het dilemma van elke elektricien

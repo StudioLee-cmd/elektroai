@@ -5,6 +5,7 @@ date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-website-elektricien.png"
 tags: ["prijzen communiceren", "elektricien", "website"]
+cluster: "prijzen-communiceren"
 ---
 
 "Wat kost een elektricien?" Het is een van de meest gezochte vragen op Google als het gaat om elektrotechnisch werk. Toch durven de meeste elektriciens hun prijzen niet op hun website te zetten. Bang om klanten af te schrikken, bang dat concurrenten meekijken, bang om zichzelf vast te pinnen.

@@ -5,6 +5,7 @@ date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-website-laten-maken.png"
 tags: ["Website", "Marketing"]
+cluster: ""
 ---
 
 De meeste elektriciens vinden hun klanten via Werkspot, mond-tot-mondreclame of een vermelding in de Gouden Gids die niemand meer openslaat. Een eigen website? Dat staat ergens onderaan de prioriteitenlijst, na de volgende klus.

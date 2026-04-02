@@ -5,6 +5,7 @@ date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-voorkomen-elektricien.jpg"
 tags: ["No-shows", "Planning", "Groei"]
+cluster: "no-shows"
 ---
 
 ## Wat een no-show je als elektricien kost

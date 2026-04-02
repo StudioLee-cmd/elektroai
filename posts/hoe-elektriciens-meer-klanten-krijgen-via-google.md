@@ -5,6 +5,7 @@ date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-elektriciens-meer-klanten-krijgen-via-google.png"
 tags: ["Vindbaarheid", "Google", "Klanten", "Elektricien"]
+cluster: "vindbaarheid"
 ---
 
 ## Lokaal gevonden worden als elektricien: zo werkt het

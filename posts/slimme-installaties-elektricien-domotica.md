@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/slimme-installaties-elektricien-domotica.png"
 tags: ["Domotica", "Smarthome", "Innovatie"]
+cluster: "slimme installaties"
 ---
 
 ## De groei van domotica in Nederland
