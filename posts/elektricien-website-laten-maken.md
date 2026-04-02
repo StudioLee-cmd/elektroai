@@ -1,78 +1,104 @@
 ---
-title: "Elektricien website laten maken: meer storingsaanvragen"
-excerpt: "Een professionele website voor elektriciens. Must-have functies voor meer klanten en storingsaanvragen."
+title: "Elektricien website laten maken: meer storingsaanvragen via je site"
+excerpt: "Een professionele website maakt het verschil voor elektriciens. Van storingsdienst tot groepenkast — zo genereer je meer aanvragen via je eigen site."
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-website-laten-maken.png"
 tags: ["Website", "Marketing"]
 ---
 
-In de huidige digitale wereld is online zichtbaarheid essentieel voor elke elektricien. Dit artikel behandelt de belangrijkste strategieën en praktische tips om meer klanten te bereiken en je bedrijf te laten groeien.
+De meeste elektriciens vinden hun klanten via Werkspot, mond-tot-mondreclame of een vermelding in de Gouden Gids die niemand meer openslaat. Een eigen website? Dat staat ergens onderaan de prioriteitenlijst, na de volgende klus.
 
-## Waarom dit belangrijk is voor elektriciens
+Maar ondertussen zoeken dagelijks honderden mensen in jouw regio op "elektricien bij mij in de buurt" of "storing groepenkast hulp." Als je geen website hebt, vinden ze je niet.
 
-De manier waarop klanten een elektricien vinden is de afgelopen jaren drastisch veranderd. Waar vroeger mond-tot-mondreclame en de Gouden Gids volstonden, begint tegenwoordig **meer dan 80% van de klanten** hun zoektocht online.
+## Waarom een website essentieel is voor elektriciens
 
-Dit betekent dat je als elektricien niet alleen goed moet zijn in je vak, maar ook zichtbaar moet zijn op het moment dat potentiële klanten zoeken. En dat moment is steeds vaker buiten kantooruren — 's avonds, in het weekend en op feestdagen.
+### Spoedopdrachten starten online
 
-### De uitdaging voor elektriciens
+Bij een kortsluiting, stroomuitval of defecte groepenkast pakt iemand zijn telefoon en zoekt op Google. **85% van de spoedopdrachten** voor elektriciens begint met een zoekopdracht. Geen website = onzichtbaar op het moment dat de klant je het hardst nodig heeft.
 
-Het grootste probleem? Je bent druk met je werk. Je hebt geen tijd om de hele dag achter je computer te zitten of je telefoon op te nemen. Maar ondertussen missen je leads die wel bij de concurrent terechtkomen.
+### Werkspot kost je geld per lead
 
-De oplossing ligt in slimme automatisering en een sterke online aanwezigheid die voor je werkt, ook wanneer jij dat niet kunt.
+Werkspot rekent €5-€40 per lead, afhankelijk van het type klus. Een eigen website levert leads op voor €0 per stuk na de initiële investering. Bij 10 leads per maand bespaar je al €50-€400 — en dat bedrag groeit naarmate je website beter vindbaar wordt.
 
-## Praktische stappen die je vandaag kunt nemen
+### Vertrouwen opbouwen vóór het eerste telefoontje
 
-### 1. Begin met de basis
+Een klant belt liever een elektricien met een professionele website, duidelijke diensten en reviews dan een nummer van een Facebook-advertentie. Je website is je visitekaartje — 24/7 beschikbaar.
 
-Zorg dat je online vindbaar bent met de juiste informatie. Dit betekent een up-to-date Google Bedrijfsprofiel, correcte openingstijden en een bereikbaar telefoonnummer.
+## De 6 must-haves voor een elektricien website
 
-### 2. Investeer in je website
+### 1. Groot, klikbaar telefoonnummer
 
-Je website is je digitale visitekaartje. Het moet snel laden, mobiel-vriendelijk zijn en duidelijk communiceren wat je aanbiedt en hoe klanten contact kunnen opnemen.
+Bij een storing wil niemand een formulier invullen. Je telefoonnummer moet bovenaan elke pagina staan, groot en klikbaar op mobiel. "Bel nu" is de belangrijkste knop op je site.
 
-### 3. Verzamel reviews
+### 2. Storingsdienst duidelijk vermeld
 
-Vraag tevreden klanten actief om een Google review. Bedrijven met meer dan 10 reviews en een gemiddelde boven de 4 sterren krijgen significant meer aanvragen dan bedrijven zonder reviews.
+Als je 24/7 of buiten kantooruren bereikbaar bent, maak dit prominent zichtbaar. Dit is je grootste concurrentievoordeel — de meeste elektriciens zijn alleen tijdens werkdagen bereikbaar.
 
-### 4. Wees bereikbaar
+### 3. Dienstenoverzicht per categorie
 
-Klanten verwachten snelle reacties. Als je niet altijd kunt opnemen, overweeg dan een chatbot of AI-telefonist die basisvragen beantwoordt en leads vastlegt.
+Verdeel je diensten helder:
+- **Storingen & reparaties** — groepenkast, kortsluiting, stroomuitval
+- **Installatie** — nieuwbouw, verbouwing, uitbreiding
+- **Keuring & onderhoud** — NEN 1010, periodieke inspectie
+- **Domotica & slim wonen** — slimme verlichting, laadpaal, zonnepanelen
 
-### 5. Deel je expertise
+### 4. Werkgebied op een kaart
 
-Door regelmatig content te delen — op je blog, social media of via een nieuwsbrief — bouw je autoriteit op in je vakgebied. Dit versterkt het vertrouwen van potentiële klanten.
+Toon duidelijk in welke regio's je werkt. Een klant in nood wil weten of je bij hem in de buurt kunt komen.
 
-## De cijfers die ertoe doen
+### 5. Kostenindicaties
 
-Bedrijven die investeren in hun online aanwezigheid zien gemiddeld:
+Je hoeft geen exacte prijzen te noemen, maar een indicatie helpt:
+- Voorrijkosten: vanaf €X
+- Groepenkast vervangen: €X-€Y
+- Stopcontact plaatsen: €X per stuk
 
-- **40-60% meer aanvragen** via hun website
-- **25% hogere conversie** door reviews en sociaal bewijs
-- **30% minder gemiste leads** door betere bereikbaarheid
+### 6. Reviews en certificeringen
 
-De investering betaalt zichzelf vaak al terug met één extra klant per maand.
+Toon je Google reviews en vermeld je certificeringen (NEN 1010, UNETO-VNI, SCIOS). Dit onderscheidt je van de hobbyist.
+
+## SEO voor elektriciens
+
+### Lokale zoekwoorden
+
+Optimaliseer je website voor:
+- "elektricien [stad]"
+- "storing groepenkast [regio]"
+- "laadpaal installeren [stad]"
+- "24 uur elektricien"
+
+### Google Bedrijfsprofiel
+
+Dit is gratis en levert de meeste lokale leads op. Vul alles in, upload foto's van je werk en verzamel actief reviews.
+
+### Content die werkt
+
+Schrijf over veelgestelde vragen:
+- "Wat te doen bij stroomuitval?"
+- "Groepenkast vervangen: wanneer en waarom?"
+- "Kosten elektricien: wat kun je verwachten?"
 
 ## Veelgestelde vragen
 
-### Hoeveel kost het om mijn online aanwezigheid te verbeteren?
+### Wat kost een elektricien website?
 
-Er zijn opties voor elk budget. Beginnen met een Google Bedrijfsprofiel is gratis. Een professionele website kost eenmalig €800-€2.500. Complete pakketten met website, SEO en automatisering zijn beschikbaar vanaf €79/maand.
+Zelf bouwen: €100-€500. Professioneel laten bouwen: €800-€2.500 eenmalig. Full-service met SEO en onderhoud: vanaf €79/maand.
 
-### Hoe snel zie ik resultaat?
+### Hoe snel staat mijn website online?
 
-Sommige verbeteringen werken direct — een beter Google Bedrijfsprofiel geeft binnen weken meer zichtbaarheid. SEO en content marketing hebben 3-6 maanden nodig voor structureel resultaat.
+Bij een professionele bouwer binnen 1-3 weken. Zelf bouwen kan sneller maar vergt meer onderhoud.
 
-### Kan ik dit zelf doen of moet ik het uitbesteden?
+### Moet ik Werkspot opzeggen?
 
-De basis kun je zelf doen: Google Bedrijfsprofiel aanmaken, reviews vragen, foto's uploaden. Voor een professionele website en SEO-strategie is uitbesteden vaak effectiever — je bespaart tijd en krijgt beter resultaat.
+Nee, combineer beide. Gebruik Werkspot als aanvulling terwijl je eigen website groeit.
 
-### Wat is de belangrijkste eerste stap?
+### Hoeveel leads kan ik verwachten via mijn website?
 
-Begin met je Google Bedrijfsprofiel. Het is gratis, kost een uurtje om in te richten en levert direct meer lokale zichtbaarheid op.
+Na 3-6 maanden SEO-werk en een goed Google Bedrijfsprofiel: 5-15 leads per maand, afhankelijk van je regio en concurrentie.
 
 ## Conclusie
 
-De digitale wereld wacht niet — je concurrenten die wél investeren in hun online aanwezigheid, vangen jouw klanten op. Begin vandaag met kleine stappen en bouw systematisch aan je online zichtbaarheid.
+Een professionele website is de beste investering die je als elektricien kunt doen. Het levert je spoedopdrachten, vermindert je Werkspot-afhankelijkheid en bouwt aan je eigen merk. Begin vandaag — je toekomstige klanten zoeken nu online.
 
-Wil je weten waar de kansen liggen voor jouw bedrijf? [Vraag een gratis scan aan](/gratis-scan) en krijg direct inzicht in je verbeterpunten.
+Benieuwd hoe je website er nu voor staat? [Vraag een gratis scan aan](/gratis-scan) en ontdek direct de verbeterpunten.
