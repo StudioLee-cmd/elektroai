@@ -1,20 +1,23 @@
 import type { Metadata } from "next";
+import { siteDetails } from "@/data/siteDetails";
 import SpelContent from "./SpelContent";
 
 export const metadata: Metadata = {
-  title: "ElektroSim - Elektricien Simulator | ElektroAI",
+  title: `ElektroAI Wereld - Elektricien Simulatie | ${siteDetails.siteName}`,
   description:
-    "Word een virtuele elektricien! Loop rond in de werkplaats, repareer zekeringen, installeer stopcontacten en verdien munten om upgrades te kopen. Gratis online spel van ElektroAI.",
+    "Bouw je elektriciensbedrijf op in deze isometrische pixelwereld! Los bedrading-puzzels op, bedien klanten en verdien munten. Een retro pixel-art simulatiegame van ElektroAI.",
   openGraph: {
-    title: "ElektroSim - Elektricien Simulator | ElektroAI",
+    title: `ElektroAI Wereld - Elektricien Simulatie | ${siteDetails.siteName}`,
     description:
-      "Word een virtuele elektricien! Loop rond, voltooi opdrachten en koop upgrades in deze leuke pixel-art simulator.",
+      "Bouw je elektriciensbedrijf op in deze isometrische pixelwereld! Los bedrading-puzzels op, bedien klanten en verdien munten.",
+    url: `${siteDetails.siteUrl}spel`,
     type: "website",
-    url: "https://www.elektroai.nl/spel",
-    siteName: "ElektroAI",
+    locale: "nl_NL",
   },
-  robots: { index: true, follow: true },
-  alternates: { canonical: "https://www.elektroai.nl/spel" },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function SpelPage() {
