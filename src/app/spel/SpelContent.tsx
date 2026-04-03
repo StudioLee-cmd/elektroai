@@ -48,7 +48,7 @@ const STEP_X = 66;   // half tile width, grid horizontal step
 const STEP_Y = 32;   // half diamond height, grid vertical step
 const TILE_BASE_H = 101; // base tile height for draw offset
 const GRID_COLS = 16;
-const GRID_ROWS = 14;
+const GRID_ROWS = 12;
 const LERP_SPEED = 0.12;
 const CAMERA_LERP = 0.08;
 const WALK_FRAME_MS = 180;
@@ -103,34 +103,30 @@ const TILE_KEY_MAP: Record<string, string> = {
 // ═══════════════════════════════════════════════════════════════════════════════
 
 const WORLD_MAP_SHORT: string[][] = [
-  // Row 0
-  ["t1","p1","p2","g","g","rV","g","g","p1","p2","g","rV","g","g","p1","t3"],
-  // Row 1
-  ["p3","b1","b2","sw","g","rV","g","sw","b1","b2","g","rV","g","sw","b2","p3"],
-  // Row 2
-  ["p4","b3","b6","sw","t2","rV","t2","sw","b3","b6","g","rV","t2","sw","b6","p4"],
-  // Row 3
-  ["g","sw","sw","sw","g","rV","g","sw","sw","sw","g","rV","g","sw","sw","g"],
-  // Row 4
-  ["rH","rH","rH","rH","rH","rX","rH","rH","rH","rH","rH","rX","rH","rH","rH","rH"],
-  // Row 5
-  ["g","pk","pk","sw","g","rV","g","sw","pk","pk","g","rV","g","p1","p2","g"],
-  // Row 6
-  ["p1","b4","b5","sw","g","rV","g","sw","b4","b5","g","rV","g","fn","p3","p1"],
-  // Row 7
-  ["p2","b3","b6","sw","t1","rV","t1","sw","b3","b6","g","rV","t1","p2","p4","p2"],
-  // Row 8
-  ["g","sw","sw","sw","g","rV","g","sw","sw","sw","g","rV","g","p1","t3","g"],
-  // Row 9
-  ["rH","rH","rH","rH","rH","rX","rH","rH","rH","rH","rH","rX","rH","rH","rH","rH"],
-  // Row 10
-  ["g","sw","sw","sw","g","rV","g","sw","sw","sw","g","rV","g","sw","sw","g"],
-  // Row 11
-  ["t3","b1","b2","sw","g","rV","g","sw","b1","b2","g","rV","g","w1","w2","t1"],
-  // Row 12
-  ["p1","b3","b6","sw","t3","rV","t3","sw","b3","b6","g","rV","t3","p1","p2","p1"],
-  // Row 13
-  ["g","p4","p1","g","g","g","g","g","p1","p4","g","g","g","g","p4","g"],
+  // Row 0: park edge with trees
+  ["p1","t1","p2","p1","p4","p1","p2","p1","p4","p1","p2","t3","p1","p4","p2","p1"],
+  // Row 1: open park area
+  ["p2","p1","p3","t3","p1","p2","p1","p4","p1","p2","p1","p1","t1","p1","p3","p2"],
+  // Row 2: houses along road (top)
+  ["p1","p4","b1","b2","p1","p3","rV","p1","p3","b1","b2","p1","p4","p2","p1","p1"],
+  // Row 3: front gardens
+  ["p2","p1","p1","p2","p3","p1","rV","p1","p1","p2","p1","p3","p1","p1","t1","p2"],
+  // Row 4: grass and trees before road
+  ["p1","t3","p1","p1","p2","p1","rV","p1","p2","p1","p1","t1","p1","p2","p1","p1"],
+  // Row 5: MAIN HORIZONTAL ROAD
+  ["rH","rH","rH","rH","rH","rH","rX","rH","rH","rH","rH","rH","rH","rH","rH","rH"],
+  // Row 6: front gardens (south of road)
+  ["p1","p2","p1","p3","p1","p2","rV","p2","p1","p3","p1","p2","p1","p1","p3","p1"],
+  // Row 7: houses (south)
+  ["p3","p1","b3","b6","p1","p4","rV","p4","p1","b4","b5","p1","p4","p1","p1","p3"],
+  // Row 8: gardens with fountain
+  ["p1","p4","p1","p2","p1","t1","rV","t1","p1","p2","p1","p4","p1","fn","p2","p1"],
+  // Row 9: grass with pond
+  ["p2","p1","t1","p1","p3","p2","rV","p2","p3","p1","t3","p1","p3","p1","w1","p2"],
+  // Row 10: open grass
+  ["p1","p3","p2","p1","p1","p1","g","p1","p1","p1","p2","p3","p1","p2","p1","p1"],
+  // Row 11: park bottom with trees
+  ["p4","p1","p1","t3","p2","p4","p1","p4","p2","t1","p1","p1","t3","p1","p4","p1"],
 ];
 
 // Solid tiles: buildings, water, trees, fountain
@@ -190,11 +186,11 @@ interface StationDef {
 }
 
 const STATIONS: StationDef[] = [
-  { id: "wire",    name: "Zekeringkast",  emoji: "⚡",  col: 3,  row: 1,  color: "#FFB07C", colorDark: "#E89A66", available: true },
-  { id: "switch",  name: "Schakelaar",    emoji: "💡", col: 9,  row: 2,  color: "#98D8C8", colorDark: "#7CC4B4", available: false },
-  { id: "meter",   name: "Meterkast",     emoji: "📊", col: 7,  row: 7,  color: "#F7DC6F", colorDark: "#E8CD60", available: false },
-  { id: "cable",   name: "Bedrading",     emoji: "🔌", col: 3,  row: 11, color: "#BB8FCE", colorDark: "#A67AB8", available: false },
-  { id: "breaker", name: "Stopcontact",   emoji: "🔋", col: 13, row: 6,  color: "#85C1E9", colorDark: "#6CADD5", available: false },
+  { id: "wire",    name: "Zekeringkast",  emoji: "⚡",  col: 4,  row: 3,  color: "#FFB07C", colorDark: "#E89A66", available: true },
+  { id: "switch",  name: "Schakelaar",    emoji: "💡", col: 11, row: 3,  color: "#98D8C8", colorDark: "#7CC4B4", available: false },
+  { id: "meter",   name: "Meterkast",     emoji: "📊", col: 3,  row: 6,  color: "#F7DC6F", colorDark: "#E8CD60", available: false },
+  { id: "cable",   name: "Bedrading",     emoji: "🔌", col: 11, row: 8,  color: "#BB8FCE", colorDark: "#A67AB8", available: false },
+  { id: "breaker", name: "Stopcontact",   emoji: "🔋", col: 13, row: 8,  color: "#85C1E9", colorDark: "#6CADD5", available: false },
 ];
 
 // Build the world map and mark station tiles
@@ -406,7 +402,7 @@ const INITIAL_STATE: AppState = {
   upgrades: {},
   progress: {},
   playerCol: 7,
-  playerRow: 6,
+  playerRow: 4,
   facing: "s",
   currentRound: 0,
   roundActive: false,
