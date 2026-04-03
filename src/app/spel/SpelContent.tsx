@@ -1064,7 +1064,7 @@ export default function SpelContent() {
           tileImagesLoaded.current = true;
         }
       };
-      img.src = TILE_DATA[key];
+      img.src = "data:image/png;base64," + TILE_DATA[key];
       images[key] = img;
     }
     tileImagesRef.current = images;
