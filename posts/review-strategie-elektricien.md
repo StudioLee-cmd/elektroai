@@ -25,7 +25,7 @@ Wacht niet langer dan 24 uur. Hoe sneller, hoe hoger de respons.
 
 ## Automatisering is de sleutel
 
-Zet een automatisch systeem op dat na elke afgeronde klus een reviewverzoek stuurt. Geen handwerk, geen vergeten.
+Zet een [automatisch systeem](/reviews) op dat na elke afgeronde klus een reviewverzoek stuurt. Geen handwerk, geen vergeten.
 
 De flow:
 1. Klus afgerond → markeer als voltooid in je planning
