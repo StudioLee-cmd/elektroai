@@ -74,7 +74,7 @@ De eerste resultaten zie je na 2 tot 4 weken. Volledige optimalisatie met regelm
 
 ### Is Google Ads nodig naast lokale SEO?
 
-Google Ads geeft direct zichtbaarheid maar kost geld per klik. Lokale SEO is een investering die op de lange termijn gratis verkeer oplevert. De ideale combinatie: SEO als basis, Ads als versneller in de eerste maanden.
+Google Ads geeft direct zichtbaarheid maar kost geld per klik. [lokale SEO](/seo) is een investering die op de lange termijn gratis verkeer oplevert. De ideale combinatie: SEO als basis, Ads als versneller in de eerste maanden.
 
 ## Conclusie
 
