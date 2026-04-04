@@ -64,7 +64,7 @@ Elektriciens die hun opvolging automatiseren en structureren, rapporteren:
 
 Zelf een opvolgingssysteem instellen kost tijd en technische kennis. Met een managed service wordt het volledige traject voor je ingericht: automatische bevestigingen, opvolgingssequenties, [review-verzoeken](/reviews) na afloop en een [chatbot](/chatbot) die 24/7 aanvragen opvangt.
 
-Bij [StudioLee](/tarieven) hoef je er maar [15 minuten per maand](/gratis-scan) aan te besteden. De rest draait op de achtergrond.
+Bij [StudioLee](/tarieven) wordt alles volledig voor je geregeld. Met de Groei-of-Geld-Terug Garantie loop je geen risico: geen meetbare groei? Geld terug. Start een [gratis scan](/gratis-scan) om te zien wat het oplevert.
 
 ## Veelgestelde vragen
 
