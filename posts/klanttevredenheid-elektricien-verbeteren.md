@@ -53,6 +53,16 @@ Tevreden klanten zijn je beste marketing. Ze vertellen het aan buren, familie, c
 
 Maar ze laten niet vanzelf een review achter. Automatische review-verzoeken via WhatsApp — verzonden na elke afgeronde klus — verdrievoudigen je Google-reviews.
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als elektricien.
+
+Een [review management](/reviews) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [AI chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 Klanttevredenheid is geen toeval — het is een systeem. Communiceer helder, ruim op, vraag om feedback en maak nazorg standaard. Je werk is al goed; nu moet de ervaring eromheen ook goed zijn.
