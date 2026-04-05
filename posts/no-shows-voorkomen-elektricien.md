@@ -44,6 +44,16 @@ Direct na het inplannen ontvangt de klant een WhatsApp: "Bevestigd: [datum] om [
 
 Houd een lijst bij van klanten die snel geholpen willen worden. Bij een annulering of no-show bel je direct iemand van de wachtlijst: "Er is vandaag een plekje vrijgekomen. Zal ik langskomen?"
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als elektricien.
+
+Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 No-shows zijn niet onvermijdelijk. Met drie automatische berichten op de juiste momenten verminder je ze met 50-70%. Dat is direct meer omzet, minder frustratie en een betrouwbaardere planning.
