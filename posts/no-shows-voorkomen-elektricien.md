@@ -1,76 +1,51 @@
 ---
-title: "No-shows voorkomen als elektricien"
-excerpt: "Ontdek hoe je als elektricien no-shows voorkomt met automatische herinneringen, een duidelijk beleid en slimme planning."
-date: "2026-03-31"
+title: "No-shows voorkomen als elektricien: zo houd je je planning vol"
+excerpt: "Lege ritten zijn duur. Ontdek hoe je als elektricien no-shows voorkomt met automatische herinneringen en slimme planning."
+date: "2026-04-05"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-voorkomen-elektricien.jpg"
-tags: ["No-shows", "Planning", "Groei"]
-cluster: "no-shows"
+tags: ["No-shows", "Elektricien", "Planning"]
 ---
 
-## Wat een no-show je als elektricien kost
+## Klus gepland, niemand thuis
 
-Een gemiste afspraak als elektricien is meer dan een lege plek in je agenda. Je bent onderweg, hebt materiaal ingekocht en tijd gereserveerd. De kosten lopen snel op.
+Je hebt materiaal ingekocht, je bus geladen en je rijdt naar het adres. Aanbellen. Niks. Nog een keer. Niks. De klant is niet thuis — en had ook niet afgezegd.
 
-Reken mee: een gemiddelde elektriciens­klus brengt €150 tot €300 op. Bij twee no-shows per week verlies je €15.000 tot €30.000 per jaar. Dat is geen klein bedrag — het is een significant deel van je jaaromzet.
+Als elektricien heb je vaak materiaal besteld dat specifiek voor die klus is. Een no-show kost je niet alleen tijd en brandstof, maar ook een voorraad die je niet direct elders kunt inzetten.
 
-Daarbovenop komt de reistijd. Je bent naar het adres gereden, hebt geparkeerd en staat voor een dichte deur. Die 30 tot 60 minuten had je aan een betalende klus kunnen besteden.
+## De schade in cijfers
 
-## Waarom klanten afspraken vergeten
+Gemiddeld kost één no-show een elektricien:
 
-De meeste no-shows zijn niet kwade opzet. De oorzaken:
+- €50-80 aan reistijd en brandstof
+- €75-150 aan gederfde arbeid
+- Mogelijk €50-200 aan materiaal dat klaarlag
+- Verstoring van de rest van de dagplanning
 
-- **Vergeten**: de afspraak stond niet in hun agenda (52 procent van alle no-shows)
-- **Dubbel geboekt**: de klant had iets anders gepland en vergat te annuleren
-- **Niet meer nodig**: het probleem is zichzelf opgelost of iemand anders heeft het gefixt
-- **Annuleren is te ingewikkeld**: ze weten niet hoe ze moeten afzeggen
+Bij 2-3 no-shows per maand is dat €500-1.000 verlies. Per jaar een kleine auto.
 
-Voor elke oorzaak is een oplossing. Het begint bij communicatie.
+![Planning elektricien automatiseren](/images/blog/no-shows-voorkomen-elektricien-2.jpg)
 
-## Automatische herinneringen via WhatsApp
+## Het 3-stappen herinneringssysteem
 
-![Elektrische groepenkast](/images/blog/no-shows-voorkomen-elektricien-2.jpg)
+### Stap 1: Bevestiging bij boeking
 
-De effectiefste manier om no-shows te voorkomen: herinner de klant aan de afspraak. Automatisch, zonder dat jij er iets voor hoeft te doen.
+Direct na het inplannen ontvangt de klant een WhatsApp: "Bevestigd: [datum] om [tijd] komt onze elektricien langs voor [klus]. Vragen? Bel of app ons."
 
-De ideale herinneringsflow:
+### Stap 2: Herinnering 24 uur van tevoren
 
-- **Bij het maken van de afspraak**: directe bevestiging via WhatsApp met datum, tijd en wat je gaat doen
-- **24 uur van tevoren**: "Morgen om [tijd] kom ik langs voor [werkzaamheden]. Klopt dat nog? Antwoord met JA of neem contact op om te verzetten."
-- **2 uur van tevoren**: korte herinnering: "Over 2 uur ben ik bij u. Zorg dat de meterkast toegankelijk is."
+"Hoi [naam], morgen om [tijd] komen we langs voor [klus]. Is alles nog akkoord? Antwoord JA om te bevestigen of bel ons om te verzetten."
 
-Die laatste tip — praktische instructies meegeven — vermindert niet alleen no-shows maar maakt je klus ook efficiënter. De klant is voorbereid.
+### Stap 3: Op de dag zelf
 
-## Een duidelijk annuleringsbeleid
+"Goedemorgen! We zijn onderweg en verwachten om [tijd] bij u te zijn. Zorg dat de meterkast toegankelijk is."
 
-Veel elektriciens werken zonder annuleringsbeleid. Het voelt onnodig — je bent geen hotel. Maar een helder beleid voorkomt no-shows.
+## Extra tip: wachtlijst bijhouden
 
-Communiceer het bij de eerste afspraak:
+Houd een lijst bij van klanten die snel geholpen willen worden. Bij een annulering of no-show bel je direct iemand van de wachtlijst: "Er is vandaag een plekje vrijgekomen. Zal ik langskomen?"
 
-- "Annuleren kan kosteloos tot 24 uur van tevoren"
-- "Bij annulering binnen 24 uur brengen we €50 voorrijkosten in rekening"
-- "Bij een no-show zonder bericht berekenen we het eerste uur"
+## Conclusie
 
-Dit schrikt klanten niet af. Het laat zien dat je professioneel werkt en je tijd waardeert. De meeste klanten respecteren dat.
+No-shows zijn niet onvermijdelijk. Met drie automatische berichten op de juiste momenten verminder je ze met 50-70%. Dat is direct meer omzet, minder frustratie en een betrouwbaardere planning.
 
-## Flexibel plannen vermindert no-shows
-
-Soms is de oorzaak van een no-show dat de afspraak niet goed uitkwam. De klant koos het eerste beschikbare moment, maar eigenlijk paste het niet.
-
-Hoe je dit aanpakt:
-
-- **Bied een keuze**: "Ik kan dinsdag tussen 9 en 12, of donderdag tussen 13 en 16. Wat past het best?"
-- **Kortere tijdvensters**: "Ik ben er tussen 10:00 en 10:30" in plaats van "ergens in de ochtend"
-- **Makkelijk verzetten**: een link in de herinnering waarmee de klant zelf kan omboeken
-
-Klanten die zelf hun tijdstip kiezen en makkelijk kunnen wijzigen, komen vaker opdagen.
-
-## Meer productieve uren per week
-
-No-shows kosten niet alleen omzet — ze kosten productiviteit. Elke vermeden no-show is een uur dat je aan een betalende klus kunt besteden.
-
-Met automatische herinneringen, een helder beleid en flexibele planning kun je het aantal no-shows met 50 tot 70 procent verminderen. Bij twee no-shows per week is dat ruim 50 extra productieve uren per jaar.
-
-Het systeem kost je na de opzet geen extra tijd. Herinneringen gaan automatisch, het beleid communiceer je eenmalig, en de flexibele planning zit in je workflow.
-
-Wil je weten hoe je no-shows kunt verminderen met automatisering? Vraag een [gratis AI-scan](/gratis-scan) aan.
+Benieuwd hoe dit werkt voor jouw installatiebedrijf? [Vraag een gratis scan aan](/gratis-scan) en we laten het je zien.
