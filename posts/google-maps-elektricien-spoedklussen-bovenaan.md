@@ -63,4 +63,4 @@ Label je foto's met beschrijvende namen voordat je ze uploadt: "groepenkast-verv
 
 Google Maps is je belangrijkste vitrine als elektricien, vooral voor spoedklussen. Reviews verzamelen, je profiel optimaliseren en wekelijks een post plaatsen kost je een halfuur per week. Het rendement is direct zichtbaar in meer oproepen en meer klussen.
 
-Wil je weten hoe jouw Google Maps-profiel er momenteel voor staat? Vraag een [gratis scan](/gratis-scan) aan en ontvang een persoonlijk verbeterplan.
+Een sterke [SEO-strategie](/seo) versterkt je Maps-positie nog verder. Wil je weten hoe jouw Google Maps-profiel er momenteel voor staat? Vraag een [gratis scan](/gratis-scan) aan en ontvang een persoonlijk verbeterplan.
