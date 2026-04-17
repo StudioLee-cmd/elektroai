@@ -1,83 +1,38 @@
 ---
-title: "Lokale vindbaarheid als elektricien verbeteren"
-excerpt: "Als elektricien wil je gevonden worden door klanten in je regio. Ontdek hoe je met lokale SEO bovenaan komt in Google Maps en meer klussen binnenhaalt."
-date: "2026-04-03"
+title: "Lokale vindbaarheid als elektricien: zo krijg je meer klussen"
+excerpt: "Klanten zoeken online naar een elektricien in de buurt. Zorg dat jij bovenaan staat met deze praktische tips voor lokale vindbaarheid."
+date: "2026-04-17"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-vindbaarheid-elektricien.jpg"
-tags: ["Lokale SEO", "Vindbaarheid", "Elektricien", "Google Maps"]
+tags: ["Vindbaarheid", "Google", "Lokaal"]
 ---
 
-## Waarom lokale vindbaarheid alles bepaalt voor elektriciens
+## Klanten zoeken lokaal
 
-Wanneer de stoppen eruit vliegen of een stopcontact vonkt, zoekt niemand een elektricien aan de andere kant van het land. De klant googelt "elektricien [stad]" of "storing elektra [wijk]" en belt de eerste die hij vindt. Als dat niet jij bent, mis je die klus — ongeacht je vakmanschap.
+Wanneer een stopcontact het begeeft of de meterkast moet worden vernieuwd, zoekt de klant op Google: "elektricien [plaatsnaam]" of "storing meterkast spoed." Als jouw bedrijf niet verschijnt in de eerste drie resultaten, bel je concurrent wel.
 
-Lokale vindbaarheid is het verschil tussen een volle agenda en een telefoon die niet gaat. En het goede nieuws: met de juiste aanpak is het geen rocket science.
+Lokale vindbaarheid draait niet om de mooiste website of het grootste advertentiebudget. Het gaat om drie dingen: een compleet Google Bedrijfsprofiel, goede reviews en een website die Google vertelt waar je werkt en wat je doet.
 
-## Google Bedrijfsprofiel volledig invullen
+## Google Bedrijfsprofiel op orde brengen
 
-Je Google Bedrijfsprofiel is je digitale visitekaartje in Google Maps. Een compleet profiel rankt significant hoger dan een profiel met alleen een naam en adres.
+Je Google profiel is het eerste wat potentiele klanten zien. Zorg dat het compleet is: alle diensten die je aanbiedt (meterkast vernieuwen, storing verhelpen, zonnepanelen installeren, laadpaal plaatsen), je werkgebied, openingstijden en recente foto's van afgerond werk.
 
-Wat moet erin:
+Voeg maandelijks nieuwe foto's toe: een vernieuwde meterkast, een laadpaalinstallatie, netjes weggewerkte bekabeling. Google beloont actieve profielen en klanten willen zien wat je kunt.
 
-- **Categorie:** "Elektricien" als primaire categorie, "Elektrische installatie" als secundair
-- **Werkgebied:** Definieer je regio (postcodes of gemeenten)
-- **Diensten:** Lijst je specialisaties op — storingen, nieuwbouw, domotica, laadpalen, zonnepanelen
-- **Openingstijden:** Inclusief bereikbaarheid buiten kantooruren als je spoeddienst biedt
-- **Foto's:** Je bus, gereedschap, afgeronde projecten (meterkast, laadpaal, zonnepanelen)
+Vraag elke tevreden klant om een Google [review](/reviews). Het verschil tussen 4 reviews en 25 reviews bepaalt of je in de top 3 staat of op pagina 2 verdwijnt.
 
-### Wekelijks updaten
+## Website optimaliseren voor je regio
 
-Google beloont profielen die regelmatig worden bijgewerkt. Plaats wekelijks een foto van een afgerond project en schrijf een korte Google Post over je recente werk. Vijf minuten per week die direct bijdragen aan je ranking.
+Je website moet Google duidelijk vertellen: "Dit is een elektricien in [regio] die [diensten] aanbiedt." Dat klinkt simpel, maar veel elektriciens hebben een website met alleen "Over ons" en "Contact" zonder hun werkgebied of specialisaties te noemen.
 
-![Professioneel ingerichte elektricienbus met gereedschap](/images/blog/lokale-vindbaarheid-elektricien-2.jpg)
+Maak voor je belangrijkste diensten een aparte pagina: "Meterkast vernieuwen in [regio]", "Laadpaal installeren [regio]." Elke pagina is een extra ingang via Google. Overweeg een [professionele website](/gratis-website) als je huidige site verouderd is.
 
-## Reviews zijn je sterkste wapen
+![Zekeringkast en meetapparatuur van een elektricien](/images/blog/lokale-vindbaarheid-elektricien-2.jpg)
 
-Bij spoedklussen is vertrouwen alles. Een klant met een stroomstoring kiest de elektricien met de meeste en beste reviews. Het is de snelste manier om vertrouwen te wekken bij iemand die je nog nooit heeft ontmoet.
+## Regelmatig content publiceren
 
-Vraag na elke klus om een review. Het beste moment: zodra de storing is verholpen en de klant opgelucht is. Stuur direct een WhatsApp met een link naar je Google-reviewpagina.
+Een blogartikel over "Wanneer moet je je meterkast laten vervangen?" of "Hoeveel kost een laadpaal thuis?" trekt precies de mensen aan die overwegen een elektricien in te huren. Ze lezen je artikel, vertrouwen je expertise en bellen jou.
 
-Reageer op elke review:
-- Positief: "Bedankt, [naam]! Fijn dat de storing snel verholpen was."
-- Negatief: reageer professioneel, bied een oplossing, nodig uit voor persoonlijk contact
+Twee artikelen per maand is genoeg. Schrijf over vragen die klanten stellen. Elk artikel is een nieuwe pagina die Google kan tonen in zoekresultaten, waardoor je vindbaarheid groeit.
 
-## Lokale zoekwoorden op je website
-
-Klanten zoeken niet op "elektricien" maar op "elektricien [stad]" of "storingen elektra [regio]". Je website moet deze lokale termen bevatten:
-
-**Startpagina:** "Elektricien in [stad] en omgeving — storingen, installatie en domotica"
-
-**Dienstenpagina's:** Aparte pagina's voor je specialisaties met lokale termen:
-- "Laadpaal installeren [stad]"
-- "Zonnepanelen aansluiten [regio]"
-- "Meterkast vervangen [stad]"
-
-**Blog:** Schrijf artikelen die lokale vragen beantwoorden. Elk artikel is een nieuwe ingang in Google.
-
-## Branchevermeldingen en NAP-consistentie
-
-Je bedrijfsgegevens moeten overal identiek zijn — op je website, Google, branchegidsen, Techniek Nederland, KvK-register en social media. Eén afwijking verwart Google.
-
-Check deze platforms en corrigeer waar nodig:
-- Google Bedrijfsprofiel
-- Yelp
-- Telefoonboek.nl
-- Detelefoongids.nl
-- Facebook bedrijfspagina
-- LinkedIn bedrijfspagina
-
-## Veelgestelde vragen
-
-### Hoe snel stijg ik in Google Maps na optimalisatie?
-
-De eerste resultaten zie je na 2 tot 4 weken. Volledige optimalisatie met regelmatige reviews en content bereikt zijn potentieel na 3 tot 6 maanden.
-
-### Is Google Ads nodig naast lokale SEO?
-
-Google Ads geeft direct zichtbaarheid maar kost geld per klik. [lokale SEO](/seo) is een investering die op de lange termijn gratis verkeer oplevert. De ideale combinatie: SEO als basis, Ads als versneller in de eerste maanden.
-
-## Conclusie
-
-Lokale vindbaarheid als elektricien verbeter je met een compleet Google Bedrijfsprofiel, actieve reviewverzameling en lokale content op je website. Het kost je minder tijd dan je denkt en levert meer klussen op dan welke advertentie dan ook.
-
-Wil je ontdekken hoe ElektroAI je vindbaarheid automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt alles — jij doet wat je het beste kunt.
+Meer weten over hoe [SEO voor elektriciens](/seo) werkt? Begin met je Google profiel en bouw van daaruit verder. Vraag een [gratis scan](/gratis-scan) aan voor een persoonlijk advies.
