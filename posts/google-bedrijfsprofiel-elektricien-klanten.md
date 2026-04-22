@@ -2,11 +2,11 @@
 title: "Google Bedrijfsprofiel als elektricien: zo trek je lokale klanten"
 excerpt: "Je Google Bedrijfsprofiel is vaak het eerste wat klanten zien. Zo optimaliseer je het als elektricien voor meer oproepen en aanvragen."
 date: "2026-04-15"
+cluster: "google-bedrijfsprofiel"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-elektricien-klanten.jpg"
 tags: ["Google", "Lokale SEO", "Vindbaarheid"]
 ---
-
 Iemand zoekt "elektricien bij mij in de buurt" op Google. Binnen een seconde verschijnen er drie bedrijven op de kaart. Eentje heeft vijf sterren, twintig foto's en actuele openingstijden. De andere twee hebben een logo en verder niets. Welke wordt gebeld?
 
 Je Google Bedrijfsprofiel is voor veel klanten het allereerste contact met je bedrijf. Nog voor je website, nog voor je Instagram, nog voor je visitekaartje. En toch laten veel elektriciens het halfleeg staan. In dit artikel lees je precies wat je moet invullen, toevoegen en bijhouden om bovenaan te verschijnen.

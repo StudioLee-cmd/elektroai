@@ -2,11 +2,11 @@
 title: "Klanttevredenheid verbeteren als elektricien: van goed naar uitstekend"
 excerpt: "Tevreden klanten komen terug en bevelen je aan. Ontdek hoe je als elektricien klanttevredenheid meet en verbetert."
 date: "2026-04-05"
+cluster: "klanttevredenheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-elektricien-verbeteren.jpg"
 tags: ["Klanttevredenheid", "Elektricien", "Service"]
 ---
-
 ## De klant die zwijgt en nooit meer belt
 
 Als elektricien hoor je zelden dat iemand ontevreden is. De meeste klanten zeggen niks — ze bellen gewoon de volgende keer een ander. Geen klacht, geen uitleg. Ze verdwijnen stilletjes.

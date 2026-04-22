@@ -2,11 +2,11 @@
 title: "Bus-opschrift elektricien: van anonieme bestelbus naar marketing-machine"
 excerpt: "Je bedrijfsbus rijdt 20.000 kilometer per jaar langs duizenden potentiële klanten. Zo zorg je dat hij ook echt aanvragen oplevert en niet zomaar een logo op wielen blijft."
 date: "2026-04-22"
+cluster: "branding"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-bus-opschrift-marketing.jpg"
 tags: ["Elektricien", "Branding", "Lokale marketing", "Voertuigreclame"]
 ---
-
 Je witte Ford Transit staat voor je werkadres in Utrecht. Honderden voorbijgangers zien hem elke dag, duizenden per week. Alleen wat lezen ze? Als er niks opstaat, lezen ze niks. Als er alleen een klein logo met een telefoonnummer opstaat, onthouden ze niks. En als de nummerplaat het duidelijkste is wat ze zien, dan heb je 365 dagen per jaar gratis reclamespace laten liggen.
 
 Voor een elektricien met één of twee bussen is dat voertuig statistisch gezien de sterkste zichtbaarheids-asset die je bezit, sterker dan je website, sterker dan je Google Bedrijfsprofiel. En toch krijgt hij bij de meeste bedrijven minder aandacht dan een enkele Facebook-post. In deze gids staat hoe je je bus omzet van passieve aanwezigheid naar een systeem dat structureel aanvragen oplevert.

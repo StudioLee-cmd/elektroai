@@ -2,11 +2,11 @@
 title: "Klant niet thuis als elektricien: zo voorkom je lege uren"
 excerpt: "Je rijdt naar het adres maar niemand is thuis. Ontdek hoe je als elektricien dit voorkomt en wat je doet als het toch gebeurt."
 date: "2026-04-12"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klant-niet-thuis-elektricien-wat-doen.jpg"
 tags: ["No-shows", "Planning", "Groei"]
 ---
-
 ## De lege voordeur: elke elektricien kent het
 
 Je hebt gereedschap geladen, materiaal gekocht en een uur reistijd erop zitten. Dan sta je voor een dichte deur. De klant reageert niet op bellen, niet op WhatsApp. De ochtend is verloren voordat hij begonnen is.

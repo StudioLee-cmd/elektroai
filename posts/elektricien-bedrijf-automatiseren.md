@@ -2,11 +2,11 @@
 title: "Elektriciensbedrijf automatiseren: focus op installatie, niet administratie"
 excerpt: "Elektriciens besteden uren per week aan planning en facturatie. Ontdek hoe automatisering je bedrijf stroomlijnt, letterlijk."
 date: "2026-04-06"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-bedrijf-automatiseren.jpg"
 tags: ["Automatisering", "Elektricien", "Tijdbesparing"]
 ---
-
 ## Technische automatisering ken je al, bedrijfsautomatisering nog niet
 
 Als elektricien installeer je dagelijks slimme systemen bij klanten: domotica, automatische verlichting, slimme meterkastoplossingen. Maar je eigen bedrijfsprocessen? Die draaien nog op handwerk: Excel-overzichten, papieren werkbonnen en facturen die je 's avonds typt.

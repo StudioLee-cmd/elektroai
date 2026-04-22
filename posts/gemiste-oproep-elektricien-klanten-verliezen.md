@@ -2,11 +2,11 @@
 title: "Gemiste oproep als elektricien: je duurste fout"
 excerpt: "Elke gemiste oproep is een potentiële klant die bij de concurrent terechtkomt. Ontdek hoe je als elektricien bereikbaar blijft, ook als je op de klus bent."
 date: "2026-04-11"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/gemiste-oproep-elektricien-klanten-verliezen.jpg"
 tags: ["Leads", "Bereikbaarheid", "Groei"]
 ---
-
 ## Waarom een gemiste oproep meer kost dan je denkt
 
 Je staat op een ladder, handen in een meterkast, telefoon trilt in je broekzak. Tegen de tijd dat je beneden bent, is de beller al weg. Geen voicemail, geen nummer. Die klant belt nu de volgende elektricien op de lijst.

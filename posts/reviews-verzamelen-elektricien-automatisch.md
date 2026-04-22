@@ -2,11 +2,11 @@
 title: "Reviews verzamelen als elektricien: automatische aanpak"
 excerpt: "Ontdek hoe je als elektricien automatisch Google reviews verzamelt na elke klus. Van NFC-kaarten tot WhatsApp: de complete gids."
 date: "2026-04-07"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-verzamelen-elektricien-automatisch.jpg"
 tags: ["Reviews", "Elektricien", "Automatisering"]
 ---
-
 ## Waarom reviews voor elektriciens belangrijker zijn dan ooit
 
 Een huiseigenaar heeft een storing in de meterkast. De zekeringen slaan steeds af, en hij weet niet of het een los contact is of iets ernstigers. Hij opent Google, typt "elektricien [stad]", en ziet drie bedrijven in het kaartresultaat. Twee hebben 15 reviews met 4,2 sterren. Eentje heeft 87 reviews met 4,8 sterren. Welke belt hij?

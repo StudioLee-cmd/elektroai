@@ -2,11 +2,11 @@
 title: "Prijzen op je website als elektricien: transparantie die vertrouwen wekt"
 excerpt: "Moet je als elektricien je tarieven online zetten? Ontdek waarom prijstransparantie meer klanten oplevert dan je denkt."
 date: "2026-04-18"
+cluster: "prijzen-communiceren"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-website-elektricien-transparantie.jpg"
 tags: ["Prijzen", "Website", "Vertrouwen"]
 ---
-
 ## Het dilemma: prijzen tonen of verbergen
 
 Veel elektriciens aarzelen om tarieven op hun website te zetten. De angst: klanten vergelijken alleen op prijs en kiezen de goedkoopste. Maar de realiteit is anders. Klanten die zoeken op "elektricien kosten meterkast" of "laadpaal installeren prijs" willen weten wat ze kunnen verwachten. Als jij die informatie niet geeft, gaat de klant naar de concurrent die dat wel doet.

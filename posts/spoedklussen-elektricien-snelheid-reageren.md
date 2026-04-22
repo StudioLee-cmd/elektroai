@@ -2,11 +2,11 @@
 title: "Spoedklussen binnenhalen als elektricien: snelheid van reageren die het verschil maakt"
 excerpt: "Bij een kortsluiting of stroomuitval belt de klant drie elektriciens. Degene die het snelst reageert, krijgt de klus."
 date: "2026-04-10"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/spoedklussen-elektricien-snelheid-reageren.jpg"
 tags: ["Lead opvolging", "Elektricien", "Spoedklussen"]
 ---
-
 ## Bij spoed belt de klant drie nummers
 
 Het is 20:00 op een doordeweekse avond. De stroom valt uit in een woning in Utrecht. De bewoner pakt zijn telefoon, zoekt "elektricien spoed Utrecht" en belt de eerste drie resultaten. Eentje neemt direct op. De andere twee hebben voicemail.

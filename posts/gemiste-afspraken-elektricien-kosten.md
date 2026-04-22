@@ -2,11 +2,11 @@
 title: "Gemiste afspraken als elektricien: wat het je kost"
 excerpt: "No-shows kosten elektriciens honderden euro's per week aan verloren omzet en brandstof. Bereken je verlies en ontdek oplossingen."
 date: "2026-04-17"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/gemiste-afspraken-elektricien-kosten.jpg"
 tags: ["No-shows", "Omzet", "Planning"]
 ---
-
 ## Rijden voor niets
 
 Je pakt je gereedschapskist, laadt het busje en rijdt naar de klant voor een geplande installatie. Ter plaatse is er niemand thuis. Geen bericht, geen afmelding. Je staat voor een dichte deur met een uur reistijd achter de rug en een leeg gat in je planning.

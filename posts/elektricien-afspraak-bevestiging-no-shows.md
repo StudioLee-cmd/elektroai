@@ -2,11 +2,11 @@
 title: "No-shows als elektricien voorkomen met slimme bevestigingen"
 excerpt: "Een no-show kost je een halve dag werk en een verloren omzet. Lees hoe je met automatische bevestigingen no-shows als elektricien voorkomt."
 date: "2026-04-08"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-afspraak-bevestiging-no-shows.jpg"
 tags: ["No-shows", "Elektricien", "Automatisering"]
 ---
-
 ## Wat een no-show jou echt kost
 
 Je hebt 's ochtends een afspraak bij een klant. Je rijdt 35 minuten heen, parkeert, belt aan. Niemand thuis. Je belt zijn nummer. Geen reactie. Vijftien minuten wachten, je rijdt weer terug. Twee uur weg, nul euro verdiend. En de gemiste klant heeft inmiddels online geboekt bij een collega.

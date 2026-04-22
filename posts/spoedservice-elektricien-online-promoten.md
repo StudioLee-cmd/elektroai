@@ -2,11 +2,11 @@
 title: "Spoedservice als elektricien online promoten"
 excerpt: "Klanten met een stroomstoring zoeken binnen seconden een elektricien. Zo zorg je dat jouw spoedservice bovenaan staat wanneer het ertoe doet."
 date: "2026-04-19"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/spoedservice-elektricien-online-promoten.jpg"
 tags: ["Vindbaarheid", "Spoedklussen", "Groei"]
 ---
-
 ## De klant met een stroomstoring zoekt niet morgen
 
 Een kortsluiting, een uitgevallen groepenkast, vonken bij een stopcontact. Op dat moment pakt de klant zijn telefoon en googelt "elektricien spoed" of "stroomstoring hulp [stad]". Binnen 30 seconden belt hij de eerste die verschijnt.

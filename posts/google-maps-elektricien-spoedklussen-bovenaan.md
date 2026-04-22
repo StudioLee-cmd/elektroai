@@ -2,11 +2,11 @@
 title: "Google Maps als elektricien: zo kom je bovenaan bij spoedklussen"
 excerpt: "Klanten met een kortsluiting zoeken op Google Maps. Sta jij bovenaan? Zo optimaliseer je je profiel voor spoedklussen als elektricien."
 date: "2026-04-09"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-maps-elektricien-spoedklussen-bovenaan.jpg"
 tags: ["Vindbaarheid", "Elektricien", "Google Maps"]
 ---
-
 ## Spoedklussen beginnen op Google Maps
 
 Het is zaterdagavond, de stroom valt uit, en een huiseigenaar pakt zijn telefoon. De zoekopdracht: "elektricien in de buurt." Google Maps toont drie bedrijven bovenaan: de local pack. De eerste die opneemt, krijgt de klus.

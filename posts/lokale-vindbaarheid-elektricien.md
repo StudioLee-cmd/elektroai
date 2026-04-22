@@ -2,11 +2,11 @@
 title: "Lokale vindbaarheid als elektricien: zo krijg je meer klussen"
 excerpt: "Klanten zoeken online naar een elektricien in de buurt. Zorg dat jij bovenaan staat met deze praktische tips voor lokale vindbaarheid."
 date: "2026-04-17"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-vindbaarheid-elektricien.jpg"
 tags: ["Vindbaarheid", "Google", "Lokaal"]
 ---
-
 ## Klanten zoeken lokaal
 
 Wanneer een stopcontact het begeeft, de meterkast moet worden vernieuwd of iemand een laadpaal wil laten plaatsen, zoekt de klant op Google: "elektricien [plaatsnaam]" of "storing meterkast spoed." Als jouw bedrijf niet verschijnt in de eerste drie resultaten, belt de concurrent.

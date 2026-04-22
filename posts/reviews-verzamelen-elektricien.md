@@ -2,11 +2,11 @@
 title: "Reviews verzamelen als elektricien: automatisch vertrouwen opbouwen"
 excerpt: "Elektriciens met sterke Google reviews krijgen meer opdrachten. Leer hoe je automatisch reviews verzamelt na elke klus."
 date: "2026-04-06"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-verzamelen-elektricien.jpg"
 tags: ["Reviews", "Elektricien", "Google"]
 ---
-
 ## Vertrouwen is alles bij elektricienwerk
 
 Elektricienwerk gaat over veiligheid. Klanten laten een onbekende in hun meterkast werken, aan hun bedrading sleutelen, installaties aansluiten. Ze willen zekerheid dat ze de juiste persoon binnenlaten.

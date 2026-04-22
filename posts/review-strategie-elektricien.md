@@ -2,11 +2,11 @@
 title: "Review strategie als elektricien"
 excerpt: "Met de juiste review strategie bouw je als elektricien een online reputatie die nieuwe klussen oplevert. Ontdek hoe je automatisch meer Google Reviews verzamelt."
 date: "2026-04-03"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-strategie-elektricien.jpg"
 tags: ["Reviews", "Review strategie", "Elektricien", "Google Reviews"]
 ---
-
 ## Waarom reviews voor elektriciens onmisbaar zijn
 
 Een stroomstoring is stressvol. De klant zoekt een elektricien, ziet drie opties en kiest degene met de meeste en beste reviews. Bij spoedwerk is er geen tijd voor vergelijken — reviews zijn het snelste vertrouwenssignaal.

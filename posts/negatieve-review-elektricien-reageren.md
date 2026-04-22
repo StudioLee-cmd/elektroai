@@ -2,11 +2,11 @@
 title: "Negatieve review als elektricien: rustig reageren, sterker eruit"
 excerpt: "Een slechte review hoeft je reputatie niet te schaden. Leer hoe je als elektricien professioneel reageert en het vertrouwen behoudt."
 date: "2026-04-12"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/negatieve-review-elektricien-reageren.jpg"
 tags: ["Reviews", "Reputatie", "Groei"]
 ---
-
 ## Een negatieve review is geen aanval op je vakmanschap
 
 Je ziet de melding: twee sterren, een klant die klaagt over de prijs, de tijdsduur of het resultaat. Je maag draait om. Maar bedenk: elke elektricien met meer dan 20 reviews heeft er minstens één die niet positief is. Dat is normaal. Hoe je reageert bepaalt de impact.

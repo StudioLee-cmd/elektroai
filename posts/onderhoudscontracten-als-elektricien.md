@@ -2,11 +2,11 @@
 title: "Onderhoudscontracten als elektricien aanbieden"
 excerpt: "Onderhoudscontracten voor elektriciens: welke vormen werken, wat reken je, en hoe verkoop je ze aan bestaande klanten zonder opdringerig te worden."
 date: "2026-04-21"
+cluster: "nazorg"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/onderhoudscontracten-als-elektricien.jpg"
 tags: ["Elektricien", "Onderhoud", "Klantbehoud", "Recurring revenue"]
 ---
-
 De meeste elektriciensbedrijven draaien op project-omzet. Klant belt, klus komt erin, klus wordt gedaan, factuur eruit, einde. Tussen klus en volgende klus zit een gat dat per klant kan oplopen tot twee of drie jaar — en in die tijd kan de concurrent gerust binnenwippen. Een onderhoudscontract is het enige instrument dat dat gat voorgoed dicht zet. Het levert niet alleen vaste maandomzet, maar ook een structurele voorsprong op elke concurrent die alleen op losse klussen concurreert.
 
 De reden dat veel elektriciens dit niet doen, is niet dat het ingewikkeld is. Het is dat ze niet weten welke contractvormen aanslaan, wat een realistische prijs is, en hoe ze het verkopen zonder als een verzekeringsagent te klinken. Deze gids loopt daar doorheen: vier contractvormen die bewezen werken, de prijsstructuur per vorm, en een concrete aanpak voor het verkopen aan je bestaande klanten.

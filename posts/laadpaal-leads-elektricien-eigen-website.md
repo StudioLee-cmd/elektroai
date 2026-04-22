@@ -2,11 +2,11 @@
 title: "Laadpaal-leads winnen via Google: leadmachine elektricien"
 excerpt: "Laadpaal-leads kopen kost je marge en exclusiviteit. Zo bouw je met je eigen website, SEO en AI een vaste stroom warme laadpaal-klussen in je regio."
 date: "2026-04-16"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/laadpaal-leads-elektricien-eigen-website.jpg"
 tags: ["Laadpaal", "Vindbaarheid", "Elektricien"]
 ---
-
 ## Waarom laadpaal-klanten altijd eerst Google openen
 
 Een huiseigenaar in Eindhoven koopt zijn eerste elektrische auto. De volgende ochtend opent hij Google en typt: "laadpaal installeren huis kosten" of "laadpaal installateur Eindhoven". Hij scant de eerste vijf resultaten, klikt op twee of drie sites, vergelijkt prijzen en bereikbaarheid, en stuurt naar één of twee bedrijven een aanvraag. Vier uur later staan jouw concurrenten al aan de telefoon. Wie er als eerste is, met een nette landingspagina en een directe terugkoppeling, krijgt de klus.
