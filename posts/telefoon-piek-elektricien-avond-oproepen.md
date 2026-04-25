@@ -43,6 +43,8 @@ Eén persoon achter de telefoon haalt onder ideale omstandigheden 6-8 fatsoenlij
 
 ## 5 manieren om een telefoon-piek op te vangen
 
+![Werkbank van een Nederlandse elektricien met smartphone, multimeter en gereedschap in warm avondlicht](/images/blog/telefoon-piek-elektricien-avond-oproepen-2.jpg)
+
 Vijf strategieën, oplopend in kosten en effectiviteit. Welke past, hangt af van je piek-frequentie, je team, en je bereidheid om in een vast systeem te investeren.
 
 ### 1. Trapsgewijze voicemail-routing (€0-€20/maand)
