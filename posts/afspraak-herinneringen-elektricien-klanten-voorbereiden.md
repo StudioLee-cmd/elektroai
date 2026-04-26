@@ -1,6 +1,6 @@
 ---
 title: "Afspraak-herinneringen voor elektriciens"
-excerpt: "Een goed reminder-bericht voor elektriciens-klanten verlaagt no-shows en zorgt dat fuse-box, parkeerplek en stroom voorbereid zijn. Templates en timing per klus-type."
+excerpt: "Een goed reminder-bericht voor elektriciens-klanten verlaagt no-shows en zorgt dat fuse-box, parkeerplek en stroom voorbereid zijn. Templates per klus."
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraak-herinneringen-elektricien-klanten-voorbereiden.jpg"
