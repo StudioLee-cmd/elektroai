@@ -1,7 +1,7 @@
 ---
 title: "Gemiste oproepen als elektricien opvangen: antwoordservice, voice AI of WhatsApp?"
 slug: elektricien-gemiste-oproepen-antwoordservice-voice-ai-whatsapp
-date: 2026-05-01
+date: "2026-05-01"
 excerpt: "Als elektricien geen tijd voor elke telefoon? Vergelijk antwoordservice, voice AI en WhatsApp auto-reply: kosten, leadbehoud en wat past bij jouw bedrijf."
 image: "/images/blog/elektricien-gemiste-oproepen-antwoordservice-voice-ai-whatsapp.jpg"
 authorSlug: "tim-van-der-lee"
