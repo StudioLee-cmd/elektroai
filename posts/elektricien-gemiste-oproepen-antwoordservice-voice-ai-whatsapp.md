@@ -1,5 +1,5 @@
 ---
-title: "Gemiste oproepen als elektricien opvangen: antwoordservice, voice AI of WhatsApp?"
+title: "Gemiste oproepen elektricien: voice AI vs antwoordservice"
 slug: elektricien-gemiste-oproepen-antwoordservice-voice-ai-whatsapp
 date: "2026-05-01"
 excerpt: "Als elektricien geen tijd voor elke telefoon? Vergelijk antwoordservice, voice AI en WhatsApp auto-reply: kosten, leadbehoud en wat past bij jouw bedrijf."
