@@ -5,7 +5,7 @@ date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-voor-elektriciens-efficenter-werken-meer-omzet.png"
 tags: ["AI", "Automatisering", "Elektriciens"]
-cluster: "ai-automatisering"
+cluster: "automatisering"
 ---
 
 Elektriciens zijn drukker dan ooit. De vraag naar elektrische installaties, laadpalen en zonnepanelen groeit — maar de administratieve druk groeit mee. Werkbonnen, offertes, inspecties, keuringsrapporten: het kost dagelijks uren. AI neemt dat werk over.

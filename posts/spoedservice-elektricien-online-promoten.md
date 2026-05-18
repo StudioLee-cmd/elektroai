@@ -2,7 +2,7 @@
 title: "Spoedservice als elektricien online promoten"
 excerpt: "Klanten met een stroomstoring zoeken binnen seconden een elektricien. Zo zorg je dat jouw spoedservice bovenaan staat wanneer het ertoe doet."
 date: "2026-04-19"
-cluster: "vindbaarheid"
+cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/spoedservice-elektricien-online-promoten.jpg"
 tags: ["Vindbaarheid", "Spoedklussen", "Groei"]

@@ -2,7 +2,7 @@
 title: "Prijzen op je website als elektricien: transparantie die vertrouwen wekt"
 excerpt: "Moet je als elektricien je tarieven online zetten? Ontdek waarom prijstransparantie meer klanten oplevert dan je denkt."
 date: "2026-04-18"
-cluster: "prijzen-communiceren"
+cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-website-elektricien-transparantie.jpg"
 tags: ["Prijzen", "Website", "Vertrouwen"]

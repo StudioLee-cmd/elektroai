@@ -2,7 +2,7 @@
 title: "Spoedklussen binnenhalen als elektricien: snelheid van reageren die het verschil maakt"
 excerpt: "Bij een kortsluiting of stroomuitval belt de klant drie elektriciens. Degene die het snelst reageert, krijgt de klus."
 date: "2026-04-10"
-cluster: "lead-opvolging"
+cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/spoedklussen-elektricien-snelheid-reageren.jpg"
 tags: ["Lead opvolging", "Elektricien", "Spoedklussen"]

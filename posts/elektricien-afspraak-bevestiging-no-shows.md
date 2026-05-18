@@ -2,7 +2,7 @@
 title: "No-shows als elektricien voorkomen met slimme bevestigingen"
 excerpt: "Een no-show kost je een halve dag werk en een verloren omzet. Lees hoe je met automatische bevestigingen no-shows als elektricien voorkomt."
 date: "2026-04-08"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-afspraak-bevestiging-no-shows.jpg"
 tags: ["No-shows", "Elektricien", "Automatisering"]

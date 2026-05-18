@@ -7,7 +7,7 @@ image: "/images/blog/elektricien-website-leadmachine.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["website", "elektricien", "conversie"]
-cluster: "website-conversie"
+cluster: "website"
 ---
 
 ## Waarom je website je beste verkoper is

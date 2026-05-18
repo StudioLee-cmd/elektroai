@@ -5,7 +5,7 @@ date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werkgebied-google-bedrijfsprofiel-elektricien.jpg"
 tags: ["Google Bedrijfsprofiel", "Lokale SEO", "Elektricien"]
-cluster: "google-bedrijfsprofiel"
+cluster: "vindbaarheid"
 ---
 
 ## In het kort

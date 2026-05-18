@@ -2,7 +2,7 @@
 title: "Gemiste oproep als elektricien: je duurste fout"
 excerpt: "Elke gemiste oproep is een potentiële klant die bij de concurrent terechtkomt. Ontdek hoe je als elektricien bereikbaar blijft, ook als je op de klus bent."
 date: "2026-04-11"
-cluster: "lead-opvolging"
+cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/gemiste-oproep-elektricien-klanten-verliezen.jpg"
 tags: ["Leads", "Bereikbaarheid", "Groei"]

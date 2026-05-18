@@ -6,7 +6,7 @@ excerpt: "Calamiteiten-respons-protocol voor elektriciens na storm of waterschad
 image: "/images/blog/storm-en-water-calamiteiten-respons-elektricien.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Lead-opvolging", "Calamiteiten", "Storm", "Waterschade", "Elektricien"]
-cluster: "lead-opvolging"
+cluster: "automatisering"
 ---
 
 **In het kort:**

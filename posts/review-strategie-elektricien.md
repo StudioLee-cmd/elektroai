@@ -2,7 +2,7 @@
 title: "Review strategie als elektricien"
 excerpt: "Met de juiste review strategie bouw je als elektricien een online reputatie die nieuwe klussen oplevert. Ontdek hoe je automatisch meer Google Reviews verzamelt."
 date: "2026-04-03"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-strategie-elektricien.jpg"
 tags: ["Reviews", "Review strategie", "Elektricien", "Google Reviews"]

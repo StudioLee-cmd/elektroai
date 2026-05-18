@@ -2,7 +2,7 @@
 title: "No-shows voorkomen als elektricien: zo houd je je planning vol"
 excerpt: "Lege ritten zijn duur. Ontdek hoe je als elektricien no-shows voorkomt met automatische herinneringen en slimme planning."
 date: "2026-04-05"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-voorkomen-elektricien.jpg"
 tags: ["No-shows", "Elektricien", "Planning"]

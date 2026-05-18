@@ -5,7 +5,7 @@ date: "2025-12-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-elektriciens-helpt.png"
 tags: ["AI", "Efficiëntie", "Automatisering"]
-cluster: ""
+cluster: "automatisering"
 ---
 
 Het runnen van een elektriciensbedrijf anno 2026 is topsport. Je bent niet alleen vakspecialist die installaties veilig moet aansluiten, maar je bent ook boekhouder, planner, telefoniste, marketingmanager en klantenservice in één. Veel ondernemers die wij spreken, staan de hele dag bedrading te leggen, maar als ze eerlijk kijken, zijn ze 's avonds nog uren bezig met randzaken. Ruis in de vorm van eindeloze telefoontjes, appjes, offertes uitwerken en facturen doen.

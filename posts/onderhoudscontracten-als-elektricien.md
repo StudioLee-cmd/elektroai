@@ -2,7 +2,7 @@
 title: "Onderhoudscontracten als elektricien aanbieden"
 excerpt: "Onderhoudscontracten voor elektriciens: welke vormen werken, wat reken je, en hoe verkoop je ze aan bestaande klanten zonder opdringerig te worden."
 date: "2026-04-21"
-cluster: "nazorg"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/onderhoudscontracten-als-elektricien.jpg"
 tags: ["Elektricien", "Onderhoud", "Klantbehoud", "Recurring revenue"]

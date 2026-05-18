@@ -2,7 +2,7 @@
 title: "Klant niet thuis als elektricien: zo voorkom je lege uren"
 excerpt: "Je rijdt naar het adres maar niemand is thuis. Ontdek hoe je als elektricien dit voorkomt en wat je doet als het toch gebeurt."
 date: "2026-04-12"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klant-niet-thuis-elektricien-wat-doen.jpg"
 tags: ["No-shows", "Planning", "Groei"]

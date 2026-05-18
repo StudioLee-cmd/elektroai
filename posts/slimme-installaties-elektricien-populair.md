@@ -2,7 +2,7 @@
 title: "De 5 slimme installaties die klanten het vaakst vragen"
 excerpt: "83% van de Nederlanders heeft slimme apparaten in huis. Ontdek welke 5 installaties klanten het vaakst vragen en hoe je er als elektricien op inspeelt."
 date: "2026-04-14"
-cluster: "slimme installaties"
+cluster: "branding"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/slimme-installaties-elektricien-populair.jpg"
 tags: ["Slimme Installaties", "Smart Home", "Elektricien Tips"]

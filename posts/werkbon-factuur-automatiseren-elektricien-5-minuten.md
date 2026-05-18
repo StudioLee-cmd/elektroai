@@ -6,7 +6,7 @@ excerpt: "Werkbon en factuur automatiseren als elektricien in 5 minuten: PMS-kop
 image: "/images/blog/werkbon-factuur-automatiseren-elektricien-5-minuten.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Administratie", "Werkbon", "Facturatie", "Moneybird", "Elektricien"]
-cluster: "administratie"
+cluster: "automatisering"
 ---
 
 **In het kort:**

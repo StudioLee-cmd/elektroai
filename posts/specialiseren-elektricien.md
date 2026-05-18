@@ -5,7 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-elektricien.png"
 tags: ["specialisatie", "elektricien", "niche"]
-cluster: "specialisatie"
+cluster: "branding"
 ---
 
 Storingen oplossen, groepen bijplaatsen, bekabeling aanleggen — het standaardwerk van een elektricien. Maar juist omdat elke elektricien dit kan, concurreer je op prijs. Specialiseren doorbreekt dat patroon.

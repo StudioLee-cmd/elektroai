@@ -5,7 +5,7 @@ date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-aanvragen-pre-kwalificeren.jpg"
 tags: ["Offertes", "Pre-kwalificatie", "Bezichtiging"]
-cluster: "offerte-proces"
+cluster: "automatisering"
 ---
 
 Een gemiddelde MKB-elektricien reist per week tussen de 6 en 12 keer naar een potentiële klant voor een bezichtiging of offertebezoek. Van die bezoeken eindigt minder dan de helft in een opdracht. Het restant is onrendabele tijd: rijden, ter plekke opnemen, terugrijden, offerte maken, wachten, niets horen. Als de reiskosten en de uren worden opgeteld, verliest een doorsnee elektricien hiermee 8 tot 14 uur per week aan bezoeken die geen omzet worden. Pre-kwalificatie van aanvragen via website en chat lost dit structureel op — niet door meer bezoeken te boeken, maar door de verkeerde bezoeken eruit te filteren.

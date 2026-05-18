@@ -2,7 +2,7 @@
 title: "Offertes opvolgen als elektricien: snelheid wint klussen"
 excerpt: "Hoe zorg je ervoor dat offerteaanvragen niet onbeantwoord blijven? Praktische tips voor elektriciens die meer klussen willen winnen met snelle opvolging."
 date: "2026-04-04"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offertes-opvolgen-elektricien.jpg"
 tags: ["Leads", "Opvolging", "Elektricien"]

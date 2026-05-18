@@ -4,7 +4,7 @@ excerpt: "Een goed reminder-bericht voor elektriciens-klanten verlaagt no-shows 
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraak-herinneringen-elektricien-klanten-voorbereiden.jpg"
-cluster: "afspraak-herinneringen"
+cluster: "automatisering"
 tags: ["Afspraakherinneringen", "WhatsApp", "Elektricien Marketing"]
 ---
 

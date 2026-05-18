@@ -5,7 +5,7 @@ date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-elektricien-overzicht-houden.jpg"
 tags: ["Administratie", "Efficiëntie", "Tools"]
-cluster: "administratie"
+cluster: "automatisering"
 ---
 
 ## Waarom administratie ertoe doet

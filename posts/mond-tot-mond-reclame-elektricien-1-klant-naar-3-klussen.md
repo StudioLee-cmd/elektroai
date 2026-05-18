@@ -6,7 +6,7 @@ excerpt: "Mond-tot-mond reclame elektricien activeren: van 1 tevreden klant naar
 image: "/images/blog/mond-tot-mond-reclame-elektricien-1-klant-naar-3-klussen.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Klanttevredenheid", "Mond-tot-mond", "Referrals", "Klantcommunicatie", "Elektricien"]
-cluster: "klanttevredenheid"
+cluster: "branding"
 ---
 
 **In het kort:**

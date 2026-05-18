@@ -6,7 +6,7 @@ excerpt: "Een elektricien houdt klantdata bij in zeven plekken tegelijk: Excel, 
 image: "/images/blog/crm-voor-elektriciens-weg-met-excel-chaos.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["CRM", "Klantbeheer", "Automatisering"]
-cluster: "klantbeheer"
+cluster: "automatisering"
 ---
 
 Stel je een gereedschapskist voor waar elke moersleutel in een andere lade ligt, in een andere kamer, in een ander gebouw. De kruiskop in de garage, de inbus in de auto, de momentsleutel bij je oom. Je kunt nog steeds werken, maar de helft van je dag ben je aan het zoeken in plaats van te draaien. Aan het eind van een week heb je niet acht klussen gedaan, maar vijf. Niet door langzamer werken, door beter zoeken.

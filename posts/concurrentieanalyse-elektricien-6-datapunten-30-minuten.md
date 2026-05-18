@@ -6,7 +6,7 @@ excerpt: "Concurrentieanalyse elektricien in 30 minuten: 6 datapunten over openi
 image: "/images/blog/concurrentieanalyse-elektricien-6-datapunten-30-minuten.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Vindbaarheid", "Concurrentieanalyse", "Lokale Marketing", "Benchmark", "Elektricien"]
-cluster: "vindbaarheid"
+cluster: "branding"
 ---
 
 **In het kort:**

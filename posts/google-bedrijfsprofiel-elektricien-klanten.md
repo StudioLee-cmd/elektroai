@@ -2,7 +2,7 @@
 title: "Google Bedrijfsprofiel als elektricien: zo trek je lokale klanten"
 excerpt: "Je Google Bedrijfsprofiel is vaak het eerste wat klanten zien. Zo optimaliseer je het als elektricien voor meer oproepen en aanvragen."
 date: "2026-04-15"
-cluster: "google-bedrijfsprofiel"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-elektricien-klanten.jpg"
 tags: ["Google", "Lokale SEO", "Vindbaarheid"]

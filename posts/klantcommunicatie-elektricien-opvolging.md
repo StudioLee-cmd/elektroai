@@ -7,7 +7,7 @@ image: "/images/blog/klantcommunicatie-elektricien-opvolging.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["klantcommunicatie", "elektricien", "opvolging"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 ## Waarom communicatie je onderscheidt

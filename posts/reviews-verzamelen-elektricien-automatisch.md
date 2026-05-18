@@ -2,7 +2,7 @@
 title: "Reviews verzamelen als elektricien: automatische aanpak"
 excerpt: "Ontdek hoe je als elektricien automatisch Google reviews verzamelt na elke klus. Van NFC-kaarten tot WhatsApp: de complete gids."
 date: "2026-04-07"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-verzamelen-elektricien-automatisch.jpg"
 tags: ["Reviews", "Elektricien", "Automatisering"]

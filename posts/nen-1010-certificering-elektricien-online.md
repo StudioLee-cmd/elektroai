@@ -5,7 +5,7 @@ date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nen-1010-certificering-elektricien-online-online.png"
 tags: ["Elektricien", "Certificering", "NEN 1010"]
-cluster: "certificering"
+cluster: "website"
 ---
 
 ## Je hebt de certificering — maar weet je klant dat ook?

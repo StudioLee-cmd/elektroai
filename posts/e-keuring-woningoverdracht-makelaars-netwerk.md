@@ -6,7 +6,7 @@ excerpt: "E-keuring na woningoverdracht: zo bouw je een referrer-netwerk met mak
 image: "/images/blog/e-keuring-woningoverdracht-makelaars-netwerk.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Samenwerkingen", "Lead-opvolging", "B2B"]
-cluster: "samenwerkingen"
+cluster: "branding"
 ---
 
 E-keuringen na woningoverdracht zijn voor veel elektriciens een onderschat segment. Geen spoedklus, geen storing, maar een voorspelbare opdracht van twee tot vier uur met een vaste opbrengst. En één makelaar in jouw werkgebied levert in een doorsnee jaar tussen de 30 en 80 woningoverdrachten. Als je daar de elektrische keuring van doet, is dat een tweede vaste inkomstenbron naast je gewone werk.

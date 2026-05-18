@@ -6,7 +6,7 @@ excerpt: "Brandveiligheid is sinds 2022 een groeisegment voor elektriciens. Zo b
 image: "/images/blog/brandveiligheid-rookmelders-elektricien-2026.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Specialisatie", "Brandveiligheid", "NEN 2555"]
-cluster: "specialisatie"
+cluster: "automatisering"
 ---
 
 Sinds 1 juli 2022 zijn rookmelders verplicht in elke Nederlandse woning, ongeacht bouwjaar. Drie jaar later voldoet zo'n 35 tot 45 procent van de oudere woningen nog steeds niet aan de norm. Voor een elektricien is dat een marktsegment van honderdduizenden adressen, met installatie-tickets van 150 tot 600 euro per woning, klaar in 30 tot 90 minuten. Het werk is technisch eenvoudig, de juridische positionering is helder (NEN 2555 is leidend), en de marketing-haak is sterk: "wettelijk verplicht, klaar binnen een uur, vaste prijs".

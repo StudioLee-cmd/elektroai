@@ -6,7 +6,7 @@ excerpt: "Welke keurmerken vertrouwen wekken bij website-bezoekers, waar je ze p
 image: "/images/blog/keurmerken-elektricien-website-trust-signalen.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Certificering", "Website", "Trust-signalen", "Conversie", "Elektricien"]
-cluster: "certificering"
+cluster: "website"
 ---
 
 **In het kort:**

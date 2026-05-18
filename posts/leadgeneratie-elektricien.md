@@ -5,7 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-elektricien.png"
 tags: ["Leadgeneratie", "Klantwerving", "Groei"]
-cluster: "lead-opvolging"
+cluster: "automatisering"
 ---
 
 Als elektricien ben je waarschijnlijk goed vindbaar op Google — misschien heb je je [Google Bedrijfsprofiel al geoptimaliseerd](/blog/google-bedrijfsprofiel-elektricien) en verzamel je actief reviews. Maar wat als Google morgen zijn algoritme verandert? Of als een concurrent met een groter budget je wegdrukt uit de top 3?
