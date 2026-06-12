@@ -1,5 +1,6 @@
 ---
 title: "Specialiseren als elektricien: niche-expertise die meer oplevert"
+seoTitle: "Specialiseren als elektricien"
 excerpt: "Generalisten concurreren op prijs, specialisten op expertise. Ontdek welke niches het meest opleveren voor elektriciens."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"

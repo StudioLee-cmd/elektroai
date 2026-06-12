@@ -1,6 +1,7 @@
 ---
 title: "Telefoon-piek bij elektriciens: 30 oproepen op één avond verwerken"
-excerpt: "Een buurtstoring, storm of paneelactie zet je telefoon op rinkel-stand. Zo vang je een piek van 20-50 oproepen op zonder personeel én zonder klanten te verliezen."
+seoTitle: "Telefoon-piek bij elektriciens"
+excerpt: "Een buurtstoring of storm zet je telefoon op rinkel-stand. Zo vang je een piek van 20-50 oproepen op zonder personeel en zonder klanten te verliezen."
 date: "2026-04-25"
 cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"

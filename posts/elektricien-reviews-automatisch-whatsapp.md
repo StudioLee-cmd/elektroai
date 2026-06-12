@@ -1,5 +1,6 @@
 ---
 title: "Elektricien reviews automatisch verzamelen: het 3-stap WhatsApp-systeem"
+seoTitle: "Elektricien reviews automatisch verzamelen"
 excerpt: "Elektriciens met 80+ Google reviews worden 4x vaker gebeld dan concurrenten met 15. Zo richt je het systeem in zonder zelf te zeuren om beoordelingen."
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"

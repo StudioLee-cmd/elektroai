@@ -1,5 +1,6 @@
 ---
 title: "Offertes als elektricien: hoe snelheid en duidelijkheid meer klussen opleveren"
+seoTitle: "Offertes als elektricien"
 excerpt: "Een goede offerte is meer dan een prijs. Ontdek hoe je als elektricien met snelle, duidelijke offertes meer klussen wint."
 date: "2026-03-13"
 authorSlug: "tim-van-der-lee"

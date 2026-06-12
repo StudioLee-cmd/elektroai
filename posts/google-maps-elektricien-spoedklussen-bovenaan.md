@@ -1,5 +1,6 @@
 ---
 title: "Google Maps als elektricien: zo kom je bovenaan bij spoedklussen"
+seoTitle: "Google Maps als elektricien"
 excerpt: "Klanten met een kortsluiting zoeken op Google Maps. Sta jij bovenaan? Zo optimaliseer je je profiel voor spoedklussen als elektricien."
 date: "2026-04-09"
 cluster: "vindbaarheid"

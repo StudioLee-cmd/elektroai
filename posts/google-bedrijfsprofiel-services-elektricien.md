@@ -3,7 +3,7 @@ title: "Google Bedrijfsprofiel services-veld voor elektriciens"
 slug: google-bedrijfsprofiel-services-elektricien
 date: 2026-04-29
 cluster: "vindbaarheid"
-excerpt: "Het services-veld op je Google Bedrijfsprofiel als elektricien: welke 12 diensten je het beste lijst voor meer aanvragen voor laadpalen, storingen en domotica."
+excerpt: "Het services-veld op je Google Bedrijfsprofiel als elektricien: welke 12 diensten je het beste lijst voor meer aanvragen voor laadpalen."
 image: "/images/blog/google-bedrijfsprofiel-services-elektricien.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Google Bedrijfsprofiel", "Lokale SEO", "Elektricien"]

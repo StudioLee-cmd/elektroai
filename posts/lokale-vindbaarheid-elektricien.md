@@ -1,5 +1,6 @@
 ---
 title: "Lokale vindbaarheid als elektricien: zo krijg je meer klussen"
+seoTitle: "Lokale vindbaarheid als elektricien"
 excerpt: "Klanten zoeken online naar een elektricien in de buurt. Zorg dat jij bovenaan staat met deze praktische tips voor lokale vindbaarheid."
 date: "2026-04-17"
 cluster: "vindbaarheid"

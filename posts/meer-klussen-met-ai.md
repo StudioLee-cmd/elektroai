@@ -1,5 +1,6 @@
 ---
 title: "Krijg Automatisch Meer Google Reviews (En domineer jouw regio)"
+seoTitle: "Krijg Automatisch Meer Google Reviews"
 excerpt: "Reviews zijn goud waard voor een elektricien. Maar erom vragen wordt vaak vergeten. Laat onze AI dit volledig overnemen en zie je Google ranking exploderen."
 date: "2025-12-20"
 authorSlug: "tim-van-der-lee"

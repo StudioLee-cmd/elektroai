@@ -1,5 +1,6 @@
 ---
 title: "Je elektricien-website als leadmachine: meer aanvragen zonder advertenties"
+seoTitle: "Je elektricien-website als leadmachine"
 slug: "elektricien-website-leadmachine"
 date: "2026-03-21"
 excerpt: "Je website kan je beste medewerker zijn. Leer hoe je als elektricien meer aanvragen genereert via je website — zonder te adverteren."

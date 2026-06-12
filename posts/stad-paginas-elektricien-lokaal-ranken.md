@@ -2,7 +2,7 @@
 title: "Lokale landingspagina's voor elektriciens die ranken"
 slug: stad-paginas-elektricien-lokaal-ranken
 date: "2026-06-06"
-excerpt: "Klanten zoeken op 'elektricien [stad]'. Met unieke lokale landingspagina's word je per werkgebied gevonden, zonder in de duplicate-content-val te stappen."
+excerpt: "Klanten zoeken op 'elektricien [stad]'. Met unieke lokale landingspagina's word je per werkgebied gevonden."
 image: "/images/blog/stad-paginas-elektricien-lokaal-ranken.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Vindbaarheid", "Lokale SEO", "Landingspagina", "Elektricien"]

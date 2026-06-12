@@ -1,5 +1,6 @@
 ---
 title: "24/7 bereikbaar als elektricien: zo vang je spoedklussen op zonder stress"
+seoTitle: "24/7 bereikbaar als elektricien"
 excerpt: "Spoedklussen zijn het meest lucratief voor elektriciens — maar ook het moeilijkst op te vangen. Zo regel je 24/7 bereikbaarheid."
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"

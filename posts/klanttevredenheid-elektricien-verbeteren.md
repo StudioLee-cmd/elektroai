@@ -1,6 +1,7 @@
 ---
 title: "Klanttevredenheid verbeteren als elektricien: van goed naar uitstekend"
-excerpt: "Tevreden klanten komen terug en bevelen je aan. Ontdek hoe je als elektricien klanttevredenheid meet en verbetert."
+seoTitle: "Klanttevredenheid verbeteren als elektricien"
+excerpt: "Tevreden klanten komen terug en bevelen je aan. Ontdek hoe je als elektricien klanttevredenheid meet en verbetert. Met vier meetpunten."
 date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

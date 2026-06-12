@@ -1,5 +1,6 @@
 ---
 title: "Email marketing voor elektriciens: onderhoud en vervolgklussen binnenhalen"
+seoTitle: "Email marketing voor elektriciens"
 slug: "email-marketing-elektricien-onderhoud"
 date: "2026-03-22"
 excerpt: "Als elektricien heb je na elke klus een contactmoment dat je kunt benutten. Email marketing helpt je onderhoud en vervolgklussen binnen te halen."

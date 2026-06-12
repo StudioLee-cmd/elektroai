@@ -1,8 +1,9 @@
 ---
 title: "Klantcommunicatie als elektricien: professionele opvolging die klanten bindt"
+seoTitle: "Klantcommunicatie als elektricien"
 slug: "klantcommunicatie-elektricien-opvolging"
 date: "2026-03-23"
-excerpt: "Goede communicatie maakt het verschil tussen een eenmalige klus en een vaste klant. Ontdek hoe je als elektricien vertrouwen opbouwt door professioneel op te volgen."
+excerpt: "Goede communicatie maakt het verschil tussen een eenmalige klus en een vaste klant. Zo bouw je als elektricien vertrouwen op met opvolging."
 image: "/images/blog/klantcommunicatie-elektricien-opvolging.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"

@@ -1,6 +1,7 @@
 ---
 title: "Administratie voor elektriciens: zo houd je overzicht zonder gedoe"
-excerpt: "Ontdek hoe je als elektricien je administratie stroomlijnt en meer tijd overhoudt voor installaties."
+seoTitle: "Administratie voor elektriciens"
+excerpt: "Ontdek hoe je als elektricien je administratie stroomlijnt en meer tijd overhoudt voor installaties. Van offertes tot facturen, slim geregeld."
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-elektricien-overzicht-houden.jpg"

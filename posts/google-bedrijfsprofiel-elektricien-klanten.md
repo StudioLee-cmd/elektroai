@@ -1,5 +1,6 @@
 ---
 title: "Google Bedrijfsprofiel als elektricien: zo trek je lokale klanten"
+seoTitle: "Google Bedrijfsprofiel als elektricien"
 excerpt: "Je Google Bedrijfsprofiel is vaak het eerste wat klanten zien. Zo optimaliseer je het als elektricien voor meer oproepen en aanvragen."
 date: "2026-04-15"
 cluster: "vindbaarheid"

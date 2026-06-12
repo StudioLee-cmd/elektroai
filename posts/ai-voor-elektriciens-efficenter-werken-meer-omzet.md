@@ -1,5 +1,6 @@
 ---
 title: "AI voor elektriciens: efficiënter werken en meer omzet draaien"
+seoTitle: "AI voor elektriciens"
 excerpt: "Hoe AI elektriciensbedrijven helpt bij storingsplanning, offertes en klantcommunicatie — voor meer omzet met minder rompslomp."
 date: "2026-03-06"
 authorSlug: "tim-van-der-lee"

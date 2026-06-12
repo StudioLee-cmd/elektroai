@@ -1,5 +1,6 @@
 ---
 title: "Het Einde van de \"Telefoon tijdens het Aansluiten\": 24/7 Bereikbaar Zonder Personeel"
+seoTitle: "Het Einde van de \"Telefoon tijdens het Aansluiten\""
 excerpt: "Mis nooit meer een klus omdat je in de meterkast zit. Onze Voice AI neemt op, plant inspecties en beantwoordt vragen. Veilig en winstgevend."
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"

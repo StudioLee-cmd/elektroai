@@ -1,6 +1,6 @@
 ---
 title: "Elektricien aanvragen pre-kwalificeren zonder bezichtiging"
-excerpt: "De helft van de offerte-bezichtigingen die een elektricien doet, levert geen klus op. Dit artikel legt uit hoe je met pre-kwalificatie via website en chat de verhouding omkeert."
+excerpt: "De helft van de offerte-bezichtigingen levert geen klus op. Zo keer je als elektricien de verhouding om met pre-kwalificatie via website en chat."
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-aanvragen-pre-kwalificeren.jpg"

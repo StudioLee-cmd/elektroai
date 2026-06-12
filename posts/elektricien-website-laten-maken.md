@@ -1,5 +1,6 @@
 ---
 title: "Elektricien website laten maken: meer storingsaanvragen via je site"
+seoTitle: "Elektricien website laten maken"
 excerpt: "Een professionele website maakt het verschil voor elektriciens. Van storingsdienst tot groepenkast — zo genereer je meer aanvragen via je eigen site."
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"

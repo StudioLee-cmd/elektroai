@@ -1,5 +1,6 @@
 ---
 title: "Elektriciensbedrijf automatiseren: focus op installatie, niet administratie"
+seoTitle: "Elektriciensbedrijf automatiseren"
 excerpt: "Elektriciens besteden uren per week aan planning en facturatie. Ontdek hoe automatisering je bedrijf stroomlijnt, letterlijk."
 date: "2026-04-06"
 cluster: "automatisering"

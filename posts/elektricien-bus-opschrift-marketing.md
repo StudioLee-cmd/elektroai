@@ -1,6 +1,7 @@
 ---
 title: "Bus-opschrift elektricien: van anonieme bestelbus naar marketing-machine"
-excerpt: "Je bedrijfsbus rijdt 20.000 kilometer per jaar langs duizenden potentiële klanten. Zo zorg je dat hij ook echt aanvragen oplevert en niet zomaar een logo op wielen blijft."
+seoTitle: "Bus-opschrift elektricien"
+excerpt: "Je bedrijfsbus rijdt jaarlijks langs duizenden potentiële klanten. Zo zorg je dat hij echt aanvragen oplevert en geen logo op wielen blijft."
 date: "2026-04-22"
 cluster: "branding"
 authorSlug: "tim-van-der-lee"

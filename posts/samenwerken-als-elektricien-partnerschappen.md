@@ -1,5 +1,6 @@
 ---
 title: "Samenwerken als elektricien: partnerschappen die je omzet verhogen"
+seoTitle: "Samenwerken als elektricien"
 excerpt: "Strategische samenwerkingen met zonnepaneelbedrijven, aannemers en loodgieters helpen elektriciens aan meer en betere klussen."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"

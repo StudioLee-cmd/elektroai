@@ -1,6 +1,7 @@
 ---
 title: "Vaste klanten als elektricien: van eenmalige klus naar doorlopend contact"
-excerpt: "Leer hoe je als elektricien van eenmalige opdrachten een vaste klantenkring opbouwt."
+seoTitle: "Vaste klanten als elektricien"
+excerpt: "Leer hoe je als elektricien van eenmalige opdrachten een vaste klantenkring opbouwt. Met onderhoudscontracten, herinneringen en slimme opvolging."
 date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/vaste-klanten-elektricien-doorlopend-contact.png"

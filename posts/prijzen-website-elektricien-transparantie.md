@@ -1,6 +1,7 @@
 ---
 title: "Prijzen op je website als elektricien: transparantie die vertrouwen wekt"
-excerpt: "Moet je als elektricien je tarieven online zetten? Ontdek waarom prijstransparantie meer klanten oplevert dan je denkt."
+seoTitle: "Prijzen op je website als elektricien"
+excerpt: "Moet je als elektricien je tarieven online zetten? Ontdek waarom prijstransparantie meer klanten oplevert dan je denkt. Met voorbeelden."
 date: "2026-04-18"
 cluster: "website"
 authorSlug: "tim-van-der-lee"

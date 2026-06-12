@@ -1,5 +1,6 @@
 ---
 title: "Google Bedrijfsprofiel als elektricien: meer klussen uit je regio"
+seoTitle: "Google Bedrijfsprofiel als elektricien"
 excerpt: "Leer hoe je als elektricien je Google Bedrijfsprofiel optimaliseert om bovenaan te verschijnen in lokale zoekresultaten."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"

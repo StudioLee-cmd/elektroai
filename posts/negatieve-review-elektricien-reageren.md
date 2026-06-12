@@ -1,5 +1,6 @@
 ---
 title: "Negatieve review als elektricien: rustig reageren, sterker eruit"
+seoTitle: "Negatieve review als elektricien"
 excerpt: "Een slechte review hoeft je reputatie niet te schaden. Leer hoe je als elektricien professioneel reageert en het vertrouwen behoudt."
 date: "2026-04-12"
 cluster: "reviews"

@@ -1,6 +1,7 @@
 ---
 title: "Online reputatie als elektricien: reviews die nieuwe klussen opleveren"
-excerpt: "Je online reputatie bepaalt of klanten jou bellen. Leer hoe je als elektricien reviews verzamelt en je imago beschermt."
+seoTitle: "Online reputatie als elektricien"
+excerpt: "Je online reputatie bepaalt of klanten jou bellen. Leer hoe je als elektricien reviews verzamelt en je imago beschermt. Stap voor stap."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-elektricien.png"

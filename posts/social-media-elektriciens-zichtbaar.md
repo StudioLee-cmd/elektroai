@@ -1,5 +1,6 @@
 ---
 title: "Social media voor elektriciens: online zichtbaar worden in jouw regio"
+seoTitle: "Social media voor elektriciens"
 excerpt: "Ontdek hoe elektriciens social media inzetten om meer klanten te bereiken. Praktische tips, de beste platforms en slimme AI-tools voor elektriciens in 2026."
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"

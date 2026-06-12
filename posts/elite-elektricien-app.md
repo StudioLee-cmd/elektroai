@@ -1,6 +1,7 @@
 ---
 title: "De Elite Elektricien App: Geef je klanten hun eigen \"Klus App\" (En bind B2B klanten)"
-excerpt: "Onderscheid jezelf van de prutsers. Met de Client App in het Elite plan kunnen jouw vaste klanten (Aannemers, woningbouw) zelf meldingen doen en status inzien."
+seoTitle: "De Elite Elektricien App"
+excerpt: "Onderscheid jezelf van prutsers. Met de Client App in het Elite plan doen vaste klanten zoals aannemers zelf meldingen en zien ze de status."
 date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-elektricien-app.png"

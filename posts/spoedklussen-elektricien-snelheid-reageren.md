@@ -1,6 +1,7 @@
 ---
 title: "Spoedklussen binnenhalen als elektricien: snelheid van reageren die het verschil maakt"
-excerpt: "Bij een kortsluiting of stroomuitval belt de klant drie elektriciens. Degene die het snelst reageert, krijgt de klus."
+seoTitle: "Spoedklussen binnenhalen als elektricien"
+excerpt: "Bij een kortsluiting of stroomuitval belt de klant drie elektriciens. Degene die het snelst reageert, krijgt de klus. Zo win je die race."
 date: "2026-04-10"
 cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"

@@ -1,5 +1,6 @@
 ---
 title: "No-shows voorkomen als elektricien: zo houd je je planning vol"
+seoTitle: "No-shows voorkomen als elektricien"
 excerpt: "Lege ritten zijn duur. Ontdek hoe je als elektricien no-shows voorkomt met automatische herinneringen en slimme planning."
 date: "2026-04-05"
 cluster: "automatisering"
