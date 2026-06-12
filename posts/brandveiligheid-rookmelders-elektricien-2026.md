@@ -82,7 +82,7 @@ De grootste prijs-fout in rookmelder-aanbod is "vanaf 25 euro per melder" zetten
 - **Service-onderhoudscontract aanbieden.** Jaarlijkse test-controle voor 35-65 euro per jaar per woning. 60 procent van klanten neemt het af, geeft jou voorspelbare maandelijkse omzet.
 - **Meerwoningen-korting.** VvE's en woningbouwcorporaties krijgen schaalkorting (20-30 procent) wanneer ze 10+ woningen tegelijk laten installeren.
 
-Voor de bredere prijs-discussie lees [hoe je prijzen op je elektricien-website plaatst](/blog/prijzen-website-elektricien).
+Voor de bredere prijs-discussie lees hoe je prijzen op je elektricien-website plaatst.
 
 ## Het 4-stappen leveringsproces
 

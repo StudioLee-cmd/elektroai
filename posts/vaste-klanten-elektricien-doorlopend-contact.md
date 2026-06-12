@@ -24,7 +24,7 @@ Elektrische installaties moeten regelmatig gecontroleerd worden. De NEN 1010 sch
 
 Bied je klanten proactief een periodieke keuring aan. Stuur een herinnering wanneer hun installatie aan inspectie toe is. Dit is geen opdringerige verkoop — het is een waardevolle service die veiligheid waarborgt. Klanten waarderen het als je meedenkt over hun veiligheid.
 
-Maak het concreet: "Uw meterkast is in 2019 geinstalleerd. Wij adviseren een controle in 2026. Zal ik een afspraak inplannen?" Je kennis van [certificeringen en keuringsnormen](/blog/nen-1010-certificering-elektricien-online-online) versterkt je positie als betrouwbare partner.
+Maak het concreet: "Uw meterkast is in 2019 geinstalleerd. Wij adviseren een controle in 2026. Zal ik een afspraak inplannen?" Je kennis van [certificeringen en keuringsnormen](/blog/nen-1010-certificering-elektricien-online) versterkt je positie als betrouwbare partner.
 
 ## Onderhoudspakketten aanbieden
 
@@ -44,7 +44,7 @@ Gebruik een simpele klantenlijst (een spreadsheet is genoeg) om bij te houden wa
 
 ## Verduurzaming als herhaalopdracht
 
-De energietransitie biedt elektriciens een unieke kans op terugkerende opdrachten. Klanten die vandaag een laadpaal installeren, willen morgen zonnepanelen en overmorgen een thuisbatterij. Door jezelf te positioneren als [verduurzamingspartner](/blog/verduurzaming-elektricien-zonnepanelen-laadpalen), word je de vaste elektricien voor elke volgende stap.
+De energietransitie biedt elektriciens een unieke kans op terugkerende opdrachten. Klanten die vandaag een laadpaal installeren, willen morgen zonnepanelen en overmorgen een thuisbatterij. Door jezelf te positioneren als verduurzamingspartner, word je de vaste elektricien voor elke volgende stap.
 
 Adviseer klanten proactief over verduurzamingsmogelijkheden. Na een laadpaalinstallatie: "Heeft u al nagedacht over zonnepanelen? Met uw huidige energieverbruik verdient u de investering in 6 jaar terug." Dit is geen harde verkoop — het is relevant advies.
 

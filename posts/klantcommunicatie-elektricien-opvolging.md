@@ -40,7 +40,7 @@ Wat ze wel beoordelen: was je op tijd, legde je uit wat je deed, was de factuur 
 
 **Jaarlijkse onderhoudsherinnering**. Via je [email marketing](/blog/email-marketing-elektricien-onderhoud): "Het is een jaar geleden dat we je groepenkast hebben gecontroleerd. Tijd voor een periodieke keuring." Dit genereert terugkerend werk.
 
-**Informeren over nieuwe mogelijkheden**. Heb je een klant geholpen met stopcontacten? Vertel over [slimme installaties](/blog/slimme-installaties-elektricien-domotica) of [verduurzamingsopties](/blog/verduurzaming-elektricien-zonnepanelen-laadpalen). Niet als verkooppraatje, maar als advies.
+**Informeren over nieuwe mogelijkheden**. Heb je een klant geholpen met stopcontacten? Vertel over slimme installaties of verduurzamingsopties. Niet als verkooppraatje, maar als advies.
 
 ## Digitale communicatietools
 

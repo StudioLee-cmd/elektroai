@@ -34,7 +34,7 @@ Een totaalprijs zonder specificatie voelt als een black box. Splits op in materi
 
 ### Benoem je kwalificaties
 
-Vermeld je NEN 1010 certificering, je inschrijving bij een erkend installateursregister, en je verzekering. Dit zijn vertrouwenssignalen die je concurrent misschien niet noemt. Lees ook ons artikel over [hoe je certificeringen online uitdraagt](/blog/nen-1010-certificering-elektricien-online-online).
+Vermeld je NEN 1010 certificering, je inschrijving bij een erkend installateursregister, en je verzekering. Dit zijn vertrouwenssignalen die je concurrent misschien niet noemt. Lees ook ons artikel over [hoe je certificeringen online uitdraagt](/blog/nen-1010-certificering-elektricien-online).
 
 ### Geef een planning
 

@@ -46,7 +46,7 @@ Woningcorporaties beheren duizenden woningen die periodiek elektrotechnisch onde
 
 ### 3. Energieadviseurs en duurzaamheidsconsulenten
 
-Met de [verduurzamingstrend](/blog/verduurzaming-elektricien-zonnepanelen-laadpalen) groeit de vraag naar elektriciens die zonnepanelen, laadpalen en warmtepompen installeren. Energieadviseurs zijn vaak het eerste aanspreekpunt voor huiseigenaren die willen verduurzamen.
+Met de verduurzamingstrend groeit de vraag naar elektriciens die zonnepanelen, laadpalen en warmtepompen installeren. Energieadviseurs zijn vaak het eerste aanspreekpunt voor huiseigenaren die willen verduurzamen.
 
 Bouw relaties op met energieadviseurs in jouw regio. Zij adviseren, jij installeert. Win-win.
 
@@ -62,7 +62,7 @@ De investering is bescheiden (enkele honderden euro's per jaar), maar het rendem
 
 - Foto's van nette installatiekasten
 - Voor-en-na beelden van renovaties
-- Korte video's van [slimme installaties en domotica](/blog/slimme-installaties-elektricien-domotica)
+- Korte video's van slimme installaties en domotica
 
 Dit is geen directe leadgeneratie, maar het bouwt merkbekendheid op. Wanneer iemand in jouw netwerk een elektricien nodig heeft, denken ze aan jou — omdat ze je werk al kennen van social media.
 

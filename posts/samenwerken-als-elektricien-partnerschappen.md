@@ -15,7 +15,7 @@ De energietransitie heeft het werk van elektriciens fundamenteel veranderd. Zonn
 De vraag naar elektrotechnisch werk stijgt. Maar het zijn zelden standalone klussen. Een zonnepaneelinstallatie vereist een elektricien voor de aansluiting. Een warmtepomp vereist een loodgieter én een elektricien. Een slimme woning vereist een domotica-specialist en een elektricien.
 
 Voordelen van samenwerking:
-- Toegang tot de [verduurzamingsmarkt](/blog/verduurzaming-elektricien-zonnepanelen-laadpalen)
+- Toegang tot de verduurzamingsmarkt
 - Grotere projecten met hogere omzet
 - Minder acquisitie door doorverwijzingen
 - Sterkere positie dan solo-elektriciens
@@ -42,7 +42,7 @@ Bied samen met een loodgieter een "compleet verduurzamingspakket" aan: warmtepom
 
 ### 3. Word de domotica-expert
 
-[Slimme installaties](/blog/slimme-installaties-elektricien-domotica) groeien explosief. Werk samen met domotica-leveranciers en word hun vaste installateur. Dit is een nichemarkt met weinig concurrentie en hoge marges.
+Slimme installaties groeien explosief. Werk samen met domotica-leveranciers en word hun vaste installateur. Dit is een nichemarkt met weinig concurrentie en hoge marges.
 
 ![Laadstation en smart home paneel naast elkaar op moderne Nederlandse gevel](/images/blog/samenwerken-als-elektricien-partnerschappen-2.png)
 

@@ -14,7 +14,7 @@ In dit artikel ontdek je welke specialisaties het meest opleveren en hoe je de o
 
 ## Waarom specialisatie de toekomst is
 
-De elektrotechnische branche verandert snel. [Verduurzaming](/blog/verduurzaming-elektricien-zonnepanelen-laadpalen), domotica en elektrificatie creëren nieuwe markten waar expertise meer telt dan prijs.
+De elektrotechnische branche verandert snel. Verduurzaming, domotica en elektrificatie creëren nieuwe markten waar expertise meer telt dan prijs.
 
 Specialisten profiteren van:
 
@@ -35,7 +35,7 @@ Van installatie tot optimalisatie van zonne-energiesystemen. Steeds meer huishou
 
 ### 3. Domotica en smart home
 
-[Slimme installaties](/blog/slimme-installaties-elektricien-domotica) — van verlichting tot klimaatbeheersing. Dit segment trekt klanten die bereid zijn premium te betalen voor comfort en gemak.
+Slimme installaties — van verlichting tot klimaatbeheersing. Dit segment trekt klanten die bereid zijn premium te betalen voor comfort en gemak.
 
 ### 4. Industriele elektrotechniek
 
@@ -53,7 +53,7 @@ Analyseer je regio: hoeveel EV-laadpalen zijn er al? Hoeveel woningen hebben zon
 
 ### Stap 2: Investeer in certificeringen
 
-Certificeringen zoals [NEN 1010](/blog/nen-1010-certificering-elektricien-online-online) en fabrikanttrainingen (Tesla, ABB, Enphase) geven je geloofwaardigheid en toegang tot installateursprogramma's.
+Certificeringen zoals [NEN 1010](/blog/nen-1010-certificering-elektricien-online) en fabrikanttrainingen (Tesla, ABB, Enphase) geven je geloofwaardigheid en toegang tot installateursprogramma's.
 
 ### Stap 3: Bouw een specialist-portfolio
 
