@@ -328,8 +328,8 @@ export default function GratisWebsiteContent() {
               className="relative w-full aspect-[16/10] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl"
             >
               <Image
-                src="/images/services/gratis-website-section.jpg"
-                alt="Elektriciens eigenaar bekijkt nieuwe website preview op tablet"
+                src="/images/services/seo-section.jpg"
+                alt="Elektricien wordt online gevonden: telefoon met kaart en nieuwe aanvragen"
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) 100vw, 50vw"
