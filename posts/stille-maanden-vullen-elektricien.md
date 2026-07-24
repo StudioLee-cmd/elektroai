@@ -103,4 +103,4 @@ Bij ElektroAI helpen we MKB-elektriciens om de agenda het hele jaar door gevuld 
 - Een reviewflow die na elke klus automatisch om een beoordeling vraagt en zo een gestage stroom opbouwt
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor elektriciens](/gratis-scan) en ontdek waar in jouw seizoenspatroon de meeste omzet blijft liggen. Vragen? [Plan een gesprek met Tim](https://calendly.com/tim-studiolee).
+[Plan een gratis AI-scan voor elektriciens](/gratis-scan) en ontdek waar in jouw seizoenspatroon de meeste omzet blijft liggen. Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

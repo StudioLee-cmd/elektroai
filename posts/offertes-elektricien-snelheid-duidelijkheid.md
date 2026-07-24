@@ -83,4 +83,4 @@ Houd ook bij waarom offertes worden afgewezen. "Te duur", "te lang wachten", "ge
 
 Je offerteproces is net zo belangrijk als je vakmanschap. Een snelle reactie, een duidelijke en professionele offerte, en een korte follow-up maken het verschil tussen een volle en een lege agenda. Investeer in een goed template, digitaliseer waar mogelijk, en meet je resultaten.
 
-Wil je hulp bij het stroomlijnen van je klantcommunicatie en offerteproces? Bekijk wat [ElektroAI](/) voor je kan betekenen of [plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Wil je hulp bij het stroomlijnen van je klantcommunicatie en offerteproces? Bekijk wat [ElektroAI](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).

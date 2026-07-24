@@ -123,4 +123,4 @@ Bij ElektroAI helpen we MKB-elektriciens hun lokale concurrentie-positie continu
 - Een [chatbot voor elektriciens](/chatbot) om je online-aanwezigheid op het niveau van de actiefste lokale concurrent te brengen
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor elektriciens](/gratis-scan) of bekijk onze [tarieven ElektroAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://calendly.com/tim-studiolee).
+[Plan een gratis AI-scan voor elektriciens](/gratis-scan) of bekijk onze [tarieven ElektroAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
