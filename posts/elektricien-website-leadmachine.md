@@ -10,7 +10,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["website", "elektricien", "conversie"]
 cluster: "website"
 ---
-
 ## Waarom je website je beste verkoper is
 
 De meeste elektriciens zien hun website als een digitaal visitekaartje. Het staat er, het ziet er redelijk uit, en af en toe belt iemand. Maar een website kan veel meer zijn dan dat — het kan je primaire bron van aanvragen worden.
@@ -31,7 +30,7 @@ Een effectieve website heeft een heldere structuur:
 
 ## SEO basics die werken
 
-SEO klinkt ingewikkeld, maar de basis is simpel: zorg dat Google begrijpt wat je doet en waar je het doet.
+SEO klinkt ingewikkeld, maar de basis is simpel: zorg dat [Google](/seo) begrijpt wat je doet en waar je het doet.
 
 **Gebruik lokale zoekwoorden**: niet alleen "elektricien" maar "elektricien [plaatsnaam]". Gebruik dit in je paginatitels, koppen en tekst. Klanten zoeken lokaal.
 
