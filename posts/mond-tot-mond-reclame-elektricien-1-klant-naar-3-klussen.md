@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Klanttevredenheid", "Mond-tot-mond", "Referrals", "Klantcommunicatie", "Elektricien"]
 cluster: "branding"
 ---
-
 **In het kort:**
 - 67% van de Nederlandse MKB-elektriciens haalt 30 tot 50% van hun nieuwe klanten via mond-tot-mond, maar het overgrote deel gebeurt PASSIEF: een tevreden klant noemt jouw naam toevallig in een gesprek. Een ACTIEF gestuurde referral-flow brengt dat percentage op 50-65% en levert per tevreden klant gemiddeld 2,5 tot 3,2 nieuwe klussen per jaar.
 - De meest renderende mechaniek voor elektriciens is een 2-zijdige bonus: €25 korting voor de doorverwijzer + €25 korting voor de nieuwe klant op zijn eerste klus. Acceptatie hoger dan een eenzijdige bonus, want de doorverwijzer voelt geen schuldgevoel dat hij iemand "verkocht" heeft.
@@ -95,6 +94,8 @@ Niet elke klus levert evenveel referrals op. Drie scenario's met de hoogste refe
 **Scenario 3: Na een NEN-keuring met goede uitleg.** De klant heeft niet alleen het rapport gekregen maar ook 2-3 minuten begrijpelijke uitleg over wat er goed en minder goed is. Hij voelt dat jij verstand van zaken hebt en betrouwbaar bent. Conversion-rate: 14-20%. Bonus standard.
 
 [Lees ook: Klanttevredenheid als elektricien verbeteren: zo bouw je vaste klanten op](/blog/klanttevredenheid-elektricien-verbeteren)
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/stille-maanden-vullen-elektricien" class="text-dark fw-semibold">Stille maanden als elektricien: zo blijf je druk</a> →</p></div></div></div>
 
 ## Wat StudioLee voor je inricht
 
