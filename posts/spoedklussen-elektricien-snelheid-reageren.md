@@ -58,6 +58,8 @@ Voeg "24-uurs storingsdienst" of "Spoedelektricien beschikbaar" toe aan je bedri
 
 Reageer snel op Google reviews die je snelheid noemen. "Binnen een uur ter plaatse, probleem snel opgelost." Dat soort reviews overtuigt de volgende klant om jou te bellen bij spoed.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/spoedservice-elektricien-online-promoten" class="text-dark fw-semibold">Spoedservice als elektricien online promoten</a> →</p></div></div></div>
+
 ## Conclusie: wees de snelste, niet de goedkoopste
 
 Bij spoedklussen wint snelheid van prijs. De klant betaalt graag meer als jij er nu bent. Investeer in een systeem dat je bereikbaarheid garandeert, communiceer je spoedtarieven helder, en reageer sneller dan je concurrent.
