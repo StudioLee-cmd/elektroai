@@ -8,7 +8,6 @@ image: "/images/blog/elektroai-vs-personeel.png"
 tags: ["Managed Service", "Kostenbesparing", "Strategie"]
 cluster: "automatisering"
 ---
-
 Als je als elektricien groeit, loop je vroeg of laat tegen een muur aan. Je agenda zit vol, je telefoon blijft gaan, en de administratie stapelt zich op. Je kunt het kantoorwerk niet meer alleen af naast je fysieke werk. De logische stap die ondernemers al decennia maken is dan: iemand aannemen voor op kantoor. Een planner, een werkvoorbereider, of een administratief medewerker/telefoniste.
 
 Maar is dat in 2026 nog wel de slimste keuze? Personeel is goud waard, maar vooral **vakpersoneel** (de jongens met het gereedschap en de kennis). Goede elektriciens zijn schaars en verdien je geld mee. Kantoorpersoneel is puur kostenpost. En voor dat kantoorwerk is er nu een beter, sneller en goedkoper alternatief.
@@ -27,10 +26,12 @@ En wat krijg je daarvoor? Dan heb je iemand die er is van maandag tot woensdag, 
 ### ElektroAI: Het Slimme Alternatief
 
 Vergelijk dat eens met ons Elite pakket (€297 / maand). Voor minder dan 10% van de kosten van een parttimer krijg je een systeem dat vele malen krachtiger is:
-- **24/7 Bereikbaarheid:** AI slaapt nooit, is nooit ziek, gaat nooit op vakantie en neemt ook op zondagavond op.
+- **24/7 [Bereikbaarheid](/voice-ai):** AI slaapt nooit, is nooit ziek, gaat nooit op vakantie en neemt ook op zondagavond op.
 - **Oneindige Schaalbaarheid:** Bellen er 10 mensen tegelijk? De AI helpt ze allemaal tegelijk. Een mens kan maar één telefoon vasthouden.
 - **Geen Werkgeversrisico's:** Geen contracten, geen ontslagbescherming, geen gedoe met Arbo-diensten. Maandelijks opzegbaar.
 - **Altijd Vrolijk:** De AI heeft nooit een ochtendhumeur en staat elke klant even vriendelijk te woord.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/werkspot-vs-elektroai-wat-is-slimmer" class="text-dark fw-semibold">Werkspot vs ElektroAI: wat is slimmer voor elektriciens?</a> →</p></div></div></div>
 
 ## Managed Service: Het beste van twee werelden
 
