@@ -8,10 +8,9 @@ image: "/images/blog/meer-klussen-met-ai.png"
 tags: ["Marketing", "Reviews", "Groei"]
 cluster: "reviews"
 ---
-
 Als je zelf een aannemer of loodgieter zoekt, wat doe je dan? Precies: je kijkt op Google en checkt de sterren. Heeft een elektricien 3,4 sterren? Dan scroll je door, want je vertrouwt het niet. Heeft hij 4,9 sterren met 200 reviews? Dan bel je hem direct. In de installatiebranche, waar vertrouwen alles is ("Prutsers" en "beunhazen" zijn helaas een bekend fenomeen), is jouw online reputatie je belangrijkste bezit.
 
-Voor jouw bedrijf zijn Google Reviews de levensader. Heb je minder dan 20 reviews? Dan besta je in de ogen van de moderne klant eigenlijk niet. Zeker bij elektrotechnisch werk, waar veiligheid voorop staat en het resultaat achter de muur verdwijnt, willen klanten zekerheid. Maar hoe kom je aan die reviews zonder te smeken?
+Voor jouw bedrijf zijn [Google Reviews](/reviews) de levensader. Heb je minder dan 20 reviews? Dan besta je in de ogen van de moderne klant eigenlijk niet. Zeker bij elektrotechnisch werk, waar veiligheid voorop staat en het resultaat achter de muur verdwijnt, willen klanten zekerheid. Maar hoe kom je aan die reviews zonder te smeken?
 
 ## Het Probleem: De "Vergeet-Factor"
 
