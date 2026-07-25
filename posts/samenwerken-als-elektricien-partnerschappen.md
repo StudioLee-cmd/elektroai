@@ -8,7 +8,6 @@ image: "/images/blog/samenwerken-als-elektricien-partnerschappen.png"
 tags: ["samenwerkingen", "elektricien", "groei"]
 cluster: "branding"
 ---
-
 De energietransitie heeft het werk van elektriciens fundamenteel veranderd. Zonnepanelen, warmtepompen, laadpalen, domotica — al deze installaties vereisen samenwerking met andere vakmensen. Elektriciens die slim samenwerken, profiteren het meest van deze groeimarkt.
 
 ## Waarom samenwerking nu belangrijker is dan ooit
@@ -43,7 +42,7 @@ Bied samen met een loodgieter een "compleet verduurzamingspakket" aan: warmtepom
 
 ### 3. Word de domotica-expert
 
-Slimme installaties groeien explosief. Werk samen met domotica-leveranciers en word hun vaste installateur. Dit is een nichemarkt met weinig concurrentie en hoge marges.
+[Slimme installaties](/blog/slimme-installaties-elektricien-populair) groeien explosief. Werk samen met domotica-leveranciers en word hun vaste installateur. Dit is een nichemarkt met weinig concurrentie en hoge marges.
 
 ![Laadstation en smart home paneel naast elkaar op moderne Nederlandse gevel](/images/blog/samenwerken-als-elektricien-partnerschappen-2.png)
 
