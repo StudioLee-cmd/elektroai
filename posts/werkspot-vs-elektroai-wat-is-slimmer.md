@@ -7,7 +7,6 @@ image: "/images/blog/werkspot-vs-elektroai-wat-is-slimmer.png"
 tags: ["Tools", "Vergelijking", "Elektriciens"]
 cluster: "automatisering"
 ---
-
 Veel elektriciens gebruiken Werkspot om aan klussen te komen. Het werkt — je betaalt per lead, reageert op aanvragen en hoopt dat de klant jou kiest. Maar is dat de slimste manier om je bedrijf te laten groeien?
 
 ## Wat is Werkspot?
@@ -43,7 +42,7 @@ ElektroAI: vast maandtarief, 20 functies, klant vindt jou direct en is van jou. 
 
 ## Reviews als groeistrategie
 
-Reviews op Werkspot bepalen of klanten jou kiezen of je concurrent. ElektroAI automatiseert je reviewstrategie: na elke klus gaat automatisch een reviewverzoek uit. Het slimme is dat deze reviews ook je Google-profiel versterken. Meer Google Reviews = hogere positie in Google = meer directe klanten zonder Werkspot-credits. Zo bouw je stap voor stap je eigen klantenstroom op.
+Reviews op Werkspot bepalen of klanten jou kiezen of je concurrent. ElektroAI automatiseert je reviewstrategie: na elke klus gaat automatisch een reviewverzoek uit. Het slimme is dat deze reviews ook je Google-profiel versterken. Meer [Google Reviews](/reviews) = hogere positie in Google = meer directe klanten zonder Werkspot-credits. Zo bouw je stap voor stap je eigen klantenstroom op.
 
 Lees ook: [hoe elektriciens meer klanten krijgen via Google](/blog/ai-voor-elektriciens-efficenter-werken-meer-omzet).
 
