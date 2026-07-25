@@ -38,7 +38,7 @@ Maak voor elk van deze queries een aparte landingspagina of uitgebreide informat
 
 ## Je Google-bedrijfsprofiel als laadpaal-specialist instellen
 
-Voordat je tijd in landingspagina's stopt, optimaliseer je Google Bedrijfsprofiel. Dit is gratis, en het levert binnen weken meer aanvragen op.
+Voordat je tijd in landingspagina's stopt, optimaliseer je [Google Bedrijfsprofiel](/blog/google-qa-elektricien-spoedvragen-vooraf-beantwoorden). Dit is gratis, en het levert binnen weken meer aanvragen op.
 
 - Voeg "Laadpaal-installateur" als secundaire categorie toe (naast je hoofdcategorie elektricien).
 - Vul de "Diensten"-sectie uit met specifieke laadpaal-diensten: 1-fase laadpaal, 3-fase laadpaal, EV-laadbox installatie, MRA-E aanvraag begeleiding, split-billing zakelijk.
