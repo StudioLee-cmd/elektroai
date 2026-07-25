@@ -7,7 +7,6 @@ image: "/images/blog/lead-opvolging-elektricien-sneller-reageren.jpg"
 tags: ["Lead opvolging", "Klanten", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Waarom snelheid belangrijker is dan prijs
 
 Als elektricien concurreer je op meer dan alleen prijs. De klant die belt met een kapotte groepenkast of een storing wil niet drie offertes vergelijken — die wil dat het vandaag nog opgelost wordt. De elektricien die als eerste opneemt, krijgt de klus.
@@ -63,9 +62,11 @@ In de elektrobranche is WhatsApp extra handig. Klanten kunnen een foto sturen va
 
 Overweeg WhatsApp Business te gebruiken. Je kunt snelle antwoorden instellen voor veelgestelde vragen, je profiel voorzien van je bedrijfsinformatie, en labels gebruiken om klanten te categoriseren (offerte gestuurd, klus ingepland, afgerond).
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/onderhoudscycli-per-adres-crm-elektricien" class="text-dark fw-semibold">Onderhoudscycli per adres bijhouden als elektricien</a> →</p></div></div></div>
+
 ## Van reactief naar proactief werken
 
-De meeste elektriciens werken reactief: ze wachten tot de telefoon gaat. Met automatische opvolging werk je proactief: elke aanvraag wordt direct beantwoord, elke gemiste oproep wordt opgevolgd, en elke lead wordt vastgehouden.
+De meeste elektriciens werken reactief: ze wachten tot de telefoon gaat. Met [automatische opvolging](/automatisering) werk je proactief: elke aanvraag wordt direct beantwoord, elke gemiste oproep wordt opgevolgd, en elke lead wordt vastgehouden.
 
 Het resultaat: meer klussen, minder verspilde marketing, en een volle agenda.
 
