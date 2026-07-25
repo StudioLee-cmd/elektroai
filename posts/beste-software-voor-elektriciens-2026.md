@@ -7,7 +7,6 @@ image: "/images/blog/beste-software-voor-elektriciens-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
 cluster: "automatisering"
 ---
-
 Als elektricien of installateur draai je lange dagen op locatie. Software uitzoeken staat niet bovenaan je lijst — maar de juiste tools bepalen of je agenda vol zit of dat je opdrachten misloopt. Welke software helpt jou als elektricien écht vooruit in 2026?
 
 ## Wat zoekt een elektricien in software?
@@ -80,6 +79,8 @@ Als elektricien of installateur draai je lange dagen op locatie. Software uitzoe
 | **Voice AI-telefonist** | ✗ | ✗ | ✗ | ✗ | ✓ |
 | **Exclusieve leads** | Nee | Ja | Ja | n.v.t. | Ja |
 | **Betaalmodel** | Per reactie | Commissie | Vast/maand | Vast/maand | Vast/maand |
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/software-migreren-elektricien-data-behouden" class="text-dark fw-semibold">Software migreren als elektricien: zo behoud je je data</a> →</p></div></div></div>
 
 ## Conclusie: kies slim
 
