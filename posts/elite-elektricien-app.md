@@ -8,7 +8,6 @@ image: "/images/blog/elite-elektricien-app.png"
 tags: ["Elite Plan", "Client App", "Innovatie"]
 cluster: "website"
 ---
-
 Als je vooral voor particulieren werkt is snelheid en een goede prijs belangrijk. Maar werk je voor zakelijke klanten? Aannemers, vastgoedbeleggers, woningbouwverenigingen of VvE-beheerders? Dan draait alles om **GEMAK**, **INZICHT** en **CONTROLE**.
 
 Deze partijen hebben vaak tientallen panden of projecten in beheer. Ze worden gek van bellen, mailen en appen over "wanneer kom je nou?", "is de storing al verholpen?", "heb je die bon al gestuurd?". Ze verdrinken in de communicatie. Ze willen grip op hun projecten.
@@ -23,6 +22,8 @@ Als 'Elite' gebruiker van ElektroAI bouwen wij een eigen app voor jouw bedrijf (
 - **Direct Melden:** Nieuwe klus? Foto maken van het probleem, beschrijving doorgeven, urgentie selecteren en verzenden. Het staat direct in jouw systeem als werkbon. Geen telefoontjes of verloren appjes meer.
 - **Live Status:** De klant ziet in de app real-time de status: "Aanvraag ontvangen", "Ingepland voor dinsdag 09:00", "Elektricien onderweg", "Werkzaamheden gestart", "Opgeleverd". Dit scheelt jou honderden telefoontjes met "hoe staat het ermee?".
 - **Archief:** Alle facturen, foto's van het werk (voor/na) en garanties op één plek. De klant heeft zijn eigen dossier altijd bij de hand. Administratie is voor hem een fluitje van een cent.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/prijzen-website-elektricien-transparantie" class="text-dark fw-semibold">Prijzen op je website als elektricien: transparantie die vertrouwen wekt</a> →</p></div></div></div>
 
 ## De "Lock-In" Strategie
 
