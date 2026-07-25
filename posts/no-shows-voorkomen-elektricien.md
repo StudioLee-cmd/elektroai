@@ -55,6 +55,8 @@ Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in
 
 Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/elektricien-afspraak-bevestiging-no-shows" class="text-dark fw-semibold">No-shows als elektricien voorkomen met slimme bevestigingen</a> →</p></div></div></div>
+
 ## Conclusie
 
 No-shows zijn niet onvermijdelijk. Met drie automatische berichten op de juiste momenten verminder je ze met 50-70%. Dat is direct meer omzet, minder frustratie en een betrouwbaardere planning.
