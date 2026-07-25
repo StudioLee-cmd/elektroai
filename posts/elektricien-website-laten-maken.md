@@ -8,7 +8,6 @@ image: "/images/blog/elektricien-website-laten-maken.jpg"
 tags: ["Website", "Marketing"]
 cluster: "website"
 ---
-
 De meeste elektriciens vinden hun klanten via Werkspot, mond-tot-mondreclame of een vermelding in de Gouden Gids die niemand meer openslaat. Een eigen website? Dat staat ergens onderaan de prioriteitenlijst, na de volgende klus.
 
 Maar ondertussen zoeken dagelijks honderden mensen in jouw regio op "elektricien bij mij in de buurt" of "storing groepenkast hulp." Als je geen website hebt, vinden ze je niet.
@@ -98,6 +97,8 @@ Nee, combineer beide. Gebruik Werkspot als aanvulling terwijl je eigen website g
 ### Hoeveel leads kan ik verwachten via mijn website?
 
 Na 3-6 maanden SEO-werk en een goed Google Bedrijfsprofiel: 5-15 leads per maand, afhankelijk van je regio en concurrentie.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/elite-elektricien-app" class="text-dark fw-semibold"></a> →</p></div></div></div>
 
 ## Conclusie
 
