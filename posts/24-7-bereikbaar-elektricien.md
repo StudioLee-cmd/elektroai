@@ -8,7 +8,6 @@ image: "/images/blog/24-7-bereikbaar-elektricien.png"
 tags: ["Elektricien", "Bereikbaarheid", "Spoedklussen"]
 cluster: "voice-ai"
 ---
-
 ## Het dilemma van elke elektricien
 
 Je bent bezig met een meterkastvernieuwing. Je telefoon gaat — een bedrijf met een stroomstoring. Je kunt niet opnemen want je werkt met onder spanning staande delen. Tegen de tijd dat je terugbelt, is het probleem al door een ander opgelost.
@@ -65,6 +64,8 @@ De elektricien die een bedrijf redt bij een stroomstoring, wordt de vaste elektr
 | Alleen werkuren | 8-12 | €3.000 - €6.000 |
 | Met voicemail | 5-8 | €2.000 - €4.000 |
 | 24/7 via AI | 0-2 | < €500 |
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/spoedklussen-elektricien-snelheid-reageren" class="text-dark fw-semibold">Spoedklussen binnenhalen als elektricien: snelheid van reageren die het verschil maakt</a> →</p></div></div></div>
 
 ## Conclusie
 
