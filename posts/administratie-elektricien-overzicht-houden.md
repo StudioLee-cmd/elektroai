@@ -8,7 +8,6 @@ image: "/images/blog/administratie-elektricien-overzicht-houden.jpg"
 tags: ["Administratie", "Efficiëntie", "Tools"]
 cluster: "automatisering"
 ---
-
 ## Waarom administratie ertoe doet
 
 Als elektricien draait alles om vakmanschap — veilige installaties, tevreden klanten, schoon werk. Maar zonder goede administratie loop je het risico dat facturen vergeten worden, materiaalkosten uit de hand lopen en je aan het einde van het jaar voor verrassingen staat.
@@ -63,6 +62,8 @@ Er zijn betaalbare tools die het leven van een elektricien een stuk makkelijker 
 - **Kilometerregistratie**: bijhouden voor belastingaangifte, veel apps doen dit automatisch
 
 De investering is minimaal — de meeste pakketten kosten €10-20 per maand — maar de tijdsbesparing is enorm.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-voorkomen-elektricien" class="text-dark fw-semibold">No-shows voorkomen als elektricien: zo houd je je planning vol</a> →</p></div></div></div>
 
 ## Structuur aanbrengen in je bedrijf
 
