@@ -7,7 +7,6 @@ image: "/images/blog/hoe-elektriciens-meer-klanten-krijgen-via-google.png"
 tags: ["Vindbaarheid", "Google", "Klanten", "Elektricien"]
 cluster: "vindbaarheid"
 ---
-
 ## Lokaal gevonden worden als elektricien: zo werkt het
 
 Als iemand een elektricien nodig heeft — een storing, nieuwe groepenkast, EV-laadpaal — pakt hij zijn telefoon en zoekt lokaal. Wie bovenaan staat in Google Maps, krijgt het telefoontje. Wie op pagina twee staat, bestaat niet voor die klant.
@@ -33,7 +32,7 @@ Reageer ook op elke review. Google beloont actieve profielen met een hogere posi
 
 ## Stap 2: Meer reviews = hogere positie + meer vertrouwen
 
-Elektra is een vak waarbij klanten veel vertrouwen stellen in de vakman. Reviews zijn daarin het bewijs. Een elektricien met 50 reviews en 4,9 sterren wordt sneller gebeld dan iemand met 8 reviews — ook al is die laatste net zo goed.
+Elektra is een vak waarbij klanten veel [vertrouwen](/reviews) stellen in de vakman. Reviews zijn daarin het bewijs. Een elektricien met 50 reviews en 4,9 sterren wordt sneller gebeld dan iemand met 8 reviews — ook al is die laatste net zo goed.
 
 Vraag na elke klus om een review. Automatisch, via WhatsApp:
 
