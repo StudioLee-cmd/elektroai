@@ -8,7 +8,6 @@ image: "/images/blog/ai-telefoniste-voor-elektriciens.png"
 tags: ["Voice AI", "Innovatie", "Ondernemen"]
 cluster: "voice-ai"
 ---
-
 Het meest frustrerende moment voor een elektricien? Je staat net met je handen vol kabels in een groepenkast, of erger nog, je bent onder spanning aan het meten en je concentratie mag niet verbroken worden. Het moet NU veilig gebeuren. En dan... gaat je telefoon. Je voelt hem trillen in je broekzak. Je weet dat het een potentiële klant kan zijn met een mooie klus.
 
 Maar je kunt niet opnemen. Je handen zitten vol, je staat op een trap, en als je nu stopt, verlies je je overzicht van de bedrading. Dus je laat hem gaan. Je denkt: "Ik bel straks wel terug."
@@ -23,7 +22,7 @@ Je telefoon blijft gewoon in je zak (of in de bus). Jij blijft gefocust op je we
 
 ## Voice AI: Je nieuwe planner die nooit pauze heeft
 
-Onze Voice AI is geen krakend bandje met een irritant keuzemenu ("Toets 1 voor planning..."). Klanten haten dat en hangen op. Dit is een geavanceerde AI (laten we haar Sarah noemen) die praat als een mens. Ze klinkt vriendelijk, professioneel, empathisch en ze weet alles van je bedrijf.
+Onze [Voice AI](/voice-ai) is geen krakend bandje met een irritant keuzemenu ("Toets 1 voor planning..."). Klanten haten dat en hangen op. Dit is een geavanceerde AI (laten we haar Sarah noemen) die praat als een mens. Ze klinkt vriendelijk, professioneel, empathisch en ze weet alles van je bedrijf.
 
 ### Wat Sarah voor je doet:
 - **24/7 Opnemen:** Ook als jij vrij bent, in een kruipruimte zit, slaapt, onder de douche staat of op vakantie bent. Je bedrijf is altijd 'open'. Een klant die op zondagavond belt voor een stroomstoring? Sarah staat ze te woord.
