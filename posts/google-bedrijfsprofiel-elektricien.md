@@ -8,10 +8,9 @@ image: "/images/blog/google-bedrijfsprofiel-elektricien.png"
 tags: ["Google", "Lokaal", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
-
 ## Waarom Google Bedrijfsprofiel onmisbaar is
 
-Als iemand zoekt op "elektricien in de buurt" of "storing elektra [plaatsnaam]", bepaalt Google Bedrijfsprofiel wie er bovenaan verschijnt. Dit zijn de drie bedrijven in het Local Pack — de prominente kaartweergave boven de reguliere zoekresultaten.
+Als iemand zoekt op "elektricien in de buurt" of "storing elektra [plaatsnaam]", bepaalt Google Bedrijfsprofiel wie er bovenaan verschijnt. Dit zijn de drie bedrijven in het Local Pack — de prominente kaartweergave boven de reguliere [zoekresultaten](/seo).
 
 Voor elektriciens is deze zichtbaarheid cruciaal. 46% van alle Google-zoekopdrachten heeft een lokale intentie. Als je daar niet verschijnt, mis je bijna de helft van je potentiële klanten. De concurrent die wél in het Local Pack staat, pakt die klussen.
 
