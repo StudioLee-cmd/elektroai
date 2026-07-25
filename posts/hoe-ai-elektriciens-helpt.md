@@ -8,7 +8,6 @@ image: "/images/blog/hoe-ai-elektriciens-helpt.png"
 tags: ["AI", "Efficiëntie", "Automatisering"]
 cluster: "automatisering"
 ---
-
 Het runnen van een elektriciensbedrijf anno 2026 is topsport. Je bent niet alleen vakspecialist die installaties veilig moet aansluiten, maar je bent ook boekhouder, planner, telefoniste, marketingmanager en klantenservice in één. Veel ondernemers die wij spreken, staan de hele dag bedrading te leggen, maar als ze eerlijk kijken, zijn ze 's avonds nog uren bezig met randzaken. Ruis in de vorm van eindeloze telefoontjes, appjes, offertes uitwerken en facturen doen.
 
 De realiteit is dat de markt verandert. Klanten verwachten directe reacties, strakke communicatie en 24/7 bereikbaarheid. Als zelfstandige elektricien of eigenaar van een klein installatiebedrijf is dat bijna onmogelijk te bolwerken zonder dat je privéleven eronder lijdt. Gelukkig is er een oplossing die geen extra personeel vereist: Kunstmatige Intelligentie (AI).
@@ -36,7 +35,7 @@ Met ElektroAI is dit verleden tijd. Het systeem kan oneindig veel gesprekken teg
 ## Wat vervangt dit systeem precies?
 
 Veel ondernemers denken dat AI hun vakmanschap wil vervangen. Dat is onzin. Een robot kan (voorlopig) niet tippen aan het gevoel van een vakman die een installatie veilig aansluit. Het gaat om het vervangen van het dure, trage kantoorwerk. Onze AI tools vervangen in feite drie partijen:
-- **De Telefoniste/Planner:** Een kracht op kantoor kost je al snel €35.000 per jaar. Onze Voice AI (onderdeel van het Elite pakket) neemt 24/7 op, plant afspraken, en beantwoordt vragen over prijzen, doorlooptijden en werkzaamheden.
+- **De Telefoniste/Planner:** Een kracht op kantoor kost je al snel €35.000 per jaar. Onze [Voice AI](/voice-ai) (onderdeel van het Elite pakket) neemt 24/7 op, plant afspraken, en beantwoordt vragen over prijzen, doorlooptijden en werkzaamheden.
 - **Het Marketingbureau:** Wil je meer exclusieve klussen, zoals domotica of complete renovaties? Vroeger betaalde je een bureau €1.500 per maand. Onze Social Media AI & Tekstschrijver AI regelen je zichtbaarheid. Ze posten je strakste installaties op Instagram en schrijven blogs die klanten aantrekken.
 - **De Boekhouder (deels):** Natuurlijk heb je een boekhouder nodig. Maar het dagelijkse werk? Kassa AI koppelt alles aan elkaar. Geen gedoe met bonnetjes meer, facturen worden automatisch verstuurd na oplevering.
 
@@ -44,6 +43,6 @@ Veel ondernemers denken dat AI hun vakmanschap wil vervangen. Dat is onzin. Een 
 
 De vraag is niet "of" je AI gaat gebruiken, maar "wanneer". Je concurrentie is er waarschijnlijk al mee bezig. Je kunt doorgaan met alles zelf doen en jezelf uitputten. Of je kiest voor slim ondernemen en zet technologie voor je aan het werk.
 
-Het gaat hier niet om luiheid, maar om efficiëntie. Je huurt voor een fractie van de prijs van één medewerker een compleet team aan virtuele assistenten in. Een systeem dat nooit slaapt, nooit zeurt, nooit vakantie heeft en altijd levert. Onze **Managed Service** optie betekent zelfs dat wij alles voor je instellen. Jij hoeft alleen maar te installeren.
+Het gaat hier niet om luiheid, maar om efficiëntie. Je huurt voor een fractie van de prijs van één medewerker een compleet team aan virtuele assistenten in. Een systeem dat nooit slaapt, nooit zeurt, nooit vakantie heeft en altijd levert. Onze **[Managed Service](/blog/elektroai-vs-personeel)** optie betekent zelfs dat wij alles voor je instellen. Jij hoeft alleen maar te installeren.
 
 Wil je weten wat ElektroAI voor jouw bedrijf kan betekenen? Doe de gratis Readiness Scan of vraag een demo aan. De toekomst van het elektriciensvak is hier, en het is digitaal.
