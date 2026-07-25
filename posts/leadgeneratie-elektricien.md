@@ -7,7 +7,6 @@ image: "/images/blog/leadgeneratie-elektricien.png"
 tags: ["Leadgeneratie", "Klantwerving", "Groei"]
 cluster: "automatisering"
 ---
-
 Als elektricien ben je waarschijnlijk goed vindbaar op Google — misschien heb je je [Google Bedrijfsprofiel al geoptimaliseerd](/blog/google-bedrijfsprofiel-elektricien) en verzamel je actief reviews. Maar wat als Google morgen zijn algoritme verandert? Of als een concurrent met een groter budget je wegdrukt uit de top 3?
 
 Slim ondernemen betekent niet afhankelijk zijn van één kanaal. In dit artikel ontdek je vijf leadbronnen die de meeste elektriciens over het hoofd zien, maar die een stabiele stroom aan opdrachten opleveren — onafhankelijk van Google.
@@ -77,7 +76,7 @@ De krachtigste leadgeneratiestrategie combineert online zichtbaarheid met offlin
 | Social media portfolio | Energieadviseurs |
 | Email marketing | Woningcorporaties / VvE's |
 
-Elk kanaal voedt de andere. Een aannemer die je doorverwijst, stuurt de klant naar je website. De klant leest je reviews, bekijkt je portfolio, en neemt contact op. Meerdere contactmomenten = meer vertrouwen = meer klussen.
+Elk kanaal voedt de andere. Een aannemer die je doorverwijst, stuurt de klant naar je website. De klant leest je reviews, bekijkt je portfolio, en neemt contact op. Meerdere contactmomenten = meer [vertrouwen](/reviews) = meer klussen.
 
 ## Laat de marketing aan specialisten over
 
