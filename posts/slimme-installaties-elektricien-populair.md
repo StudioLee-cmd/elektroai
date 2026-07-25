@@ -55,6 +55,8 @@ Je hoeft niet meteen alles aan te bieden. Begin met de twee of drie installaties
 
 Noem je smart home services op je website en in je offertes. De klant die je belt voor een storing in de groepenkast, is dezelfde klant die over drie maanden een slimme thermostaat wil. Als jij die dienst aanbiedt, hoeft hij niet verder te zoeken.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/elektricien-bus-opschrift-marketing" class="text-dark fw-semibold">Bus-opschrift elektricien: van anonieme bestelbus naar marketing-machine</a> →</p></div></div></div>
+
 ## Slim installeren is slim ondernemen
 
 De markt voor slimme installaties groeit sneller dan het aantal elektriciens dat ze aanbiedt. Dat is een kans. Door nu te investeren in kennis en zichtbaarheid, positioneer je jezelf als de elektricien die meer kan dan alleen storingen oplossen.
