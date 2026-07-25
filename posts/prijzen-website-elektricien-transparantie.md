@@ -36,6 +36,8 @@ Dit is het argument dat de meeste elektriciens missen. "Elektricien kosten" en "
 
 Als iemand je website verlaat omdat de prijzen te hoog zijn, was die klant geen match. Je bespaart jezelf het telefoontje, het inspectiebezoek en de offerte die toch niet geaccepteerd wordt. De klanten die wel bellen na het zien van je prijzen, weten wat ze kunnen verwachten en zijn serieuzer. Dat bespaart je uren per week aan niet-converterende gesprekken.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/elektricien-website-laten-maken" class="text-dark fw-semibold">Elektricien website laten maken: meer storingsaanvragen via je site</a> →</p></div></div></div>
+
 ## Begin met drie diensten
 
 Voeg vandaag richtprijzen toe voor je drie meest voorkomende klussen. Meet een maand lang het effect op je offerteaanvragen. De meeste elektriciens die de stap zetten, gaan niet meer terug.
