@@ -7,7 +7,6 @@ image: "/images/blog/werkspot-alternatief-elektricien.jpg"
 tags: ["Vergelijking", "Werkspot", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Het Werkspot-model: wat het je echt kost
 
 Werkspot rekent €15 tot €30 per reactie op een aanvraag. Niet per gewonnen klus — per reactie. Of je de klus krijgt of niet, je betaalt. Bij 20 reacties per maand zit je al snel op €300 tot €600 aan leadkosten, terwijl je slechts een fractie van die leads daadwerkelijk omzet in werk.
@@ -68,6 +67,8 @@ Wat dat betekent in de praktijk:
 Jouw bijdrage: **15 minuten per maand**. Dat is alles. De rest doen wij. Dat is geen software kopen — dat is een traditioneel marketingbureau vervangen voor een fractie van de prijs.
 
 Met managed service benadrukken wij jouw certificeringen en expertise in je content en Google-profiel. Klanten die jou via Google vinden, weten dat ze een gecertificeerde vakman kiezen — dat is een heel ander gesprek dan op Werkspot.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/storm-en-water-calamiteiten-respons-elektricien" class="text-dark fw-semibold">Storm en water: calamiteiten-respons elektricien</a> →</p></div></div></div>
 
 ## Wat je opbouwt blijft van jou
 
