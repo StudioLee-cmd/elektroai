@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Voice AI", "Bereikbaarheid", "WhatsApp", "Antwoordservice", "Lead Opvolging"]
 cluster: "voice-ai"
 ---
-
 Een elektricien die op een ladder een verdeelinrichting bedraadt, hoort zijn telefoon overgaan. Hij kan niet opnemen — schroeven los houden boven 230V is niet het moment om af te leiden. De beller — een woningeigenaar met een doorgeslagen aardlekschakelaar — wacht acht seconden en belt dan de volgende elektricien in zijn Google-zoekresultaat. Eén gemiste oproep = één klus minder, en gemiddeld €280 tot €650 omzet weg.
 
 Dit artikel is voor jou als elektricien-bedrijfseigenaar of zelfstandige die structureel oproepen mist tijdens werkuren of buiten kantooruren. We vergelijken drie realistische oplossingen: een traditionele antwoordservice, een voice AI-telefonist, en een WhatsApp auto-reply met terugbelservice. Kosten, leadbehoud, klantbeleving, en welke past bij welk type elektriciens-bedrijf.
@@ -85,6 +84,8 @@ Voor een gemiddelde elektricien zijn de zwart-wit cijfers:
 - ROI: 18× tot 36× de investering
 
 Dat is waarom voice AI in 2026 voor de meeste elektriciens de logische eerste stap is. De [tarieven voor elektrotechnisch ondersteuning](https://www.elektroai.nl/tarieven) zijn voor 90 procent van Nederlandse installateurs binnen één maand terugverdiend.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-telefonist-trainen-elektricien-hoeveel-data" class="text-dark fw-semibold">AI telefonist trainen als elektricien: hoeveel data?</a> →</p></div></div></div>
 
 ## Begin klein, schaal slim
 
