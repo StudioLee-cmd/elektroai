@@ -80,6 +80,8 @@ Juist voor zzp'ers is het waardevol. Als je alleen werkt, kun je niet tegelijk o
 
 Zolang je contactgegevens alleen gebruikt voor het beantwoorden van de aanvraag en opvolging, zit je binnen de AVG-regels. Klanten verwachten dat je reageert op hun eigen verzoek.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/software-voor-elektriciens-welke-heb-je-nodig" class="text-dark fw-semibold">Software voor elektriciens: wat je nodig hebt en de kosten</a> →</p></div></div></div>
+
 ## Conclusie
 
 Als elektricien win je klussen met snelheid, niet alleen met vakmanschap. Automatische opvolging zorgt ervoor dat je geen enkele aanvraag mist en dat elke offerte de aandacht krijgt die het verdient. Meer klussen, minder gemiste kansen — het begint met een snellere reactie.
