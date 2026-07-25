@@ -96,6 +96,8 @@ Koppel dit aan een [AI chatbot](/chatbot) of formulier op je website dat deze he
 
 In onze managed service koppelen we bus-belettering aan je volledige online aanwezigheid: website, Google Bedrijfsprofiel, reviews-flow en intake-tracking. Zo zie je binnen drie maanden zwart op wit hoeveel aanvragen je bus heeft opgeleverd en hoe je die lijn in een tweede of derde voertuig doortrekt.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/mond-tot-mond-reclame-elektricien-1-klant-naar-3-klussen" class="text-dark fw-semibold">Mond-tot-mond reclame elektricien: 1 klant naar 3 klussen</a> →</p></div></div></div>
+
 ## Groei-of-Geld-Terug Garantie
 
 Als de herkenbaarheid en aanvragen na zes maanden niet meetbaar verbeterd zijn, krijg je je investering terug. Wil je eerst zien waar jouw online aanwezigheid nu staat, vraag een [gratis scan](/gratis-scan) aan of bekijk de [tarieven](/tarieven). Jij legt de bedrading, wij regelen de rest.
