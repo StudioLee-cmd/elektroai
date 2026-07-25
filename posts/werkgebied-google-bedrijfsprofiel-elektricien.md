@@ -7,7 +7,6 @@ image: "/images/blog/werkgebied-google-bedrijfsprofiel-elektricien.jpg"
 tags: ["Google Bedrijfsprofiel", "Lokale SEO", "Elektricien"]
 cluster: "vindbaarheid"
 ---
-
 ## In het kort
 
 - **Eén postcode is te krap**, drie provincies is te ruim. De sweet spot ligt tussen 15 en 30 km of een groep nabijgelegen plaatsen.
@@ -52,7 +51,7 @@ De vuistregel: het gebied dat je realistisch kunt bereiken binnen één uur rijd
 
 ## Hoe je het werkgebied praktisch instelt
 
-Twee manieren in Google Bedrijfsprofiel: per postcode of per plaats. Voor elektriciens werkt "per plaats" beter omdat het herkenbaarder is voor zoekers.
+Twee manieren in [Google Bedrijfsprofiel](/blog/google-posts-elektricien): per postcode of per plaats. Voor elektriciens werkt "per plaats" beter omdat het herkenbaarder is voor zoekers.
 
 **Stap voor stap:**
 
