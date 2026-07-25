@@ -8,7 +8,6 @@ image: "/images/blog/nen-1010-certificering-elektricien-online.png"
 tags: ["Elektricien", "Certificering", "NEN 1010"]
 cluster: "website"
 ---
-
 ## Je hebt de certificering — maar weet je klant dat ook?
 
 Als gecertificeerd elektricien heb je hard gewerkt voor je NEN 1010 certificering. Je kent de normen, je werkt volgens de voorschriften, en je installaties zijn veilig. Maar als een potentiele klant je website bekijkt of je Google profiel opent — ziet hij dat ook?
@@ -72,11 +71,13 @@ Elektriciens die hun certificeringen prominent tonen, rapporteren:
 
 Kijk eens naar de websites van je concurrenten. De meeste vermelden hun certificeringen niet of nauwelijks. Door het wél te doen, onderscheid je je direct. Het is een eenvoudige aanpassing met een groot effect.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/keurmerken-elektricien-website-trust-signalen" class="text-dark fw-semibold">Keurmerken op je elektricien-website tonen: trust-signalen</a> →</p></div></div></div>
+
 ## Conclusie
 
 Je NEN 1010 certificering is meer dan een papiertje — het is een vertrouwenssignaal dat klanten overtuigt. Zet het in als marketingtool: prominent op je website, in je Google profiel, op je offertes en in je communicatie.
 
-Met [ElektroAI](/) helpen we je bij een professionele online aanwezigheid die vertrouwen uitstraalt. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [ElektroAI](/) helpen we je bij een professionele [online aanwezigheid](/gratis-website) die vertrouwen uitstraalt. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer klanten wint met je certificeringen.
 
