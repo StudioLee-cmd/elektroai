@@ -50,6 +50,8 @@ Bij storingen zoeken klanten niet volgende week een elektricien. Ze willen vanda
 
 Vermeld op je website en in je Google profiel expliciet dat je beschikbaar bent voor spoed. Een zin als "Storing? Bel direct, dezelfde dag geholpen" kan het verschil maken. Combineer dit met een [AI telefonist](/voice-ai) die ook buiten kantooruren oproepen beantwoordt en je mist geen spoedklus meer.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/laadpaal-leads-elektricien-eigen-website" class="text-dark fw-semibold">Laadpaal-leads winnen via Google: leadmachine elektricien</a> →</p></div></div></div>
+
 ## Begin met de basis
 
 Meer weten over hoe [SEO](/seo) werkt voor elektriciens? Het begint met je Google profiel compleet maken, vijf klanten om een review vragen en je website optimaliseren voor je belangrijkste diensten en regio. Dat kost een middag en kan je zichtbaarheid binnen een maand verdubbelen.
