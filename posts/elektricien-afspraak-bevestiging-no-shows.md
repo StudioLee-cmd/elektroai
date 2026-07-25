@@ -118,6 +118,8 @@ Een no-show overkomt iedereen, ook met perfecte automatisering. Wat doe je dan?
 
 Een no-show hoeft geen verloren klant te zijn. Veel klanten verzetten en komen alsnog. Maar dat lukt alleen als je het netjes oppakt.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/gemiste-afspraken-elektricien-kosten" class="text-dark fw-semibold">Gemiste afspraken als elektricien: wat het je kost</a> →</p></div></div></div>
+
 ## Begin deze week
 
 Drie acties voor de komende zeven dagen:
