@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Vindbaarheid", "Concurrentieanalyse", "Lokale Marketing", "Benchmark", "Elektricien"]
 cluster: "branding"
 ---
-
 **In het kort:**
 - 80% van de Nederlandse MKB-elektriciens doet nooit een gestructureerde concurrentieanalyse van hun directe omgeving. Ze nemen aan dat ze hun lokale markt kennen, maar missen verschuivingen in openingstijden, nieuwe specialisaties of pricing-aanpassingen die binnen 6 maanden de klant-stroom kunnen verschuiven.
 - Een complete analyse van zes datapunten over de drie tot vijf dichtstbijzijnde concurrenten kost 30 minuten en levert direct bruikbare beslissingen op: waar onderscheid je je nu, waar zit een gat in het lokale aanbod, welk segment is overbezet.
@@ -110,6 +109,8 @@ De analyse heeft pas waarde als je hem omzet in beslissingen. Drie typische acti
 **Bij gele/gelijke datapunten op alles:** je hebt een differentiatie-probleem. Geen reden om te concurreren op prijs (want concurrenten doen dat ook), wel reden om een sterke positionering rondom een specifiek voordeel uit te bouwen (snelle response, transparante communicatie, bepaalde niche).
 
 [Lees ook: Elektricien vindbaar in ChatGPT en AI-search: zo word je gevonden in de nieuwe zoekomgeving](/blog/elektricien-vindbaar-chatgpt-ai-search)
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/samenwerken-als-elektricien-partnerschappen" class="text-dark fw-semibold">Samenwerken als elektricien: partnerschappen die je omzet verhogen</a> →</p></div></div></div>
 
 ## Wat StudioLee voor je inricht
 
