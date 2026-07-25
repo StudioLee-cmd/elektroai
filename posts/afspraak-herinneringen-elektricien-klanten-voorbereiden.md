@@ -7,7 +7,6 @@ image: "/images/blog/afspraak-herinneringen-elektricien-klanten-voorbereiden.jpg
 cluster: "automatisering"
 tags: ["Afspraakherinneringen", "WhatsApp", "Elektricien Marketing"]
 ---
-
 Een elektricien arriveert bij een klant voor het vervangen van een groep in de meterkast. Twintig minuten later staat hij nog steeds in de gang. De meterkast staat in de kelder, de meterkastsleutel ligt bij de buurman, en de bewoner had geen idee dat de stroom een uur uit moest. Drie kleine voorbereidings-fouten van de klant maken er een uur extra werk van. Allemaal te voorkomen met één bericht 24 uur eerder.
 
 Afspraak-herinneringen zijn voor elektriciens essentieel om twee redenen. Eén: meterkast-toegang en stroom-onderbreking moeten vooraf geregeld zijn. Twee: veel installatiewerk vraagt specifieke voorbereiding (sleutels, papieren, vrijgemaakte ruimtes). Een goed reminder-bericht regelt dat zonder dat de klant zelf moet bedenken wat nodig is. Dit artikel laat zien hoe je het doet, met templates per klus-type en de timing die werkt.
@@ -202,6 +201,8 @@ Maximaal twee per klus. Eén 24 (of 48) uur vooraf, één 1 uur vóór vertrek. 
 ### Kan ik dit ook voor offerte-opvolging gebruiken?
 
 Absoluut. Stuur een vriendelijke check-in 48 uur na een offerte. Vooral voor grotere installaties (laadpaal, complete groepenkast) levert dit veel reactie op. Onze pagina over [reviews](/reviews) gaat dieper in op klant-communicatie en opvolging.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/brandveiligheid-rookmelders-elektricien-2026" class="text-dark fw-semibold">Brandveiligheid en rookmelders als elektricien (2026)</a> →</p></div></div></div>
 
 ## Klaar om je no-shows en gemiste werkuren te halveren?
 
