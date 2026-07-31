@@ -27,7 +27,7 @@ ElektroAI is een 20-in-1 AI-platform voor elektriciensbedrijven. In plaats van l
 
 ## Het verschil in kosten
 
-Werkspot: €200–€600/maand aan credits, conversie 15–25%, klant is niet van jou.
+Werkspot: €200–€600/maand aan credits, wisselende conversie, klant is niet van jou.
 
 ElektroAI: vast maandtarief, 20 functies, klant vindt jou direct en is van jou. Geen commissie, geen concurrentie met andere elektriciens op dezelfde klus.
 
