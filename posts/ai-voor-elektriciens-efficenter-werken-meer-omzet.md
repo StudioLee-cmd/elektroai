@@ -22,7 +22,7 @@ Elektriciens zijn drukker dan ooit. De vraag naar elektrische installaties, laad
 
 Storingen wachten niet. Een bedrijf dat om 23:00 uur een storing meldt, wil niet tot de volgende ochtend wachten. Met een AI-gestuurde antwoorddienst neemt een virtuele assistent de melding aan, stelt prioriteit vast en plant de monteur in — ook buiten kantooruren.
 
-Elektriciensbedrijven die dit inzetten, zien 40% minder gemiste spoedmeldingen en hogere klanttevredenheid.
+Elektriciensbedrijven die dit inzetten, zien fors minder gemiste spoedmeldingen en hogere klanttevredenheid.
 
 ## Offertes voor laadpalen en zonnepanelen versnellen
 
