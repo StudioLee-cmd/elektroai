@@ -109,7 +109,7 @@ Meer klanten, minder gemiste kansen. Alles op autopilot.
 | Actie | Effect | Tijdsinvestering |
 |-------|--------|-----------------|
 | Google Bedrijfsprofiel optimaliseren | Direct meer zichtbaarheid | 2 uur |
-| Review-opvolging automatiseren | 3-5x meer reviews | Eenmalige setup |
+| Review-opvolging automatiseren | Structureel meer reviews | Eenmalige setup |
 | Aparte pagina's per dienst | Meer organisch verkeer | 1-2 dagen |
 | AI Voice Agent instellen | Nul gemiste storingen | Eenmalige setup |
 | Directories aanmaken | Meer lokale autoriteit | 1 uur |
