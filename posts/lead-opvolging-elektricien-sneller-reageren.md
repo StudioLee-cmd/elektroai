@@ -11,7 +11,7 @@ cluster: "automatisering"
 
 Als elektricien concurreer je op meer dan alleen prijs. De klant die belt met een kapotte groepenkast of een storing wil niet drie offertes vergelijken — die wil dat het vandaag nog opgelost wordt. De elektricien die als eerste opneemt, krijgt de klus.
 
-Dit geldt ook voor geplande klussen. Een klant die een offerte aanvraagt voor een nieuwe installatie belt meestal twee of drie elektriciens. Degene die als eerste terugbelt met een professioneel antwoord, wint in 78 procent van de gevallen.
+Dit geldt ook voor geplande klussen. Een klant die een offerte aanvraagt voor een nieuwe installatie belt meestal twee of drie elektriciens. Degene die als eerste terugbelt met een professioneel antwoord, wint veruit het vaakst.
 
 In de praktijk betekent dit dat een elektricien die binnen 5 minuten reageert op een aanvraag, vier keer meer kans heeft om de klus te winnen dan iemand die na een uur terugbelt. Niet omdat die snellere elektricien beter is — maar omdat de klant niet langer wil zoeken.
 
