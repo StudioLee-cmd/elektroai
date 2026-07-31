@@ -19,7 +19,7 @@ Lead-aggregators verkopen een laadpaal-aanvraag voor 35 tot 65 euro per stuk. Kl
 
 - 1 lead = 45 euro gemiddeld.
 - Lead wordt doorverkocht aan 3 tot 5 installateurs tegelijk.
-- Conversie van koude gedeelde lead naar geboekte klus: 12 tot 18 procent.
+- Conversie van koude gedeelde lead naar geboekte klus: laag, want je bent één van meerdere.
 - Effectieve kost per geboekte klus: 250 tot 375 euro.
 
 Vergelijk dat met je eigen leadmachine. Een goed gebouwde landingspagina met [lokale vindbaarheid in Google](/seo) levert na 4 tot 6 maanden 8 tot 20 directe aanvragen per maand op. Conversie op een directe, exclusieve aanvraag ligt tussen de 35 en 50 procent. Effectieve kost per klus: 50 tot 120 euro inclusief je eigen tijd. Drie keer goedkoper, zonder dat je de klant met vier andere installateurs hoeft te delen, en je krijgt de bestaande relatie er gratis bij voor toekomstige uitbreidingen (zonnepanelen, thuisbatterij).
@@ -84,7 +84,7 @@ Een doorsnee landingspagina concurreert met 30 andere installateurs. Een pagina 
 
 ## Snelheid wint: binnen 5 minuten reageren met AI
 
-Een laadpaal-aanvraag is doorgaans een vergelijkende aanvraag. De klant heeft 2 tot 4 installateurs benaderd. Wie als eerste reageert met een persoonlijk antwoord, wint in 60 tot 70 procent van de gevallen, ongeacht of zijn prijs de laagste is. Snelheid verslaat prijs.
+Een laadpaal-aanvraag is doorgaans een vergelijkende aanvraag. De klant heeft 2 tot 4 installateurs benaderd. Wie als eerste reageert met een persoonlijk antwoord, wint meestal, ongeacht of zijn prijs de laagste is. Snelheid verslaat prijs.
 
 Het probleem: jij bent op de kabelhaspel bezig met een groep aanleggen, niet bij je telefoon. Daarom werkt een [AI-telefonist die direct opneemt](/voice-ai) zo goed voor laadpaal-installateurs: hij neemt de aanvraag aan, stelt de juiste technische vragen (1-fase of 3-fase, afstand meterkast tot parkeerplek, bestaande Wallbox of nieuw), en stuurt de samenvatting in jouw WhatsApp. Jij belt 's avonds rustig terug, en de klant heeft het gevoel dat hij al stappen vooruit is gezet.
 
@@ -92,7 +92,7 @@ Het probleem: jij bent op de kabelhaspel bezig met een groep aanleggen, niet bij
 
 De grootste waarde van een laadpaal-klus zit niet in die ene klus. Het zit in:
 
-- De Google-review die je vraagt direct na oplevering (review-percentage 35 procent zonder vragen, 80 procent met geautomatiseerd verzoek).
+- De Google-review die je vraagt direct na oplevering (een geautomatiseerd verzoek levert er een veelvoud van op).
 - De vervolgklus over 12 tot 18 maanden: extra laadpunt, zonnepanelen, thuisbatterij, slimme energiebeheer.
 - De buurman die later vraagt wie de buurman zijn laadpaal heeft geïnstalleerd.
 
