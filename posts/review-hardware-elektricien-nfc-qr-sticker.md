@@ -72,13 +72,13 @@ De drie typische plekken waar elektriciens hun review-hardware inzetten zijn de 
 
 **In de werkbus**. Een QR-sticker aan de binnenkant van de schuifdeur is goud waard. Elke keer dat je gereedschap pakt of materiaal terugzet, ziet de klant het bordje. Het werkt passief, je hoeft er niks voor te doen en de klant wordt natuurlijk uitgenodigd. Een tweede sticker op de zijkant van je gereedschapskoffer doet hetzelfde werk: zichtbaar zonder opdringerig.
 
-**Op het klembord**. Het klembord is de plek waar je werkbon, contactgegevens en eventueel een offerte op klanten overdraagt. Een NFC-kaart in een transparante clip aan de achterkant betekent dat de klant tijdens het tekenen automatisch ziet dat hij een 5-sterren-review kan achterlaten. Gevolg: 30 tot 50 procent meer reviews dan wanneer je het alleen mondeling vraagt.
+**Op het klembord**. Het klembord is de plek waar je werkbon, contactgegevens en eventueel een offerte op klanten overdraagt. Een NFC-kaart in een transparante clip aan de achterkant betekent dat de klant tijdens het tekenen automatisch ziet dat hij een 5-sterren-review kan achterlaten. Gevolg: merkbaar meer reviews dan wanneer je het alleen mondeling vraagt.
 
 **Overhandigd aan de klant na de klus**. Sommige elektriciens geven hun klant na elke klus een visitekaartje en een NFC-kaart erbij. De klant neemt het mee, plakt het ergens, en kan dagen later alsnog tikken als hij eraan denkt. Het is laagdrempelig en geeft je een [review oplossing voor elektriciens](/review-pakket) die ook werkt voor klanten die in het moment vergaten een review achter te laten.
 
 ## Combineren met een WhatsApp-flow voor maximale conversie
 
-Hier zit de echte hefboom. Hardware alleen verzamelt misschien 20 tot 30 procent van de potentiële reviews. Hardware plus een geautomatiseerde WhatsApp-flow erna haalt dat percentage naar 60 tot 70.
+Hier zit de echte hefboom. Hardware alleen verzamelt maar een deel van de potentiële reviews. Hardware plus een geautomatiseerde WhatsApp-flow erna haalt daar een veelvoud uit.
 
 De logica: niet elke klant tikt op het moment zelf. Sommigen zijn moe na een lange dag, anderen vergeten het simpelweg. Maar diezelfde avond krijgen ze een vriendelijke WhatsApp met de tekst "Bedankt voor je vertrouwen vandaag, wil je een tip ter waarde van een paar tellen achterlaten?" plus een link. Dan zie je een tweede golf aan reviews binnenkomen.
 
@@ -90,7 +90,7 @@ Voor de volledige opzet van zo'n flow hebben we een aparte gids beschreven, [ele
 
 Een eerlijke waarschuwing voor wat we in de praktijk veel zien misgaan.
 
-**Geen follow-up flow geregeld**. Een sticker plakken en hopen op het beste is geen strategie. Zonder een tweede touchpoint (WhatsApp of e-mail) blijft je conversie op 20 procent steken. De sticker is een uitnodiging, de flow is de bevestiging.
+**Geen follow-up flow geregeld**. Een sticker plakken en hopen op het beste is geen strategie. Zonder een tweede touchpoint (WhatsApp of e-mail) blijft je conversie laag steken. De sticker is een uitnodiging, de flow is de bevestiging.
 
 **NFC-kaart in de werkbus laten liggen**. Acryl en goedkoop plastic werken niet onder een dashboard dat in de zomer 60 graden wordt. De chip zelf overleeft het misschien, het pasje vervormt. Bewaar je NFC-kaart in een mapje, in de cabine en niet bij het raam, of investeer in een kaart van duurzaam materiaal.
 
