@@ -13,7 +13,7 @@ Slim ondernemen betekent niet afhankelijk zijn van één kanaal. In dit artikel 
 
 ## Waarom diversificatie essentieel is
 
-De gemiddelde elektricien krijgt 60-80% van zijn nieuwe klanten via Google (organisch + Maps). Dat klinkt goed, tot je beseft dat je daarmee extreem kwetsbaar bent voor:
+De gemiddelde elektricien krijgt het grootste deel van zijn nieuwe klanten via Google (organisch + Maps). Dat klinkt goed, tot je beseft dat je daarmee extreem kwetsbaar bent voor:
 
 - **Algoritmewijzigingen** — Google past zijn ranking honderden keren per jaar aan
 - **Nieuwe concurrenten** — een nieuwe elektricien met een agressieve SEO-strategie kan je positie innemen
