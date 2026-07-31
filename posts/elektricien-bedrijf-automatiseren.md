@@ -58,7 +58,7 @@ Automatiseer deze contactmomenten:
 
 - 6 tot 10 uur per week tijdwinst
 - 30 tot 45 minuten minder reistijd per dag
-- 70 procent snellere offertes
+- Fors snellere offertes
 - Structurele herhaalopdrachten via automatische herinneringen
 
 De kosten: 40 tot 90 euro per maand. Bij een uurtarief van 60 euro verdien je dit terug met twee bespaarde uren per maand.
