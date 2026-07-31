@@ -10,14 +10,14 @@ cluster: "social-media"
 ---
 
 **In het kort:**
-- 78 procent van Nederlandse zelfstandige elektriciens komt niet aan social media toe omdat het te veel tijd kost (NVELE Marketing-monitor 2025). Resultaat: een lege Instagram-feed of een Facebook-pagina met de laatste post uit 2023. Patroon: alles-of-niets denken, terwijl 15 minuten per week genoeg is voor een consistente aanwezigheid.
+- De meeste Nederlandse zelfstandige elektriciens komen niet aan social media toe omdat het te veel tijd kost. Resultaat: een lege Instagram-feed of een Facebook-pagina met de laatste post uit 2023. Patroon: alles-of-niets denken, terwijl 15 minuten per week genoeg is voor een consistente aanwezigheid.
 - De truc: niet plannen, niet bedenken, niet bewerken. Op de werkdag zelf 3 foto's of korte video's maken tijdens momenten die toch al gebeuren (voor-na, tools, klant-bedankje), 1 keer per week op vrijdagmiddag 15 minuten besteden aan posten plus bijschrift. Geen storyboards, geen content-kalender, geen Canva-uren.
 - Vijf concrete ideeen voor 1 hele week posts: voor-na groepenkast, op-locatie-aankomst-shot, koffie-moment van het team, klantbedankje na de klus, een kleine educatieve tip in spreektaal. Elke post 1 foto, 2 zinnen tekst, plus 3 hashtags.
 - Een [social media voor elektriciens](/social-media) traject met AI-content-planner doet dit volledig automatisch: jij stuurt foto's via WhatsApp, AI schrijft het bijschrift, plant het in, post automatisch op je Instagram-Facebook-LinkedIn. Geen 15 minuten meer, totaal 0 minuten per week. Met een [gratis AI-scan voor elektriciens](/gratis-scan) zien we wat dit voor jouw bedrijf kan betekenen.
 
 ## Waarom social media voor elektriciens vaak vastloopt
 
-De meeste zelfstandige elektriciens denken bij "social media" aan het hele pakket: een content-strategie, professionele foto's, gepolijste videos, een Instagram-grid die strak is, hashtag-research, story-templates. Dat is niet alleen overkill, het is ook precies de reden waarom social media voor 78 procent van elektriciens nooit van de grond komt.
+De meeste zelfstandige elektriciens denken bij "social media" aan het hele pakket: een content-strategie, professionele foto's, gepolijste videos, een Instagram-grid die strak is, hashtag-research, story-templates. Dat is niet alleen overkill, het is ook precies de reden waarom social media bij de meeste elektriciens nooit van de grond komt.
 
 De realiteit van een werkdag:
 - 7:30 vertrek naar eerste klus
@@ -39,7 +39,7 @@ Bij elke groepenkast-vervanging: 1 foto VOOR (oude kast met losliggende draden),
 
 Bijschrift voorbeeld: "Vandaag in [stad]: groepenkast uit 1992 vervangen door moderne kast met aardlek per groep. Alles weer veilig. Voor zo'n klus reken op een halve dag."
 
-**Waarom dit werkt:** voor-na fotos hebben 4 tot 7 keer hogere engagement dan een willekeurige foto. Mensen scrollen even langzamer.
+**Waarom dit werkt:** voor-na fotos halen structureel meer engagement dan een willekeurige foto. Mensen scrollen even langzamer.
 
 **Tijdsinvestering:** 30 seconden voor de foto's, 1 minuut voor het bijschrift.
 
@@ -103,7 +103,7 @@ Totaal per week: 15 minuten gefocust plus 5 fotos genomen tijdens werk dat sowie
 
 ## Waarom dit werkt zonder AI
 
-15 minuten per week is haalbaar voor 95 procent van elektriciens. Het is geen content-kalender, geen storyboarding, geen Canva-design. Het is gewoon snapshots-en-bijschriften.
+15 minuten per week is voor vrijwel elke elektricien haalbaar. Het is geen content-kalender, geen storyboarding, geen Canva-design. Het is gewoon snapshots-en-bijschriften.
 
 Het effect: na 3 maanden heeft je Instagram 36 posts. Na 6 maanden 72. Mensen die je naam horen zoeken je op Instagram en zien een levende feed met echt werk, geen template-content. Dat is sterker dan welke gepolijste post-grid dan ook.
 
