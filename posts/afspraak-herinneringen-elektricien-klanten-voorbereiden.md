@@ -144,7 +144,7 @@ Lees ook hoe we de [voice-AI bereikbaarheid](/voice-ai) inzetten zodat klanten o
 
 ## Waarom WhatsApp het beste werkt voor elektriciens
 
-WhatsApp haalt voor elektriciens openrates van rond de 90 procent, vergeleken met 30-40 procent voor e-mail. Voor reminder-content waar de klant snel moet kunnen antwoorden over parkeren en sleutels, is dit cruciaal.
+WhatsApp-berichten worden bij elektriciens vrijwel altijd geopend, e-mail bij lange na niet. Voor reminder-content waar de klant snel moet kunnen antwoorden over parkeren en sleutels, is dit cruciaal.
 
 Daarnaast kan de elektricien in dezelfde WhatsApp-thread foto's vragen ("kun je een foto van je meterkast sturen?") of foto's delen ("dit moet er gebeuren"). Een onderhouden WhatsApp-thread met de klant fungeert als mini-CRM die aan elke specifieke installatie hangt.
 
@@ -206,6 +206,6 @@ Absoluut. Stuur een vriendelijke check-in 48 uur na een offerte. Vooral voor gro
 
 ## Klaar om je no-shows en gemiste werkuren te halveren?
 
-Een goed reminder-systeem is de goedkoopste verbetering die een elektriciens-bedrijf kan doorvoeren. Vijf templates, één uur setup en je werkuren zijn 10 tot 15 procent waardevoller per maand. Wij richten dit standaard in voor elektriciens die met ons werken, inclusief koppeling met je agenda en automatische reactie-opvang.
+Een goed reminder-systeem is de goedkoopste verbetering die een elektriciens-bedrijf kan doorvoeren. Vijf templates, één uur setup en je haalt merkbaar meer waarde uit dezelfde werkuren. Wij richten dit standaard in voor elektriciens die met ons werken, inclusief koppeling met je agenda en automatische reactie-opvang.
 
 Wil je dit niet zelf opzetten? Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar in jouw planning de meeste uren weglekken. Werkt het niet? Geld terug, dat is onze Groei-of-Geld-Terug Garantie.
