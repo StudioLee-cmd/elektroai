@@ -16,7 +16,7 @@ Maar ondertussen zoeken dagelijks honderden mensen in jouw regio op "elektricien
 
 ### Spoedopdrachten starten online
 
-Bij een kortsluiting, stroomuitval of defecte groepenkast pakt iemand zijn telefoon en zoekt op Google. **85% van de spoedopdrachten** voor elektriciens begint met een zoekopdracht. Geen website = onzichtbaar op het moment dat de klant je het hardst nodig heeft.
+Bij een kortsluiting, stroomuitval of defecte groepenkast pakt iemand zijn telefoon en zoekt op Google. **Vrijwel elke spoedopdracht** voor elektriciens begint met een zoekopdracht. Geen website = onzichtbaar op het moment dat de klant je het hardst nodig heeft.
 
 ### Werkspot kost je geld per lead
 
