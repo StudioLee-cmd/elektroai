@@ -59,6 +59,6 @@ Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zon
 
 ## Conclusie
 
-No-shows zijn niet onvermijdelijk. Met drie automatische berichten op de juiste momenten verminder je ze met 50-70%. Dat is direct meer omzet, minder frustratie en een betrouwbaardere planning.
+No-shows zijn niet onvermijdelijk. Met drie automatische berichten op de juiste momenten breng je ze fors terug. Dat is direct meer omzet, minder frustratie en een betrouwbaardere planning.
 
 Benieuwd hoe dit werkt voor jouw installatiebedrijf? [Vraag een gratis scan aan](/gratis-scan) en we laten het je zien.
