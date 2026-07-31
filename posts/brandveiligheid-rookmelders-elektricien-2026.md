@@ -9,14 +9,14 @@ tags: ["Specialisatie", "Brandveiligheid", "NEN 2555"]
 cluster: "automatisering"
 ---
 
-Sinds 1 juli 2022 zijn rookmelders verplicht in elke Nederlandse woning, ongeacht bouwjaar. Drie jaar later voldoet zo'n 35 tot 45 procent van de oudere woningen nog steeds niet aan de norm. Voor een elektricien is dat een marktsegment van honderdduizenden adressen, met installatie-tickets van 150 tot 600 euro per woning, klaar in 30 tot 90 minuten. Het werk is technisch eenvoudig, de juridische positionering is helder (NEN 2555 is leidend), en de marketing-haak is sterk: "wettelijk verplicht, klaar binnen een uur, vaste prijs".
+Sinds 1 juli 2022 zijn rookmelders verplicht in elke Nederlandse woning, ongeacht bouwjaar. Drie jaar later voldoet een fors deel van de oudere woningen nog steeds niet aan de norm. Voor een elektricien is dat een marktsegment van honderdduizenden adressen, met installatie-tickets van 150 tot 600 euro per woning, klaar in 30 tot 90 minuten. Het werk is technisch eenvoudig, de juridische positionering is helder (NEN 2555 is leidend), en de marketing-haak is sterk: "wettelijk verplicht, klaar binnen een uur, vaste prijs".
 
-Toch hebben minder dan 15 procent van de Nederlandse elektriciensbedrijven brandveiligheid als specifiek aanbod. Dit artikel zet stap voor stap uiteen hoe je dat segment opbouwt: welke producten, welke prijsstrategie, hoe je in 2026 leads vindt, en wat de typische marges zijn op rookmelder-installaties en gerelateerde brandveiligheid-werkzaamheden.
+Toch heeft maar een klein deel van de Nederlandse elektriciensbedrijven brandveiligheid als specifiek aanbod. Dit artikel zet stap voor stap uiteen hoe je dat segment opbouwt: welke producten, welke prijsstrategie, hoe je in 2026 leads vindt, en wat de typische marges zijn op rookmelder-installaties en gerelateerde brandveiligheid-werkzaamheden.
 
 ## In het kort
 
 - Sinds 1 juli 2022 zijn rookmelders verplicht in elke Nederlandse woning (NEN 2555).
-- 35-45 procent van bestaande woningen voldoet nog niet, marktsegment van honderdduizenden adressen.
+- Een fors deel van de bestaande woningen voldoet nog niet, marktsegment van honderdduizenden adressen.
 - Een rookmelder-installatie levert 150-600 euro op, klaar in 30-90 minuten.
 - Begin met het basisaanbod (woninginstallatie). Bouw later uit naar koppelbare systemen, brandalarmen en bedrijfspanden.
 - De grootste fout is een lage prijs vragen. Klanten boeken op betrouwbaarheid en NEN-conformiteit, niet op laagste prijs.
@@ -68,7 +68,7 @@ Anders dan reguliere stop-en-stoel-werk komt rookmelder-vraag via specifieke tri
 1. **Woningoverdracht en E-keuring.** Bij verkoop van een woning vragen kopers vaak om bevestiging dat de elektriciteit en brandveiligheid op orde is. Veel makelaars kennen geen vaste elektricien voor rookmelder-installatie. Lees ook hoe je [E-keuring + makelaar-netwerk opbouwt](/blog/e-keuring-woningoverdracht-makelaars-netwerk).
 2. **Verzekeraars en schade-experts.** Na een woningbrand of brandschade zijn verzekeraars gemotiveerd om aanvullende rookmelders te laten installeren. Een vast contact bij regionale schade-bureaus levert doorlopend werk.
 3. **Google Bedrijfsprofiel met "rookmelder installatie" als categorie.** Voeg "brandveiligheid" + "rookmelder installatie" toe aan je Google-categorieën. Lokale zoekopdrachten op "rookmelder installeren \[stad\]" geven directe leads.
-4. **Bestaande klanten via WhatsApp-broadcast.** Al je klanten van de afgelopen 5 jaar voor wie je een meterkast vervangen hebt, een groepsverdeler hebt geplaatst, of zonnepanelen hebt aangelegd. Stuur een gepersonaliseerde mededeling: "Vanaf 2022 zijn rookmelders verplicht in elke woning. Heeft u uw woning al laten controleren?". Conversie 8-15 procent.
+4. **Bestaande klanten via WhatsApp-broadcast.** Al je klanten van de afgelopen 5 jaar voor wie je een meterkast vervangen hebt, een groepsverdeler hebt geplaatst, of zonnepanelen hebt aangelegd. Stuur een gepersonaliseerde mededeling: "Vanaf 2022 zijn rookmelders verplicht in elke woning. Heeft u uw woning al laten controleren?". De conversie is bescheiden, maar de lijst heb je al.
 5. **VvE's en woningcorporaties benaderen.** Verenigingen van eigenaars en woningbouwcorporaties hebben grote portefeuilles waar rookmelder-controle structureel moet plaatsvinden. Eén goed contract levert 80-200 woningen per jaar.
 
 Lees ook hoe je [als elektricien meer klanten via Google vindt](/seo) voor de bredere lokale SEO aanpak.
@@ -79,8 +79,8 @@ De grootste prijs-fout in rookmelder-aanbod is "vanaf 25 euro per melder" zetten
 
 - **Vaste pakketprijzen per woningtype.** Eengezinswoning (3 melders): 195 euro all-in. Tussenwoning (4 melders): 245 euro. Grote vrijstaande woning (5+ melders): 295-395 euro. Inclusief reiskosten en NEN 2555 conformiteits-certificaat.
 - **Aparte prijs voor koppelbaar en smart.** Niet bundelen met basis. Klanten kiezen bewust.
-- **Service-onderhoudscontract aanbieden.** Jaarlijkse test-controle voor 35-65 euro per jaar per woning. 60 procent van klanten neemt het af, geeft jou voorspelbare maandelijkse omzet.
-- **Meerwoningen-korting.** VvE's en woningbouwcorporaties krijgen schaalkorting (20-30 procent) wanneer ze 10+ woningen tegelijk laten installeren.
+- **Service-onderhoudscontract aanbieden.** Jaarlijkse test-controle voor 35-65 euro per jaar per woning. Een ruim deel van de klanten neemt het af, en dat geeft jou voorspelbare maandelijkse omzet.
+- **Meerwoningen-korting.** VvE's en woningbouwcorporaties krijgen schaalkorting wanneer ze 10+ woningen tegelijk laten installeren.
 
 Voor de bredere prijs-discussie lees hoe je prijzen op je elektricien-website plaatst.
 
@@ -138,7 +138,7 @@ Bied een controle-installatie aan voor een vast tarief (bijvoorbeeld 75 euro voo
 
 ### Werkt onderhoudscontract voor jaarlijkse rookmelder-controle?
 
-Ja, en het is een sterk recurring-revenue segment. Reken 35-65 euro per woning per jaar voor een jaarlijkse controle van alle melders, batterijen vervangen, en certificaat-update. Conversie van installatie naar onderhoudscontract is 50-70 procent.
+Ja, en het is een sterk recurring-revenue segment. Reken 35-65 euro per woning per jaar voor een jaarlijkse controle van alle melders, batterijen vervangen, en certificaat-update. Een ruim deel van de installaties gaat door naar een onderhoudscontract.
 
 ## Conclusie
 
