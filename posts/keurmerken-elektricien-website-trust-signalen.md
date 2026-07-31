@@ -10,9 +10,9 @@ cluster: "website"
 ---
 
 **In het kort:**
-- Bezoekers van een elektricien-website beslissen binnen 30 tot 90 seconden of ze contact opnemen of doorklikken naar een concurrent. Trust-signalen (keurmerken, certificeringen, reviews) zijn de hoofdfactor in die beslissing. Sites die 3 of meer keurmerken zichtbaar tonen converteren 28 tot 45 procent hoger dan sites zonder.
-- De 5 elektricien-keurmerken met de meeste impact in 2026: NEN 1010, NEN 3140, VCA-Basis of VCA-VOL, KIWA-erkenning en BIK-lidmaatschap. Geen daarvan is wettelijk verplicht om te tonen, maar elk schaalt je aanvraag-conversie met 8 tot 15 procent.
-- Plaatsing matters. Een keurmerk in de footer alleen wordt door 65 procent van bezoekers gemist. De combinatie van (1) footer-bar, (2) een dedicated "Kwaliteit en certificering" pagina, (3) vermelding bij elke monteur in het team-overzicht, en (4) verwijzing op service-pagina's, levert de hoogste conversie.
+- Bezoekers van een elektricien-website beslissen binnen 30 tot 90 seconden of ze contact opnemen of doorklikken naar een concurrent. Trust-signalen (keurmerken, certificeringen, reviews) zijn de hoofdfactor in die beslissing. Sites die 3 of meer keurmerken zichtbaar tonen converteren merkbaar beter dan sites zonder.
+- De 5 elektricien-keurmerken met de meeste impact in 2026: NEN 1010, NEN 3140, VCA-Basis of VCA-VOL, KIWA-erkenning en BIK-lidmaatschap. Geen daarvan is wettelijk verplicht om te tonen, maar elk helpt je aanvraag-conversie vooruit.
+- Plaatsing matters. Een keurmerk dat alleen in de footer staat wordt door de meeste bezoekers gemist. De combinatie van (1) footer-bar, (2) een dedicated "Kwaliteit en certificering" pagina, (3) vermelding bij elke monteur in het team-overzicht, en (4) verwijzing op service-pagina's, levert de hoogste conversie.
 - Een [gratis website voor elektriciens](/gratis-website) met deze 4 plekken standaard ingericht, plus een [chatbot voor elektriciens](/chatbot) die actief de certificeringen deelt met bezoekers, maakt het verschil tussen "wij hebben papieren" en "wij bewijzen kwaliteit." Klanten herkennen het verschil.
 
 ## Waarom keurmerken op je website het verschil maken
@@ -48,7 +48,7 @@ NEN 3140 gaat over bedrijfsmatig elektrotechnisch werk en werkplek-veiligheid. O
 
 ### 3. VCA-Basis of VCA-VOL (bouwwerk-toegang)
 
-VCA gaat over persoonlijke veiligheid op bouwlocaties. Aannemers, woningcorporaties en GWW-bedrijven eisen het structureel. Zonder VCA-erkenning ben je uitgesloten van circa 40 tot 50 procent van het Nederlandse elektriciens-werk.
+VCA gaat over persoonlijke veiligheid op bouwlocaties. Aannemers, woningcorporaties en GWW-bedrijven eisen het structureel. Zonder VCA-erkenning ben je uitgesloten van een groot deel van het Nederlandse elektriciens-werk.
 
 **Hoe te tonen:** logo in footer voor B2B-zichtbaarheid + duidelijke vermelding op de "Werken voor aannemers" of vergelijkbare pagina.
 
