@@ -12,8 +12,8 @@ cluster: "automatisering"
 **In het kort:**
 - Bij een storm- of waterschade-evenement (bliksem, overstroming, lekkage) belt een klant binnen het uur 3-8 elektriciens. De eerste die binnen 30 minuten een telefoon-veiligheidscheck doet en binnen 4 uur ter plaatse is, wint de klus EN typically alle vervolg-installatie-werk (vaak €3.000-€12.000 totaal-werk).
 - De respons heeft drie fasen: 1) directe veiligheidscheck via telefoon (uitschakel-instructie groepenkast, geen contact met natte installatie), 2) ter-plaatse schade-rapport voor verzekeraar (foto's, NEN 3140 controle, hersteloffer), 3) snel-herstel met verzekeraar-rechtstreekse facturatie.
-- Een AI-trigger gekoppeld aan KNMI weeralarm (geel/oranje/rood code stormwaarschuwing) activeert automatisch een verhoogde bereikbaarheid: extra collega op stand-by, vooraf-bevoorrade calamiteit-kit in de bus, prioriteit-instelling op de telefoon-flow. Elektriciens die dit vóór 2026 hebben ingericht, halen 35-50% meer storm-klussen dan concurrentie die ad-hoc reageert.
-- Een [chatbot voor elektriciens](/chatbot) die 24/7 storm-meldingen aanneemt en triage doet (veiligheid eerst, dan inplannen) verlaagt mis-belde leads van 40-50% naar 10-15%. Een [crm voor elektriciens](/crm) met aparte calamiteit-pipeline maakt dat een storm 5-15 nieuwe vaste klanten oplevert in plaats van eenmalige spoed-klussen.
+- Een AI-trigger gekoppeld aan KNMI weeralarm (geel/oranje/rood code stormwaarschuwing) activeert automatisch een verhoogde bereikbaarheid: extra collega op stand-by, vooraf-bevoorrade calamiteit-kit in de bus, prioriteit-instelling op de telefoon-flow. Elektriciens die dit vóór 2026 hebben ingericht, halen fors meer storm-klussen dan concurrentie die ad-hoc reageert.
+- Een [chatbot voor elektriciens](/chatbot) die 24/7 storm-meldingen aanneemt en triage doet (veiligheid eerst, dan inplannen) brengt het aandeel mis-belde leads fors omlaag. Een [crm voor elektriciens](/crm) met aparte calamiteit-pipeline maakt dat een storm 5-15 nieuwe vaste klanten oplevert in plaats van eenmalige spoed-klussen.
 
 ## Het probleem: storm-respons is meestal ad-hoc en chaotisch
 
@@ -23,7 +23,7 @@ In de gemiddelde elektricien-praktijk is calamiteit-respons ongestructureerd. Wa
 - 22:15: bewoner belt zijn vaste elektricien, krijgt voicemail of "morgen pas"
 - 22:30: bewoner belt 4-6 andere elektriciens uit Google, eerste die opneemt wint
 - 22:45: gegunde elektricien komt langs zonder vooraf-instructies, voert ad-hoc herstel uit
-- 02:00: probleem grotendeels opgelost maar 30-40% van de schade niet correct in kaart
+- 02:00: probleem grotendeels opgelost maar een fors deel van de schade niet correct in kaart
 - Volgende dag: bewoner krijgt factuur van €450-€800, gaat declareren bij verzekeraar, vergoeding maandenlang in discussie
 
 Het ontbreekt aan: vooraf-protocol, schade-rapport, verzekeraar-rechtstreekse facturatie, vervolg-werk.
