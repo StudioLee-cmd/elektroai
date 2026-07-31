@@ -57,8 +57,8 @@ Een gratis tool als MailerLite of Mailchimp biedt deze automatisering al aan. Je
 
 Het mooie van email marketing is dat je alles kunt meten:
 
-- **Open rate**: hoeveel procent opent je mail? Gemiddeld 25-30% is goed voor een klein bedrijf
-- **Click rate**: hoeveel procent klikt op een link? 3-5% is prima
+- **Open rate**: hoeveel procent opent je mail? Een kwart tot een derde is goed voor een klein bedrijf
+- **Click rate**: hoeveel procent klikt op een link? Een paar procent is al prima
 - **Antwoorden**: klanten die direct reageren op je mail met een vraag of een opdracht
 
 Als je open rate laag is, experimenteer met je onderwerpregels. Als je click rate laag is, maak je call-to-action duidelijker. Na drie maanden heb je genoeg data om te weten wat werkt voor jouw klanten.
