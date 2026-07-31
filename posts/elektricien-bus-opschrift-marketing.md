@@ -18,7 +18,7 @@ Denk even na over de cijfers. Een bestelbus rijdt in de installatiebranche gemid
 
 Vergelijk dat met Google Ads, waar je per klik €3-€7 betaalt, of lokale flyers waarvan het grootste deel direct de prikbord-stapel op gaat. De bus is de enige marketingkanaal waar elke rit geld bespaart in plaats van kost. Maar alleen als hij iets te zeggen heeft.
 
-## Drie fouten die ik bij 80 procent van de installatiebedrijven zie
+## Drie fouten die ik bij bijna elk installatiebedrijf zie
 
 ### Fout 1: alleen je logo en telefoonnummer
 
