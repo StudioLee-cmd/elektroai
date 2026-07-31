@@ -35,7 +35,7 @@ Het is nuttig om te weten hoe dit juridisch in elkaar zit, want het maakt het ge
 
 Bij een **vaste prijs** spreek je een bedrag af en dat staat. Je mag het achteraf niet zomaar verhogen. Dat kan alleen als de klant je te weinig of verkeerde informatie heeft gegeven, of als een rechter er toestemming voor geeft. Twijfel je aan wat de klant je vertelt, dan moet je dat zelf onderzoeken.
 
-Bij een **richtprijs** geef je een schatting. De eindprijs mag hoger uitvallen, maar niet meer dan 10 procent boven die richtprijs. Wil je daarboven, dan heb je toestemming van de klant nodig en moet je hem op tijd waarschuwen, zodat hij kan kiezen om minder te laten doen. Die 10-procentgrens is voor een spoedklus het getal om te onthouden, want juist bij storingen loopt een klus makkelijk uit.
+Bij een **richtprijs** geef je een schatting. Volgens de ACM (ConsuWijzer) mag de eindprijs hoger uitvallen, maar niet meer dan 10 procent boven die richtprijs. Wil je daarboven, dan heb je toestemming van de klant nodig en moet je hem op tijd waarschuwen, zodat hij kan kiezen om minder te laten doen. Die 10-procentgrens is voor een spoedklus het getal om te onthouden, want juist bij storingen loopt een klus makkelijk uit.
 
 Bij **uren en materialen** weet niemand het eindbedrag vooraf. Dat mag, maar je moet dan wel duidelijk maken hoe je de prijs opbouwt, zodat de klant kan inschatten waar hij aan toe is.
 
@@ -61,7 +61,7 @@ Hieronder staat het scriptje dat je kunt uitspreken of laten uitspreken. Het zij
 
 **Blok 3, akkoord vragen en bevestigen.** "Is dat akkoord, dan zet ik u nu in en stuur ik u meteen een bevestiging per WhatsApp met dat bedrag erin."
 
-Let op wat blok 2 doet. Je noemt een bedrag en je bouwt in één adem de richtprijsregel in. Je zegt namelijk dat je terugbelt voordat het meer wordt, en dat is precies wat de ACM van je vraagt zodra het eindbedrag boven die 10 procent uit dreigt te komen. Je hoeft dat niet juridisch te formuleren. Je zegt gewoon dat je belt.
+Let op wat blok 2 doet. Je noemt een bedrag en je bouwt in één adem de richtprijsregel in. Je zegt namelijk dat je terugbelt voordat het meer wordt, en dat is precies wat de ACM van je vraagt: volgens ConsuWijzer moet je op tijd waarschuwen zodra het eindbedrag boven die 10 procent uit dreigt te komen. Je hoeft dat niet juridisch te formuleren. Je zegt gewoon dat je belt.
 
 Blok 3 is het blok dat de meeste elektriciens overslaan, en het is het belangrijkste. Een mondeling akkoord dat nergens staat, is over twee weken een woord tegen woord. Een akkoord dat je binnen een minuut per bericht bevestigt, is een feit.
 
