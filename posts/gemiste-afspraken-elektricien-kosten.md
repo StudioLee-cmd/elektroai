@@ -43,7 +43,7 @@ Een derde factor: het probleem dat "zichzelf oplost." De groep die uitvalt vangt
 
 ## Hoeveel bespaar je met deze aanpassingen
 
-Combineer automatische herinneringen met een bevestiging bij boeking en duidelijke annuleringsvoorwaarden, en je vermindert je no-shows met 50 tot 70 procent. Bij 24.000 euro jaarlijks verlies bespaar je dan 12.000 tot 17.000 euro. Dat is geen schatting, dat is wat elektriciens die deze maatregelen implementeren daadwerkelijk rapporteren.
+Combineer automatische herinneringen met een bevestiging bij boeking en duidelijke annuleringsvoorwaarden, en je vermindert je no-shows fors. Bij 24.000 euro jaarlijks verlies gaat het dan om een besparing van duizenden euro's per jaar. Dat is geen schatting, dat is wat elektriciens die deze maatregelen implementeren daadwerkelijk rapporteren.
 
 De investering in een automatiseringssysteem voor herinneringen en planning is een fractie van die besparing. Het betaalt zich terug in de eerste maand.
 
