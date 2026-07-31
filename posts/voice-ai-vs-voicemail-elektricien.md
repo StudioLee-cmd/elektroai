@@ -31,7 +31,7 @@ Voor de tijd-arme elektricien die even snel wil zien waar het verschil precies z
 
 | Aspect | Voicemail | Voice AI |
 |---|---|---|
-| **% bellers dat bericht achterlaat** | < 20% | 100% (er is geen "achterlaat", gesprek loopt) |
+| **Bellers dat een bericht achterlaat** | Een kleine minderheid | Iedereen (er is geen "achterlaat", gesprek loopt) |
 | **Reactietijd voor de klant** | Pieptoon, dan stilte | Reactie binnen 3 seconden, normale conversatie |
 | **Wat jij ontvangt** | Soms een blip, soms een onverstaanbaar bericht | Gestructureerde lead-samenvatting (naam, adres, urgentie, beste belmoment) |
 | **24/7 / avond / weekend** | Ja, maar passief | Ja, en het lead-percentage stort niet in buiten kantooruren |
