@@ -16,16 +16,16 @@ Maar is dat in 2026 nog wel de slimste keuze? Personeel is goud waard, maar voor
 
 Laten we de feiten en harde cijfers eens op een rij zetten. Stel je neemt een parttime kantoormedewerker aan voor 24 uur per week. Wat kost dat nu echt?
 - **Bruto salaris:** €2.000 / maand (voor een beetje niveau).
-- **Werkgeverslasten (+30%):** €600 / maand (sociale premies, pensioen, verzekeringen).
+- **Werkgeverslasten (+30%):** €600 / maand bovenop die €2.000 (sociale premies, pensioen, verzekeringen).
 - **Facilitair:** Werkplek, bureau, stoel, laptop, software licenties, koffie, verwarming: €200 / maand.
-- **Risicoreservering:** Vakantiegeld (8%), doorbetaling bij ziekte (verzuimrisico), transitievergoeding: Reken maar op nog eens 10-15%.
+- **Risicoreservering:** vakantiegeld (het wettelijk minimum), doorbetaling bij ziekte (verzuimrisico) en transitievergoeding: reken met nog eens 10 tot 15% bovenop.
 - **Totaal: ± €3.000 - €3.500 per maand**
 
 En wat krijg je daarvoor? Dan heb je iemand die er is van maandag tot woensdag, van 9 tot 5. Niet in het weekend. Niet 's avonds. Niet tijdens vakanties. En als ze griep heeft, of zwanger wordt, ligt je hele planning en bereikbaarheid stil. Bovendien moet je iemand inwerken, managen en functioneringsgesprekken voeren. Heb je daar zin in?
 
 ### ElektroAI: Het Slimme Alternatief
 
-Vergelijk dat eens met ons Elite pakket (€297 / maand). Voor minder dan 10% van de kosten van een parttimer krijg je een systeem dat vele malen krachtiger is:
+Vergelijk dat eens met ons Elite pakket (€297 / maand). Voor minder dan 10% van de €3.000 tot €3.500 die zo'n parttimer kost, krijg je een systeem dat vele malen krachtiger is:
 - **24/7 [Bereikbaarheid](/voice-ai):** AI slaapt nooit, is nooit ziek, gaat nooit op vakantie en neemt ook op zondagavond op.
 - **Oneindige Schaalbaarheid:** Bellen er 10 mensen tegelijk? De AI helpt ze allemaal tegelijk. Een mens kan maar één telefoon vasthouden.
 - **Geen Werkgeversrisico's:** Geen contracten, geen ontslagbescherming, geen gedoe met Arbo-diensten. Maandelijks opzegbaar.
