@@ -9,11 +9,11 @@ tags: ["Nazorg", "Klantbehoud", "Workflow", "CRM", "Elektricien"]
 cluster: "automatisering"
 ---
 
-De factuur is betaald, de meterkast hangt netjes dicht, de bus is opgeruimd. Voor 70% van de elektriciens is dat het laatste contactmoment met die klant. Totdat de stoppen er over twee jaar weer uitvliegen, en jouw nummer hopelijk nog op de koelkast hangt. Dat is geen klantrelatie, dat is een gokje. De vakmensen die hun agenda wél vol houden zonder elke week koud te acquireren, doen één ding anders: ze sturen na elke klus vier korte berichten op vaste momenten. Geen verkooppraat, geen nieuwsbrief, geen ruis. Vier berichten waarmee een eenmalige klus systematisch een tweede en derde klus oplevert.
+De factuur is betaald, de meterkast hangt netjes dicht, de bus is opgeruimd. Voor de meeste elektriciens is dat het laatste contactmoment met die klant. Totdat de stoppen er over twee jaar weer uitvliegen, en jouw nummer hopelijk nog op de koelkast hangt. Dat is geen klantrelatie, dat is een gokje. De vakmensen die hun agenda wél vol houden zonder elke week koud te acquireren, doen één ding anders: ze sturen na elke klus vier korte berichten op vaste momenten. Geen verkooppraat, geen nieuwsbrief, geen ruis. Vier berichten waarmee een eenmalige klus systematisch een tweede en derde klus oplevert.
 
 Dit artikel is de blauwdruk van die flow. Welke vier berichten, op welk moment, via welk kanaal, met welk effect. Plus de valkuilen waar driekwart van de installateurs op stuk loopt, en hoe je het hele systeem op de auto-piloot zet via [workflow automatisering voor elektriciens](/automatisering), zodat het niet jouw vrijdagavond opslokt.
 
-## Waarom 70% van elektriciens geen nazorg doet
+## Waarom de meeste elektriciens geen nazorg doen
 
 Het is geen luiheid, het is logica die niet meer klopt. Vroeger kreeg je herhaalklussen vanzelf omdat je dé elektricien in de wijk was, en mensen onthielden je naam. Nu hebben klanten Werkspot, Zoofy en vijf bedrijfsprofielen op Google Maps binnen handbereik op het moment dat ze je weer nodig hebben. Of erger: het bedrijf dat ze het laatst sprak via een appje is bovenaan in hun geheugen, zelfs als jouw werk objectief beter was.
 
@@ -25,7 +25,7 @@ De derde reden is veel simpeler: het kost tijd die je niet hebt. Op vrijdagavond
 
 Stuur dit op de avond van de klusdag, niet de volgende ochtend. Het verschil is groot: dezelfde-dag-berichten worden gelezen alsof de klus nog warm is, ochtendberichten staan tussen reclame in de inbox.
 
-**Kanaal:** WhatsApp. E-mail werkt ook, maar opening-rates op WhatsApp zitten boven de 90% bij eigen klanten, e-mail dobbert rond de 25%. Voor dit specifieke moment wil je dat het bericht zeker gezien wordt. Kies WhatsApp, tenzij de klant expliciet vroeg om niet via WhatsApp benaderd te worden.
+**Kanaal:** WhatsApp. E-mail werkt ook, maar berichten op WhatsApp worden bij eigen klanten vrijwel altijd geopend, e-mail lang niet altijd. Voor dit specifieke moment wil je dat het bericht zeker gezien wordt. Kies WhatsApp, tenzij de klant expliciet vroeg om niet via WhatsApp benaderd te worden.
 
 **Doel:** twee dingen tegelijk. Een persoonlijk bedankje voor het vertrouwen, en een directe deeplink naar je Google-profiel voor een review. Niet later, niet "als het kan", maar nu, terwijl de tevredenheid op zijn hoogtepunt is. Dit is hetzelfde principe waarop volwaardig [review management voor elektriciens](/reviews) draait: het optimale moment voor een reviewverzoek is binnen 24 uur na oplevering, niet binnen 24 dagen.
 
@@ -49,17 +49,17 @@ Een week na oplevering komt het korte feedback-bericht. Niet omdat je verwacht d
 
 > *Hoi [voornaam], even een korte check: werkt alles in de [keuken/meterkast/laadpaal] nog naar wens? Als er iets is, laat het gerust weten.*
 
-Wat dit oplevert is meetbaar groter dan het lijkt. Ongeveer 1 op de 8 klanten reageert met een opmerking ("de schemerschakelaar gaat sneller aan dan ik dacht", "die ene LED is iets warmer dan de rest"). Dat zijn allemaal kleine vervolgklussen die jij sowieso al zou hebben opgelost als ze gebeld hadden, maar nu gebeurt het 100% van de keren, niet 30%. Plus: bij grotere zorgen heb je het signaal vóór een buurman of een tweede mening de twijfel groter maakt.
+Wat dit oplevert is meetbaar groter dan het lijkt. Een deel van de klanten reageert met een opmerking ("de schemerschakelaar gaat sneller aan dan ik dacht", "die ene LED is iets warmer dan de rest"). Dat zijn allemaal kleine vervolgklussen die jij sowieso al zou hebben opgelost als ze gebeld hadden, maar nu gebeurt het elke keer in plaats van af en toe. Plus: bij grotere zorgen heb je het signaal vóór een buurman of een tweede mening de twijfel groter maakt.
 
 ## Bericht 3, maand 4 tot 6: cyclus-opvolging op klustype
 
-Hier wordt het verschil tussen amateur-nazorg en professionele klantretentie zichtbaar. De eerste twee berichten doen vrijwel alle goed-opgeleide installateurs ergens wel. Bericht 3 doen er nog hooguit drie op de tien, en dat is precies waar de echte herhaalklussen zitten.
+Hier wordt het verschil tussen amateur-nazorg en professionele klantretentie zichtbaar. De eerste twee berichten doen vrijwel alle goed-opgeleide installateurs ergens wel. Bericht 3 doen er nog maar weinig, en dat is precies waar de echte herhaalklussen zitten.
 
 Het idee: vier tot zes maanden na de klus stuur je een bericht dat is afgestemd op het type werk dat je hebt gedaan. Geen generieke nieuwsbrief, maar een trigger die klopt bij wat de klant van jou heeft gekocht.
 
 **Drie voorbeelden uit de praktijk:**
 
-- **Laadpaal-installatie?** Maand 5: korte tip-mail met "Wist je dat slim laden je 's nachts tot 60% goedkoper laat opladen, heb je je app-instellingen al een keer doorlopen?" Linkt naar een artikel van jou óf een vrijblijvende check.
+- **Laadpaal-installatie?** Maand 5: korte tip-mail met "Wist je dat slim laden je 's nachts flink goedkoper laat opladen, heb je je app-instellingen al een keer doorlopen?" Linkt naar een artikel van jou óf een vrijblijvende check.
 - **Zonnepanelen-uitbreiding?** Maand 6: bericht over de opbrengst-rapportage en een herinnering om de omvormer-update te doen of een visuele inspectie te plannen.
 - **Groepenkast vervangen?** Maand 4: "Werkt de kast nog goed? Goed moment om de aardlekschakelaars even te testen, kost 30 seconden per stuk."
 
@@ -86,7 +86,7 @@ Het vierde bericht is de lange-termijn aanhouder, en tegelijkertijd het bericht 
 
 **Kanaal:** e-mail (formelere lange-termijn herinnering) plus een korte WhatsApp-nudge een week later voor wie geen reactie geeft.
 
-**Doel:** factuurklus van vergelijkbare omvang als de oorspronkelijke, vrijwel zonder acquisitie-inspanning. Conversie in de praktijk: ongeveer 4 op de 10 klanten plannen daadwerkelijk in, en nog eens 2 reageren met "doe maar volgend jaar". Die staan dan in je systeem voor de juiste opvolg-datum.
+**Doel:** factuurklus van vergelijkbare omvang als de oorspronkelijke, vrijwel zonder acquisitie-inspanning. Conversie in de praktijk: een flink deel van de klanten plant daadwerkelijk in, en een deel reageert met "doe maar volgend jaar". Die staan dan in je systeem voor de juiste opvolg-datum.
 
 Dit is ook waar [automatische herinneringen voor elektriciens](/automatisering) en een goed-ingerichte [crm voor elektriciens](/crm) elkaar versterken. De CRM houdt het klustype en de oorspronkelijke datum bij, het automatiseringssysteem schiet op het juiste moment de juiste mail af, jij ziet alleen de afspraken in je agenda binnenkomen.
 
@@ -107,9 +107,9 @@ Twee snelle observaties bij dit overzicht. Eén: nooit alle vier in hetzelfde ka
 
 De grootste fout in nazorg-flows is dat een ondernemer ergens in week 2 denkt "ik moet hier ook iets verdienen", en bericht 2 verandert van een check-in in een mini-promotie. Dat is dood. Klanten ruiken het binnen één regel, en alle goodwill van bericht 1 verdampt.
 
-Praktische regel: in de eerste drie berichten staat nooit een aanbod, korting, "wist u dat we ook..." of upsell. Pas in bericht 4 wordt het functioneel concreet, en daar werkt het juist wél, omdat het bericht een wettelijke of veiligheidsgrond heeft. Het verschil tussen "Tijd voor uw vijfjaarlijkse keuring" (functioneel) en "Speciale aanbieding: NEN 1010 voor €299 ex" (commercieel) is letterlijk verschil tussen 40% conversie en 4% conversie.
+Praktische regel: in de eerste drie berichten staat nooit een aanbod, korting, "wist u dat we ook..." of upsell. Pas in bericht 4 wordt het functioneel concreet, en daar werkt het juist wél, omdat het bericht een wettelijke of veiligheidsgrond heeft. Het verschil tussen "Tijd voor uw vijfjaarlijkse keuring" (functioneel) en "Speciale aanbieding: NEN 1010 voor €299 ex" (commercieel) is letterlijk het verschil tussen een klus en een genegeerd bericht.
 
-Tweede valkuil: te lang wachten met bericht 1. Eén dag is okay, twee dagen is matig, een week is te laat. Reviewverzoeken die meer dan 48 uur na oplevering binnenkomen, krijgen 70% lagere respons dan binnen-24-uur-verzoeken. Hetzelfde geldt voor de feedback-channel in bericht 1: hoe verser de klus, hoe groter de kans dat een klant nog "even snel" iets in een appje deelt.
+Tweede valkuil: te lang wachten met bericht 1. Eén dag is okay, twee dagen is matig, een week is te laat. Reviewverzoeken die meer dan 48 uur na oplevering binnenkomen, krijgen fors minder respons dan binnen-24-uur-verzoeken. Hetzelfde geldt voor de feedback-channel in bericht 1: hoe verser de klus, hoe groter de kans dat een klant nog "even snel" iets in een appje deelt.
 
 ## Integratie met CRM: zo loopt het echt zelf
 
