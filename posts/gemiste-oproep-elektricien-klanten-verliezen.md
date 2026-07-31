@@ -15,7 +15,7 @@ Dit is geen uitzondering. De meeste elektriciens missen dagelijks 3 tot 5 oproep
 
 ## De klant belt niet terug
 
-Er is een hardnekkig misverstand onder vakmensen: "Als ze echt iets willen, bellen ze wel terug." Dat is niet zo. Onderzoek laat zien dat 80% van de mensen die geen gehoor krijgen niet terugbelt. Ze bellen het volgende nummer uit de Google-resultaten.
+Er is een hardnekkig misverstand onder vakmensen: "Als ze echt iets willen, bellen ze wel terug." Dat is niet zo. De meeste mensen die geen gehoor krijgen bellen niet terug. Ze bellen het volgende nummer uit de Google-resultaten.
 
 Dit geldt extra voor spoedwerk. Als iemand 's avonds zonder stroom zit, wacht diegene niet op jouw terugbelactie morgenochtend. Die belt de concurrent die wel opneemt.
 
