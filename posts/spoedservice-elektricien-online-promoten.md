@@ -15,7 +15,7 @@ Als jij op dat moment niet vindbaar bent, belt hij je concurrent. Spoedklussen z
 
 ## Stap 1: je Google Bedrijfsprofiel optimaliseren voor spoed
 
-Het kaartresultaat in Google is waar 80% van de spoedzoekers kijkt. Ze scrollen niet naar pagina 2, ze bellen het eerste nummer dat ze zien. Zorg dat je profiel klopt:
+Het kaartresultaat in Google is waar vrijwel alle spoedzoekers kijken. Ze scrollen niet naar pagina 2, ze bellen het eerste nummer dat ze zien. Zorg dat je profiel klopt:
 
 - Markeer "Spoedservice" of "24-uurs service" als dienst in je profiel
 - Zet je telefoonnummer op de eerste regel van je bedrijfsomschrijving
