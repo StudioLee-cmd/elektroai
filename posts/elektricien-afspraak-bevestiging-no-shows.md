@@ -13,7 +13,7 @@ Je hebt 's ochtends een afspraak bij een klant. Je rijdt 35 minuten heen, parkee
 
 Een no-show kost een gemiddelde elektricien tussen 150 en 400 euro per geval. Dat is gemiste omzet, gederfde brandstof en vooral gemiste tijd die je niet kunt terugverdienen. Eén no-show per week kost je rond de 12.000 euro per jaar.
 
-De goede kant: no-shows zijn met een paar simpele aanpassingen voor 70 tot 90 procent te voorkomen. In dit artikel: hoe je het oplost zonder zelf elke dag bevestigingsberichtjes te hoeven typen.
+De goede kant: no-shows zijn met een paar simpele aanpassingen grotendeels te voorkomen. In dit artikel: hoe je het oplost zonder zelf elke dag bevestigingsberichtjes te hoeven typen.
 
 ## Waarom klanten niet komen opdagen
 
@@ -59,9 +59,9 @@ Naast de herinnering geef je hier ook praktische instructies. Dat verlaagt de ka
 
 Het korte antwoord: **WhatsApp en SMS werken het beste, e-mail werkt het slechtst**.
 
-- **WhatsApp:** 95 procent openingsratio, 90 procent leesratio binnen één uur. Hoogste conversie.
-- **SMS:** 92 procent openingsratio. Werkt ook bij oudere klanten die geen WhatsApp gebruiken.
-- **E-mail:** 25 procent openingsratio. Verdwijnt in spamfolders of wordt 's avonds pas gezien.
+- **WhatsApp:** wordt vrijwel altijd geopend, en meestal binnen het uur gelezen. Hoogste conversie.
+- **SMS:** wordt bijna net zo vaak geopend. Werkt ook bij oudere klanten die geen WhatsApp gebruiken.
+- **E-mail:** wordt een stuk minder vaak geopend. Verdwijnt in spamfolders of wordt 's avonds pas gezien.
 
 Mijn advies: gebruik WhatsApp Business als hoofdkanaal en SMS als backup voor klanten zonder WhatsApp. Laat e-mail alleen voor de offerte en de factuur. Voor afspraakherinneringen is e-mail te traag.
 
@@ -104,7 +104,7 @@ Reken even mee:
 - 48 × 200 = 9.600 euro per jaar extra omzet
 - Plus: de tijd die je niet meer aan herinneringen kwijt bent (ongeveer 4 uur per maand)
 
-Voor minder dan 100 euro per maand setup heb je een systeem dat je 9.600 euro per jaar oplevert. Dat is rendement van 96 procent. Geen advertentiekanaal komt daar in de buurt.
+Voor minder dan 100 euro per maand setup heb je een systeem dat je 9.600 euro per jaar oplevert — een veelvoud van wat het kost. Geen advertentiekanaal komt daar in de buurt.
 
 ## Wat te doen als het toch een keer misgaat
 
