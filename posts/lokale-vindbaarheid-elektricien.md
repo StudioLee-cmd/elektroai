@@ -30,7 +30,7 @@ Je website moet Google duidelijk vertellen: "Dit is een elektricien in [regio] d
 
 De oplossing: maak voor je belangrijkste diensten een aparte pagina. "Meterkast vernieuwen in [regio]", "Laadpaal installeren [regio]", "Zonnepanelen aansluiten [regio]." Elke pagina is een apart visitekaartje in Google. Hoe specifieker de pagina, hoe beter je scoort voor die exacte zoekopdracht.
 
-Zorg dat je contactgegevens op elke pagina staan: telefoonnummer, werkgebied, een duidelijk contactformulier. Maak het telefoonnummer klikbaar voor mobiele bezoekers. Meer dan 60 procent van de zoekopdrachten naar een elektricien gebeurt op een telefoon.
+Zorg dat je contactgegevens op elke pagina staan: telefoonnummer, werkgebied, een duidelijk contactformulier. Maak het telefoonnummer klikbaar voor mobiele bezoekers. Het merendeel van de zoekopdrachten naar een elektricien gebeurt op een telefoon.
 
 Overweeg een [professionele website](/gratis-website) als je huidige site verouderd is of als je er nog geen hebt. Een goed gestructureerde website met de juiste zoekwoorden kan het verschil maken tussen nul en tien aanvragen per maand.
 
