@@ -15,7 +15,7 @@ Voor een elektricien is een no-show extra frustrerend. Je hebt vaak specifiek ma
 
 ## Waarom het gebeurt en hoe je het voorkomt
 
-De meeste no-shows zijn geen bewuste keuze. Klanten vergeten de afspraak, verwarren de datum, of hebben een noodgeval. Drie maatregelen voorkomen 80 procent:
+De meeste no-shows zijn geen bewuste keuze. Klanten vergeten de afspraak, verwarren de datum, of hebben een noodgeval. Drie maatregelen voorkomen het leeuwendeel:
 
 **Bevestiging bij het boeken:** stuur direct na de afspraak een WhatsApp met datum, tijd en wat je komt doen. "Dinsdag 10:00, groepenkast vervangen. Zorg dat de hoofdschakelaar bereikbaar is."
 
@@ -44,7 +44,7 @@ Deze klanten zijn blij dat ze eerder geholpen worden. Jij bent blij dat je niet 
 
 ## Aanbetaling bij grotere klussen
 
-Voor klussen boven de 500 euro (groepenkast, complete bedrading, zonnepaneel-aansluiting) is een aanbetaling van 20 procent redelijk. Een klant die al heeft betaald verschijnt vrijwel altijd. En als diegene toch annuleert, dek je een deel van je kosten.
+Voor klussen boven de 500 euro (groepenkast, complete bedrading, zonnepaneel-aansluiting) is een aanbetaling van een vijfde van het bedrag redelijk. Een klant die al heeft betaald verschijnt vrijwel altijd. En als diegene toch annuleert, dek je een deel van je kosten.
 
 ## Lege uren kosten je duizenden per jaar
 
