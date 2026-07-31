@@ -67,7 +67,7 @@ Maak één goed sjabloon, gebruik dat consequent, voeg alleen jouw logo en de ad
 
 Een makelaar belt op donderdag om vijf voor vijf: "Ik heb een woning die zaterdag bezichtiging heeft, kun jij vrijdag keuren?" Als je dan niet opneemt, of niet binnen een uur terugbelt, ben je voor die transactie buitenspel. De volgende keer belt hij iemand anders.
 
-De praktijk: 60 tot 70 procent van de echt waardevolle leads komt buiten kantoortijd binnen, op vrijdagen, of tijdens je werk. Een [AI telefonist voor elektriciens](/voice-ai) kan deze opdrachten direct beantwoorden, een afspraak inplannen en jou een samenvatting sturen. Voor een €175-keuring per gemiste oproep is dit zelfs één-keer-per-maand al rendabel.
+De praktijk: een groot deel van de echt waardevolle leads komt buiten kantoortijd binnen, op vrijdagen, of tijdens je werk. Een [AI telefonist voor elektriciens](/voice-ai) kan deze opdrachten direct beantwoorden, een afspraak inplannen en jou een samenvatting sturen. Voor een €175-keuring per gemiste oproep is dit zelfs één-keer-per-maand al rendabel.
 
 ## Hoe je de relatie levend houdt na de eerste klus
 
