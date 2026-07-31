@@ -64,7 +64,7 @@ Vergelijk je cijfers maandelijks. Als je website nu twee aanvragen per maand gen
 
 ## Veelgemaakte fouten
 
-- **Geen mobiele optimalisatie**: meer dan 70% van je bezoekers zit op een telefoon
+- **Geen mobiele optimalisatie**: de meeste bezoekers zitten op een telefoon
 - **Te veel tekst, te weinig actie**: elke pagina moet eindigen met een duidelijke volgende stap
 - **Geen updates**: een website die er in 2022 voor het laatst is aangepast, wekt geen vertrouwen
 - **Ontbrekende reviews**: als je Google-reviews hebt maar ze niet op je website toont, mis je social proof
