@@ -32,7 +32,7 @@ Elektriciens met 50 of meer Google reviews staan bijna altijd hoger dan concurre
 
 Vraag elke klant na een klus om een review. Niet mondeling en hopen dat ze het doen. Stuur een automatisch WhatsApp-bericht met een directe link naar je Google review-pagina: "Bedankt dat we je mochten helpen! Zou je een review willen achterlaten? Het helpt andere klanten ons te vinden: [link]."
 
-De [review-automatisering](/reviews) stuurt dit bericht automatisch na elke voltooide klus. Jij hoeft er niet aan te denken, en het percentage klanten dat daadwerkelijk een review schrijft stijgt van 5 naar 25 procent.
+De [review-automatisering](/reviews) stuurt dit bericht automatisch na elke voltooide klus. Jij hoeft er niet aan te denken, en het aandeel klanten dat daadwerkelijk een review schrijft gaat een flink stuk omhoog.
 
 ![Elektrisch gereedschap in een georganiseerde werkbus](/images/blog/google-maps-elektricien-spoedklussen-bovenaan-2.jpg)
 
