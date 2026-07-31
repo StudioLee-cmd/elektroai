@@ -12,7 +12,7 @@ cluster: "vindbaarheid"
 
 Als iemand zoekt op "elektricien in de buurt" of "storing elektra [plaatsnaam]", bepaalt Google Bedrijfsprofiel wie er bovenaan verschijnt. Dit zijn de drie bedrijven in het Local Pack — de prominente kaartweergave boven de reguliere [zoekresultaten](/seo).
 
-Voor elektriciens is deze zichtbaarheid cruciaal. 46% van alle Google-zoekopdrachten heeft een lokale intentie. Als je daar niet verschijnt, mis je bijna de helft van je potentiële klanten. De concurrent die wél in het Local Pack staat, pakt die klussen.
+Voor elektriciens is deze zichtbaarheid cruciaal. Bijna de helft van alle Google-zoekopdrachten heeft een lokale intentie. Als je daar niet verschijnt, mis je een groot deel van je potentiële klanten. De concurrent die wél in het Local Pack staat, pakt die klussen.
 
 ## Je profiel stap voor stap instellen
 
@@ -44,7 +44,7 @@ Upload regelmatig foto's van je werk:
 - **Werkprocessen**: (zonder gezichten) laat zien hoe zorgvuldig je werkt
 - **Certificeringen en bus**: je NEN 1010 certificaat, je bedrijfsbus met logo
 
-Bedrijven met 10+ foto's krijgen 2x meer clicks dan bedrijven zonder foto's. Combineer dit met je [social media](/blog/social-media-elektriciens-zichtbaar) voor maximale zichtbaarheid.
+Bedrijven met 10+ foto's krijgen duidelijk meer clicks dan bedrijven zonder foto's. Combineer dit met je [social media](/blog/social-media-elektriciens-zichtbaar) voor maximale zichtbaarheid.
 
 ## Lokale zoekresultaten domineren
 
