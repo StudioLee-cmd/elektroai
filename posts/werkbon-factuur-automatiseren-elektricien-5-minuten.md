@@ -11,7 +11,7 @@ cluster: "automatisering"
 
 **In het kort:**
 - Een gemiddelde MKB elektricien besteedt 6 tot 10 uur per week aan werkbon-invoer, factuur-opmaak, NEN-rapportage en betaling-opvolging. Bij €65 uurtarief is dat €390 tot €650 per week, oftewel €20.000 tot €33.000 per jaar aan administratie-tijd die niet declarabel is.
-- 75% van die tijd zit in handmatig overtypen tussen je werkbon-app, je facturatie-systeem (Moneybird, Exact Online of Snelstart) en het NEN-rapportage-formulier voor keuringen. Een correct gekoppelde flow brengt dat terug tot 1 a 2 minuten per klus.
+- Het leeuwendeel van die tijd zit in handmatig overtypen tussen je werkbon-app, je facturatie-systeem (Moneybird, Exact Online of Snelstart) en het NEN-rapportage-formulier voor keuringen. Een correct gekoppelde flow brengt dat terug tot 1 a 2 minuten per klus.
 - De gemiddelde betaaltermijn voor MKB-elektriciens in NL ligt in 2026 op 24 dagen. Praktijken die werkbon-flow automatiseren én WhatsApp-betaling-herinneringen versturen, halen dat omlaag tot 12-15 dagen. Op €15.000 uitstaande facturen scheelt dat €750 a €1.200 aan rentederving per jaar.
 - Drie ingrepen die de werkbon-flow productief maken: een werkbon-app met directe API-koppeling naar je boekhoudpakket, automatische NEN-rapportage-generatie bij elke keuring, en een WhatsApp-flow voor factuur-versturing en betaling-herinnering.
 
@@ -21,7 +21,7 @@ Een typische MKB-elektricien doet 4 a 6 klussen per dag. Op de traditionele mani
 
 Per klus kost dit 12 tot 18 minuten administratie. Bij 5 klussen per dag is dat 60 tot 90 minuten per dag, oftewel 5 tot 7,5 uur per week. Tijd die je niet aan declarabel werk besteedt en niet aan groei-activiteiten zoals offerte-uitbrengen of marketing.
 
-Daarbovenop komt het tijdverlies van foutcorrectie. Een typo in een postcode, een vergeten BTW-percentage of een verkeerd factuurnummer betekent een credit-nota plus een vervangende factuur. Gemiddeld 1 op de 8 facturen krijgt een correctie-cyclus, kostend nog eens 15 minuten per geval.
+Daarbovenop komt het tijdverlies van foutcorrectie. Een typo in een postcode, een vergeten BTW-percentage of een verkeerd factuurnummer betekent een credit-nota plus een vervangende factuur. Een deel van de facturen krijgt zo'n correctie-cyclus, kostend nog eens 15 minuten per geval.
 
 ACM Marktonderzoek Bouwsector 2025 noemt vertraagde facturatie en lange betaaltermijnen als top-3 financieel risico voor MKB-installatiebedrijven. Niet de marge op de klus zelf is het probleem, maar de cash-flow-vertraging tussen klus en betaling.
 
@@ -51,7 +51,7 @@ Bespaarde tijd: 15 tot 30 minuten per keuring. Bij 2 keuringen per week is dat 1
 
 ### Schakel 3: WhatsApp-flow voor factuur-versturing en betaling-herinnering
 
-Een factuur per mail komt vaak in een spamfilter, een vol inbox of bij een ondernemer die zijn mail twee keer per week leest. WhatsApp-bericht met factuur-PDF als bijlage wordt binnen 4 uur in 90% van de gevallen geopend.
+Een factuur per mail komt vaak in een spamfilter, een vol inbox of bij een ondernemer die zijn mail twee keer per week leest. Een WhatsApp-bericht met factuur-PDF als bijlage wordt vrijwel altijd binnen 4 uur geopend.
 
 De flow die werkt:
 1. Direct na factuur-aanmaak (binnen 5 minuten van klus-afronding) gaat een WhatsApp-bericht naar de klant met PDF-bijlage en korte tekst: "Hallo [naam], hier is de factuur voor de klus van vandaag. Betalen kan via [iDeal-link]. Vragen? App ons gerust."
