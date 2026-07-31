@@ -38,7 +38,7 @@ Die 10 minuten kun je overal vandaan halen. Even je huidige klus pauzeren, de kl
 
 Spoedklussen rechtvaardigen hogere tarieven. Avond, weekend en feestdagen kosten meer. Maar veel elektriciens vergeten dit te communiceren, wat leidt tot discussies achteraf.
 
-Zet je spoedtarieven op je [website](/tarieven). "Reguliere service: ma-vr 08:00-17:00. Spoed buiten kantooruren: toeslag van 50 procent. Weekenden en feestdagen: toeslag van 100 procent." Duidelijk, geen verrassingen.
+Zet je spoedtarieven op je [website](/tarieven). "Reguliere service: ma-vr 08:00-17:00. Spoed buiten kantooruren: toeslag van de helft. Weekenden en feestdagen: dubbel tarief." Duidelijk, geen verrassingen.
 
 Het Voice AI-systeem noemt het tarief bij de intake: "Voor een spoedbezoek buiten kantooruren rekenen we een toeslag. Gaat u daarmee akkoord?" De klant bevestigt voordat je op pad gaat.
 
@@ -46,7 +46,7 @@ Het Voice AI-systeem noemt het tarief bij de intake: "Voor een spoedbezoek buite
 
 Niet elke spoedoproep leidt tot een directe klus. Soms belt een klant voor een offerte voor een nieuwe groepenkast nadat de oude is doorgebrand. Die offerte snel versturen maakt het verschil.
 
-Een offerte die binnen 2 uur na het gesprek in de inbox van de klant ligt, wint in 70 procent van de gevallen de klus. Een offerte die na 2 dagen komt, wint in minder dan 20 procent van de gevallen. De klant heeft dan al een andere elektricien gevonden.
+Een offerte die binnen 2 uur na het gesprek in de inbox van de klant ligt, wint meestal de klus. Een offerte die na 2 dagen komt, wint zelden. De klant heeft dan al een andere elektricien gevonden.
 
 Gebruik standaard offertesjablonen voor veelvoorkomende spoedklussen: groepenkast vervangen, kortsluiting verhelpen, stopcontact vervangen. Vul de klantgegevens in en verstuur. Snelheid wint.
 
