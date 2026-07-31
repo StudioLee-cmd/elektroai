@@ -19,7 +19,7 @@ De elektrotechnische branche verandert snel. Verduurzaming, domotica en elektrif
 
 Specialisten profiteren van:
 
-- **Hogere uurtarieven** — 30-50% meer dan generalisten
+- **Hogere uurtarieven** — duidelijk meer dan generalisten
 - **Minder concurrentie** — minder elektriciens in jouw niche
 - **Grotere projecten** — complexer werk = hogere factuurbedragen
 - **Doorverwijzingen** — collega's sturen specialistisch werk jouw kant op
