@@ -9,7 +9,7 @@ tags: ["Vindbaarheid", "Concurrentieanalyse", "Lokale Marketing", "Benchmark", "
 cluster: "branding"
 ---
 **In het kort:**
-- 80% van de Nederlandse MKB-elektriciens doet nooit een gestructureerde concurrentieanalyse van hun directe omgeving. Ze nemen aan dat ze hun lokale markt kennen, maar missen verschuivingen in openingstijden, nieuwe specialisaties of pricing-aanpassingen die binnen 6 maanden de klant-stroom kunnen verschuiven.
+- De grote meerderheid van de Nederlandse MKB-elektriciens doet nooit een gestructureerde concurrentieanalyse van hun directe omgeving. Ze nemen aan dat ze hun lokale markt kennen, maar missen verschuivingen in openingstijden, nieuwe specialisaties of pricing-aanpassingen die binnen 6 maanden de klant-stroom kunnen verschuiven.
 - Een complete analyse van zes datapunten over de drie tot vijf dichtstbijzijnde concurrenten kost 30 minuten en levert direct bruikbare beslissingen op: waar onderscheid je je nu, waar zit een gat in het lokale aanbod, welk segment is overbezet.
 - ACM Marktonderzoek Bouwsector 2025 wijst op forse regionale verschillen in marktconcentratie: in de Randstad zit gemiddeld een MKB-elektricien per 1.800 huishoudens, in noordelijke provincies per 3.200 huishoudens. Lokale dynamiek bepaalt of opschaling, specialisatie of margeverbetering jouw beste groei-route is.
 - Drie ingrepen die de analyse productief maken: een vaste set van zes datapunten per concurrent, een 30-minuten-flow per kwartaal, en een eenvoudig dashboard-template waarin je per datapunt jouw eigen positie tegen het regio-gemiddelde zet.
@@ -30,7 +30,7 @@ ACM Marktonderzoek Bouwsector 2025 constateert dat de marktstructuur in NL fragm
 
 ## De zes datapunten die alles vertellen
 
-Niet elk gegeven over een concurrent is nuttig. Zes datapunten geven samen een 80%-beeld van de competitieve positie:
+Niet elk gegeven over een concurrent is nuttig. Zes datapunten geven samen het grootste deel van het beeld van de competitieve positie:
 
 ### 1. Openingstijden en spoeddienst-uren
 
