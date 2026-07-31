@@ -14,7 +14,7 @@ Je Google Bedrijfsprofiel is voor veel klanten het allereerste contact met je be
 
 ## Waarom je Google Bedrijfsprofiel je belangrijkste marketingtool is
 
-Meer dan 80 procent van de lokale zoekopdrachten leidt tot een actie binnen 24 uur: een telefoontje, een routebeschrijving, of een websitebezoek. En die acties komen vrijwel altijd vanuit het Google Bedrijfsprofiel, niet vanuit de reguliere zoekresultaten.
+Het overgrote deel van de lokale zoekopdrachten leidt tot een actie binnen 24 uur: een telefoontje, een routebeschrijving, of een websitebezoek. En die acties komen vrijwel altijd vanuit het Google Bedrijfsprofiel, niet vanuit de reguliere zoekresultaten.
 
 Google bepaalt welke drie bedrijven in het lokale pack verschijnen op basis van drie factoren: relevantie (past je profiel bij de zoekopdracht), afstand (hoe dicht zit je bij de zoeker), en prominentie (hoe compleet en actief is je profiel). Op relevantie en prominentie heb je directe invloed.
 
@@ -28,7 +28,7 @@ Google bepaalt welke drie bedrijven in het lokale pack verschijnen op basis van 
 
 ## Foto's die klanten overtuigen
 
-Een profiel zonder foto's verliest 42 procent meer klanten dan een profiel met foto's. Voeg minimaal toe:
+Een profiel zonder foto's verliest merkbaar meer klanten dan een profiel met foto's. Voeg minimaal toe:
 
 - Drie foto's van uitgevoerde klussen (groepenkast vernieuwd, laadpaal geïnstalleerd, bekabeling)
 - Een foto van je bus of werkplaats (herkenbaarheid)
@@ -42,7 +42,7 @@ Upload elke maand minstens twee nieuwe foto's. Google beloont actieve profielen 
 
 Google Posts zijn korte berichten die direct in je Bedrijfsprofiel verschijnen. Denk aan: een afgerond project, een seizoenstip ("Laat je groepenkast checken voor de winter"), of een actie.
 
-De meeste elektriciens gebruiken Google Posts niet. Dat is precies waarom het zo effectief is: je onderscheidt je van 95 procent van de concurrentie. Eén post per week is voldoende.
+De meeste elektriciens gebruiken Google Posts niet. Dat is precies waarom het zo effectief is: je onderscheidt je van vrijwel de hele concurrentie. Eén post per week is voldoende.
 
 ## Reviews als brandstof voor je profiel
 
