@@ -15,7 +15,7 @@ Dit patroon is geen randgeval voor elektriciens. Het is **het** structurele lek 
 **In het kort:**
 
 - Een gemiddelde elektriciens-piek (buurtstoring, stormavond, koudegolf) levert 20-50 binnenkomende oproepen op binnen 2-3 uur. Eén persoon kan er hooguit 6-8 per uur fatsoenlijk afhandelen.
-- Wie pieken niet voorbereidt, verliest 60-75 procent van die oproepen aan de concurrent. Dat is 12-37 spoedklussen per piek-incident, met een gemiddelde waarde van €180-€420 per klus.
+- Wie pieken niet voorbereidt, verliest het grootste deel van die oproepen aan de concurrent. Dat zijn 12-37 spoedklussen per piek-incident, met een gemiddelde waarde van €180-€420 per klus.
 - Vijf strategieën werken in oplopende volgorde van kosten en effectiviteit: trapsgewijze voicemail-routing, spoed-formulier op de website, AI-chatbot, AI-telefonist (Voice AI), en menselijke overflow-service. De juiste keuze hangt af van je piek-frequentie en team-grootte.
 - Een Voice AI-oplossing vangt piek-oproepen 24/7 op zonder dat jij of personeel hoeft op te nemen — kosten typisch €97-€297 per maand, terugverdiend bij 1-2 extra spoedklussen.
 - Test je piek-systeem altijd op een rustige donderdagavond voordat de echte storm komt. Een ongeteste oplossing is niet betrouwbaar als je het écht nodig hebt.
@@ -58,7 +58,7 @@ Voeg een prominent "Bel uitgevallen? Vul snel je gegevens in"-blok toe op je hom
 
 ### 3. AI-chatbot op de website (€97-€197/maand)
 
-Een AI-chatbot beantwoordt simpele vragen ("welk gebied?", "wat kost een spoeduur?") direct en escaleert echte spoedklussen naar jouw WhatsApp of telefoon met een klantkaart. Voor een elektricien is dit vooral effectief als veel piek-oproepen mensen zijn die alleen een vraag hebben (geen klus). Een chatbot vangt die 30-40 procent vragen op zonder dat jij of de klant tijd verliezen aan een telefoongesprek.
+Een AI-chatbot beantwoordt simpele vragen ("welk gebied?", "wat kost een spoeduur?") direct en escaleert echte spoedklussen naar jouw WhatsApp of telefoon met een klantkaart. Voor een elektricien is dit vooral effectief als veel piek-oproepen mensen zijn die alleen een vraag hebben (geen klus). Een chatbot vangt die vragen op zonder dat jij of de klant tijd verliezen aan een telefoongesprek.
 
 ### 4. AI-telefonist / Voice AI (€97-€297/maand)
 
@@ -78,7 +78,7 @@ Een professionele Nederlandse callcenter-partij die je oproepen overneemt als je
 | **Middenbedrijf (5-10 monteurs)** | 50+ | 5-10 | AI-telefonist + chatbot combo (€197-€297/maand) |
 | **Groot bedrijf (10+ monteurs)** | 75+ | 10+ | AI-telefonist + menselijke overflow (€500+/maand) |
 
-Voor 80% van de Nederlandse elektriciens-bedrijven is een AI-telefonist op pad 4 de meest rendabele combinatie. Bij een gemiddelde gemiste-spoedklus-waarde van €280 verdient een €197/maand-abonnement zich terug bij één extra spoedklus per maand. Bekijk de [tarieven van ElektroAI](/tarieven) voor concrete pakketten — een AI-telefonist zit standaard in de meeste managed-service-pakketten en is dus geen aparte aanschaf.
+Voor de meeste Nederlandse elektriciens-bedrijven is een AI-telefonist op pad 4 de meest rendabele combinatie. Bij een gemiddelde gemiste-spoedklus-waarde van €280 verdient een €197/maand-abonnement zich terug bij één extra spoedklus per maand. Bekijk de [tarieven van ElektroAI](/tarieven) voor concrete pakketten — een AI-telefonist zit standaard in de meeste managed-service-pakketten en is dus geen aparte aanschaf.
 
 ## Kosten + ROI: wanneer verdient piek-opvang zich terug?
 
@@ -110,7 +110,7 @@ Voor de eerste laag van het gesprek (kwalificatie, gegevens opnemen, urgentie in
 
 ### Wat doe ik als de AI fouten maakt tijdens een drukke avond?
 
-Een goede leverancier biedt een "live-meeluisteren"-dashboard waar je achteraf gesprekken kunt afluisteren of zelfs in real-time kunt overnemen. In de praktijk zijn fouten zeldzaam (typisch 2-4 procent van gesprekken), maar de zichtbaarheid achteraf maakt bijsturen mogelijk. Reken op één review-sessie per maand om scripts te verfijnen.
+Een goede leverancier biedt een "live-meeluisteren"-dashboard waar je achteraf gesprekken kunt afluisteren of zelfs in real-time kunt overnemen. In de praktijk zijn fouten zeldzaam, maar de zichtbaarheid achteraf maakt bijsturen mogelijk. Reken op één review-sessie per maand om scripts te verfijnen.
 
 ### Kan ik beter mensen aannemen voor de telefoon dan AI?
 
