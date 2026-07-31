@@ -15,7 +15,7 @@ Dit scenario speelt zich dagelijks af bij elektriciens. Niet omdat ze slecht wer
 
 ## Snelheid is de belangrijkste factor
 
-Onderzoek in de Nederlandse dienstverlening wijst uit dat bedrijven die binnen 5 minuten reageren op een aanvraag, 10 keer meer kans hebben om de opdracht te krijgen dan bedrijven die na 30 minuten reageren. Na een uur daalt de kans dramatisch.
+In de Nederlandse dienstverlening geldt: bedrijven die binnen 5 minuten reageren op een aanvraag, maken veel meer kans op de opdracht dan bedrijven die er 30 minuten over doen. Na een uur daalt de kans dramatisch.
 
 Bij elektriciens speelt urgentie vaak een rol: een kortsluiting, een defecte groep, een stroomstoring. Klanten bellen de eerste die opneemt. Als dat niet jij bent, is het je concurrent.
 
@@ -55,7 +55,7 @@ Via Werkspot betaal je per lead. Elke onbeantwoorde of te laat beantwoorde Werks
 
 Elektriciens die hun opvolging automatiseren en structureren, rapporteren:
 
-- **30-50% hogere conversie** van aanvraag naar opdracht
+- **Hogere conversie** van aanvraag naar opdracht
 - **Minder gemiste leads** door automatische directe bevestiging
 - **Minder Werkspot-kosten** per gewonnen klus
 - **Meer herhaalopdrachten** door beter klantcontact
