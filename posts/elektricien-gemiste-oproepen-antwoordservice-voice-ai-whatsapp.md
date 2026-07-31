@@ -14,9 +14,9 @@ Dit artikel is voor jou als elektricien-bedrijfseigenaar of zelfstandige die str
 
 ## Het probleem in cijfers: hoeveel kost een gemiste oproep echt?
 
-Een gemiddelde Nederlandse elektricien ontvangt 8 tot 18 oproepen per werkdag. Daarvan wordt 25 tot 40 procent gemist — meestal omdat de elektricien op werk staat, in een installatie zit, of buiten zijn kantooruren wordt gebeld. Een onderzoek onder 200 zelfstandige installateurs in 2025 toonde:
+Een gemiddelde Nederlandse elektricien ontvangt 8 tot 18 oproepen per werkdag. Een flink deel daarvan wordt gemist — meestal omdat de elektricien op werk staat, in een installatie zit, of buiten zijn kantooruren wordt gebeld. Wat dat in de praktijk betekent:
 
-- 67 procent van bellers belt na een onbeantwoord gesprek de volgende elektricien in de Google-resultaten — niet hun voicemail, niet later op de dag.
+- De meeste bellers bellen na een onbeantwoord gesprek de volgende elektricien in de Google-resultaten — niet hun voicemail, niet later op de dag.
 - De gemiddelde projectwaarde bij elektriciens varieert tussen €280 (kleine reparatie) en €1.250 (groepenkast vervanging).
 - Per jaar verliest een gemiddelde één-mans-elektricien 145 tot 280 oproepen aan concurrenten — €40.000 tot €180.000 aan misgelopen omzet.
 
@@ -34,25 +34,25 @@ Bij 12 gemiste oproepen per dag (240 per maand) kom je op €240 tot €410 per 
 
 Sinds 2024 zijn voice AI-systemen voor het MKB volwassen geworden. Een [voice AI voor elektriciens](https://www.elektroai.nl/voice-ai) neemt 24/7 oproepen aan, voert een natuurlijk gesprek met de beller in het Nederlands, Engels, Duits, Frans of Pools, classificeert de aanvraag (spoed, offerte, planning), en stuurt de complete intake binnen 30 seconden naar je inbox of CRM.
 
-De prijzen liggen tussen €49 en €179 per maand voor een elektricien-specifiek pakket — onafhankelijk van het aantal oproepen. Geen per-call-kosten, geen wachttijden, geen kantooruren-grenzen. De technologie is in 2025/2026 zo goed geworden dat 85 procent van de bellers niet doorheeft dat ze met een AI praten.
+De prijzen liggen tussen €49 en €179 per maand voor een elektricien-specifiek pakket — onafhankelijk van het aantal oproepen. Geen per-call-kosten, geen wachttijden, geen kantooruren-grenzen. De technologie is in 2025/2026 zo goed geworden dat de meeste bellers niet doorhebben dat ze met een AI praten.
 
-De zwakkere punten: als een beller een héél specifieke vraag stelt over een complexe installatie, kan een AI de nuance missen. Voor 90 procent van inkomende elektriciens-oproepen (storing, offerte-aanvraag, afspraak inplannen, prijsindicatie) is dat geen probleem; voor de andere 10 procent kan het AI-systeem doorschakelen naar je mobiel.
+De zwakkere punten: als een beller een héél specifieke vraag stelt over een complexe installatie, kan een AI de nuance missen. Voor het overgrote deel van de inkomende elektriciens-oproepen (storing, offerte-aanvraag, afspraak inplannen, prijsindicatie) is dat geen probleem; voor de uitzonderingen kan het AI-systeem doorschakelen naar je mobiel.
 
 ## Optie 3: WhatsApp auto-reply + terugbelservice
 
 De goedkoopste route: een WhatsApp Business-account met een automatisch antwoord op gemiste oproepen, gecombineerd met een terugbelservice. Wanneer een klant belt en je niet opneemt, krijgt hij binnen 30 seconden een WhatsApp-bericht met de tekst "Hallo, ik sta nu op werk. Stuur me kort wat het probleem is — ik bel je binnen 2 uur terug."
 
-Een werkende WhatsApp auto-reply kost €0 tot €15 per maand (afhankelijk van of je een platform gebruikt zoals 360dialog of Twilio). Het sterke punt: tekstcommunicatie werkt voor 60 tot 70 procent van Nederlandse klanten beter dan een telefoongesprek — ze kunnen een foto sturen van het probleem, en het bewijsmateriaal komt direct binnen.
+Een werkende WhatsApp auto-reply kost €0 tot €15 per maand (afhankelijk van of je een platform gebruikt zoals 360dialog of Twilio). Het sterke punt: tekstcommunicatie werkt voor een groot deel van de Nederlandse klanten beter dan een telefoongesprek — ze kunnen een foto sturen van het probleem, en het bewijsmateriaal komt direct binnen.
 
-Het zwakke punt: bellers die echt spoed hebben (een lekkage, geen stroom in huis, een doorgeslagen aardlekschakelaar) willen nu iemand aan de lijn — geen WhatsApp-berichtje. Voor spoed mist deze route 30 tot 45 procent van de leads.
+Het zwakke punt: bellers die echt spoed hebben (een lekkage, geen stroom in huis, een doorgeslagen aardlekschakelaar) willen nu iemand aan de lijn — geen WhatsApp-berichtje. Voor spoed mist deze route een fors deel van de leads.
 
 ## De vergelijking in één tabel
 
 | Oplossing | Kosten/maand | Beschikbaarheid | Lead-behoud bij spoed | Klantbeleving |
 |---|---|---|---|---|
-| Antwoordservice | €240-410 (bij 240 calls) | Werkdagen 8-18 | 70-80% | Hoog |
-| Voice AI | €49-179 (vast) | 24/7 | 85-92% | Middel-hoog |
-| WhatsApp auto-reply | €0-15 (vast) | 24/7 (tekst) | 55-65% | Wisselend |
+| Antwoordservice | €240-410 (bij 240 calls) | Werkdagen 8-18 | Groot deel | Hoog |
+| Voice AI | €49-179 (vast) | 24/7 | Vrijwel alles | Middel-hoog |
+| WhatsApp auto-reply | €0-15 (vast) | 24/7 (tekst) | Ruim de helft | Wisselend |
 
 De cijfers tonen één duidelijk patroon: voice AI biedt de beste balans tussen kosten, beschikbaarheid en leadbehoud. Een traditionele antwoordservice scoort hoog op klantbeleving maar wordt duur bij volume; een WhatsApp auto-reply is gratis maar laat veel spoedklussen lopen.
 
@@ -60,11 +60,11 @@ De cijfers tonen één duidelijk patroon: voice AI biedt de beste balans tussen 
 
 - **Eenmanszaak met 5-15 oproepen per dag, vooral in werkuren:** WhatsApp auto-reply als minimum, voice AI als groei-investering. €49 per maand voor voice AI verdient zich terug bij twee extra klussen.
 - **Klein bedrijf (2-5 monteurs) met 20-50 oproepen per dag, deels buiten werkuren:** voice AI is bijna altijd de winnaar. Bij een traditionele antwoordservice betaal je voor 1.000 calls per maand €890-1.400; bij voice AI €99-179. ROI binnen één maand.
-- **Middelgroot bedrijf (6-25 monteurs) met serviceafdeling, complexe oproepen:** combinatie. Voice AI voor de eerste lijn (intake, classificatie, simpele afspraken), traditionele antwoordservice of in-house secretariaat voor complexe oproepen. Voice AI doet 80 procent van het werk; secretariaat 20 procent voor maatwerk.
+- **Middelgroot bedrijf (6-25 monteurs) met serviceafdeling, complexe oproepen:** combinatie. Voice AI voor de eerste lijn (intake, classificatie, simpele afspraken), traditionele antwoordservice of in-house secretariaat voor complexe oproepen. Voice AI doet het leeuwendeel van het werk; het secretariaat pakt het maatwerk.
 
 ## Wat ook telt: de leadopvolging na het gesprek
 
-Het opvangen van een gemiste oproep is stap één. Stap twee is de opvolging — en daar gaat het bij Nederlandse elektriciens vaak alsnog mis. Een lead die binnenkomt via voice AI of antwoordservice maar niet binnen 60 minuten teruggebeld wordt, daalt in conversiekans van 78 procent naar 23 procent. Het verschil tussen *opvangen* en *opvolgen* is meetbaar.
+Het opvangen van een gemiste oproep is stap één. Stap twee is de opvolging — en daar gaat het bij Nederlandse elektriciens vaak alsnog mis. Een lead die binnenkomt via voice AI of antwoordservice maar niet binnen 60 minuten teruggebeld wordt, verliest het grootste deel van zijn conversiekans. Het verschil tussen *opvangen* en *opvolgen* is meetbaar.
 
 Een geïntegreerde [leadopvolging via je CRM](https://www.elektroai.nl/blog/24-7-bereikbaar-elektricien) zorgt dat elke gemiste oproep automatisch een taak aanmaakt in je agenda, een herinnering stuurt na 30 minuten, en de status bijhoudt totdat je de klant hebt teruggebeld. Dat verschilt 2 tot 4 extra klussen per maand uit, alleen al door snellere reactietijd.
 
