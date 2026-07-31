@@ -12,11 +12,11 @@ Een gemiddelde MKB-elektricien reist per week tussen de 6 en 12 keer naar een po
 
 Dit artikel legt uit wat pre-kwalificatie voor elektriciens concreet inhoudt, welke vragen de klant beantwoordt voordat jij in je bus stapt, hoe foto-upload de rol van de bezichtiging voor een groot deel vervangt, en wat het oplevert aan rendement per offertebezoek.
 
-## Waarom bezichtiging-conversie structureel onder de 50 procent ligt
+## Waarom bezichtiging-conversie structureel tegenvalt
 
 Er zijn drie veelvoorkomende redenen waarom offertebezichtigingen niet converteren:
 
-**De klant vergelijkt primair op prijs en wil minstens drie offertes.** Bij 30 tot 40 procent van de aanvragen is de intentie al "ik wil even zien wat het kost, pas daarna beslis ik wie". Als jij de eerste bent die langskomt, heb je nog twee concurrenten die ná jou komen en die hun prijs kunnen optimaliseren op basis van de jouwe.
+**De klant vergelijkt primair op prijs en wil minstens drie offertes.** Bij een flink deel van de aanvragen is de intentie al "ik wil even zien wat het kost, pas daarna beslis ik wie". Als jij de eerste bent die langskomt, heb je nog twee concurrenten die ná jou komen en die hun prijs kunnen optimaliseren op basis van de jouwe.
 
 **De klant heeft vooraf onvoldoende context over kosten en verwacht te weinig.** "Een wandcontactdoos plaatsen" klinkt simpel, maar een volledige nieuwe groep leggen om dat punt te voeden kost veel meer dan ze dachten. Als ze dat pas hoort bij de bezichtiging, ligt jouw offerte al niet goed voor ze.
 
@@ -29,7 +29,7 @@ Al deze redenen zijn vóór je in de bus stapt te voorspellen, als je de juiste 
 Voor elke klustype horen andere vervolgvragen, maar dit is het minimum per aanvraag:
 
 - **Exacte adres inclusief postcode.** Automatisch wordt dan duidelijk of het binnen je werkgebied valt en wat de reistijd is.
-- **Foto van de huidige situatie.** Voor laadpaal-installatie, groepenkast, wandcontactdoos-plaatsing — een foto vertelt je 80 procent van wat je anders ter plekke moet opnemen.
+- **Foto van de huidige situatie.** Voor laadpaal-installatie, groepenkast, wandcontactdoos-plaatsing — een foto vertelt je het meeste van wat je anders ter plekke moet opnemen.
 - **Exacte omschrijving van de klus** in plaats van een vaag "ik wil iets met elektra". Specificaties zoals type contactdoos, gewenste locatie, eventuele bestaande voorzieningen.
 - **Realistische kostenverwachting van de klant.** "Hoeveel denkt u ongeveer kwijt te zijn?" filtert de prijsshoppers eruit die een bezichtiging willen om kunstmatig laag aan te dingen.
 - **Gewenste startdatum.** Als ze "pas na de zomer" willen en jij volledig bezet bent voor het eerste half jaar, is een offertebezoek nu waardeverlies.
@@ -39,7 +39,7 @@ Deze vijf of zes datapunten verzamel je niet per telefoon — dat is te veel ged
 
 ## Hoe foto-intake de helft van bezichtiging vervangt
 
-De belangrijkste innovatie in elektricien-pre-kwalificatie is systematische foto-upload. Vijf jaar geleden moest je echt komen kijken omdat je alleen ter plekke de kwaliteit van bestaande bedrading, de locatie van de meterkast en de ruimte voor extra groepen kon inschatten. In 2026 met een simpele chatbot die vraagt om drie tot vijf foto's, kun je 70 tot 80 procent van die informatie op je eigen telefoon zien voor je iets afspreekt.
+De belangrijkste innovatie in elektricien-pre-kwalificatie is systematische foto-upload. Vijf jaar geleden moest je echt komen kijken omdat je alleen ter plekke de kwaliteit van bestaande bedrading, de locatie van de meterkast en de ruimte voor extra groepen kon inschatten. In 2026 met een simpele chatbot die vraagt om drie tot vijf foto's, kun je het grootste deel van die informatie op je eigen telefoon zien voor je iets afspreekt.
 
 Concreet voor veelvoorkomende klussen:
 
@@ -53,7 +53,7 @@ Voor bezichtigingen die nog wél nodig zijn (complexe bedrijfsinstallaties, ingr
 
 **Direct: minder verloren offertebezoeken.** 8 tot 14 uur per week hervonden tijd. Je kunt die inzetten voor productief werk bij bestaande klussen, of voor méér gekwalificeerde bezichtigingen.
 
-**Indirect: hogere conversie van wél-gepleegde bezichtigingen.** Als je alleen nog rijdt naar klanten die bevestigd hebben dat ze binnen jouw tariefrange zitten, stijgt de conversie van bezichtiging-naar-opdracht van 45 procent naar typisch 70 tot 80 procent.
+**Indirect: hogere conversie van wél-gepleegde bezichtigingen.** Als je alleen nog rijdt naar klanten die bevestigd hebben dat ze binnen jouw tariefrange zitten, schiet de conversie van bezichtiging-naar-opdracht omhoog: je rijdt niet meer voor mensen die alleen prijzen aan het vergelijken zijn.
 
 **Schaal: je kunt meer gelijktijdige offertes bijhouden.** Waar jouw wekelijkse maximum 8 bezichtigingen was, kun je nu 15 tot 20 aanvragen verwerken omdat de helft daarvan zonder bezichtiging een bandbreedte-offerte krijgt. Lees onze aanpak voor [offertes opvolgen als elektricien](/blog/offertes-opvolgen-elektricien) voor de downstream-flow.
 
@@ -63,13 +63,13 @@ Voor bezichtigingen die nog wél nodig zijn (complexe bedrijfsinstallaties, ingr
 
 Een chatbot met foto-upload-intake voor een elektricienswebsite kost tussen de 60 en 160 euro per maand plus 800 tot 2.500 euro setup. Specifiek voor elektriciens ontwikkelde varianten (met Dutch NEN 1010-context, integratie met offertesoftware) liggen in de hogere helft. Bekijk onze [tarieven](/tarieven) voor het STUDIOLEE-pakket inclusief setup en doorlopende optimalisatie.
 
-Wat een doorsnee elektricien hiermee hervindt per week: 6 tot 10 uur, die op een intern uurtarief van 55 euro (50% marge) goed is voor 330 tot 550 euro hervonden rendement per week, ofwel 1.400 tot 2.350 euro per maand. De investering verdient zichzelf binnen de eerste drie weken terug.
+Wat een doorsnee elektricien hiermee hervindt per week: 6 tot 10 uur, die op een intern uurtarief van 55 euro goed is voor 330 tot 550 euro hervonden rendement per week, ofwel 1.400 tot 2.350 euro per maand. De investering verdient zichzelf binnen de eerste drie weken terug.
 
 ## Waar dit misgaat bij doe-het-zelf-implementatie
 
 **Te generieke chatbot-software.** Intercom, Drift, HubSpot chatbots hebben geen elektrotechnische context. Ze kunnen niet doorvragen op NEN 1010, niet herkennen wat een 3-fasengroep is, en geven geen zinnige bandbreedtes voor standaardklussen. Kies voor een dedicated elektricien-chatbot of een volledig custom gebouwde.
 
-**Geen foto-upload-flow ingebouwd.** Als de intake op tekst blijft, bespaar je slechts 30 procent van de bezichtigingstijd. Met foto-upload kom je op 70 procent besparing. Dit is het technische verschil tussen "informatie-verzameling" en "pre-kwalificatie".
+**Geen foto-upload-flow ingebouwd.** Als de intake op tekst blijft, bespaar je maar een deel van de bezichtigingstijd. Met foto-upload bespaar je het leeuwendeel. Dit is het technische verschil tussen "informatie-verzameling" en "pre-kwalificatie".
 
 **Geen koppeling met je offertesoftware of agenda.** De intake moet direct in je werkproces landen. Lees onze aanpak voor [lead-opvolging als elektricien](/blog/lead-opvolging-elektricien-sneller-reageren) voor de hele keten.
 
