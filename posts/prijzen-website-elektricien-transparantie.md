@@ -12,7 +12,7 @@ tags: ["Prijzen", "Website", "Vertrouwen"]
 
 Veel elektriciens aarzelen om tarieven op hun website te zetten. De angst: klanten vergelijken alleen op prijs en kiezen de goedkoopste. Maar de realiteit is anders. Klanten die zoeken op "elektricien kosten meterkast" of "laadpaal installeren prijs" willen weten wat ze kunnen verwachten. Als jij die informatie niet geeft, gaat de klant naar de concurrent die dat wel doet.
 
-Het verschil tussen een elektricien met en zonder prijspagina is meetbaar. Websites met prijsindicaties krijgen tot 40 procent meer offerteaanvragen. Niet omdat de prijs laag is, maar omdat de klant weet dat het binnen budget past voordat die belt.
+Het verschil tussen een elektricien met en zonder prijspagina is meetbaar. Websites met prijsindicaties krijgen merkbaar meer offerteaanvragen. Niet omdat de prijs laag is, maar omdat de klant weet dat het binnen budget past voordat die belt.
 
 ## Richtprijzen werken beter dan exacte bedragen
 
