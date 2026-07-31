@@ -42,7 +42,7 @@ De vuistregel: het gebied dat je realistisch kunt bereiken binnen één uur rijd
 - Probleem: je mist klanten in directe buurgemeenten waar je vaak werkt
 
 **Sweet spot (15-30 km of 4-6 gemeenten):**
-- Goed voor: 90 procent van de Nederlandse elektriciens
+- Goed voor: vrijwel elke Nederlandse elektricien
 - Effect: je verschijnt sterk in alle gemeenten in dat gebied zonder dat de "lokale relevantie" verwatert
 
 **Te ruim (provinciedekking of "hele Randstad"):**
@@ -108,14 +108,14 @@ Drie eenvoudige checks elke maand:
 
 **Check 3:** vraag bij vijf nieuwe klanten "hoe heeft u ons gevonden?". Als ze allemaal uit één plaats komen die toevallig in je gebied valt, ben je daar sterk. Als ze uit allerlei plaatsen komen die niet in je gebied vallen, betekent dat je gebied te smal staat ingesteld.
 
-## Wat het oplevert in cijfers
+## Wat het oplevert
 
-Bij vier elektriciens in Noord-Holland die we het werkgebied hebben geoptimaliseerd (van te ruim of te smal naar de sweet spot), zagen we gemiddeld:
+Bij vier elektriciens in Noord-Holland die we het werkgebied hebben geoptimaliseerd (van te ruim of te smal naar de sweet spot), zagen we over de hele linie:
 
-- 22 procent meer profielweergaven in de tweede maand
-- 18 procent meer telefoonoproepen vanuit Google Maps
-- 14 procent meer route-aanvragen (klanten die direct kwamen kijken naar de werkplaats voor materialen of overleg)
-- 11 procent meer nieuwe klanten in maand drie
+- Meer profielweergaven in de tweede maand
+- Meer telefoonoproepen vanuit Google Maps
+- Meer route-aanvragen (klanten die direct kwamen kijken naar de werkplaats voor materialen of overleg)
+- Meer nieuwe klanten in maand drie
 
 Niet enorme cijfers afzonderlijk, maar samen een serieuze omzet-stijging zonder advertentie-budget. Bekijk ook onze [tarieven](/tarieven) als je dit liever volledig laat optimaliseren.
 
