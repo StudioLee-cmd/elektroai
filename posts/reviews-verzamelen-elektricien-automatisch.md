@@ -11,7 +11,7 @@ tags: ["Reviews", "Elektricien", "Automatisering"]
 
 Een huiseigenaar heeft een storing in de meterkast. De zekeringen slaan steeds af, en hij weet niet of het een los contact is of iets ernstigers. Hij opent Google, typt "elektricien [stad]", en ziet drie bedrijven in het kaartresultaat. Twee hebben 15 reviews met 4,2 sterren. Eentje heeft 87 reviews met 4,8 sterren. Welke belt hij?
 
-Het antwoord is voorspelbaar. Meer reviews betekent meer vertrouwen, en vertrouwen is alles wanneer je een vreemde in je meterkast laat werken. Google bevestigt dit: bedrijven met meer dan 50 reviews verschijnen tot 70 procent vaker in de lokale top 3.
+Het antwoord is voorspelbaar. Meer reviews betekent meer vertrouwen, en vertrouwen is alles wanneer je een vreemde in je meterkast laat werken. Bedrijven met meer dan 50 reviews verschijnen duidelijk vaker in de lokale top 3.
 
 Toch hebben de meeste elektriciensbedrijven minder dan 20 reviews. Niet omdat klanten ontevreden zijn, maar omdat niemand het vraagt. De klus is gedaan, de factuur betaald, en iedereen gaat door met de dag. Die gemiste review is een gemiste kans op de volgende klant.
 
@@ -35,7 +35,7 @@ Deze link kun je inkorten via een dienst als bit.ly, zodat hij er minder intimid
 
 ## Stap 2: Automatische WhatsApp-berichten na elke klus
 
-WhatsApp heeft in Nederland een bereik van 98 procent. Het leespercentage van WhatsApp-berichten is 95 procent, tegenover 20 procent voor e-mail. Als je ergens om een review moet vragen, is het via WhatsApp.
+WhatsApp is in Nederland vrijwel overal in gebruik, en berichten worden er bijna altijd gelezen — e-mail lang niet. Als je ergens om een review moet vragen, is het via WhatsApp.
 
 Het bericht hoeft niet ingewikkeld te zijn:
 
@@ -128,8 +128,8 @@ Een negatieve review zonder reactie is erger dan de review zelf. Potentiele klan
 
 Laten we rekenen:
 
-- Met 50+ reviews en 4,5+ sterren verschijn je tot 70 procent vaker in het Google kaartresultaat
-- Elke extra positie in de lokale top 3 levert gemiddeld 20 tot 30 procent meer klikken op
+- Met 50+ reviews en 4,5+ sterren verschijn je duidelijk vaker in het Google kaartresultaat
+- Elke extra positie in de lokale top 3 levert merkbaar meer klikken op
 - Meer klikken = meer aanvragen = meer klussen
 
 Een elektricien met 100 reviews en 4,8 sterren hoeft nauwelijks meer aan marketing te doen. De reviews doen het werk. Nieuwe klanten zien het sterrengemiddelde, lezen een paar ervaringen, en bellen.
