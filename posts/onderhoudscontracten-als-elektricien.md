@@ -19,7 +19,7 @@ Er zijn drie redenen waarom dit product-type bijna standaard hoort in elk elektr
 
 **Je blokkeert de concurrent.** Een klant met een lopend contract gaat niet eerst googlen als er wat mis is — hij belt jou. Dat is een structurele blokkade die elke andere elektricien buiten de deur houdt, ook als die goedkoper adverteert op Google.
 
-**Vaak is het je meest winstgevende werk.** Bij keuringen, NEN 1010-checks en preventief onderhoud werk je efficiënt (je kent de installatie, je weet waar de meterkast hangt) en factureer je voor kennis, niet voor handwerk. Marges van 50-70 procent zijn niet ongebruikelijk — fors hoger dan op reguliere installaties.
+**Vaak is het je meest winstgevende werk.** Bij keuringen, NEN 1010-checks en preventief onderhoud werk je efficiënt (je kent de installatie, je weet waar de meterkast hangt) en factureer je voor kennis, niet voor handwerk. De marges liggen er fors hoger dan op reguliere installaties.
 
 De valkuil is dat veel elektriciens denken dat onderhoudscontracten alleen zinvol zijn voor grote commerciële opdrachtgevers. Dat is niet zo. Particulieren, VvE's en het hele MKB-segment daartussen zijn minstens zo geschikt — vaak zelfs makkelijker te verkopen. Een simpele [AI chatbot](/chatbot) op je website die bij een aanvraag meteen vraagt "wilt u dit eenmalig of als jaarlijks contract?" kan dit als vanzelfsprekend onderdeel van je intakeproces maken.
 
