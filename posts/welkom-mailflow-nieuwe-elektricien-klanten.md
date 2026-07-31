@@ -51,7 +51,7 @@ Onderwerp: "Hoe was het? En je weet ons te vinden". Nu, en niet eerder, vraag je
 
 ## Wat je juist NIET in een welkomstmail zet
 
-De snelste manier om een nieuwe klant kwijt te raken is hem behandelen als een nieuwsbrief-inschrijving. Geen aanbiedingen in mail 1, geen "10% korting op je volgende klus", geen wekelijkse updates. Een welkomstflow van vier mails over drie weken is precies genoeg; daarna wordt het ruis. Hou de toon zoals je zou praten als je bij iemand in de meterkast staat: nuchter, duidelijk, geen verkoperspraat. En stuur nooit dezelfde generieke template die elke webshop ook stuurt, want een klant die net een vakman in huis had verwacht een vakman in zijn mailbox, niet een marketingmachine. Wil je dieper op de toon en timing van dat opvolgen ingaan, dan helpt [professioneel opvolgen na de klus](/blog/klantcommunicatie-elektricien-opvolging) je verder.
+De snelste manier om een nieuwe klant kwijt te raken is hem behandelen als een nieuwsbrief-inschrijving. Geen aanbiedingen in mail 1, geen "korting op je volgende klus", geen wekelijkse updates. Een welkomstflow van vier mails over drie weken is precies genoeg; daarna wordt het ruis. Hou de toon zoals je zou praten als je bij iemand in de meterkast staat: nuchter, duidelijk, geen verkoperspraat. En stuur nooit dezelfde generieke template die elke webshop ook stuurt, want een klant die net een vakman in huis had verwacht een vakman in zijn mailbox, niet een marketingmachine. Wil je dieper op de toon en timing van dat opvolgen ingaan, dan helpt [professioneel opvolgen na de klus](/blog/klantcommunicatie-elektricien-opvolging) je verder.
 
 ## De flow één keer instellen, daarna automatisch
 
