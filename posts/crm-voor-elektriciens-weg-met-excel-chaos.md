@@ -45,7 +45,7 @@ Een goede CRM kost geld (€30 tot €100 per maand voor een MKB-pakket, of inbe
 
 **Tijdwinst.** Een 3-mans bedrijf bespaart gemiddeld 4 tot 6 uur per week aan zoek-tijd over alle medewerkers heen. Bij een interne uurkost van €45 is dat €180 tot €270 per week, €720 tot €1.080 per maand. Tegenover een CRM-kost van €60 tot €120 per maand. ROI: 5 tot 9 keer maandelijks.
 
-**Terugkerende omzet.** Onderhouds-contracten en jaarlijkse vervolg-klussen die door de Excel-kieren glippen zijn gemiddeld 8 tot 15% van potentiële omzet. Een 3-mans bedrijf met €450K omzet mist daarmee €36K tot €68K per jaar. Een CRM die deze automatisch markeert haalt vaak 60 tot 80% van die gemiste omzet terug.
+**Terugkerende omzet.** Onderhouds-contracten en jaarlijkse vervolg-klussen glippen door de Excel-kieren. Reken met 8 tot 15% van je potentiële omzet: een 3-mans bedrijf met €450K omzet mist daarmee €36K tot €68K per jaar, en een CRM die deze klussen automatisch markeert haalt daar een groot deel van terug.
 
 **Klanttevredenheid (en reviews).** Klanten die het gevoel hebben dat hun bedrijf hen kent (vorige klus erbij, garantie-status paraat) reviewen consistent hoger. Een CRM is geen review-tool, maar het verhoogt indirect je [google reviews](/reviews) door betere klantervaring.
 
