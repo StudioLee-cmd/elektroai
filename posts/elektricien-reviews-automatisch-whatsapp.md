@@ -14,8 +14,8 @@ Het irritante: dezelfde vakmensen met 12 reviews hebben tijdens hun carrière al
 
 **In het kort:**
 
-- Elektriciens met 80+ Google reviews krijgen 4x meer leads dan die met minder dan 20.
-- WhatsApp-verzoeken converteren 6x beter dan e-mail-verzoeken (45% vs 7%).
+- Elektriciens met 80+ Google reviews krijgen structureel meer leads dan die met minder dan 20.
+- WhatsApp-verzoeken converteren een veelvoud beter dan e-mail-verzoeken.
 - Versturen binnen 2 uur na afronding van de klus is kritiek — daarna zakt je conversie steil.
 - Een NFC-kaart in de meterkast-ruimte achter laten biedt een fysieke backup voor klanten die WhatsApp niet gebruiken.
 - Automatiseer dit volledig; handmatig volhoud je dit geen 3 maanden.
@@ -49,7 +49,7 @@ Belangrijk:
 - **Wees niet pushy.** "Geen stress" helpt de klant zonder verplichting te voelen.
 - **Erken de moeite.** Mensen weten dat een review 2-5 min kost; tegemoetkoming helpt.
 
-30% van je uiteindelijke reviews komt uit deze tweede stap.
+Een flink deel van je uiteindelijke reviews komt uit deze tweede stap.
 
 ## Stap 3: NFC-kaart in de meterkast-ruimte achterlaten
 
@@ -62,7 +62,7 @@ Laat na elke klus een NFC-review-kaart achter op een zichtbare plek (naast de me
 - Bevat een NFC-chip die direct naar je Google review-link springt.
 - Werkt ook als QR-code erop staat voor wie geen NFC heeft.
 
-Dit is geen extra stap voor jou, en voor de klant wordt het plotseling heel tastbaar. In de praktijk: 15-20% van de klanten zonder WhatsApp vult alsnog een review in dankzij de kaart. Wij leveren deze standaard in ons [review-pakket](/review-pakket) voor installateurs.
+Dit is geen extra stap voor jou, en voor de klant wordt het plotseling heel tastbaar. In de praktijk vult een deel van de klanten zonder WhatsApp alsnog een review in dankzij de kaart. Wij leveren deze standaard in ons [review-pakket](/review-pakket) voor installateurs.
 
 ## Waarom snelheid zo belangrijk is
 
@@ -70,10 +70,10 @@ Het verval van klant-enthousiasme volgt een bekende curve:
 
 | Moment na klus | Kans op review |
 |---|---|
-| Binnen 2 uur | 45% |
-| Dag 1 | 28% |
-| Dag 2-3 | 15% |
-| Na 7 dagen | < 5% |
+| Binnen 2 uur | Het grootst |
+| Dag 1 | Nog goed |
+| Dag 2-3 | Duidelijk lager |
+| Na 7 dagen | Vrijwel nihil |
 
 Binnen 2 uur zit de klant nog in de "wat goed dat dit is opgelost"-modus. Een dag later hebben ze weer 10 andere dingen aan hun hoofd. Na een week zijn ze het compleet vergeten.
 
@@ -91,7 +91,7 @@ Automatisch (met een [review-automatisering via WhatsApp](/reviews)):
 4. 48 uur later: de follow-up gaat automatisch, maar alleen als er nog geen review is.
 5. Jij krijgt een wekelijks overzicht van nieuwe reviews + antwoordsuggesties.
 
-In elektriciensbedrijven die dit systeem draaien zien we meestal 25-40% conversie op review-verzoek — in plaats van de 5-10% bij handmatig werk.
+In elektriciensbedrijven die dit systeem draaien zien we een veelvoud van de conversie op review-verzoek vergeleken met handmatig werk.
 
 ## Negatieve reviews: wat als je er eentje krijgt?
 
@@ -111,8 +111,8 @@ Eén goed afgehandelde negatieve review kan meer nieuwe klanten opleveren dan ti
 Praktische cijfers van elektriciensbedrijven na 6-12 maanden consistent review-verzamelen:
 
 - **Dubbel zo hoog in Google's Local Pack** (top-3 Maps-resultaten).
-- **2-4x meer telefoonoproepen** via Google Bedrijfsprofiel.
-- **30-50% hogere conversie** van website-bezoeker naar offerte-aanvraag.
+- **Meer telefoonoproepen** via Google Bedrijfsprofiel.
+- **Hogere conversie** van website-bezoeker naar offerte-aanvraag.
 - **Betere prijzen kunnen vragen** omdat klanten vertrouwen hebben in je reputatie.
 
 Kortom: tijd om te beginnen. Wil je weten waar jouw bedrijf nu staat qua reviews en hoe snel je naar 80+ kan? Vraag een [gratis AI-scan aan](/gratis-scan), we analyseren je huidige Google Bedrijfsprofiel en geven een concrete tijdlijn. Meer over hoe een goede [review-pakket met NFC-kaarten](/review-pakket) werkt lees je op onze dienstpagina.
