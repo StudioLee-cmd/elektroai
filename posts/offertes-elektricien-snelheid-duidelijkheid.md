@@ -15,7 +15,7 @@ In dit artikel laten we zien hoe je je offerteproces kunt verbeteren zodat je me
 
 ## Waarom snelheid alles is
 
-Onderzoek in de Nederlandse bouwsector laat consistent zien: de eerste vakman die reageert met een offerte, wint in meer dan 50% van de gevallen de opdracht. Niet de goedkoopste, niet de bekendste — de snelste.
+In de Nederlandse bouwsector geldt consistent: de eerste vakman die reageert met een offerte, wint meestal de opdracht. Niet de goedkoopste, niet de bekendste — de snelste.
 
 De reden is psychologisch. Een klant die een offerte aanvraagt zit in "oplossingsmodus". Ze hebben een probleem (een groepenkast die vernieuwd moet worden, extra stopcontacten nodig, laadpaal installeren) en willen het opgelost hebben. De eerste elektricien die reageert vangt die urgentie op. Hoe langer het duurt, hoe meer de urgentie afneemt en hoe meer concurrenten in beeld komen.
 
@@ -75,7 +75,7 @@ Als de klant alsnog kiest voor de goedkoopste optie, is dat prima. Die klant was
 
 ## Meet je offerteconversie
 
-Houd bij hoeveel offertes je verstuurt en hoeveel er worden geaccepteerd. Een gezond conversiepercentage voor elektriciens ligt tussen de 30% en 50%. Als je onder de 25% zit, is er ruimte voor verbetering — waarschijnlijk in snelheid, duidelijkheid of follow-up.
+Houd bij hoeveel offertes je verstuurt en hoeveel er worden geaccepteerd. Een gezond conversiepercentage voor elektriciens ligt tussen een derde en de helft van je offertes. Zit je daar duidelijk onder, dan is er ruimte voor verbetering — waarschijnlijk in snelheid, duidelijkheid of follow-up.
 
 Houd ook bij waarom offertes worden afgewezen. "Te duur", "te lang wachten", "geen reactie meer" — elk patroon wijst op een specifiek verbeterpunt.
 
