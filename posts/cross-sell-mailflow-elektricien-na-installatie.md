@@ -110,7 +110,7 @@ Ja. Bij een klein bestand werkt dit zelfs beter, omdat je de mail persoonlijker 
 **Kan dit ook via WhatsApp?**
 Voor de korte berichten direct rond de klus, zoals een ik-kom-eraan of een bedankje, is WhatsApp prima. Voor een aanbod maanden later is mail beter: het voelt minder dringend, en je klant kan het rustig teruglezen wanneer het hem uitkomt.
 
-<div class="lees-ook"><strong>Lees ook:</strong> <a href="/blog/meerwerk-vastleggen-elektricien-akkoord-2-minuten">Meerwerk vastleggen als elektricien: akkoord in 2 minuten</a> →</div>
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/meerwerk-vastleggen-elektricien-akkoord-2-minuten" class="text-dark fw-semibold">Meerwerk vastleggen als elektricien: akkoord in 2 minuten</a> &rarr;</p></div></div></div>
 
 ## Begin bij je facturen van vorig jaar
 
