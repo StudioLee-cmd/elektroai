@@ -116,4 +116,4 @@ Voor de korte berichten direct rond de klus, zoals een ik-kom-eraan of een bedan
 
 Je hoeft hier geen nieuwe klanten voor te vinden en geen advertentiebudget voor vrij te maken. Alles wat je nodig hebt staat al in je administratie: adressen, klussen, data. Het enige dat ontbreekt is de regel die zegt wanneer er iets uit moet.
 
-Bij ElektroAI zetten we die flows voor je op, gekoppeld aan je klantgegevens, met de tekst afgestemd op de klussen die jij doet. Je hoort van ons wat er verstuurd is en wie er reageerde, verder heb je er geen omkijken naar. En omdat we alleen willen dat het werkt, geldt onze Groei-of-Geld-Terug Garantie: levert het je niets op, dan krijg je je geld terug.
+Bij ElektroAI zetten we die flows voor je op, gekoppeld aan je klantgegevens, met de tekst afgestemd op de klussen die jij doet. Je hoort van ons wat er verstuurd is en wie er reageerde, verder heb je er geen omkijken naar. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

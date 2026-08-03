@@ -77,7 +77,7 @@ Acht weken na de start heb je een werkende CRM zonder dat het werk een dag heeft
 
 ## Wat StudioLee voor jou doet
 
-Voor een elektricien die niet drie CRM's wil vergelijken en zelf de koppelingen wil bouwen, is er de Managed Basis (vanaf €79 per maand) waarin de CRM al gekoppeld zit aan Voice AI, website-leads, reviews, en herinneringen. Eén abonnement, één login, geen aparte rekeningen of mismatches tussen systemen. Plus de [Groei-of-Geld-Terug Garantie](/tarieven) op Managed Pro, dus als de 4-tot-6-uur-per-week tijdwinst na drie maanden uitblijft krijg je het geld terug.
+Voor een elektricien die niet drie CRM's wil vergelijken en zelf de koppelingen wil bouwen, is er de Managed Basis (vanaf €79 per maand) waarin de CRM al gekoppeld zit aan Voice AI, website-leads, reviews, en herinneringen. Eén abonnement, één login, geen aparte rekeningen of mismatches tussen systemen. Onze [Groei-of-Geld-Terug Garantie](/tarieven) geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Wat we niet doen: je oude Excel-bestand binnen één dag overzetten met alle nuances. Wel: het in een geleidelijk schema doen waarin niets verloren gaat en de dagelijkse operatie geen pijn voelt. Plan een [gratis ai scan voor elektriciens](/gratis-scan) als startpunt, dan brengen we in kaart waar jouw zeven losse plekken nu zitten en wat de eerstvolgende drie samenvoeg-stappen zijn.
 

@@ -107,6 +107,6 @@ Op dat punt loont het om het [social media beheer voor elektriciens](/social-med
 
 TikTok is voor elektriciens geen hype maar een etalage die dag en nacht openstaat, gevuld met het werk dat je toch al doet. Begin klein: één voor-en-na per week, een strakke eerste seconde, ondertiteling aan, en een profiel dat kijkers naar een plek stuurt waar ze een offerte kunnen aanvragen. De rest is volhouden, en dat mag je automatiseren.
 
-Wil je weten waar voor jouw bedrijf de meeste winst zit, bij social media, je website of je vindbaarheid? Vraag dan een gratis [AI-scan voor elektriciens](/gratis-scan) aan. Je krijgt van ElektroAI een concreet beeld van wat als eerste oplevert, met de Groei-of-Geld-Terug Garantie: levert het geen groei op, dan krijg je je geld terug. Jij installeert, wij regelen de rest.
+Wil je weten waar voor jouw bedrijf de meeste winst zit, bij social media, je website of je vindbaarheid? Vraag dan een gratis [AI-scan voor elektriciens](/gratis-scan) aan. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij installeert, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/instagram-contentkalender-elektricien-30-dagen" class="text-dark fw-semibold">30-dagen Instagram contentkalender voor elektriciens</a> →</p>

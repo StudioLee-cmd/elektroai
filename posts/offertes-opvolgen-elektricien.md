@@ -64,7 +64,7 @@ Elektriciens die hun opvolging automatiseren en structureren, rapporteren:
 
 Zelf een opvolgingssysteem instellen kost tijd en technische kennis. Met een managed service wordt het volledige traject voor je ingericht: automatische bevestigingen, opvolgingssequenties, [review-verzoeken](/reviews) na afloop en een [chatbot](/chatbot) die 24/7 aanvragen opvangt.
 
-Bij [StudioLee](/tarieven) wordt alles volledig voor je geregeld. Met de Groei-of-Geld-Terug Garantie loop je geen risico: geen meetbare groei? Geld terug. Start een [gratis scan](/gratis-scan) om te zien wat het oplevert.
+Bij [StudioLee](/tarieven) wordt alles volledig voor je geregeld. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Start een [gratis scan](/gratis-scan) om te zien wat het oplevert.
 
 ## Veelgestelde vragen
 

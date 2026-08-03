@@ -208,4 +208,4 @@ Absoluut. Stuur een vriendelijke check-in 48 uur na een offerte. Vooral voor gro
 
 Een goed reminder-systeem is de goedkoopste verbetering die een elektriciens-bedrijf kan doorvoeren. Vijf templates, één uur setup en je haalt merkbaar meer waarde uit dezelfde werkuren. Wij richten dit standaard in voor elektriciens die met ons werken, inclusief koppeling met je agenda en automatische reactie-opvang.
 
-Wil je dit niet zelf opzetten? Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar in jouw planning de meeste uren weglekken. Werkt het niet? Geld terug, dat is onze Groei-of-Geld-Terug Garantie.
+Wil je dit niet zelf opzetten? Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar in jouw planning de meeste uren weglekken. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

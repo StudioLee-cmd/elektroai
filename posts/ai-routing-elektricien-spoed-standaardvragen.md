@@ -79,7 +79,7 @@ Dan valt de schade mee, want de grens staat bewust aan de veilige kant. Bij twij
 
 Voor een installatiebedrijf met 1 tot 5 monteurs is de conclusie nuchter. Je hoeft niet 24/7 zelf aan de telefoon te hangen en je hoeft ook niet elke beller te laten schieten. Je hebt een laag nodig die de oproep beoordeelt voordat hij jou bereikt, zodat je alleen nog gestoord wordt als het echt telt.
 
-Wil je weten hoeveel spoedklussen jouw huidige opzet nu laat liggen? Vraag de [gratis ai scan voor elektriciens](/gratis-scan) van ElektroAI aan. Je ziet zwart op wit waar oproepen nu verloren gaan en wat slimme routing daaraan verandert. En omdat we achter ons werk staan, geldt de Groei-of-Geld-Terug Garantie: groeit je bedrijf niet, dan betaal je niet. Jij installeert, wij regelen de rest.
+Wil je weten hoeveel spoedklussen jouw huidige opzet nu laat liggen? Vraag de [gratis ai scan voor elektriciens](/gratis-scan) van ElektroAI aan. Je ziet zwart op wit waar oproepen nu verloren gaan en wat slimme routing daaraan verandert. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij installeert, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/voice-ai-vs-voicemail-elektricien" class="text-dark fw-semibold">Voice AI vs voicemail elektricien: meer opdrachten in 2026</a> →</p></div></div></div>
 

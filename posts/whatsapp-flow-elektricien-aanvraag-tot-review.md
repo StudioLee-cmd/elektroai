@@ -102,6 +102,6 @@ Dan schakelt de flow naar jou door. De bot is er om de simpele stappen af te van
 
 Begin niet met nog een tool, maar met de keten. Teken je klantreis één keer uit, van eerste appje tot review, en kijk waar jij nu de handmatige schakel bent. Op precies die plekken levert automatisering het meeste op.
 
-Wil je zien hoe die flow er voor jouw bedrijf uitziet? Vraag een [gratis AI-scan](/gratis-scan) aan, dan brengen we bij ElektroAI samen in kaart waar aanvragen nu blijven liggen en wat één gekoppelde flow je oplevert. Met onze Groei-of-Geld-Terug Garantie loop je daarbij geen risico: groeit het niet, dan krijg je je geld terug. Jij installeert, wij regelen de rest.
+Wil je zien hoe die flow er voor jouw bedrijf uitziet? Vraag een [gratis AI-scan](/gratis-scan) aan, dan brengen we bij ElektroAI samen in kaart waar aanvragen nu blijven liggen en wat één gekoppelde flow je oplevert. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij installeert, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/chatbot-of-faq-pagina-elektricien" class="text-dark fw-semibold">Chatbot of FAQ-pagina voor elektriciens: wat werkt beter?</a> →</p>

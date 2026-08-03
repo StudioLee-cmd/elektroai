@@ -74,7 +74,7 @@ Niet als je hem eerlijk inzet. Laat de bot zich gewoon voorstellen als digitale 
 
 Voor de meeste installatiebedrijven met 1 tot 5 monteurs is de conclusie nuchter. Heb je een kantoormedewerker die tijdens werkuren structureel achter de chat kan zitten, dan is live chat overdag een prima aanvulling. Heb je die niet, en dat geldt voor bijna elke elektricien die wij spreken, dan is een [ai-chatbot](/chatbot) de enige optie die je bereikbaarheid echt oplost in plaats van verschuift.
 
-Wil je weten hoeveel aanvragen je website nu laat liggen? Vraag de [gratis ai scan voor elektriciens](/gratis-scan) van ElektroAI aan. Je ziet dan zwart op wit waar bezoekers afhaken en wat een chatbot daaraan verandert. En omdat we achter ons werk staan, geldt op onze aanpak de Groei-of-Geld-Terug Garantie: groeit je bedrijf niet, dan betaal je niet.
+Wil je weten hoeveel aanvragen je website nu laat liggen? Vraag de [gratis ai scan voor elektriciens](/gratis-scan) van ElektroAI aan. Je ziet dan zwart op wit waar bezoekers afhaken en wat een chatbot daaraan verandert. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/whatsapp-chatbot-elektricien-spoedaanvragen-opvangen" class="text-dark fw-semibold">WhatsApp chatbot elektricien: spoedaanvragen opvangen</a> →</p></div></div></div>
 

@@ -75,7 +75,7 @@ Het knelpunt is dus nooit het materiaal, en na vandaag ook niet meer de toestemm
 
 De AVG is voor een elektricien veel minder ingewikkeld dan het lijkt, omdat het overgrote deel van je foto's helemaal geen mens bevat. Kader strak op je werk en je kunt vandaag beginnen. Komt er een herkenbare woning of een persoon in beeld, vraag het dan op de klus zelf, bewaar het appje, en zet de standaardafspraak één keer in je offerte. Daarmee is het onderwerp voor de komende jaren afgehandeld.
 
-Wil je dat die foto's ook echt aanvragen opleveren in plaats van alleen likes? Vraag dan een [gratis website voor elektriciens](/gratis-website) aan, waarin je portfolio en je aanvraagformulier op één plek staan. Je krijgt van ElektroAI de Groei-of-Geld-Terug Garantie: levert het geen groei op, dan krijg je je geld terug. Jij installeert, wij regelen de rest.
+Wil je dat die foto's ook echt aanvragen opleveren in plaats van alleen likes? Vraag dan een [gratis website voor elektriciens](/gratis-website) aan, waarin je portfolio en je aanvraagformulier op één plek staan. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij installeert, wij regelen de rest.
 
 ## Veelgestelde vragen
 
