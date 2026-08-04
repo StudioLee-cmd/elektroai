@@ -1,7 +1,7 @@
 ---
 title: "Google Bedrijfsprofiel services-veld voor elektriciens"
 slug: google-bedrijfsprofiel-services-elektricien
-date: 2026-04-29
+date: "2026-04-29"
 cluster: "vindbaarheid"
 excerpt: "Het services-veld op je Google Bedrijfsprofiel als elektricien: welke 12 diensten je het beste lijst voor meer aanvragen voor laadpalen."
 image: "/images/blog/google-bedrijfsprofiel-services-elektricien.jpg"

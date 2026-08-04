@@ -1,7 +1,7 @@
 ---
 title: "E-keuring bij woningoverdracht: makelaars als netwerk"
 slug: e-keuring-woningoverdracht-makelaars-netwerk
-date: 2026-04-30
+date: "2026-04-30"
 excerpt: "E-keuring na woningoverdracht: zo bouw je een referrer-netwerk met makelaars op en maak je het tot een vaste inkomstenbron voor je elektrabedrijf."
 image: "/images/blog/e-keuring-woningoverdracht-makelaars-netwerk.jpg"
 authorSlug: "tim-van-der-lee"
