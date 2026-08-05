@@ -59,7 +59,7 @@ Niet elke elektricien heeft dezelfde CRM nodig. Grofweg drie categorieën, met d
 
 **Type 2: installateurs-specifieke CRM (3-5 mans bedrijf, €60 tot €150 per maand).** Voorbeelden: Bouwportaal, Syntess, NMBRS-bouw. Hebben standaard garantie-tracker, voorraadintegratie, BTW-toggle voor 9% versus 21%, koppeling met facturatie en boekhouding. Past bij bedrijven die al meer dan losse klussen draaien.
 
-**Type 3: alles-in-één AI-platform (alle schalen, €79 tot custom).** Voorbeelden: ElektroAI Managed Basis. Combineert CRM met Voice AI (calls schrijven automatisch naar de klantkaart), website-leads (formulieren landen direct in CRM), reviews, herinneringen en social-media. Voor wie niet handmatig zeven systemen wil koppelen, en de overhead van losse abonnementen wil vermijden. Inclusief de [Groei-of-Geld-Terug Garantie](/tarieven) op Managed Pro, dus de overstap is op het risico van het bureau, niet op jouw risico.
+**Type 3: alles-in-één AI-platform (alle schalen, €79 tot custom).** Voorbeelden: ElektroAI Managed Groei Basis. Combineert CRM met Voice AI (calls schrijven automatisch naar de klantkaart), website-leads (formulieren landen direct in CRM), reviews, herinneringen en social-media. Voor wie niet handmatig zeven systemen wil koppelen, en de overhead van losse abonnementen wil vermijden. Inclusief de [Groei-of-Geld-Terug Garantie](/tarieven) op Managed Groei Pro, dus de overstap is op het risico van het bureau, niet op jouw risico.
 
 ## Hoe je de overstap maakt zonder dat het werk stilvalt
 
@@ -77,7 +77,7 @@ Acht weken na de start heb je een werkende CRM zonder dat het werk een dag heeft
 
 ## Wat StudioLee voor jou doet
 
-Voor een elektricien die niet drie CRM's wil vergelijken en zelf de koppelingen wil bouwen, is er de Managed Basis (vanaf €79 per maand) waarin de CRM al gekoppeld zit aan Voice AI, website-leads, reviews, en herinneringen. Eén abonnement, één login, geen aparte rekeningen of mismatches tussen systemen. Onze [Groei-of-Geld-Terug Garantie](/tarieven) geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
+Voor een elektricien die niet drie CRM's wil vergelijken en zelf de koppelingen wil bouwen, is er de Managed Groei Basis (vanaf €79 per maand) waarin de CRM al gekoppeld zit aan Voice AI, website-leads, reviews, en herinneringen. Eén abonnement, één login, geen aparte rekeningen of mismatches tussen systemen. Onze [Groei-of-Geld-Terug Garantie](/tarieven) geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Wat we niet doen: je oude Excel-bestand binnen één dag overzetten met alle nuances. Wel: het in een geleidelijk schema doen waarin niets verloren gaat en de dagelijkse operatie geen pijn voelt. Plan een [gratis ai scan voor elektriciens](/gratis-scan) als startpunt, dan brengen we in kaart waar jouw zeven losse plekken nu zitten en wat de eerstvolgende drie samenvoeg-stappen zijn.
 
