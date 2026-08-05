@@ -26,6 +26,7 @@ const nextConfig = {
             { source: '/blog/prijzen-website-elektricien', destination: '/blog/prijzen-website-elektricien-transparantie', permanent: true },
             { source: '/blog/reviews-verzamelen-elektricien', destination: '/blog/reviews-verzamelen-elektricien-automatisch', permanent: true },
             { source: '/blog/social-media-voor-elektriciens', destination: '/social-media', permanent: true },
+            { source: '/blog/meer-klussen-met-ai', destination: '/blog/meer-google-reviews-als-elektricien', permanent: true },
         ];
     },
 };

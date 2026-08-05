@@ -60,7 +60,7 @@ Reageer eerst professioneel en bied een oplossing. Als de review aantoonbaar val
 
 ### Tellen Werkspot-reviews mee voor Google?
 
-Nee. Werkspot-reviews verschijnen alleen op Werkspot. [Google Reviews](/blog/meer-klussen-met-ai) verschijnen in Google Maps en Search — dat is waar de meeste klanten zoeken.
+Nee. Werkspot-reviews verschijnen alleen op Werkspot. [Google Reviews](/blog/meer-google-reviews-als-elektricien) verschijnen in Google Maps en Search — dat is waar de meeste klanten zoeken.
 
 ## Conclusie
 
