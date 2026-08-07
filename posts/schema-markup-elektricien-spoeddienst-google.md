@@ -90,7 +90,7 @@ Nee. Het staat er en het blijft staan. Je moet alleen bijwerken wat er in de pra
 **Werkt dit ook voor ChatGPT en andere AI-zoekmachines?**
 Daar is het juist extra nuttig. Een taalmodel dat jouw site leest, heeft aan gestructureerde feiten meer dan aan een lap tekst, en de kans dat het je uren of werkgebied verkeerd samenvat wordt kleiner.
 
-<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/google-qa-elektricien-spoedvragen-vooraf-beantwoorden" class="text-dark fw-semibold">Google Q&amp;A als elektricien: spoedvragen vooraf beantwoorden</a> &rarr;</p></div></div></div>
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/google-qa-elektricien-spoedvragen-vooraf-beantwoorden" class="text-dark fw-semibold">Google Q&amp;A als elektricien: weg, dit bepaalt nu het antwoord</a> &rarr;</p></div></div></div>
 
 ## Begin bij de test, niet bij de code
 

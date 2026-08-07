@@ -115,7 +115,7 @@ Een [gratis ai scan voor elektriciens](/gratis-scan) brengt in 30 minuten in kaa
 Services alleen brengen je niet in de Local Pack — ze zorgen alleen dat je in aanmerking komt voor smalle zoekopdrachten. De volgorde wordt verder bepaald door:
 
 - **Reviews aantal en gemiddelde score** (mik op 50+ reviews, 4.6+ gemiddeld) — zie [review management voor elektriciens](/reviews)
-- **Profiel-volledigheid** (foto's, openingstijden, posts, Q&A)
+- **Profiel-volledigheid** (foto's, openingstijden, posts, bedrijfsomschrijving, kenmerken)
 - **Activiteit** (recent posts, recent beantwoorde reviews)
 - **Website-signalen** (lokale SEO-content die je services bevestigt)
 
