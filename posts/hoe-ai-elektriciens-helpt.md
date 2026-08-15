@@ -37,7 +37,7 @@ Met ElektroAI is dit verleden tijd. Het systeem kan oneindig veel gesprekken teg
 Veel ondernemers denken dat AI hun vakmanschap wil vervangen. Dat is onzin. Een robot kan (voorlopig) niet tippen aan het gevoel van een vakman die een installatie veilig aansluit. Het gaat om het vervangen van het dure, trage kantoorwerk. Onze AI tools vervangen in feite drie partijen:
 - **De Telefoniste/Planner:** Een kracht op kantoor kost je al snel €35.000 per jaar. Onze [Voice AI](/voice-ai) (onderdeel van het Elite pakket) neemt 24/7 op, plant afspraken, en beantwoordt vragen over prijzen, doorlooptijden en werkzaamheden.
 - **Het Marketingbureau:** Wil je meer exclusieve klussen, zoals domotica of complete renovaties? Vroeger betaalde je een bureau €1.500 per maand. Onze Social Media AI & SEO Blog AI regelen je zichtbaarheid. Ze posten je strakste installaties op Instagram en schrijven blogs die klanten aantrekken.
-- **De Boekhouder (deels):** Natuurlijk heb je een boekhouder nodig. Maar het dagelijkse werk? Facturatie AI koppelt alles aan elkaar. Geen gedoe met bonnetjes meer, facturen worden automatisch verstuurd na oplevering.
+- **De Boekhouder (deels):** Natuurlijk heb je een boekhouder nodig. Maar het dagelijkse werk? Factuur AI koppelt alles aan elkaar. Geen gedoe met bonnetjes meer, facturen worden automatisch verstuurd na oplevering.
 
 ## Waarom het een No-Brainer is voor elke elektricien
 
