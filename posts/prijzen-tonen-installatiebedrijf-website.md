@@ -29,7 +29,7 @@ Daarom is de vraag niet of je een getal noemt, maar welk soort houvast je per kl
 
 Het uurtarief is de eerlijkste vorm en tegelijk de gevaarlijkste om alleen te tonen.
 
-**Wat het goed doet:** het filtert. Wie jouw tarief te hoog vindt, belt niet, en dat scheelt je gesprekken die toch nergens toe leiden. Het is ook de enige vorm die klopt bij werk waarvan de omvang echt onvoorspelbaar is.
+**Wat het goed doet:** het filtert. Wie jouw tarief te hoog vindt, belt niet, en dat scheelt je gesprekken die toch nergens toe leiden. Het kan passen bij werk waarvan de omvang vooraf niet goed te bepalen is.
 
 **Wat er misgaat:** een uurtarief zonder context maakt je vergelijkbaar op precies het verkeerde punt. Een collega die vijf euro lager zit maar in halve uren afrekent en voorrijkosten apart factureert, oogt goedkoper terwijl hij het niet is.
 
@@ -39,13 +39,13 @@ Wat je nooit doet is een uurtarief publiceren dat je in de praktijk niet aanhoud
 
 ## Vanaf-prijzen per klustype
 
-Voor alles wat planbaar is, werkt een vanaf-prijs per klus beter dan een uurtarief. Denk aan een extra groep, een buitenkraan, een laadpaal, een dubbele wandcontactdoos.
+Voor alles wat planbaar is, werkt een vanaf-prijs per klus beter dan een uurtarief. Denk aan een extra groep, een aardlekschakelaar, een laadpaal, een dubbele wandcontactdoos.
 
 De vanaf-prijs geeft de bezoeker wat hij zoekt: een orde van grootte. En hij geeft jou een tweede voordeel dat vaak vergeten wordt: hij maakt van je [ai website voor elektriciens](/gratis-website) een pagina per klustype, en dat helpt je [gevonden worden als elektricien](/seo) op precies die zoekopdrachten.
 
-Twee voorwaarden en je bent veilig. Zeg altijd expliciet wat er in de vanaf-prijs zit en wat niet, in dezelfde regel. En noem de twee of drie dingen die hem hoger maken: de afstand tot de meterkast, de staat van de bestaande bedrading, of het werk in een gestucte muur of in kabelgoot gebeurt.
+Twee voorwaarden maken de vanaf-prijs duidelijker. Zeg altijd expliciet wat er in de vanaf-prijs zit en wat niet, in dezelfde regel. En noem de twee of drie dingen die hem hoger maken: de afstand tot de meterkast, de staat van de bestaande bedrading, of het werk in een gestucte muur of in kabelgoot gebeurt.
 
-Wat je hier vermijdt is een vanaf-prijs die in de praktijk nooit gehaald wordt. Als negentig procent van je laadpaal-klussen duurder uitvalt dan het bedrag op je site, is dat geen prijsinformatie maar een lokkertje, en de bezoeker die het ontdekt vertelt het door.
+Wat je hier vermijdt is een vanaf-prijs die in de praktijk nooit gehaald wordt. Als je aangekondigde basisprijs voor de beschreven standaardklus in de praktijk niet haalbaar is, is dat geen prijsinformatie maar een lokkertje, en de bezoeker die het ontdekt vertelt het door.
 
 <p class="lees-ook" style="background-color: rgba(193, 255, 114, 0.18); padding: 12px 16px; border-radius: 8px; margin: 28px 0;"><strong>Lees ook:</strong> <a href="/blog/keurmerken-elektricien-website-trust-signalen">Keurmerken op je elektricien-website tonen: trust-signalen</a> &rarr;</p>
 
@@ -59,7 +59,7 @@ Er zijn twee werkbare keuzes en één slechte.
 
 **Inbegrepen binnen een straal.** Je zegt: binnen deze gemeenten geen voorrijkosten, daarbuiten een toeslag. Dit oogt gastvrijer en werkt goed als je grootste deel van je omzet dichtbij zit.
 
-**De slechte keuze is hem weglaten.** Niet omdat het niet mag, maar omdat je hem dan aan de telefoon of op de factuur moet uitleggen. Dat is precies het moment waarop het als een verrassing voelt, ook als het bedrag redelijk is.
+**De slechte keuze is hem weglaten.** Verplichte kosten horen vóór de opdracht duidelijk te zijn; wacht dus niet tot de factuur om ze uit te leggen. Dat is precies het moment waarop het als een verrassing voelt, ook als het bedrag redelijk is.
 
 Wat er ook niet in hoort: een voorrijtarief dat afhangt van het soort klus. Als je bij spoed meer rekent, hoort dat bij je spoedtarief te zitten en niet verstopt in de voorrijkosten. Hoe je dat spoedstuk uitlegt staat in het aparte artikel over het [spoedtarief communiceren](/blog/spoedtarief-communiceren-elektricien-ai-script).
 
@@ -75,7 +75,7 @@ Zeg dan niet "prijs op aanvraag", want dat is de enige zin die gegarandeerd niet
 
 **Een bandbreedte uit je eigen historie.** Niet als belofte, wel als houvast: bij dit soort klussen komt het meestal uit tussen X en Y, afhankelijk van wat we aantreffen.
 
-Zorg dat je [ai chatbot voor elektriciens](/chatbot) exact ditzelfde antwoord geeft. De prijsvraag is veruit de meest gestelde chatvraag, en een bot die iets anders zegt dan je pagina kost je meer vertrouwen dan geen bot.
+Zorg dat je [ai chatbot voor elektriciens](/chatbot) exact ditzelfde antwoord geeft. Een prijsvraag kan in je chat net zo goed binnenkomen, en een bot die iets anders zegt dan je pagina kost je meer vertrouwen dan geen bot.
 
 ## Veelgestelde vragen
 
