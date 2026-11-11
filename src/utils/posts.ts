@@ -12,6 +12,7 @@ export interface IPost {
     excerpt: string;
     content: string;
     date: string;
+    updated?: string;
     authorSlug: string;
     image: string;
     tags: string[];
@@ -37,6 +38,7 @@ export function getAllPosts(): IPost[] {
             excerpt: data.excerpt || '',
             content,
             date: data.date || '',
+            updated: data.updated || '',
             authorSlug: data.authorSlug || 'tim-van-der-lee',
             image: data.image || '',
             tags: data.tags || [],
@@ -61,6 +63,7 @@ export function getPostBySlug(slug: string): IPost | null {
         excerpt: data.excerpt || '',
         content,
         date: data.date || '',
+        updated: data.updated || '',
         authorSlug: data.authorSlug || 'tim-van-der-lee',
         image: data.image || '',
         tags: data.tags || [],

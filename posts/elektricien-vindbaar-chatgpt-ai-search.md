@@ -82,7 +82,7 @@ AI-modellen extraheren content op een hele specifieke manier. Drie regels die he
 
 **Vermijd promotie-taal.** ChatGPT is getraind om reclame eruit te filteren. Een zin als "Bij ons krijg je het beste vakmanschap" wordt overgeslagen. Een zin als "Onze monteurs werken sinds 2018 met UniPi-domotica en hebben sindsdien meer dan 240 woningen voorzien van smart-home installaties" wordt opgepakt omdat het feitelijk en verifieerbaar is.
 
-Een aanvullende technische tip: zie ook onze gids [Google Bedrijfsprofiel als elektricien](/blog/google-bedrijfsprofiel-elektricien-klanten) want je GBP is één van de belangrijkste structured-data bronnen die AI-modellen oppakken.
+Een aanvullende technische tip: zie ook onze gids [Google Bedrijfsprofiel als elektricien](/blog/google-bedrijfsprofiel-elektricien) want je GBP is één van de belangrijkste structured-data bronnen die AI-modellen oppakken.
 
 ## Hoe meet je vindbaarheid in ChatGPT?
 

@@ -27,6 +27,7 @@ const nextConfig = {
             { source: '/blog/reviews-verzamelen-elektricien', destination: '/blog/reviews-verzamelen-elektricien-automatisch', permanent: true },
             { source: '/blog/social-media-voor-elektriciens', destination: '/social-media', permanent: true },
             { source: '/blog/meer-klussen-met-ai', destination: '/blog/meer-google-reviews-als-elektricien', permanent: true },
+            { source: '/blog/google-bedrijfsprofiel-elektricien-klanten', destination: '/blog/google-bedrijfsprofiel-elektricien', permanent: true },
         ];
     },
 };

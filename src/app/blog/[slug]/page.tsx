@@ -67,7 +67,7 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
         description: post.excerpt,
         url: postUrl,
         datePublished: post.date,
-        dateModified: post.date,
+        dateModified: post.updated || post.date,
         image: post.image?.startsWith('http') ? post.image : `${SITE_URL}${post.image}`,
         author: {
             '@type': 'Person',
