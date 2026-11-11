@@ -15,7 +15,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Werkt dit samen met mijn huidige software?",
-        answer: "Ja, wij koppelen met systemen zoals Moneybird, e-Boekhouden, Exact en Outlook. Zo worden facturen en afspraken direct goed gezet zonder dat jij iets hoeft over te typen.",
+        answer: "Je werkbon- en planningspakket blijft. Afspraken gaan in je Google- of Outlook-agenda; Moneybird, e-Boekhouden, Exact Online en Gripp koppelen we automatisch, OutSmart via zijn API. SnelStart en andere pakketten sluiten we aan via een export die wij voor je inladen.",
     },
     {
         question: "Wat als de AI het antwoord niet weet?",
