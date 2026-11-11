@@ -108,4 +108,4 @@ Bij ElektroAI helpen we MKB-elektriciens hun referral-flow professioneel automat
 - Een speciale flow voor je vaste ambassadeurs met jaarlijkse waardering (gratis controle, kerst-attentie, naamvermelding op je website)
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor elektriciens](/gratis-scan) of bekijk onze [tarieven ElektroAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor elektriciens](/gratis-scan) of bekijk onze [tarieven ElektroAI](/tarieven). Vragen? [Plan een gesprek met Tim](/demo).
