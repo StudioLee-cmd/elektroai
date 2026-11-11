@@ -436,7 +436,7 @@ export default function VoiceAIContent() {
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
             >
-              <h2 className="text-2xl md:text-3xl font-bold mb-4">Spoedoproepen 24/7 opvangen, ook `'`s nachts</h2>
+              <h2 className="text-2xl md:text-3xl font-bold mb-4">Spoedoproepen 24/7 opvangen, ook 's nachts</h2>
               <p className="text-foreground-accent leading-relaxed">60% van elektriciens-oproepen komt buiten kantooruren binnen. Zonder Voice AI gaan die naar de concurrent. Met Voice AI plant de AI direct een afspraak, stuurt een WhatsApp-samenvatting en plant in jouw agenda — zonder dat jij iets hoeft te doen.</p>
             </motion.div>
           </div>

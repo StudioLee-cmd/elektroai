@@ -55,6 +55,12 @@ html {
   @apply scroll-smooth;
 }
 
+/* Blocks that slide in from the side start outside the screen; clip them so a phone never scrolls sideways. */
+html,
+body {
+  overflow-x: clip;
+}
+
 body {
   @apply text-lg;
 
