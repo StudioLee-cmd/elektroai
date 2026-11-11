@@ -30,7 +30,7 @@ export default function GratisWebsiteContent() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setError("");
-    if (!formData.clientName || !formData.domain || !formData.contactName || !formData.email) {
+    if (!formData.clientName || !formData.contactName || !formData.email) {
       setError("Vul alle verplichte velden in.");
       return;
     }
@@ -150,10 +150,10 @@ export default function GratisWebsiteContent() {
                     </div>
 
                     <div>
-                      <label className="block text-sm font-medium mb-1.5">Website URL <span className="text-red-500">*</span></label>
+                      <label className="block text-sm font-medium mb-1.5">Website URL <span className="text-foreground-accent font-normal">(als je die hebt)</span></label>
                       <div className="relative">
                         <BsGlobe className="absolute left-3 top-1/2 -translate-y-1/2 text-foreground-accent" />
-                        <input name="domain" value={formData.domain} onChange={handleChange} placeholder="https://jouwwebsite.nl" type="url" className="w-full pl-10 pr-4 py-3 rounded-xl bg-background border border-[var(--card-border)] focus:border-primary focus:outline-none transition-colors" required />
+                        <input name="domain" value={formData.domain} onChange={handleChange} placeholder="Nog geen website? Laat dit leeg" type="url" className="w-full pl-10 pr-4 py-3 rounded-xl bg-background border border-[var(--card-border)] focus:border-primary focus:outline-none transition-colors" />
                       </div>
                     </div>
 
