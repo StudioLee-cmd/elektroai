@@ -79,8 +79,6 @@ Zet daar de kosten van een systeem tegenover en de vergelijking is snel klaar. D
 
 Je hoeft je administratie hier niet voor om te gooien. Zet dat ene sjabloon in je telefoon, spreek met jezelf een grens af, en gebruik het bij de eerstvolgende kast die tegenvalt. Eén keer doen is genoeg om te merken hoe weinig weerstand er eigenlijk is: klanten zeggen bijna altijd ja, juist omdat je het vraagt voordat je begint.
 
-Wil je weten waar in je proces nu nog meer geld blijft liggen, kijk dan bij [wat een managed pakket kost](/tarieven), waar een Groei-of-Geld-Terug Garantie op zit, zodat je het risicovrij kunt proberen.
-
 Die groep die je zou bijplaatsen, was gewoon twee minuten van een ja verwijderd. Dat half uur had op de factuur gestaan en niemand had er iets van gevonden.
 
 <div class="lees-ook"><strong>Lees ook:</strong> <a href="/blog/onderhoudscycli-per-adres-crm-elektricien">Onderhoudscycli per adres bijhouden als elektricien</a> →</div>

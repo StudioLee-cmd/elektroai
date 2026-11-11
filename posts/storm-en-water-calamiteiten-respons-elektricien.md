@@ -131,7 +131,6 @@ Bij ElektroAI helpen we elektriciens hun calamiteiten-respons professioneel inri
 - Verzekeraar-contactlijst met direct doorkiesnummers schade-afdelingen (top-8 NL verzekeraars)
 - Factureer-rechtstreeks-akkoord-template voor elke verzekeraar
 - Calamiteit-kit-checklist (welke onderdelen vooraf-bevoorraden in welke bus)
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor elektriciens](/gratis-scan) of bekijk onze [tarieven ElektroAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

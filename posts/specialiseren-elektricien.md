@@ -79,8 +79,6 @@ Je hoeft niet al je standaardwerk te weigeren:
 
 Bij StudioLee positioneren we elektriciens als specialist in hun niche. Van [leadgeneratie](/blog/leadgeneratie-elektricien) tot content die jouw expertise toont. Met slechts **15 minuten per maand** aan jouw kant.
 
-De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je als specialist kunt groeien.
 
 ## Conclusie

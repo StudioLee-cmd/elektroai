@@ -108,7 +108,7 @@ Kies één moment en zet het deze week vast voor je meest voorkomende klus. Voor
 
 Loopt het daarna, dan voeg je de maandelijkse opvolger toe voor laadpalen en grotere installaties. Dat is het moment waarop je review-stroom regelmatig wordt in plaats van bij vlagen, en regelmaat is precies wat je lokale positie omhoog duwt.
 
-Wil je weten wat het kost om dit één keer goed in te richten in plaats van het handmatig vol te houden, kijk dan bij [wat AI voor elektriciens kost](/tarieven). Daar zit een Groei-of-Geld-Terug Garantie op, dus je kunt het risicovrij uitproberen.
+Wil je weten wat het kost om dit één keer goed in te richten in plaats van het handmatig vol te houden, kijk dan bij [wat AI voor elektriciens kost](/tarieven).
 
 <div class="lees-ook"><strong>Lees ook:</strong> <a href="/blog/reviews-beantwoorden-automatiseren-ai-elektricien">Reviews beantwoorden automatiseren met AI voor elektriciens</a> →</div>
 

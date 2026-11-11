@@ -77,7 +77,7 @@ Kijk eens naar de websites van je concurrenten. De meeste vermelden hun certific
 
 Je NEN 1010 certificering is meer dan een papiertje — het is een vertrouwenssignaal dat klanten overtuigt. Zet het in als marketingtool: prominent op je website, in je Google profiel, op je offertes en in je communicatie.
 
-Met [ElektroAI](/) helpen we je bij een professionele [online aanwezigheid](/gratis-website) die vertrouwen uitstraalt. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [ElektroAI](/) helpen we je bij een professionele [online aanwezigheid](/gratis-website) die vertrouwen uitstraalt. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer klanten wint met je certificeringen.
 

@@ -146,6 +146,6 @@ Brandveiligheid en rookmelder-installatie is voor de meeste Nederlandse elektric
 
 Wie deze stappen in de juiste volgorde aanpakt, heeft binnen 6 maanden een nieuwe omzettak die maandelijks 4.000-15.000 euro extra binnenbrengt afhankelijk van schaal en regio.
 
-Wil je weten of jouw regio geschikt is om dit segment op te bouwen? Plan een [gratis ai-scan](/gratis-scan) en we kijken samen naar de lokale vraag, je huidige website en je marketing-positie. We werken met de Groei-of-Geld-Terug Garantie, dus je weet vooraf wat je investering oplevert.
+Wil je weten of jouw regio geschikt is om dit segment op te bouwen? Plan een [gratis ai-scan](/gratis-scan) en we kijken samen naar de lokale vraag, je huidige website en je marketing-positie.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/specialiseren-elektricien" class="text-dark fw-semibold">Specialiseren als elektricien: hoe je een nichemarkt kiest</a> →</p></div></div></div>

@@ -85,6 +85,6 @@ Het vakje is weg, de vragen niet. Acht antwoorden die ergens vindbaar staan bete
 
 Heb je daar geen hoofd naar tussen de klussen door, dan is dit precies het soort werk dat je uit handen kunt geven. Bij ElektroAI nemen we het complete profielbeheer mee in [ai seo voor elektriciens](/seo): je bedrijfsprofiel compleet, en de teksten op je site die de vragen beantwoorden waar Google nu naar zoekt. Jij installeert, wij regelen de rest.
 
-Wil je weten hoe jouw profiel er nu voor staat, en welke van deze acht antwoorden nergens te vinden zijn? Vraag dan de [gratis ai scan voor elektriciens](/gratis-scan) aan. Je ziet binnen een paar minuten waar je klussen laat liggen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
+Wil je weten hoe jouw profiel er nu voor staat, en welke van deze acht antwoorden nergens te vinden zijn? Vraag dan de [gratis ai scan voor elektriciens](/gratis-scan) aan. Je ziet binnen een paar minuten waar je klussen laat liggen.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/stad-paginas-elektricien-lokaal-ranken" class="text-dark fw-semibold">Lokale landingspagina&apos;s voor elektriciens die ranken</a> →</p></div></div></div>

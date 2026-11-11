@@ -72,6 +72,6 @@ Test daarnaast elke maand een paar echte klantvragen zelf. Stel de bot de tien v
 
 Kies één afgebakende toepassing, bijvoorbeeld: alle vragen over je werkgebied en je spoedtarief foutloos beantwoorden. Verzamel de bijbehorende data, laad die in via FAQ-import en zet de bot live. Draait dat een week goed, dan breid je uit met je website en je documenten. Zo bouw je stap voor stap een bot op die je vertrouwt, in plaats van in één keer een half werkend systeem.
 
-Weet je niet welke data je nu al hebt liggen om mee te starten? Vraag een [gratis ai scan voor elektriciens](/gratis-scan) aan. We kijken samen welke vragen je website nu laat liggen en welke data je bot als eerste nodig heeft. Bevalt de aanpak niet en levert het je binnen de afgesproken periode niks op, dan geldt onze Groei-of-Geld-Terug Garantie. Jij installeert, wij zorgen dat je chatbot weet waar hij het over heeft.
+Weet je niet welke data je nu al hebt liggen om mee te starten? Vraag een [gratis ai scan voor elektriciens](/gratis-scan) aan. We kijken samen welke vragen je website nu laat liggen en welke data je bot als eerste nodig heeft. Jij installeert, wij zorgen dat je chatbot weet waar hij het over heeft.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/chatbot-functies-elektricien" class="text-dark fw-semibold">Chatbot functies voor elektriciens: deze 7 moet hij hebben</a> →</p>

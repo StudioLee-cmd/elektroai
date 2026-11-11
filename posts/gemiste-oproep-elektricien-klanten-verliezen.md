@@ -66,4 +66,4 @@ De meeste elektriciens zijn verrast door de cijfers. Je denkt dat je bereikbaar 
 
 Je hoeft niet meer te adverteren of een duurdere website te laten bouwen. Je hoeft alleen de klanten die je al bellen ook daadwerkelijk te bereiken. Dat is de goedkoopste en snelste manier om te groeien.
 
-Wil je weten hoeveel oproepen je mist en waar de kansen liggen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je bereikbaarheid, je [online vindbaarheid](/seo) en concrete verbeterpunten. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoeveel oproepen je mist en waar de kansen liggen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je bereikbaarheid, je [online vindbaarheid](/seo) en concrete verbeterpunten.

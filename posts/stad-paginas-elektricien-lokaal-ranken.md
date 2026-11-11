@@ -52,10 +52,10 @@ De grootste reden dat elektriciens terugvallen op de doorway-page-truc is tijd. 
 
 Met AI-hulpmiddelen schrijf je per stad in een kwartier een eerste versie op basis van jouw eigen input over die plaats, die je daarna nog even persoonlijk maakt. Je klantbeheer levert automatisch de lokale reviews aan, en je hoeft dus niet bij nul te beginnen. Op die manier bouw je in een paar avonden een set stadspagina's die jarenlang voor je blijft werken. Dat is precies de manier waarop slimme installateurs structureel beter [gevonden worden als elektricien](/seo) terwijl ze gewoon doorwerken.
 
-## Conclusie en de Groei-of-Geld-Terug Garantie
+## Conclusie
 
 Lokale landingspagina's zijn een van de sterkste manieren om gevonden te worden bij "elektricien [stad]"-zoekopdrachten, op voorwaarde dat je ze goed aanpakt. Maak geen vijftig dunne kopieën, maar drie tot zes echte pagina's voor de plaatsen waar je daadwerkelijk werkt, elk met unieke lokale informatie. Dan ontwijk je de duplicate-content-val en bouw je tegelijk aan een site die maand op maand stabieler rankt.
 
-Weet je niet of jouw huidige site klaar is voor stadspagina's, of welke werkgebieden de meeste kans maken? Plan een [gratis seo scan voor elektriciens](/gratis-scan) in, dan kijken we bij ElektroAI samen welke pagina's je het snelst nieuwe klussen opleveren. Levert de aanpak na 90 dagen niets op, dan krijg je via onze Groei-of-Geld-Terug Garantie je investering volledig terug. Jij installeert, wij regelen de rest.
+Weet je niet of jouw huidige site klaar is voor stadspagina's, of welke werkgebieden de meeste kans maken? Plan een [gratis seo scan voor elektriciens](/gratis-scan) in, dan kijken we bij ElektroAI samen welke pagina's je het snelst nieuwe klussen opleveren. Jij installeert, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/lokale-vindbaarheid-elektricien" class="text-dark fw-semibold">Lokale vindbaarheid als elektricien: zo krijg je meer klussen</a> →</p></div></div></div>

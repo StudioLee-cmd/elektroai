@@ -104,10 +104,10 @@ Heb je een showroom, een werkplek waar klanten langskomen voor laadpaal-demo's o
 
 Verzorg je meer dan 20 klussen per week en bouw je serieus aan je reviews als groeikanaal? Dan combineer je sowieso met een automatische flow en bekijk je een [review pakket voor elektriciens](/review-pakket) dat hardware, WhatsApp-flow en review-dashboard koppelt in één opzet. In dat geval is investeren in [lokale seo voor elektriciens](/seo) ook de moeite waard, want elke extra 5-sterren-review tikt door in je Google Maps-positie voor je regio.
 
-## Conclusie en de Groei-of-Geld-Terug Garantie
+## Conclusie
 
 De juiste review-hardware is geen kwestie van smaak, het is een kwestie van match met hoe jij je klanten ziet. Voor mobiele elektriciens werkt een NFC-kaart plus QR-stickers het best. Voor showroom-gerichte bedrijven is een fysiek bord de centrale aanwinst. Voor iedereen geldt: zonder een automatische WhatsApp-flow erna haal je nooit de 60-plus procent reviewconversie die ervoor zorgt dat je Google Maps-positie maand op maand omhoog kruipt.
 
-Twijfel je nog over je huidige review-setup of weet je niet welke combinatie bij jouw bedrijf past? Plan een [gratis ai scan voor elektriciens](/gratis-scan) in en we kijken samen of je in 30 minuten een werkbare opzet kunt neerzetten. Werkt het systeem na 90 dagen niet voor jou? Dan krijg je via onze Groei-of-Geld-Terug Garantie je volledige investering terug. Jij installeert, wij regelen de rest.
+Twijfel je nog over je huidige review-setup of weet je niet welke combinatie bij jouw bedrijf past? Plan een [gratis ai scan voor elektriciens](/gratis-scan) in en we kijken samen of je in 30 minuten een werkbare opzet kunt neerzetten. Werkt het systeem na 90 dagen niet voor jou? Jij installeert, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/elektricien-reviews-automatisch-whatsapp" class="text-dark fw-semibold">Elektricien reviews automatisch verzamelen: het 3-stap WhatsApp-systeem</a> →</p></div></div></div>

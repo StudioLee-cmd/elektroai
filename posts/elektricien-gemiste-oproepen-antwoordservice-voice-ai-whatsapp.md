@@ -89,6 +89,6 @@ Dat is waarom voice AI in 2026 voor de meeste elektriciens de logische eerste st
 
 ## Begin klein, schaal slim
 
-Geen elektricien hoeft alle drie de oplossingen tegelijk in te zetten. Begin met de oplossing die het beste past bij je huidige volume en groei-fase, en schakel op zodra de cijfers het rechtvaardigen. Wil je weten hoe een [voice AI voor jouw elektrotechnisch bedrijf](https://www.elektroai.nl/voice-ai) eruit kan zien? Bekijk de uitgewerkte aanpak op de [gratis website voor elektriciens](https://www.elektroai.nl/gratis-website) — inclusief Groei-of-Geld-Terug Garantie.
+Geen elektricien hoeft alle drie de oplossingen tegelijk in te zetten. Begin met de oplossing die het beste past bij je huidige volume en groei-fase, en schakel op zodra de cijfers het rechtvaardigen. Wil je weten hoe een [voice AI voor jouw elektrotechnisch bedrijf](https://www.elektroai.nl/voice-ai) eruit kan zien?
 
 Lees ook onze [andere artikelen over bereikbaarheid en leadopvolging voor elektriciens](https://www.elektroai.nl/blog).

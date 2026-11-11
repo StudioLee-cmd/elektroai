@@ -87,6 +87,4 @@ Dit soort automatisering onder je contract-business is wat het van een losse ser
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoe-ai-elektriciens-helpt" class="text-dark fw-semibold">Hoe AI Elektriciens Helpt Bij Het Besparen Van Tijd (En Waarom Je Concurrentie Al Om Is)</a> →</p></div></div></div>
 
-## Groei-of-Geld-Terug Garantie
-
-Als je na zes maanden niet tien tot twintig onderhoudscontracten hebt verkocht op basis van deze aanpak, krijg je je investering terug. We helpen je met productontwerp, website-inrichting en de verkooptouchpoints aan bestaande klanten. Jij zet installaties neer, wij regelen de rest.
+We helpen je met productontwerp, website-inrichting en de verkooptouchpoints aan bestaande klanten. Jij zet installaties neer, wij regelen de rest.

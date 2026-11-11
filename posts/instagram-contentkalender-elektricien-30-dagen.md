@@ -100,7 +100,7 @@ Heel eerlijk: zelfs een uur per maand is voor sommigen al te veel, want dat uur 
 
 Daarvoor bestaat [social media uitbesteden voor elektriciens](/social-media). Wij maken van jouw foto's kant-en-klare posts, schrijven de teksten in jouw stijl, en zetten de hele maand vooruit klaar. Jij stuurt af en toe een kiekje van een mooie klus, wij doen de rest. Jij installeert, wij regelen de zichtbaarheid.
 
-Wil je eerst weten waar jij online staat ten opzichte van je concurrent? Doe de [gratis AI-scan voor elektriciens](/gratis-scan). Je ziet binnen een paar minuten wat er beter kan aan je vindbaarheid en je social media, zonder verplichtingen. En kies je voor onze aanpak: we werken met een Groei-of-Geld-Terug Garantie, dus je zit nergens aan vast.
+Wil je eerst weten waar jij online staat ten opzichte van je concurrent? Doe de [gratis AI-scan voor elektriciens](/gratis-scan). Je ziet binnen een paar minuten wat er beter kan aan je vindbaarheid en je social media, zonder verplichtingen.
 
 ## Conclusie
 

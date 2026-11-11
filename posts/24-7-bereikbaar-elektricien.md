@@ -71,7 +71,7 @@ De elektricien die een bedrijf redt bij een stroomstoring, wordt de vaste elektr
 
 Als elektricien is je vakmanschap je fundament — maar bereikbaarheid bepaalt je inkomen. De elektricien die altijd bereikbaar is, wint de spoedklussen én bouwt het grootste klantenbestand.
 
-Met [ElektroAI](/) ben je 24/7 bereikbaar zonder zelf aan de telefoon gekluisterd te zitten. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [ElektroAI](/) ben je 24/7 bereikbaar zonder zelf aan de telefoon gekluisterd te zitten. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoeveel spoedklussen je nu mist.
 

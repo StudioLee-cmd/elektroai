@@ -54,4 +54,4 @@ Een [automatisch review-systeem](/reviews) zorgt dat je na elke klus een verzoek
 
 ## Direct aan de slag
 
-Je Google Bedrijfsprofiel optimaliseren kost een uurtje. Het effect merk je binnen weken. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe jouw profiel scoort ten opzichte van de concurrentie. Groei-of-Geld-Terug Garantie.
+Je Google Bedrijfsprofiel optimaliseren kost een uurtje. Het effect merk je binnen weken. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe jouw profiel scoort ten opzichte van de concurrentie.
