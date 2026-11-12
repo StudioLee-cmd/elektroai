@@ -5,7 +5,7 @@ date: "2026-05-18"
 excerpt: "Een elektricien houdt klantdata bij in zeven plekken tegelijk: Excel, WhatsApp, agenda, mailbox. Lees hoe een goede CRM die chaos in één scherm zet."
 image: "/images/blog/crm-voor-elektriciens-weg-met-excel-chaos.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["CRM", "Automatisering"]
+tags: ["CRM", "Klantbeheer"]
 cluster: "automatisering"
 ---
 

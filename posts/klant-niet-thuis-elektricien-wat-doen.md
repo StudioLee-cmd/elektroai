@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klant-niet-thuis-elektricien-wat-doen.jpg"
-tags: ["No-shows", "Planning", "Groei"]
+tags: ["No-shows", "Planning"]
 ---
 ## De lege voordeur: elke elektricien kent het
 

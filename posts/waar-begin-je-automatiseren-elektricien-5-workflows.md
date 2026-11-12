@@ -5,7 +5,7 @@ date: "2026-07-09"
 excerpt: "Automatiseren wil je wel, maar waar begin je? Deze 5 workflows leveren een elektricien het meeste tijd en omzet op, gerangschikt op wat ze echt opbrengen."
 image: "/images/blog/waar-begin-je-automatiseren-elektricien-5-workflows.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Workflow"]
+tags: ["Workflow", "Offertes", "Reviews"]
 cluster: "automatisering"
 ---
 

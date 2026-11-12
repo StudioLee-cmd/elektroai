@@ -5,7 +5,7 @@ date: "2026-07-22"
 excerpt: "Wanneer mag je een foto van een klus online zetten en wanneer niet? De drie situaties, de vraag die werkt op de klus en hoe je het eenmalig vastlegt."
 image: "/images/blog/klusfotos-avg-toestemming-elektricien.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Marketing"]
+tags: ["Social Media", "AVG"]
 cluster: "social-media"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-04-16"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/laadpaal-leads-elektricien-eigen-website.jpg"
-tags: ["Vindbaarheid", "Google"]
+tags: ["Laadpaal", "Vindbaarheid"]
 ---
 ## Waarom laadpaal-klanten altijd eerst Google openen
 

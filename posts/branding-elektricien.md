@@ -4,7 +4,7 @@ excerpt: "Een sterk merk onderscheidt je van tientallen andere elektriciens. Lee
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-elektricien.png"
-tags: ["Branding", "Marketing"]
+tags: ["Branding"]
 cluster: "branding"
 ---
 

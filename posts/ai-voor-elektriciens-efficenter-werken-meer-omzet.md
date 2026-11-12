@@ -5,7 +5,7 @@ excerpt: "Hoe AI elektriciensbedrijven helpt bij storingsplanning, offertes en k
 date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-voor-elektriciens-efficenter-werken-meer-omzet.png"
-tags: ["AI", "Automatisering"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 

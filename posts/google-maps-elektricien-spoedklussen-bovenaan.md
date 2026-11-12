@@ -6,7 +6,7 @@ date: "2026-04-09"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-maps-elektricien-spoedklussen-bovenaan.jpg"
-tags: ["Vindbaarheid", "Google"]
+tags: ["Vindbaarheid", "Google Maps"]
 ---
 ## Spoedklussen beginnen op Google Maps
 

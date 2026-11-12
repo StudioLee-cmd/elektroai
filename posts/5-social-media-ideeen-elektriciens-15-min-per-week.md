@@ -5,7 +5,7 @@ date: "2026-05-16"
 excerpt: "Social media voor elektriciens hoeft geen uren te kosten. Deze 5 content-ideeen leveren een hele week posts op in 15 minuten tijdens een normale werkdag."
 image: "/images/blog/5-social-media-ideeen-elektriciens-15-min-per-week.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Marketing"]
+tags: ["Content", "Efficiëntie"]
 cluster: "social-media"
 ---
 

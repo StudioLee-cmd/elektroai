@@ -5,7 +5,7 @@ date: "2026-07-07"
 excerpt: "Zo zet je als elektricien TikTok in voor meer klussen: wat je filmt bij de meterkast, hoe kijkers aanvragen worden en hoeveel tijd het echt kost."
 image: "/images/blog/tiktok-voor-elektriciens-voor-en-na.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Marketing"]
+tags: ["Social Media", "TikTok"]
 cluster: "social-media"
 ---
 

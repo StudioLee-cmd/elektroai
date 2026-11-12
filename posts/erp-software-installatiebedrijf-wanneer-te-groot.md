@@ -5,7 +5,7 @@ date: "2026-11-12"
 excerpt: "ERP software voor een installatiebedrijf onder de 5 monteurs: welke modules je nooit opent, wat je wel nodig hebt en wanneer je er alsnog naartoe groeit."
 image: "/images/blog/erp-software-installatiebedrijf-wanneer-te-groot.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Software", "Automatisering"]
+tags: ["ERP", "Software"]
 cluster: "automatisering"
 ---
 

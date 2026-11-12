@@ -5,7 +5,7 @@ date: "2026-05-13"
 excerpt: "Mond-tot-mond reclame elektricien activeren: van 1 tevreden klant naar 3 nieuwe klussen via referral-flow, kortingsbonus en WhatsApp-trigger."
 image: "/images/blog/mond-tot-mond-reclame-elektricien-1-klant-naar-3-klussen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Klanttevredenheid", "Klanten"]
+tags: ["Mond-tot-mond", "Referrals"]
 cluster: "branding"
 ---
 **In het kort:**

@@ -5,7 +5,7 @@ date: "2026-05-01"
 excerpt: "Als elektricien geen tijd voor elke telefoon? Vergelijk antwoordservice, voice AI en WhatsApp auto-reply: kosten, leadbehoud en wat past bij jouw bedrijf."
 image: "/images/blog/elektricien-gemiste-oproepen-antwoordservice-voice-ai-whatsapp.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "AI"]
+tags: ["WhatsApp", "Antwoordservice"]
 cluster: "voice-ai"
 ---
 Een elektricien die op een ladder een verdeelinrichting bedraadt, hoort zijn telefoon overgaan. Hij kan niet opnemen — schroeven los houden boven 230V is niet het moment om af te leiden. De beller — een woningeigenaar met een doorgeslagen aardlekschakelaar — wacht acht seconden en belt dan de volgende elektricien in zijn Google-zoekresultaat. Eén gemiste oproep = één klus minder, en gemiddeld €280 tot €650 omzet weg.

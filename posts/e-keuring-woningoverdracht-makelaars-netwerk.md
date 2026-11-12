@@ -5,7 +5,7 @@ date: "2026-04-30"
 excerpt: "E-keuring na woningoverdracht: zo bouw je een referrer-netwerk met makelaars op en maak je het tot een vaste inkomstenbron voor je elektrabedrijf."
 image: "/images/blog/e-keuring-woningoverdracht-makelaars-netwerk.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Samenwerkingen", "Branding"]
+tags: ["Samenwerkingen", "B2B"]
 cluster: "branding"
 ---
 

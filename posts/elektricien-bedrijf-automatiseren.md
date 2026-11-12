@@ -6,7 +6,7 @@ date: "2026-04-06"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-bedrijf-automatiseren.jpg"
-tags: ["Automatisering"]
+tags: ["Efficiëntie"]
 ---
 ## Technische automatisering ken je al, bedrijfsautomatisering nog niet
 

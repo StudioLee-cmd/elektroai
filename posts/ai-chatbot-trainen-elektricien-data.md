@@ -5,7 +5,7 @@ date: "2026-07-17"
 excerpt: "Je chatbot is zo goed als de data die je hem geeft. Ontdek 4 manieren om je elektricien-data te koppelen: FAQ-import, website, documenten en API."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-chatbot-trainen-elektricien-data.jpg"
-tags: ["Chatbot", "AI"]
+tags: ["Chatbot", "Klantvragen"]
 cluster: "chatbot"
 ---
 

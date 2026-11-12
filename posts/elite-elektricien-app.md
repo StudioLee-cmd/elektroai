@@ -5,7 +5,7 @@ excerpt: "Onderscheid jezelf van prutsers. Met de Client App in het Elite plan d
 date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-elektricien-app.png"
-tags: ["Innovatie", "Website", "Klanten"]
+tags: ["Elite Plan", "Client App"]
 cluster: "website"
 ---
 Als je vooral voor particulieren werkt is snelheid en een goede prijs belangrijk. Maar werk je voor zakelijke klanten? Aannemers, vastgoedbeleggers, woningbouwverenigingen of VvE-beheerders? Dan draait alles om **GEMAK**, **INZICHT** en **CONTROLE**.

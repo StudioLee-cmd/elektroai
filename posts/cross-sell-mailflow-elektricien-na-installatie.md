@@ -5,7 +5,7 @@ date: "2026-08-01"
 excerpt: "Na een laadpaal volgt bijna altijd een tweede klus. Zo bouw je een cross-sell mailflow die vanzelf loopt en niet aanvoelt als opdringerige verkoop."
 image: "/images/blog/cross-sell-mailflow-elektricien-na-installatie.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "E-mail"]
+tags: ["E-mail", "Klantbeheer", "Omzet"]
 cluster: "automatisering"
 ---
 

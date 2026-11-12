@@ -5,7 +5,7 @@ date: "2026-07-06"
 excerpt: "Overstappen van bedrijfssoftware als elektricien zonder klantdata te verliezen: wat je uit Werkspot, Zoofy en Moneybird haalt en welke 3 valkuilen er zijn."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/software-migreren-elektricien-data-behouden.jpg"
-tags: ["Automatisering", "Software"]
+tags: ["Software", "CRM"]
 cluster: "automatisering"
 ---
 

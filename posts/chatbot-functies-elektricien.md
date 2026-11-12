@@ -5,7 +5,7 @@ date: "2026-07-13"
 excerpt: "Welke chatbot functies heb je echt nodig als elektricien? De 7 must-haves, van spoed-detectie tot handover-script, en wat een bot nooit mag doen."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/chatbot-functies-elektricien.jpg"
-tags: ["Chatbot", "Bereikbaarheid", "AI"]
+tags: ["Chatbot", "Bereikbaarheid"]
 cluster: "chatbot"
 ---
 

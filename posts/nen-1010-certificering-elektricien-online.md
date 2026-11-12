@@ -5,7 +5,7 @@ excerpt: "NEN 1010 certificering heb je als elektricien al — maar communiceer 
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nen-1010-certificering-elektricien-online.png"
-tags: ["Certificering", "Website"]
+tags: ["Certificering", "NEN 1010"]
 cluster: "website"
 ---
 ## Je hebt de certificering — maar weet je klant dat ook?

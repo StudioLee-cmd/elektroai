@@ -5,7 +5,7 @@ date: "2026-06-28"
 excerpt: "Vijf vaste Reels-formats die je tussen twee klussen door filmt, plus hoe je er als elektricien lokale opdrachten mee binnenhaalt zonder montagewerk."
 image: "/images/blog/instagram-reels-elektriciens-5-formats.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Instagram"]
+tags: ["Instagram", "Reels"]
 cluster: "social-media"
 ---
 

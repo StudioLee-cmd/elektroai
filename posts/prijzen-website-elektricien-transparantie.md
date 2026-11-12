@@ -6,7 +6,7 @@ date: "2026-04-18"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-website-elektricien-transparantie.jpg"
-tags: ["Prijzen", "Website"]
+tags: ["Prijzen", "Website", "Vertrouwen"]
 ---
 ## Het dilemma: prijzen tonen of verbergen
 

@@ -4,7 +4,7 @@ excerpt: "Leer waarom snelheid belangrijker is dan prijs bij het winnen van klus
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-opvolging-elektricien-sneller-reageren.jpg"
-tags: ["Lead opvolging", "Klanten"]
+tags: ["Lead opvolging"]
 cluster: "automatisering"
 ---
 ## Waarom snelheid belangrijker is dan prijs

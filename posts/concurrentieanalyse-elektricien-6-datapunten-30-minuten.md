@@ -5,7 +5,7 @@ date: "2026-05-14"
 excerpt: "Concurrentieanalyse elektricien in 30 minuten: 6 datapunten over openingstijden, prijzen, reviews en specialisaties van lokale concurrenten benchmarken."
 image: "/images/blog/concurrentieanalyse-elektricien-6-datapunten-30-minuten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Branding"]
+tags: ["Vindbaarheid", "Benchmark"]
 cluster: "branding"
 ---
 **In het kort:**

@@ -5,7 +5,7 @@ date: "2026-07-15"
 excerpt: "Elke Google review beantwoorden zonder er avonden aan kwijt te zijn? Met AI-templates reageer je als elektricien snel op positieve en kritische reviews."
 image: "/images/blog/reviews-beantwoorden-automatiseren-ai-elektricien.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Automatisering", "AI"]
+tags: ["Reviews", "Automatisering"]
 cluster: "reviews"
 ---
 

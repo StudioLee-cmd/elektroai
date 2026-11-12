@@ -6,7 +6,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-elektricien-verbeteren.jpg"
-tags: ["Klanttevredenheid"]
+tags: ["Klanttevredenheid", "Service"]
 ---
 ## De klant die zwijgt en nooit meer belt
 

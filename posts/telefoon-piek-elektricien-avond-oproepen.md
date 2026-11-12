@@ -6,7 +6,7 @@ date: "2026-04-25"
 cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/telefoon-piek-elektricien-avond-oproepen.jpg"
-tags: ["Voice AI", "Bereikbaarheid"]
+tags: ["Voice AI", "Spoedklussen"]
 ---
 Een buurtstoring rond 19:30 op een doordeweekse avond. Een halve straat valt zonder stroom. Tien minuten later begint je telefoon te rinkelen — en stopt twee uur lang niet meer. Tussen die binnenkomende oproepen zitten zeker zes echte spoedklussen die diezelfde avond moeten worden opgelost, vier mensen die alleen iets willen vragen, twee die hun eigen meter willen resetten en je willen vertellen hoe het ook alweer ging, en de rest hangt op omdat je niet opneemt. Tegen de tijd dat de storing voorbij is, hebben tien van die zes spoedklussen al een andere elektricien gebeld die wél opnam.
 

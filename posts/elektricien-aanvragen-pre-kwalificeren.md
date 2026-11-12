@@ -4,7 +4,7 @@ excerpt: "De helft van de offerte-bezichtigingen levert geen klus op. Zo keer je
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-aanvragen-pre-kwalificeren.jpg"
-tags: ["Offertes", "Automatisering"]
+tags: ["Offertes", "Pre-kwalificatie"]
 cluster: "automatisering"
 ---
 

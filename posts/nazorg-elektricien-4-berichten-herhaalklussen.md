@@ -5,7 +5,7 @@ date: "2026-05-25"
 excerpt: "4 nazorg-berichten met exacte timing, kanaal en template waarmee elektriciens van eenmalige klussen herhaalklussen maken zonder zelf te bellen."
 image: "/images/blog/nazorg-elektricien-4-berichten-herhaalklussen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Klantbehoud", "Workflow", "CRM"]
+tags: ["Nazorg", "Workflow", "CRM"]
 cluster: "automatisering"
 ---
 

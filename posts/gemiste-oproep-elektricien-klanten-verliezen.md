@@ -5,7 +5,7 @@ date: "2026-04-11"
 cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/gemiste-oproep-elektricien-klanten-verliezen.jpg"
-tags: ["Leads", "Bereikbaarheid", "Groei"]
+tags: ["Leads", "Bereikbaarheid"]
 ---
 ## Waarom een gemiste oproep meer kost dan je denkt
 

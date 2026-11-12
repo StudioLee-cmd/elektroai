@@ -7,7 +7,7 @@ excerpt: "Goede communicatie maakt het verschil tussen een eenmalige klus en een
 image: "/images/blog/klantcommunicatie-elektricien-opvolging.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["Klantcommunicatie"]
+tags: ["Lead opvolging"]
 cluster: "automatisering"
 ---
 

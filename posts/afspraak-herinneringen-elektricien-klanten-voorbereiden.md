@@ -5,7 +5,7 @@ date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraak-herinneringen-elektricien-klanten-voorbereiden.jpg"
 cluster: "automatisering"
-tags: ["WhatsApp", "Marketing"]
+tags: ["Afspraakherinneringen"]
 ---
 Een elektricien arriveert bij een klant voor het vervangen van een groep in de meterkast. Twintig minuten later staat hij nog steeds in de gang. De meterkast staat in de kelder, de meterkastsleutel ligt bij de buurman, en de bewoner had geen idee dat de stroom een uur uit moest. Drie kleine voorbereidings-fouten van de klant maken er een uur extra werk van. Allemaal te voorkomen met één bericht 24 uur eerder.
 

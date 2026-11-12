@@ -6,7 +6,7 @@ date: "2026-04-22"
 cluster: "branding"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-bus-opschrift-marketing.jpg"
-tags: ["Branding", "Lokale Marketing"]
+tags: ["Branding", "Voertuigreclame"]
 ---
 Je witte Ford Transit staat voor je werkadres in Utrecht. Honderden voorbijgangers zien hem elke dag, duizenden per week. Alleen wat lezen ze? Als er niks opstaat, lezen ze niks. Als er alleen een klein logo met een telefoonnummer opstaat, onthouden ze niks. En als de nummerplaat het duidelijkste is wat ze zien, dan heb je 365 dagen per jaar gratis reclamespace laten liggen.
 

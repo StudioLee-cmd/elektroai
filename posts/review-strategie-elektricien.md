@@ -5,7 +5,7 @@ date: "2026-04-03"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-strategie-elektricien.jpg"
-tags: ["Reviews", "Strategie"]
+tags: ["Reviews", "Review strategie"]
 ---
 ## Waarom reviews voor elektriciens onmisbaar zijn
 

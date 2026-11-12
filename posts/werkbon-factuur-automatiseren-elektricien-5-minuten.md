@@ -5,7 +5,7 @@ date: "2026-05-11"
 excerpt: "Werkbon en factuur automatiseren als elektricien in 5 minuten: PMS-koppeling met Moneybird, NEN-rapport en WhatsApp-flow voor snellere betaling."
 image: "/images/blog/werkbon-factuur-automatiseren-elektricien-5-minuten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Administratie", "Facturatie"]
+tags: ["Werkbon", "Moneybird"]
 cluster: "automatisering"
 ---
 
