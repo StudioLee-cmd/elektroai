@@ -4,7 +4,7 @@ export const siteDetails = {
     siteUrl: 'https://www.elektroai.nl/',
     metadata: {
         title: 'ElektroAI - AI voor jouw elektriciensbedrijf',
-        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. ElektroAI regelt je agenda, telefoon en administratie volledig automatisch.',
+        description: 'ElektroAI: wij maken de website voor jouw installatiebedrijf. Chatbot, telefoon en marketing sluit je erop aan via je pakket.',
     },
     language: 'nl-NL',
     locale: 'nl-NL',
