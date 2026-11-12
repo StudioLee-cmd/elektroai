@@ -4,7 +4,7 @@ excerpt: "De 8 Google Posts die een elektricien echt klussen opleveren, plus een
 date: "2026-05-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-posts-elektricien.jpg"
-tags: ["Google Bedrijfsprofiel", "Lokale SEO", "Elektricien"]
+tags: ["Google Bedrijfsprofiel"]
 cluster: "vindbaarheid"
 ---
 

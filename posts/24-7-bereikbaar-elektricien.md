@@ -5,7 +5,7 @@ excerpt: "Spoedklussen zijn het meest lucratief voor elektriciens — maar ook h
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/24-7-bereikbaar-elektricien.png"
-tags: ["Elektricien", "Bereikbaarheid", "Spoedklussen"]
+tags: ["Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 ## Het dilemma van elke elektricien

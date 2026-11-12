@@ -5,7 +5,7 @@ date: "2026-08-01"
 excerpt: "Je neemt om 21:40 gewoon op, maar Google weet dat niet. Zo vertel je met schema markup wat je spoeddienst doet en in welk gebied je werkt."
 image: "/images/blog/schema-markup-elektricien-spoeddienst-google.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "SEO", "Website", "Google", "Elektricien"]
+tags: ["Vindbaarheid", "Website"]
 cluster: "vindbaarheid"
 ---
 

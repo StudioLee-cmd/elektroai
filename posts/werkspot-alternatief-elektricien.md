@@ -4,7 +4,7 @@ excerpt: "Ontdek waarom steeds meer elektriciens stoppen met Werkspot en kiezen 
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werkspot-alternatief-elektricien.jpg"
-tags: ["Vergelijking", "Werkspot", "Groei"]
+tags: ["Vergelijking", "Groei"]
 cluster: "automatisering"
 ---
 ## Het Werkspot-model: wat het je echt kost

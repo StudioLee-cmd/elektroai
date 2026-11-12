@@ -6,7 +6,7 @@ date: "2026-04-17"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-vindbaarheid-elektricien.jpg"
-tags: ["Vindbaarheid", "Google", "Lokaal"]
+tags: ["Vindbaarheid", "Google"]
 ---
 ## Klanten zoeken lokaal
 

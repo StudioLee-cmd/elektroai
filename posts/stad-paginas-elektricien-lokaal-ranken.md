@@ -5,7 +5,7 @@ date: "2026-06-06"
 excerpt: "Klanten zoeken op 'elektricien [stad]'. Met unieke lokale landingspagina's word je per werkgebied gevonden."
 image: "/images/blog/stad-paginas-elektricien-lokaal-ranken.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Lokale SEO", "Landingspagina", "Elektricien"]
+tags: ["Vindbaarheid", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
 

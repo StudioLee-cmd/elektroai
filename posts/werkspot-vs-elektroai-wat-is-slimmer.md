@@ -4,7 +4,7 @@ excerpt: "Werkspot levert leads, maar tegen commissie en concurrentie. ElektroAI
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werkspot-vs-elektroai-wat-is-slimmer.png"
-tags: ["Tools", "Vergelijking", "Elektriciens"]
+tags: ["Vergelijking"]
 cluster: "automatisering"
 ---
 Veel elektriciens gebruiken Werkspot om aan klussen te komen. Het werkt — je betaalt per lead, reageert op aanvragen en hoopt dat de klant jou kiest. Maar is dat de slimste manier om je bedrijf te laten groeien?

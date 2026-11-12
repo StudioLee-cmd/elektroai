@@ -4,7 +4,7 @@ excerpt: "Hoe stel je je werkgebied in op je Google Bedrijfsprofiel als elektric
 date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werkgebied-google-bedrijfsprofiel-elektricien.jpg"
-tags: ["Google Bedrijfsprofiel", "Lokale SEO", "Elektricien"]
+tags: ["Google Bedrijfsprofiel"]
 cluster: "vindbaarheid"
 ---
 ## In het kort

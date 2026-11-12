@@ -5,7 +5,7 @@ date: "2026-04-17"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/gemiste-afspraken-elektricien-kosten.jpg"
-tags: ["No-shows", "Omzet", "Planning"]
+tags: ["No-shows", "Planning"]
 ---
 ## Rijden voor niets
 

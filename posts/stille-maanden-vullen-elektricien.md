@@ -5,7 +5,7 @@ date: "2026-05-29"
 excerpt: "Stille maanden als elektricien? Zo vul je de rustige periodes met jaarrond-vindbaarheid, reviews en het reactiveren van je bestaande klanten."
 image: "/images/blog/stille-maanden-vullen-elektricien.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Branding", "Seizoenswerk", "Lokale Marketing", "Klantbehoud", "Elektricien"]
+tags: ["Branding", "Lokale Marketing"]
 cluster: "branding"
 ---
 

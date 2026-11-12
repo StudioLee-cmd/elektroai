@@ -5,7 +5,7 @@ date: "2026-06-23"
 excerpt: "Eén WhatsApp-flow die elke aanvraag opvangt, de afspraak bevestigt en na de klus automatisch om een review vraagt. Zo knoop je het aan elkaar als elektricien."
 image: "/images/blog/whatsapp-flow-elektricien-aanvraag-tot-review.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "WhatsApp", "Automatisering", "Klantcommunicatie", "Elektricien"]
+tags: ["Chatbot", "WhatsApp"]
 cluster: "chatbot"
 ---
 

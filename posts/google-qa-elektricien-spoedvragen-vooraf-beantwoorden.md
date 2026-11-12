@@ -5,7 +5,7 @@ excerpt: "De vragen-en-antwoorden-sectie op je Google Bedrijfsprofiel is verdwen
 date: "2026-07-21"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-qa-elektricien-spoedvragen-vooraf-beantwoorden.jpg"
-tags: ["Google Bedrijfsprofiel", "Vindbaarheid", "Lokale SEO"]
+tags: ["Google Bedrijfsprofiel"]
 cluster: "vindbaarheid"
 ---
 

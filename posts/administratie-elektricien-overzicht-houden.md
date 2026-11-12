@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe je als elektricien je administratie stroomlijnt en meer tij
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-elektricien-overzicht-houden.jpg"
-tags: ["Administratie", "Efficiëntie", "Tools"]
+tags: ["Administratie", "Efficiëntie"]
 cluster: "automatisering"
 ---
 ## Waarom administratie ertoe doet

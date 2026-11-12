@@ -7,7 +7,7 @@ excerpt: "Je website kan je beste medewerker zijn. Leer hoe je als elektricien m
 image: "/images/blog/elektricien-website-leadmachine.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["website", "elektricien", "conversie"]
+tags: ["Website", "Conversie"]
 cluster: "website"
 ---
 ## Waarom je website je beste verkoper is

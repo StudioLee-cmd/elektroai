@@ -5,7 +5,7 @@ date: "2026-07-08"
 excerpt: "Niet elke oproep is spoed. Zo herkent AI-routing voor elektriciens een echte storing, stuurt die direct naar jou en laat standaardvragen netjes wachten."
 image: "/images/blog/ai-routing-elektricien-spoed-standaardvragen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Spoedaanvragen"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

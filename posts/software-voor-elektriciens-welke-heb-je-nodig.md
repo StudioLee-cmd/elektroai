@@ -5,7 +5,7 @@ date: "2026-07-16"
 excerpt: "Welke software heb je als elektricien echt nodig: offerte, planning, facturatie of CRM? Een nuchtere keuzehulp per functie, plus wat het kost."
 image: "/images/blog/software-voor-elektriciens-welke-heb-je-nodig.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Software", "Automatisering", "Bedrijfsvoering"]
+tags: ["Software", "Automatisering"]
 cluster: "automatisering"
 ---
 

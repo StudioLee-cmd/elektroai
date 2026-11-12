@@ -5,7 +5,7 @@ date: "2026-04-08"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-afspraak-bevestiging-no-shows.jpg"
-tags: ["No-shows", "Elektricien", "Automatisering"]
+tags: ["No-shows", "Automatisering"]
 ---
 ## Wat een no-show jou echt kost
 

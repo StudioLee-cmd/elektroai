@@ -5,7 +5,7 @@ date: "2026-07-27"
 excerpt: "Extra werk doen en het daarna niet durven factureren? Zo leg je meerwerk in twee minuten vast en heb je akkoord op zak voordat je begint."
 image: "/images/blog/meerwerk-vastleggen-elektricien-akkoord-2-minuten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Meerwerk", "Klantcommunicatie", "Facturatie", "Elektricien"]
+tags: ["Automatisering", "Facturatie"]
 cluster: "automatisering"
 ---
 

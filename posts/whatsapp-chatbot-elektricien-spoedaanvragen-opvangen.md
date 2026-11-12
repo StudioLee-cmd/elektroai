@@ -5,7 +5,7 @@ date: "2026-07-01"
 excerpt: "Mis je spoedaanvragen via WhatsApp terwijl je in een meterkast staat? Zo vangt een WhatsApp chatbot voor elektriciens elke spoedklus 24/7 automatisch op."
 image: "/images/blog/whatsapp-chatbot-elektricien-spoedaanvragen-opvangen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "WhatsApp", "Spoed", "Bereikbaarheid", "Elektricien"]
+tags: ["Chatbot", "WhatsApp"]
 cluster: "chatbot"
 ---
 

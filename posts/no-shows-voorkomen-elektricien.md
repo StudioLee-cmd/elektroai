@@ -6,7 +6,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-voorkomen-elektricien.jpg"
-tags: ["No-shows", "Elektricien", "Planning"]
+tags: ["No-shows", "Planning"]
 ---
 ## Klus gepland, niemand thuis
 

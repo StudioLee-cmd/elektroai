@@ -5,7 +5,7 @@ excerpt: "Leer hoe je als elektricien je Google Bedrijfsprofiel optimaliseert om
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-elektricien.png"
-tags: ["Google", "Lokaal", "Vindbaarheid"]
+tags: ["Google", "Lokale Marketing"]
 cluster: "vindbaarheid"
 ---
 ## Waarom Google Bedrijfsprofiel onmisbaar is

@@ -5,7 +5,7 @@ excerpt: "Generalisten concurreren op prijs, specialisten op expertise. Ontdek w
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-elektricien.png"
-tags: ["specialisatie", "elektricien", "niche"]
+tags: ["Specialisatie", "Branding"]
 cluster: "branding"
 ---
 

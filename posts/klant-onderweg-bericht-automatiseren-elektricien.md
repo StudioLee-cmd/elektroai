@@ -5,7 +5,7 @@ date: "2026-06-08"
 excerpt: "Stop met handmatig ik-kom-eraan appen. Zo automatiseer je als elektricien het onderweg-bericht met ETA: minder telefoontjes en geen lege ritten."
 image: "/images/blog/klant-onderweg-bericht-automatiseren-elektricien.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Klantcommunicatie", "Planning", "WhatsApp", "Elektricien"]
+tags: ["Automatisering", "Planning"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-07-23"
 excerpt: "Vergeet nooit meer welk pand toe is aan onderhoud of keuring. Zo houd je onderhoudscycli per adres bij en laat je je systeem de opvolging doen."
 image: "/images/blog/onderhoudscycli-per-adres-crm-elektricien.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "CRM", "Onderhoud", "Klantbeheer", "Elektricien"]
+tags: ["Automatisering", "CRM"]
 cluster: "automatisering"
 ---
 

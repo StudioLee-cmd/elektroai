@@ -5,7 +5,7 @@ date: "2026-07-03"
 excerpt: "Live chat of AI chatbot op je elektricien-website? De keuze draait om bezetting: wie antwoordt om 21:30 bij een spoedaanvraag? Nuchtere keuzehulp."
 image: "/images/blog/live-chat-of-ai-chatbot-elektricien-website.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Bereikbaarheid", "Spoedaanvragen"]
+tags: ["Chatbot", "Bereikbaarheid"]
 cluster: "chatbot"
 ---
 

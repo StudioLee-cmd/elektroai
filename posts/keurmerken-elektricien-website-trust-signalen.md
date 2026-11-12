@@ -5,7 +5,7 @@ date: "2026-05-17"
 excerpt: "Welke keurmerken vertrouwen wekken bij website-bezoekers, waar je ze plaatst voor maximale conversie en hoe je voorkomt dat ze juist klanten kosten."
 image: "/images/blog/keurmerken-elektricien-website-trust-signalen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Certificering", "Website", "Trust-signalen", "Conversie", "Elektricien"]
+tags: ["Certificering", "Website"]
 cluster: "website"
 ---
 

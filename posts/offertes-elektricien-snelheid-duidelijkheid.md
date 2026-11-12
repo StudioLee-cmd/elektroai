@@ -5,7 +5,7 @@ excerpt: "Een goede offerte is meer dan een prijs. Ontdek hoe je als elektricien
 date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offertes-elektricien-snelheid-duidelijkheid.png"
-tags: ["Offertes", "Conversie", "Bedrijfsvoering"]
+tags: ["Offertes", "Conversie"]
 cluster: "automatisering"
 ---
 

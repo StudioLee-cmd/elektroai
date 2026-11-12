@@ -7,7 +7,7 @@ excerpt: "Als elektricien heb je na elke klus een contactmoment dat je kunt benu
 image: "/images/blog/email-marketing-elektricien-onderhoud.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["email marketing", "elektricien", "onderhoud"]
+tags: ["E-mail", "Onderhoud"]
 cluster: "automatisering"
 ---
 

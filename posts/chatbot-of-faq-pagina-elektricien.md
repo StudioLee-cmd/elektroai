@@ -5,7 +5,7 @@ date: "2026-06-21"
 excerpt: "Een FAQ-pagina informeert, een chatbot vangt de lead. Wat werkt beter voor elektriciens bij een storing in de avond, en hoe je beide slim combineert."
 image: "/images/blog/chatbot-of-faq-pagina-elektricien.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Leadgeneratie", "Website", "Klantcommunicatie", "Elektricien"]
+tags: ["Chatbot", "Leads", "Website"]
 cluster: "chatbot"
 ---
 

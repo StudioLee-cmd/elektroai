@@ -6,7 +6,7 @@ date: "2026-04-10"
 cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/spoedklussen-elektricien-snelheid-reageren.jpg"
-tags: ["Lead opvolging", "Elektricien", "Spoedklussen"]
+tags: ["Lead opvolging"]
 ---
 ## Bij spoed belt de klant drie nummers
 

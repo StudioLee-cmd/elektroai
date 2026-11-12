@@ -5,7 +5,7 @@ date: "2026-06-30"
 excerpt: "Nieuwe elektricien-klant binnengehaald? Met deze welkom-mailflow van 4 mails maak je van die eerste klus een vaste klant, automatisch en zonder gedoe."
 image: "/images/blog/welkom-mailflow-nieuwe-elektricien-klanten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["E-mail", "Klantbehoud", "Onboarding", "Workflow", "Elektricien"]
+tags: ["E-mail", "Klantbehoud"]
 cluster: "automatisering"
 ---
 

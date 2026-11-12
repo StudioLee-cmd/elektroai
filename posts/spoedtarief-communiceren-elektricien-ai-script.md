@@ -5,7 +5,7 @@ date: "2026-07-20"
 excerpt: "Een toeslag die pas op de factuur opduikt, kost je de review. Zo noemt je intake het spoedtarief al tijdens het gesprek, ook als jij niet opneemt."
 image: "/images/blog/spoedtarief-communiceren-elektricien-ai-script.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Spoedaanvragen", "Klantcommunicatie"]
+tags: ["Voice AI", "Spoedklussen"]
 cluster: "voice-ai"
 ---
 

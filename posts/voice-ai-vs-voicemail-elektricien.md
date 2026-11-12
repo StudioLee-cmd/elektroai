@@ -4,7 +4,7 @@ excerpt: "Je voicemail vangt al jaren je avond-oproepen op. Maar minder dan een 
 date: "2026-05-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/voice-ai-vs-voicemail-elektricien.jpg"
-tags: ["Voice AI", "Bereikbaarheid", "Lead-handling"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 Het is 18:42, je bent net thuis na een groepenkast-vervanging in Almere, en je telefoon laat zien wat je eigenlijk al wist: zes gemiste oproepen, één voicemail. Die ene voicemail is een blip van twee seconden, een hijg, een "uh", en dan stilte. De andere vijf hebben niets achtergelaten. Je weet wat dat betekent. Die vijf bellers hebben binnen tien minuten een collega gebeld die wél opnam. Vijf opdrachten weg, en je voicemail heeft geen van die vijf bellers ook maar één seconde vastgehouden.

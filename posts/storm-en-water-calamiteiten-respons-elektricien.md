@@ -5,7 +5,7 @@ date: "2026-05-15"
 excerpt: "Calamiteiten-respons-protocol voor elektriciens na storm of waterschade: veiligheid, schade-rapport voor verzekeraar, snel-herstel en weeralarm-trigger."
 image: "/images/blog/storm-en-water-calamiteiten-respons-elektricien.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Lead-opvolging", "Calamiteiten", "Storm", "Waterschade", "Elektricien"]
+tags: ["Lead opvolging"]
 cluster: "automatisering"
 ---
 

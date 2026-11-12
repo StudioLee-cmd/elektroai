@@ -5,7 +5,7 @@ date: "2026-04-04"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offertes-opvolgen-elektricien.jpg"
-tags: ["Leads", "Opvolging", "Elektricien"]
+tags: ["Leads", "Lead opvolging"]
 ---
 ## Het probleem: offertes die in het niets verdwijnen
 

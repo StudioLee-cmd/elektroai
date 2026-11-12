@@ -5,7 +5,7 @@ date: "2026-05-31"
 excerpt: "Welke review-hardware werkt het best voor elektriciens: NFC-kaart, QR-sticker of een fysiek bord? Eerlijke vergelijking met prijzen en deployment-tips."
 image: "/images/blog/review-hardware-elektricien-nfc-qr-sticker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Reviewmanagement", "NFC", "QR Code", "Elektricien"]
+tags: ["Reviews"]
 cluster: "reviews"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-05-03"
 excerpt: "Brandveiligheid is sinds 2022 een groeisegment voor elektriciens. Zo bouw je een rookmelder-installatie aanbod op met NEN 2555, kosten en leadflow."
 image: "/images/blog/brandveiligheid-rookmelders-elektricien-2026.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Specialisatie", "Brandveiligheid", "NEN 2555"]
+tags: ["Specialisatie"]
 cluster: "automatisering"
 ---
 

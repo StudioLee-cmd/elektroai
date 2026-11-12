@@ -6,7 +6,7 @@ date: "2026-04-12"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/negatieve-review-elektricien-reageren.jpg"
-tags: ["Reviews", "Reputatie", "Groei"]
+tags: ["Reviews", "Groei"]
 ---
 ## Een negatieve review is geen aanval op je vakmanschap
 

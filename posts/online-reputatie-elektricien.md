@@ -5,7 +5,7 @@ excerpt: "Je online reputatie bepaalt of klanten jou bellen. Leer hoe je als ele
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-elektricien.png"
-tags: ["online reputatie", "elektricien", "reviews"]
+tags: ["Reviews"]
 cluster: "reviews"
 ---
 Elektrotechnisch werk is voor klanten een black box. Ze kunnen niet beoordelen of de bedrading correct is of de groepenkast goed is aangesloten. Daarom [vertrouwen](/reviews) ze op reviews. Jouw online reputatie is het bewijs dat je vakkundig en betrouwbaar bent.

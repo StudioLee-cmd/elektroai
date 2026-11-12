@@ -5,7 +5,7 @@ date: "2026-07-14"
 excerpt: "Een spoedbeller die geen Nederlands spreekt hangt op en belt de volgende. Zo vangt een meertalige AI telefonist NL, EN, PL en AR op zonder dat jij tolkt."
 image: "/images/blog/meertalige-ai-telefonist-elektricien.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Spoedaanvragen"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

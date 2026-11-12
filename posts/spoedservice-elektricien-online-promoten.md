@@ -5,7 +5,7 @@ date: "2026-04-19"
 cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/spoedservice-elektricien-online-promoten.jpg"
-tags: ["Vindbaarheid", "Spoedklussen", "Groei"]
+tags: ["Vindbaarheid", "Spoedklussen"]
 ---
 ## De klant met een stroomstoring zoekt niet morgen
 

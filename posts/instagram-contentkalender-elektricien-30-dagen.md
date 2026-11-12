@@ -5,7 +5,7 @@ date: "2026-06-29"
 excerpt: "Nooit meer piekeren over wat je vandaag post. Een kant-en-klare contentkalender van 30 dagen voor elektriciens die geen tijd hebben voor marketing."
 image: "/images/blog/instagram-contentkalender-elektricien-30-dagen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Instagram", "Marketing"]
+tags: ["Social Media", "Instagram"]
 cluster: "social-media"
 ---
 

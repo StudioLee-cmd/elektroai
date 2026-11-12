@@ -5,7 +5,7 @@ date: "2026-04-07"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-verzamelen-elektricien-automatisch.jpg"
-tags: ["Reviews", "Elektricien", "Automatisering"]
+tags: ["Reviews", "Automatisering"]
 ---
 ## Waarom reviews voor elektriciens belangrijker zijn dan ooit
 

@@ -5,7 +5,7 @@ excerpt: "Leer hoe je als elektricien van eenmalige opdrachten een vaste klanten
 date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/vaste-klanten-elektricien-doorlopend-contact.png"
-tags: ["Klantbehoud", "Groei", "Strategie"]
+tags: ["Klantbehoud", "Groei"]
 cluster: "automatisering"
 ---
 

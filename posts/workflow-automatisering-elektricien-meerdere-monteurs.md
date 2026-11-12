@@ -5,7 +5,7 @@ date: "2026-06-12"
 excerpt: "Twee tot vijf monteurs aansturen vanaf een whiteboard kost je elke avond een uur. Zo automatiseer je dispatching, routes en klantberichten in een flow."
 image: "/images/blog/workflow-automatisering-elektricien-meerdere-monteurs.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Werkplanning", "Dispatching", "Routes", "Elektricien"]
+tags: ["Automatisering", "Planning"]
 cluster: "automatisering"
 ---
 

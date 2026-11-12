@@ -5,7 +5,7 @@ date: "2026-07-28"
 excerpt: "Direct na de klus, bij de factuur of een maand later: het moment van vragen bepaalt of je een review krijgt. Zo kies je per klus het juiste moment."
 image: "/images/blog/review-timing-elektricien-direct-of-factuur.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Klantcommunicatie", "Automatisering", "Elektricien"]
+tags: ["Reviews", "Klantcommunicatie"]
 cluster: "reviews"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-04-14"
 cluster: "branding"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/slimme-installaties-elektricien-populair.jpg"
-tags: ["Slimme Installaties", "Smart Home", "Elektricien Tips"]
+tags: ["Branding", "Klanten"]
 ---
 ## Klanten willen slim wonen, en ze zoeken jou
 

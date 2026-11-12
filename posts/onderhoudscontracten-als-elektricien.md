@@ -5,7 +5,7 @@ date: "2026-04-21"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/onderhoudscontracten-als-elektricien.jpg"
-tags: ["Elektricien", "Onderhoud", "Klantbehoud", "Recurring revenue"]
+tags: ["Onderhoud", "Klantbehoud"]
 ---
 De meeste elektriciensbedrijven draaien op project-omzet. Klant belt, klus komt erin, klus wordt gedaan, factuur eruit, einde. Tussen klus en volgende klus zit een gat dat per klant kan oplopen tot twee of drie jaar — en in die tijd kan de concurrent gerust binnenwippen. Een onderhoudscontract is het enige instrument dat dat gat voorgoed dicht zet. Het levert niet alleen vaste maandomzet, maar ook een structurele voorsprong op elke concurrent die alleen op losse klussen concurreert.
 

@@ -5,7 +5,7 @@ date: "2026-07-29"
 excerpt: "Wat koopt tien euro per dag aan Facebook advertenties in jouw werkgebied? De rekensom, de doelgroep die wel werkt en de fout die je budget verbrandt."
 image: "/images/blog/facebook-advertenties-elektricien-10-euro-per-dag.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Facebook Ads", "Marketing", "Elektricien"]
+tags: ["Social Media", "Marketing"]
 cluster: "social-media"
 ---
 

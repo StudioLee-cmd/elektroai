@@ -6,7 +6,7 @@ cluster: "vindbaarheid"
 excerpt: "Het services-veld op je Google Bedrijfsprofiel als elektricien: welke 12 diensten je het beste lijst voor meer aanvragen voor laadpalen."
 image: "/images/blog/google-bedrijfsprofiel-services-elektricien.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Google Bedrijfsprofiel", "Lokale SEO", "Elektricien"]
+tags: ["Google Bedrijfsprofiel"]
 ---
 
 # Google Bedrijfsprofiel services-veld voor elektriciens: welke 12 diensten klussen opleveren

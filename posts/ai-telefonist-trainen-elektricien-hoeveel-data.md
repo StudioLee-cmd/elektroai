@@ -5,7 +5,7 @@ date: "2026-07-24"
 excerpt: "Je AI telefonist is zo goed als de bedrijfsdata die hij kent. Welke vijf blokken hij nodig heeft en hoeveel genoeg is om hem live te zetten."
 image: "/images/blog/ai-telefonist-trainen-elektricien-hoeveel-data.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "AI Telefonist", "Bereikbaarheid"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

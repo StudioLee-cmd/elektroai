@@ -5,7 +5,7 @@ excerpt: "Elektriciens met 80+ Google reviews worden 4x vaker gebeld dan concurr
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-reviews-automatisch-whatsapp.jpg"
-tags: ["Reviews", "WhatsApp", "Elektricien"]
+tags: ["Reviews", "WhatsApp"]
 cluster: "reviews"
 ---
 Twee elektriciens in dezelfde stad, vergelijkbaar vakwerk. Elektricien A heeft 12 Google reviews, elektricien B heeft 94. Wie wordt vier keer vaker gebeld voor nieuwe klussen? Precies. Google's Local Pack-algoritme weegt aantallen en recentie zwaar, en klanten bellen bijna altijd de bedrijfsnaam met het hoogste vertrouwen.

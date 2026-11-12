@@ -6,7 +6,7 @@ date: "2026-04-15"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-elektricien-klanten.jpg"
-tags: ["Google", "Lokale SEO", "Vindbaarheid"]
+tags: ["Google", "Lokale SEO"]
 ---
 Iemand zoekt "elektricien bij mij in de buurt" op Google. Binnen een seconde verschijnen er drie bedrijven op de kaart. Eentje heeft vijf sterren, twintig foto's en actuele openingstijden. De andere twee hebben een logo en verder niets. Welke wordt gebeld?
 

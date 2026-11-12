@@ -4,7 +4,7 @@ excerpt: "Zo wordt jouw elektriciensbedrijf genoemd door ChatGPT, Perplexity en 
 date: "2026-04-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-vindbaar-chatgpt-ai-search.jpg"
-tags: ["SEO", "AI Search", "ChatGPT", "Elektricien"]
+tags: ["Vindbaarheid", "AI"]
 cluster: "vindbaarheid"
 ---
 
