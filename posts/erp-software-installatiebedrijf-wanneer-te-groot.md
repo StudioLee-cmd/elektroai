@@ -31,8 +31,6 @@ De vraag is niet of de belofte klopt. De vraag is of jouw bedrijf het probleem h
 
 ## Waarvoor die pakketten gebouwd zijn
 
-![Waarvoor die pakketten gebouwd zijn](/images/blog/erp-software-installatiebedrijf-wanneer-te-groot-2.jpg)
-
 De grote ERP-pakketten zijn ontworpen rond een kantoor. Er is een calculator die offertes maakt, een werkvoorbereider die projecten opzet, een inkoper die bestelt, een planner die monteurs inzet en een administratie die factureert. Het systeem zorgt dat die 5 mensen elkaars werk zien. Dat merk je aan alles: aan de rollen en rechten, aan de goedkeuringsstappen en aan de rapporten per afdeling.
 
 ### Stel: een bedrijf met 40 man
@@ -44,6 +42,8 @@ Stel dat je 30 monteurs hebt, 6 mensen op kantoor en een magazijn met een vaste 
 Neem een installatiebedrijf met 3 monteurs, de eigenaar die zelf meewerkt en een partner die 2 ochtenden per week de administratie doet. Er is geen inkoper, geen planner en geen magazijnmeester. De goedkeuringsronde voor een inkooporder is jijzelf, in de bus, bij de groothandel. Denk aan een gewone dinsdag: 2 storingen, 1 groepenkast en een offertebezoek, en tussendoor een bestelling van 6 artikelen. In de praktijk vul je een ERP-pakket hier met de hand, op momenten dat je eigenlijk wilt slapen, zodat het systeem weet wat jij allang wist.
 
 ## De vijf modules die je nooit opent
+
+![De vijf modules die je nooit opent](/images/blog/erp-software-installatiebedrijf-wanneer-te-groot-2.jpg)
 
 Een ERP-pakket heeft meestal 10 tot 15 modules. Een klein installatiebedrijf gebruikt er 3 of 4 echt. Deze 5 blijven in de praktijk dicht, en voor elk is er een lichtere oplossing.
 
