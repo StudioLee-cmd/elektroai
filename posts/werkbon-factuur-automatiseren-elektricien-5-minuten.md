@@ -98,6 +98,5 @@ Bij ElektroAI helpen we MKB-elektriciens hun administratie-uren halveren via een
 - Een [chatbot voor elektriciens](/chatbot) die factuur-vragen 24/7 beantwoordt
 - Een geautomatiseerde WhatsApp-flow voor factuur-versturing en 4-traps betaling-herinnering
 - Een dashboard dat je per maand laat zien hoeveel uur je gewonnen hebt op administratie en hoe lang je gemiddelde betaaltermijn nu is
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor elektriciens](/gratis-scan) of bekijk onze [tarieven ElektroAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

@@ -84,6 +84,6 @@ Nee, je Google reviews staan aan je Google Bedrijfsprofiel en verhuizen gewoon m
 
 Software migreren als elektricien is geen technisch kunstje maar een volgorde-kwestie: eerst exporteren, dan inrichten, dan een harde overstapdatum, dan het oude systeem op slot. Wie die volgorde aanhoudt, is in zes weken over zonder een klant kwijt te raken. En wie zijn data daarna in een eigen systeem beheert, hoeft dit nooit meer te doen.
 
-Bij ElektroAI zetten we de migratie samen met je op: klantdata erin, werkbonnen, facturatie en opvolging automatisch, met onze Groei-of-Geld-Terug Garantie. Jij installeert, wij regelen de rest. Benieuwd wat er in jouw systemen aan data klaarstaat om mee te verhuizen? Vraag de [gratis ai scan voor elektriciens](/gratis-scan) aan en je weet het binnen een dag.
+Jij installeert, wij regelen de rest. Benieuwd wat er in jouw systemen aan data klaarstaat om mee te verhuizen? Vraag de [gratis ai scan voor elektriciens](/gratis-scan) aan en je weet het binnen een dag.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/welkom-mailflow-nieuwe-elektricien-klanten" class="text-dark fw-semibold">Welkom-mailflow voor nieuwe elektricien-klanten</a> →</p></div></div></div>

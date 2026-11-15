@@ -42,4 +42,4 @@ Hoe sneller je reageert, hoe serieuzer het overkomt. Na een week reageren voelt 
 
 Google beloont actieve profielen. Reageren op reviews, positief en negatief, telt mee voor je positie in de zoekresultaten.
 
-Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan.

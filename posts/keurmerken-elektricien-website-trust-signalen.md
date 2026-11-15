@@ -143,7 +143,6 @@ Bij ElektroAI helpen we elektriciens hun website-trust professioneel inrichten. 
 - Een [chatbot voor elektriciens](/chatbot) die certificeringen actief deelt met bezoekers
 - Een [reviews-flow voor elektriciens](/reviews) die je gemiddeld naar 4,7+ score met 50+ reviews brengt
 - Een crm-koppeling die je certificeringen-overzicht actueel houdt zonder handmatig onderhoud
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor elektriciens](/gratis-scan) of bekijk onze [tarieven ElektroAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

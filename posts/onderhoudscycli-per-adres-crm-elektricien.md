@@ -67,7 +67,7 @@ En er zit een tweede laag onder. Een klant die twee keer per jaar automatisch va
 
 Je hoeft dit niet perfect te doen. Je hoeft het te dóen. Pak je twintig belangrijkste vaste adressen, zet ze in een systeem met een next-due datum, en hang er één automatische herinnering aan. Dat is een middag werk en het vangt volgende maand al de eerste vergeten cyclus op.
 
-Weet je niet waar je staat? Een [gratis AI-scan voor je bedrijf](/gratis-scan) laat in een paar minuten zien hoeveel terugkerend werk je nu waarschijnlijk laat liggen en welke opvolging je het snelst kunt automatiseren. En omdat wij geloven dat dit werkt: bij ons managed pakket geldt een Groei-of-Geld-Terug Garantie, dus je probeert het risicovrij.
+Weet je niet waar je staat? Een [gratis AI-scan voor je bedrijf](/gratis-scan) laat in een paar minuten zien hoeveel terugkerend werk je nu waarschijnlijk laat liggen en welke opvolging je het snelst kunt automatiseren.
 
 Het pand aan de rand van de stad had gewoon een regel in een systeem moeten zijn. Dan had er nu jouw busje voor de deur gestaan.
 
