@@ -102,4 +102,4 @@ Bij ElektroAI helpen we MKB-elektriciens om de agenda het hele jaar door gevuld 
 - Een ai telefonist die elke oproep opvangt, ook buiten kantooruren, zodat geen enkele schaarse aanvraag verloren gaat
 - Een reviewflow die na elke klus automatisch om een beoordeling vraagt en zo een gestage stroom opbouwt
 
-[Plan een gratis AI-scan voor elektriciens](/gratis-scan) en ontdek waar in jouw seizoenspatroon de meeste omzet blijft liggen. Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor elektriciens](/gratis-scan) en ontdek waar in jouw seizoenspatroon de meeste omzet blijft liggen. Vragen? [Plan een gesprek met Tim](/demo).
