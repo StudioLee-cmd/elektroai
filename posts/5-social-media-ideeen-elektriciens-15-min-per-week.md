@@ -135,7 +135,6 @@ Bij ElektroAI helpen we elektriciens hun social media op autopilot zetten zonder
 - Een [chatbot voor elektriciens](/chatbot) op je website die social-media-bezoekers direct converteert
 - Een content-template-bibliotheek voor de 5 standaard-momenten (voor-na, aankomst, koffie, bedankje, tip)
 - Maandelijkse content-rapportage met beste-presterende posts plus aanbevelingen
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor elektriciens](/gratis-scan) of bekijk onze [tarieven ElektroAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

@@ -98,6 +98,6 @@ De prijs hangt af van wat je aansluit: alleen chat, of ook agenda, opvolging en 
 
 Terug naar die groepenkast van het begin. Het deurtje is de chat-widget: die heeft iedereen. Wat telt is wat erachter zit: herkent hij spoed, kent hij je werkgebied, stelt hij jouw vragen, weet hij wanneer hij jou erbij moet halen, plant hij afspraken in, houdt hij zich aan jouw info en zorgt hij voor opvolging. Dat zijn de 7 functies waarop je elke [ai-chatbot](/chatbot) mag afrekenen, ook de onze.
 
-Wil je weten hoeveel avondaanvragen er nu langs je website lopen en wat een goed ingerichte bot daarvan kan vangen? Vraag de [gratis ai scan voor elektriciens](/gratis-scan) aan. We kijken mee naar je site en laten zien waar de aanvragen weglekken. Jij installeert, wij regelen de rest, met Groei-of-Geld-Terug Garantie.
+Wil je weten hoeveel avondaanvragen er nu langs je website lopen en wat een goed ingerichte bot daarvan kan vangen? Vraag de [gratis ai scan voor elektriciens](/gratis-scan) aan. We kijken mee naar je site en laten zien waar de aanvragen weglekken.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/live-chat-of-ai-chatbot-elektricien-website" class="text-dark fw-semibold">Live chat of AI chatbot voor je elektricien-website?</a> →</p></div></div></div>

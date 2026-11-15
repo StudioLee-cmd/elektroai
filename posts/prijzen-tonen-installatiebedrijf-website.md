@@ -94,4 +94,4 @@ De vraag is niet of je open bent over geld, maar of je bezoeker weet waar hij aa
 
 Kies daarom per soort werk een vorm. Planbaar werk krijgt een vanaf-prijs met de factoren erbij. Onvoorspelbaar werk krijgt je uurtarief met de eenheid en het avondtarief erbij. Storingen krijgen een vaste diagnoseprijs en de belofte dat er daarna een vast bedrag komt. En je voorrijkosten staan er los onder, met het gebied erbij.
 
-Bij ElektroAI zetten we die blokken per klustype op je [gratis website voor elektriciens](/gratis-website) en laten we je chat uit dezelfde bron putten, zodat een tariefwijziging op één plek gebeurt. Wat dat kost staat op onze [tarieven ElektroAI](/tarieven). Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet meetbaar beter zichtbaar in Ahrefs, dan krijg je je geld terug.
+Bij ElektroAI zetten we die blokken per klustype op je [gratis website voor elektriciens](/gratis-website) en laten we je chat uit dezelfde bron putten, zodat een tariefwijziging op één plek gebeurt. Wat dat kost staat op onze [tarieven ElektroAI](/tarieven).

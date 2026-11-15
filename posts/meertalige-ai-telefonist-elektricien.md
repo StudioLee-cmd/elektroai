@@ -70,6 +70,6 @@ De terugverdientijd is eenvoudiger dan de meeste mensen denken. Eén spoedklus d
 
 Bereikbaar zijn betekent tegenwoordig meer dan opnemen. Het betekent dat je de beller begrijpt, ook als die geen vlot Nederlands spreekt. Een meertalige AI telefonist voert het gesprek in NL, EN, PL of AR, kwalificeert de spoed, en levert jou een Nederlandse samenvatting. Jij spreekt geen woord Pools en wint toch de klus.
 
-Wil je weten hoeveel aanvragen je nu misloopt en welke talen voor jouw werkgebied tellen? Vraag dan een [gratis AI-scan voor elektriciens](/gratis-scan) aan. We kijken samen naar je bereikbaarheid en je bellers, en je zit nergens aan vast. Op onze managed service zit bovendien een Groei-of-Geld-Terug Garantie, zodat het risico bij ons ligt en niet bij jou.
+Wil je weten hoeveel aanvragen je nu misloopt en welke talen voor jouw werkgebied tellen? Vraag dan een [gratis AI-scan voor elektriciens](/gratis-scan) aan. We kijken samen naar je bereikbaarheid en je bellers, en je zit nergens aan vast.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-routing-elektricien-spoed-standaardvragen" class="text-dark fw-semibold">AI-routing elektricien: spoed of standaardvraag</a> →</p></div></div></div>

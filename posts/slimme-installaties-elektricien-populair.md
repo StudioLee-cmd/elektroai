@@ -61,4 +61,4 @@ Noem je smart home services op je website en in je offertes. De klant die je bel
 
 De markt voor slimme installaties groeit sneller dan het aantal elektriciens dat ze aanbiedt. Dat is een kans. Door nu te investeren in kennis en zichtbaarheid, positioneer je jezelf als de elektricien die meer kan dan alleen storingen oplossen.
 
-Wil je weten hoe jouw elektriciensbedrijf online beter gevonden wordt? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe jouw elektriciensbedrijf online beter gevonden wordt? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen.

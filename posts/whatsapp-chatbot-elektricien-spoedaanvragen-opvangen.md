@@ -79,4 +79,4 @@ Sommige klanten appen, andere bellen nog steeds, zeker de wat oudere klant bij e
 
 Je mist geen spoedklussen omdat je slecht bent in je vak. Je mist ze omdat je op het verkeerde moment geen hand vrij hebt, en een storing niet wacht. Een WhatsApp chatbot die spoed herkent, de juiste vragen stelt en jou op tijd een seintje geeft, dicht precies dat gat. Jij installeert, de chatbot regelt de eerste reactie.
 
-Wil je weten hoeveel aanvragen je nu laat liggen en waar de gaten in je bereikbaarheid zitten? Doe de [gratis AI-scan voor elektriciens](/gratis-scan). We werken met een Groei-of-Geld-Terug Garantie, dus je weet vooraf waar je aan toe bent.
+Wil je weten hoeveel aanvragen je nu laat liggen en waar de gaten in je bereikbaarheid zitten? Doe de [gratis AI-scan voor elektriciens](/gratis-scan).

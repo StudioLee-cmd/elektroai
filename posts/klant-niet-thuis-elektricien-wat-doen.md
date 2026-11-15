@@ -50,4 +50,4 @@ Voor klussen boven de 500 euro (groepenkast, complete bedrading, zonnepaneel-aan
 
 Twee no-shows per maand bij een gemiddeld uurtarief van 65 euro en twee uur per klus: dat is 260 euro per maand, ruim 3.000 euro per jaar. Met bevestigingen en een wachtlijst breng je dat terug tot bijna nul.
 
-Wil je weten hoe je je hele planning en klantcommunicatie kunt verbeteren? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je je hele planning en klantcommunicatie kunt verbeteren? Vraag een [gratis scan](/gratis-scan) aan.
