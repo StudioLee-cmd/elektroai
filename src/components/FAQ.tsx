@@ -33,7 +33,7 @@ const FAQ: React.FC = () => {
                         <p className="text-[var(--foreground-accent)] font-medium mb-2">
                             Staat je vraag er niet bij?
                         </p>
-                        <a href={`mailto:${footerDetails.email}`} className="text-xl lg:text-2xl text-primary font-bold hover:text-primary-accent transition-colors">
+                        <a href={`mailto:${footerDetails.email}`} className="text-xl lg:text-2xl text-secondary dark:text-primary font-bold hover:underline transition-colors">
                             {footerDetails.email}
                         </a>
                     </div>

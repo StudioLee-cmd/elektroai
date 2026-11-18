@@ -142,7 +142,7 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                     {currentSavings}
                 </div>
                 <ul className="space-y-4 mb-8">
-                    {(!isAnnual && name === 'Managed Groei Basis' ? ['Maandelijks opzegbaar', ...features] : features).map((feature, index) => (
+                    {features.map((feature, index) => (
                         <li key={index} className="flex items-center">
                             <BsFillCheckCircleFill className="h-5 w-5 text-secondary mr-2" />
                             <span className="text-foreground-accent">

@@ -9,7 +9,7 @@ authorSlug: "tim-van-der-lee"
 tags: ["Google Bedrijfsprofiel"]
 ---
 
-# Google Bedrijfsprofiel services-veld voor elektriciens: welke 12 diensten klussen opleveren
+## Google Bedrijfsprofiel services-veld voor elektriciens: welke 12 diensten klussen opleveren
 
 Het services-veld op je Google Bedrijfsprofiel is een van de minst gebruikte en meest onderschatte ranking-factoren voor elektriciens. Twee elektriciensbedrijven met identieke openingstijden, foto's en reviews kunnen totaal verschillend ranken voor "elektricien laadpaal Utrecht" puur omdat de een dat als losse service heeft toegevoegd en de ander niet.
 

@@ -137,7 +137,7 @@ const FreeTrialPage = () => {
     };
 
     return (
-        <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-blue-50 py-12 px-4 sm:px-6 lg:px-8">
+        <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-blue-50 pt-32 md:pt-52 pb-12 px-4 sm:px-6 lg:px-8">
             <Container>
                 <div className="max-w-md mx-auto">
                     {/* Header */}
@@ -184,7 +184,7 @@ const FreeTrialPage = () => {
                                     value={formData.businessName}
                                     onChange={handleChange}
                                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900"
-                                    placeholder="Jouw Dakdekkersbedrijf"
+                                    placeholder="Jouw installatiebedrijf"
                                     disabled={isLoading}
                                 />
                             </div>

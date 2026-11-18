@@ -8,7 +8,7 @@ tags: ["Google Bedrijfsprofiel"]
 cluster: "vindbaarheid"
 ---
 
-# Google Posts voor elektriciens: 8 post-types en een 12-maanden contentkalender
+## Google Posts voor elektriciens: 8 post-types en een 12-maanden contentkalender
 
 De meeste elektriciens hebben hun Google Bedrijfsprofiel netjes ingevuld: openingstijden kloppen, er staan een paar foto's, de reviews lopen binnen. En dan blijft het stil. De laatste post dateert van twee jaar geleden, toen iemand een keer "Wij zijn weer open na corona" plaatste. Het profiel ademt niet meer.
 

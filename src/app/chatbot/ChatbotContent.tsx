@@ -163,7 +163,7 @@ export default function ChatbotContent() {
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image
               src="/images/services/chatbot-hero.jpg"
-              alt="AI chatbot voor elektriciens — homeowner stelt vraag via chat"
+              alt="AI chatbot voor elektriciens — huiseigenaar stelt vraag via chat"
               fill
               priority
               className="object-cover"
@@ -276,7 +276,7 @@ export default function ChatbotContent() {
               />
             </div>
             <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
-              Een homeowner stelt 's avonds een vraag — chatbot vangt op, jij krijgt direct notificatie.
+              Een huiseigenaar stelt 's avonds een vraag — chatbot vangt op, jij krijgt direct notificatie.
             </p>
           </motion.div>
 
@@ -300,7 +300,7 @@ export default function ChatbotContent() {
                 className="border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)]"
               >
                 <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center mb-4">
-                  <feature.icon className="text-primary" size={20} />
+                  <feature.icon className="text-secondary dark:text-primary" size={20} />
                 </div>
                 <h3 className="text-lg font-bold mb-2">{feature.title}</h3>
                 <p className="text-foreground-accent text-sm">{feature.desc}</p>

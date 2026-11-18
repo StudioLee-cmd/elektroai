@@ -46,7 +46,7 @@ const features = [
   },
   {
     icon: BsGlobe,
-    title: "Meertalig Nederlands",
+    title: "Meertalig",
     desc: `De telefonist spreekt vloeiend Nederlands, Engels, Duits en meer — perfect voor een diverse klantenkring.`,
   },
   {
@@ -299,7 +299,7 @@ export default function VoiceAIContent() {
                 className="border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)]"
               >
                 <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center mb-4">
-                  <feature.icon className="text-primary" size={20} />
+                  <feature.icon className="text-secondary dark:text-primary" size={20} />
                 </div>
                 <h3 className="text-lg font-bold mb-2">{feature.title}</h3>
                 <p className="text-foreground-accent text-sm">{feature.desc}</p>
