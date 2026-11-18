@@ -17,7 +17,6 @@ export const tiers: IPricing[] = [
             "Website op maat, door ons opgezet",
             "Hosting en SSL",
             "AI-chatbot op je website, met beperkt gebruik",
-            "Maandelijks opzegbaar",
             "14 dagen proberen voor €1",
             "Artikelen, posts en de AI-telefonist neem je erbij wanneer jij wilt",
         ],
