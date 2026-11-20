@@ -1995,7 +1995,7 @@ export default function SpelContent() {
                   boxShadow: "4px 4px 0px rgba(0,0,0,0.3)",
                 }}
               >
-                {nearStation.emoji} {nearStation.name} — Druk SPATIE
+                {nearStation.emoji} {nearStation.name} (druk SPATIE)
                 {!nearStation.available && " (Binnenkort)"}
               </div>
             );
@@ -2018,7 +2018,7 @@ export default function SpelContent() {
                 zIndex: 50,
               }}
             >
-              👑 PREMIUM ACTIEF — {Math.ceil((state.premiumUntil - Date.now()) / 1000)}s
+              👑 PREMIUM ACTIEF: {Math.ceil((state.premiumUntil - Date.now()) / 1000)}s
             </div>
           )}
         </>

@@ -17,13 +17,13 @@ Na elke klus heb je iets waardevols: het emailadres van een tevreden klant. De m
 
 Maar die bestaande klant is goud waard. Elektrische installaties hebben onderhoud nodig. De groepenkast die je vijf jaar geleden hebt geinstalleerd, moet periodiek gecontroleerd worden. De klant die een laadpaal liet plaatsen, overweegt misschien zonnepanelen. De thuiswerkplek die je hebt aangesloten, heeft misschien extra stopcontacten nodig.
 
-Email marketing is de simpelste manier om die klant te herinneren dat jij er bent — op het moment dat zij jou nodig hebben.
+Email marketing is de simpelste manier om die klant te herinneren dat jij er bent, op het moment dat zij jou nodig hebben.
 
 ## Je klantenlijst opbouwen
 
 Een goede mailinglijst begint bij je bestaande klanten. Ga je administratie door en verzamel alle emailadressen van de afgelopen drie tot vijf jaar. Dat is je startpunt.
 
-**Maak het standaard bij elke nieuwe klus**. Na afronding: "Ik stuur af en toe onderhoudstips en herinneringen voor keuringen — mag ik je op mijn lijst zetten?" De meeste klanten zeggen ja.
+**Maak het standaard bij elke nieuwe klus**. Na afronding: "Ik stuur af en toe onderhoudstips en herinneringen voor keuringen. Mag ik je op mijn lijst zetten?" De meeste klanten zeggen ja.
 
 **Via je [website](/blog/elektricien-website-leadmachine)**: bied een gratis checklist aan, bijvoorbeeld "5 signalen dat je groepenkast aan vervanging toe is" in ruil voor een emailadres. Dit trekt ook potentiele klanten die je nog niet kennen.
 
@@ -35,7 +35,7 @@ Je hoeft geen marketeer te zijn. Er zijn vijf soorten emails die direct werken:
 
 **Onderhoudsherinneringen**. "Het is twee jaar geleden dat we je groepenkast hebben gecontroleerd. Tijd voor een periodieke keuring?" Dit is relevant, niet opdringerig en genereert direct werk.
 
-**Seizoenstips**. In het najaar: "Bereid je huis voor op de winter — controleer je rookmelders en buitenverlichting." In het voorjaar: "Zomertijd betekent langere dagen — is je tuinverlichting nog in orde?"
+**Seizoenstips**. In het najaar: "Bereid je huis voor op de winter: controleer je rookmelders en buitenverlichting." In het voorjaar: "Zomertijd betekent langere dagen. Is je tuinverlichting nog in orde?"
 
 **Projectupdates**. Heb je een mooie slimme installatie gedaan? Deel het met je lijst. "Onlangs hebben we een complete domotica-installatie geplaatst in Almere. Benieuwd wat de mogelijkheden zijn voor jouw huis?" Dit inspireert klanten om na te denken over hun eigen woning.
 

@@ -10,7 +10,7 @@ cluster: "branding"
 
 "Een elektricien is een elektricien." Dat denken de meeste mensen. En zolang jij er ook zo over denkt, concurreer je alleen op prijs. Branding verandert dat. Het maakt van "een elektricien" de elektricien die mensen herkennen, vertrouwen en aanbevelen.
 
-In dit artikel leer je hoe je een herkenbaar merk opbouwt — zonder marketingbudget.
+In dit artikel leer je hoe je een herkenbaar merk opbouwt, zonder marketingbudget.
 
 ## Wat is branding voor een elektricien?
 
@@ -24,7 +24,7 @@ Branding is niet je logo. Het is hoe klanten je ervaren en onthouden:
 
 ## Waarom branding werkt in de techniek
 
-Elektrotechnisch werk is voor de meeste klanten een black box. Ze kunnen niet beoordelen of je werk goed is — ze moeten je vertrouwen. Een sterk merk bouwt dat vertrouwen op voordat de klant je belt.
+Elektrotechnisch werk is voor de meeste klanten een black box. Ze kunnen niet beoordelen of je werk goed is, dus ze moeten je vertrouwen. Een sterk merk bouwt dat vertrouwen op voordat de klant je belt.
 
 ## De 4 pijlers van een sterk elektriciensmerk
 
@@ -70,7 +70,7 @@ Branding hoeft niet duur te zijn. Begin met consistentie: dezelfde kleuren, hetz
 
 ## Mond-tot-mond en je merk
 
-Een sterk merk versterkt mond-tot-mondreclame. Klanten zeggen niet "een elektricien", maar "die ene van [jouw bedrijfsnaam]." Ze onthouden je naam, je bus, je werkkleding. Dat is de kracht van branding — je wordt een naam in de buurt, niet een nummer.
+Een sterk merk versterkt mond-tot-mondreclame. Klanten zeggen niet "een elektricien", maar "die ene van [jouw bedrijfsnaam]." Ze onthouden je naam, je bus, je werkkleding. Dat is de kracht van branding: je wordt een naam in de buurt, niet een nummer.
 
 Combineer je merkidentiteit met uitstekende service en actief reviewmanagement. De klanten die je merk herkennen, worden je ambassadeurs.
 

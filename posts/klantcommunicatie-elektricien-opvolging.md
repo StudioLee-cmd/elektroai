@@ -13,7 +13,7 @@ cluster: "automatisering"
 
 ## Waarom communicatie je onderscheidt
 
-Klanten kunnen de kwaliteit van je bedrading niet beoordelen. Ze zien dat het licht werkt en de stopcontacten functioneren — maar of het technisch perfect is, weten ze niet.
+Klanten kunnen de kwaliteit van je bedrading niet beoordelen. Ze zien dat het licht werkt en de stopcontacten functioneren, maar of het technisch perfect is, weten ze niet.
 
 Wat ze wel beoordelen: was je op tijd, legde je uit wat je deed, was de factuur duidelijk en heb je na de klus nog even gevraagd of alles werkt? Dat bepaalt of ze je aanbevelen bij buren, of ze een [Google review](/blog/meer-google-reviews-als-elektricien) achterlaten en of ze je direct bellen voor de volgende klus.
 
@@ -52,6 +52,6 @@ Wat ze wel beoordelen: was je op tijd, legde je uit wat je deed, was de factuur 
 
 ## Aan de slag
 
-Communicatie die vertrouwen bouwt, kost geen geld — alleen aandacht. Snel reageren, helder uitleggen, netjes opleveren en altijd opvolgen. Die vier stappen maken je de [elektricien](/blog/hoe-elektriciens-meer-klanten-krijgen-via-google) waar klanten specifiek om vragen.
+Communicatie die vertrouwen bouwt, kost geen geld, alleen aandacht. Snel reageren, helder uitleggen, netjes opleveren en altijd opvolgen. Die vier stappen maken je de [elektricien](/blog/hoe-elektriciens-meer-klanten-krijgen-via-google) waar klanten specifiek om vragen.
 
 Wil je als elektricien online beter gevonden worden? [Vraag een gratis scan aan](/gratis-scan) en ontdek wat er beter kan.

@@ -10,7 +10,7 @@ tags: ["No-shows", "Planning"]
 ---
 ## Klus gepland, niemand thuis
 
-Je hebt materiaal ingekocht, je bus geladen en je rijdt naar het adres. Aanbellen. Niks. Nog een keer. Niks. De klant is niet thuis — en had ook niet afgezegd.
+Je hebt materiaal ingekocht, je bus geladen en je rijdt naar het adres. Aanbellen. Niks. Nog een keer. Niks. De klant is niet thuis, en had ook niet afgezegd.
 
 Als elektricien heb je vaak materiaal besteld dat specifiek voor die klus is. Een no-show kost je niet alleen tijd en brandstof, maar ook een voorraad die je niet direct elders kunt inzetten.
 
@@ -51,9 +51,9 @@ Houd een lijst bij van klanten die snel geholpen willen worden. Bij een annuleri
 
 Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als elektricien.
 
-Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in, ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
 
-Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [chatbot](/chatbot): we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/elektricien-afspraak-bevestiging-no-shows" class="text-dark fw-semibold">No-shows als elektricien voorkomen met slimme bevestigingen</a> →</p></div></div></div>
 
