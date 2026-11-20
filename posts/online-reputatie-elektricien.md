@@ -14,14 +14,14 @@ Elektrotechnisch werk is voor klanten een black box. Ze kunnen niet beoordelen o
 
 Elektriciteitswerk is onzichtbaar en veiligheidsrelevant. Klanten willen zekerheid dat het goed zit. Reviews bieden die zekerheid: "Alles netjes weggewerkt, duidelijke uitleg, op tijd klaar" overtuigt meer dan een technische certificering op je website.
 
-Een elektricien met 40+ reviews en 4,8 sterren wint het van een concurrent zonder reviews — zelfs als die concurrent meer ervaring heeft.
+Een elektricien met 40+ reviews en 4,8 sterren wint het van een concurrent zonder reviews, zelfs als die concurrent meer ervaring heeft.
 
 ## Waar klanten je beoordelen
 
 | Platform | Belang |
 |----------|--------|
-| Google | Zeer hoog — eerste zoekresultaat |
-| Werkspot | Hoog — veel elektriciens actief |
+| Google | Zeer hoog, eerste zoekresultaat |
+| Werkspot | Hoog: veel elektriciens actief |
 
 Je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-elektricien) is je belangrijkste digitale etalage.
 
@@ -53,7 +53,7 @@ Combineer reviews met een professionele [website](/blog/elektricien-website-lead
 
 ## Het verschil op lange termijn
 
-Elektriciens die structureel aan hun reputatie werken, bouwen een duurzaam concurrentievoordeel op. Elke review is een permanent verkoopargument dat 24 uur per dag werkt. De investering is minimaal — de opbrengst is jarenlang zichtbaar in meer en betere klussen.
+Elektriciens die structureel aan hun reputatie werken, bouwen een duurzaam concurrentievoordeel op. Elke review is een permanent verkoopargument dat 24 uur per dag werkt. De investering is minimaal en de opbrengst is jarenlang zichtbaar in meer en betere klussen.
 
 ## Reputatie en specialistisch werk
 

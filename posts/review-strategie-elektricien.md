@@ -9,7 +9,7 @@ tags: ["Reviews", "Review strategie"]
 ---
 ## Waarom reviews voor elektriciens onmisbaar zijn
 
-Een stroomstoring is stressvol. De klant zoekt een elektricien, ziet drie opties en kiest degene met de meeste en beste reviews. Bij spoedwerk is er geen tijd voor vergelijken — reviews zijn het snelste vertrouwenssignaal.
+Een stroomstoring is stressvol. De klant zoekt een elektricien, ziet drie opties en kiest degene met de meeste en beste reviews. Bij spoedwerk is er geen tijd voor vergelijken, dus reviews zijn het snelste vertrouwenssignaal.
 
 Elektriciens met 20+ reviews en een 4,5+ score krijgen aantoonbaar meer spoedoproepen dan collega's met weinig of geen reviews. Het is de digitale versie van een aanbeveling van de buurman.
 
@@ -17,7 +17,7 @@ Elektriciens met 20+ reviews en een 4,5+ score krijgen aantoonbaar meer spoedopr
 
 Het perfecte moment is direct na een succesvol afgeronde klus:
 
-- **Spoedklussen:** De klant is opgelucht — de stroom doet het weer. Stuur meteen een WhatsApp.
+- **Spoedklussen:** De klant is opgelucht: de stroom doet het weer. Stuur meteen een WhatsApp.
 - **Installaties:** De klant bewondert de nieuwe schakelaar of het slimme systeem. Vraag het terwijl het enthousiasme vers is.
 - **Controles/keuringen:** De klant krijgt een goedkeuring. Positief moment = positieve review.
 
@@ -38,7 +38,7 @@ Systemen zoals die van [ElektroAI](/) bieden dit standaard. Eén keer instellen 
 
 ## Reageer professioneel op elke review
 
-Reageer altijd — ook op vijfsterrenreviews. Het toont betrokkenheid en Google waardeert het.
+Reageer altijd, ook op vijfsterrenreviews. Het toont betrokkenheid en Google waardeert het.
 
 Bij negatieve reviews over spoedwerk: erken de stress van de situatie, leg uit wat je hebt gedaan en bied altijd een oplossing. Potentiële klanten lezen je reactie en beoordelen je professionaliteit.
 
@@ -60,10 +60,10 @@ Reageer eerst professioneel en bied een oplossing. Als de review aantoonbaar val
 
 ### Tellen Werkspot-reviews mee voor Google?
 
-Nee. Werkspot-reviews verschijnen alleen op Werkspot. [Google Reviews](/blog/meer-google-reviews-als-elektricien) verschijnen in Google Maps en Search — dat is waar de meeste klanten zoeken.
+Nee. Werkspot-reviews verschijnen alleen op Werkspot. [Google Reviews](/blog/meer-google-reviews-als-elektricien) verschijnen in Google Maps en Search, en dat is waar de meeste klanten zoeken.
 
 ## Conclusie
 
 Een consistente review strategie maakt het verschil tussen een telefoon die rinkelt en een stille agenda. Automatiseer het proces, reageer op alles en gebruik je reviews als marketingtool.
 
-Benieuwd hoe ElektroAI je reviews automatisch verzamelt? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij lost storingen op.
+Benieuwd hoe ElektroAI je reviews automatisch verzamelt? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het. Jij lost storingen op.

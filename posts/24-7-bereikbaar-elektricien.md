@@ -1,7 +1,7 @@
 ---
 title: "24/7 bereikbaar als elektricien: zo vang je spoedklussen op zonder stress"
 seoTitle: "24/7 bereikbaar als elektricien"
-excerpt: "Spoedklussen zijn het meest lucratief voor elektriciens — maar ook het moeilijkst op te vangen. Zo regel je 24/7 bereikbaarheid."
+excerpt: "Spoedklussen zijn het meest lucratief voor elektriciens, maar ook het moeilijkst op te vangen. Zo regel je 24/7 bereikbaarheid."
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/24-7-bereikbaar-elektricien.png"
@@ -10,7 +10,7 @@ cluster: "voice-ai"
 ---
 ## Het dilemma van elke elektricien
 
-Je bent bezig met een meterkastvernieuwing. Je telefoon gaat — een bedrijf met een stroomstoring. Je kunt niet opnemen want je werkt met onder spanning staande delen. Tegen de tijd dat je terugbelt, is het probleem al door een ander opgelost.
+Je bent bezig met een meterkastvernieuwing. Je telefoon gaat: een bedrijf met een stroomstoring. Je kunt niet opnemen want je werkt met onder spanning staande delen. Tegen de tijd dat je terugbelt, is het probleem al door een ander opgelost.
 
 Voor elektriciens is dit een dagelijks dilemma. Spoedklussen (storingen, kortsluiting, uitval) zijn het meest lucratief, maar komen altijd op het slechtst mogelijke moment.
 
@@ -34,14 +34,14 @@ Wanneer jij niet kunt opnemen, vangt AI-telefonie de oproep op. Het systeem:
 - Beoordeelt de prioriteit
 - Stuurt jou een samenvatting via WhatsApp
 
-Je belt terug zodra je je handen vrij hebt — met alle informatie al op je scherm.
+Je belt terug zodra je je handen vrij hebt, met alle informatie al op je scherm.
 
 ### 2. Duidelijke communicatie over beschikbaarheid
 
 Zorg dat je klanten weten wat ze kunnen verwachten:
 - **Spoedlijn** met aparte reactietijden (4-8 uur buiten kantooruren)
 - **Spoedtarief** duidelijk gecommuniceerd op je website
-- **Servicegebied** helder afgebakend — beter snel in een klein gebied dan langzaam overal
+- **Servicegebied** helder afgebakend: beter snel in een klein gebied dan langzaam overal
 
 ### 3. Slim plannen met spoedblokken
 
@@ -69,7 +69,7 @@ De elektricien die een bedrijf redt bij een stroomstoring, wordt de vaste elektr
 
 ## Conclusie
 
-Als elektricien is je vakmanschap je fundament — maar bereikbaarheid bepaalt je inkomen. De elektricien die altijd bereikbaar is, wint de spoedklussen én bouwt het grootste klantenbestand.
+Als elektricien is je vakmanschap je fundament, maar bereikbaarheid bepaalt je inkomen. De elektricien die altijd bereikbaar is, wint de spoedklussen én bouwt het grootste klantenbestand.
 
 Met [ElektroAI](/) ben je 24/7 bereikbaar zonder zelf aan de telefoon gekluisterd te zitten. Onze managed service kost slechts 15 minuten van je tijd per maand.
 

@@ -1,7 +1,7 @@
 ---
 title: "AI voor elektriciens: efficiënter werken en meer omzet draaien"
 seoTitle: "AI voor elektriciens"
-excerpt: "Hoe AI elektriciensbedrijven helpt bij storingsplanning, offertes en klantcommunicatie — voor meer omzet met minder rompslomp."
+excerpt: "Hoe AI elektriciensbedrijven helpt bij storingsplanning, offertes en klantcommunicatie, voor meer omzet met minder rompslomp."
 date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-voor-elektriciens-efficenter-werken-meer-omzet.png"
@@ -9,24 +9,24 @@ tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 
-Elektriciens zijn drukker dan ooit. De vraag naar elektrische installaties, laadpalen en zonnepanelen groeit — maar de administratieve druk groeit mee. Werkbonnen, offertes, inspecties, keuringsrapporten: het kost dagelijks uren. AI neemt dat werk over.
+Elektriciens zijn drukker dan ooit. De vraag naar elektrische installaties, laadpalen en zonnepanelen groeit, maar de administratieve druk groeit mee. Werkbonnen, offertes, inspecties, keuringsrapporten: het kost dagelijks uren. AI neemt dat werk over.
 
 ## Wat AI doet voor elektriciensbedrijven
 
 - **Storingsplanning**: AI prioriteert spoedmeldingen automatisch en plant ze in op basis van locatie en beschikbaarheid van monteurs.
 - **Offerte generatie**: Vul de installatiebeschrijving in, en AI stelt een offerte op inclusief materiaalspecificaties en NEN-normverwijzingen.
 - **Keuringsrapporten**: AI-tools verwerken meetdata en genereren automatisch keuringsrapporten in het juiste format.
-- **Klantcommunicatie**: Automatische statusupdates houden klanten op de hoogte — van bevestiging tot oplevering.
+- **Klantcommunicatie**: Automatische statusupdates houden klanten op de hoogte, van bevestiging tot oplevering.
 
 ## Sneller reageren op storingen
 
-Storingen wachten niet. Een bedrijf dat om 23:00 uur een storing meldt, wil niet tot de volgende ochtend wachten. Met een AI-gestuurde antwoorddienst neemt een virtuele assistent de melding aan, stelt prioriteit vast en plant de monteur in — ook buiten kantooruren.
+Storingen wachten niet. Een bedrijf dat om 23:00 uur een storing meldt, wil niet tot de volgende ochtend wachten. Met een AI-gestuurde antwoorddienst neemt een virtuele assistent de melding aan, stelt prioriteit vast en plant de monteur in, ook buiten kantooruren.
 
 Elektriciensbedrijven die dit inzetten, zien fors minder gemiste spoedmeldingen en hogere klanttevredenheid.
 
 ## Offertes voor laadpalen en zonnepanelen versnellen
 
-De markt voor laadpalen en zonnepanelen groeit razendsnel. Klanten vragen meerdere offertes aan — wie het snelst reageert wint vaker. Met AI-offertetools reageer je binnen het uur op elke aanvraag, ook voor complexe installaties.
+De markt voor laadpalen en zonnepanelen groeit razendsnel. Klanten vragen meerdere offertes aan, en wie het snelst reageert wint vaker. Met AI-offertetools reageer je binnen het uur op elke aanvraag, ook voor complexe installaties.
 
 De tool haalt materiaalkosten automatisch op, verwijst naar de juiste NEN-normen en genereert een professionele PDF. Jij controleert, verstuurt, en sluit meer opdrachten.
 

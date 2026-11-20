@@ -46,7 +46,7 @@ Hier maken de meeste elektriciens een fout: ze sturen een mailtje "Wij doen E-ke
 Wat wel werkt:
 
 - **Persoonlijk binnenstappen tijdens openhuis.** De makelaar staat er toch. Je bent vijf minuten weg, je weet of er klik is.
-- **Een waardevolle aanleiding.** Niet "ik bied keuringen" maar "Ik zag dat jullie veel koophuizen rond Voorburg verkopen — ik kan jullie kopers binnen 48 uur een rapport leveren waar de hypotheekadviseur op kan rekenen. Een keer een testklus om te zien of het past?"
+- **Een waardevolle aanleiding.** Niet "ik bied keuringen" maar "Ik zag dat jullie veel koophuizen rond Voorburg verkopen. Ik kan jullie kopers binnen 48 uur een rapport leveren waar de hypotheekadviseur op kan rekenen. Een keer een testklus om te zien of het past?"
 - **Eerste klus tegen kostprijs.** Bied de eerste E-keuring aan voor €99 in plaats van €250. Niet als korting, maar als kennismaking. De makelaar koopt geen keuring, hij koopt het gevoel van vertrouwen.
 - **Snelle rapport-levering.** Standaard binnen 48 uur na bezoek, in een professioneel sjabloon dat de makelaar aan zijn klant kan doorsturen. Dat is het verschil dat onthouden wordt.
 
@@ -80,7 +80,7 @@ Eén goede klus is niet genoeg. Wat het netwerk in stand houdt:
 
 ## Wat dit oplevert: een rekenvoorbeeld
 
-Stel: je bouwt in zes maanden een actief netwerk op van vier makelaars. Elk levert gemiddeld vier woningoverdrachten per maand waar een E-keuring bij hoort. Niet bij elke transactie wordt jouw keuring afgenomen — reken op een conversie van 50%. Resultaat:
+Stel: je bouwt in zes maanden een actief netwerk op van vier makelaars. Elk levert gemiddeld vier woningoverdrachten per maand waar een E-keuring bij hoort. Niet bij elke transactie wordt jouw keuring afgenomen, dus reken op een conversie van 50%. Resultaat:
 
 | | Per maand |
 |---|---|

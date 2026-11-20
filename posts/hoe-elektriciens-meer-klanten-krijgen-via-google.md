@@ -1,6 +1,6 @@
 ---
 title: "Hoe elektriciens meer klanten krijgen via Google"
-excerpt: "Als elektricien word je gevonden op vertrouwen en localiteit. Dit is hoe je je online aanwezigheid opbouwt zodat klanten jou bellen — en niet de concurrent."
+excerpt: "Als elektricien word je gevonden op vertrouwen en localiteit. Dit is hoe je je online aanwezigheid opbouwt zodat klanten jou bellen, en niet de concurrent."
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-elektriciens-meer-klanten-krijgen-via-google.png"
@@ -9,9 +9,9 @@ cluster: "vindbaarheid"
 ---
 ## Lokaal gevonden worden als elektricien: zo werkt het
 
-Als iemand een elektricien nodig heeft — een storing, nieuwe groepenkast, EV-laadpaal — pakt hij zijn telefoon en zoekt lokaal. Wie bovenaan staat in Google Maps, krijgt het telefoontje. Wie op pagina twee staat, bestaat niet voor die klant.
+Als iemand een elektricien nodig heeft (een storing, nieuwe groepenkast, EV-laadpaal), pakt hij zijn telefoon en zoekt lokaal. Wie bovenaan staat in Google Maps, krijgt het telefoontje. Wie op pagina twee staat, bestaat niet voor die klant.
 
-De meeste elektriciens vertrouwen nog op via-via en vaste klanten. Dat werkt, maar het groeit langzaam. Met een sterke online aanwezigheid trek je structureel nieuwe klanten aan — mensen die je nooit eerder hebben ontmoet maar je vinden op het moment dat ze je nodig hebben.
+De meeste elektriciens vertrouwen nog op via-via en vaste klanten. Dat werkt, maar het groeit langzaam. Met een sterke online aanwezigheid trek je structureel nieuwe klanten aan: mensen die je nooit eerder hebben ontmoet maar je vinden op het moment dat ze je nodig hebben.
 
 ---
 
@@ -32,7 +32,7 @@ Reageer ook op elke review. Google beloont actieve profielen met een hogere posi
 
 ## Stap 2: Meer reviews = hogere positie + meer vertrouwen
 
-Elektra is een vak waarbij klanten veel [vertrouwen](/reviews) stellen in de vakman. Reviews zijn daarin het bewijs. Een elektricien met 50 reviews en 4,9 sterren wordt sneller gebeld dan iemand met 8 reviews — ook al is die laatste net zo goed.
+Elektra is een vak waarbij klanten veel [vertrouwen](/reviews) stellen in de vakman. Reviews zijn daarin het bewijs. Een elektricien met 50 reviews en 4,9 sterren wordt sneller gebeld dan iemand met 8 reviews, ook al is die laatste net zo goed.
 
 Vraag na elke klus om een review. Automatisch, via WhatsApp:
 
@@ -44,9 +44,9 @@ Met automatisering gaat dit volledig vanzelf, elke keer.
 
 ## Stap 3: Wees de eerste die belt bij een storing
 
-Storingen en spoedklussen zijn voor elektriciens de meest waardevolle aanvragen — hoge urgentie, weinig prijsdiscussie. Maar iemand met een storing belt snel meerdere nummers. Wie het eerst terugbelt, krijgt de klus.
+Storingen en spoedklussen zijn voor elektriciens de meest waardevolle aanvragen: hoge urgentie, weinig prijsdiscussie. Maar iemand met een storing belt snel meerdere nummers. Wie het eerst terugbelt, krijgt de klus.
 
-Een AI Voice Agent neemt buiten werktijd je telefoon op, vraagt naar de situatie en het contactnummer, en stuurt jou een WhatsApp-melding. Je belt de lead terug zodra het schikt — en staat als eerste in contact.
+Een AI Voice Agent neemt buiten werktijd je telefoon op, vraagt naar de situatie en het contactnummer, en stuurt jou een WhatsApp-melding. Je belt de lead terug zodra het schikt, en staat als eerste in contact.
 
 ---
 
@@ -60,7 +60,7 @@ Eén homepagina met "we doen alles" werkt niet voor SEO. Maak aparte pagina's:
 - Domotica installeren [stad]
 - Storingen en spoedservice [stad]
 
-Elke pagina rankt op zijn eigen zoekwoord. Iemand die zoekt op "laadpaal installeren Amsterdam" vindt jou op die specifieke pagina — niet op een generieke homepage.
+Elke pagina rankt op zijn eigen zoekwoord. Iemand die zoekt op "laadpaal installeren Amsterdam" vindt jou op die specifieke pagina, niet op een generieke homepage.
 
 ---
 
@@ -82,7 +82,7 @@ Wie jouw artikel leest en begrijpt dat jij weet waar je over praat, belt jou als
 Google kijkt naar hoeveel plekken je naam consistent vermeld staat. Dat is een signaal van betrouwbaarheid en localiteit.
 
 - Meld je aan op Yelp, Mijnbedrijfspagina.nl, Thuiswinkel.org
-- Branchevereniging UNETO-VNI heeft een ledenlijst — die telt mee
+- Branchevereniging UNETO-VNI heeft een ledenlijst, en die telt mee
 - Lokale bedrijvengidsen en buurtapps
 - Zorg dat naam, adres en telefoonnummer overal identiek zijn
 

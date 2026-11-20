@@ -8,7 +8,7 @@ tags: ["Offertes", "Pre-kwalificatie"]
 cluster: "automatisering"
 ---
 
-Een gemiddelde MKB-elektricien reist per week tussen de 6 en 12 keer naar een potentiële klant voor een bezichtiging of offertebezoek. Van die bezoeken eindigt minder dan de helft in een opdracht. Het restant is onrendabele tijd: rijden, ter plekke opnemen, terugrijden, offerte maken, wachten, niets horen. Als de reiskosten en de uren worden opgeteld, verliest een doorsnee elektricien hiermee 8 tot 14 uur per week aan bezoeken die geen omzet worden. Pre-kwalificatie van aanvragen via website en chat lost dit structureel op — niet door meer bezoeken te boeken, maar door de verkeerde bezoeken eruit te filteren.
+Een gemiddelde MKB-elektricien reist per week tussen de 6 en 12 keer naar een potentiële klant voor een bezichtiging of offertebezoek. Van die bezoeken eindigt minder dan de helft in een opdracht. Het restant is onrendabele tijd: rijden, ter plekke opnemen, terugrijden, offerte maken, wachten, niets horen. Als de reiskosten en de uren worden opgeteld, verliest een doorsnee elektricien hiermee 8 tot 14 uur per week aan bezoeken die geen omzet worden. Pre-kwalificatie van aanvragen via website en chat lost dit structureel op: niet door meer bezoeken te boeken, maar door de verkeerde bezoeken eruit te filteren.
 
 Dit artikel legt uit wat pre-kwalificatie voor elektriciens concreet inhoudt, welke vragen de klant beantwoordt voordat jij in je bus stapt, hoe foto-upload de rol van de bezichtiging voor een groot deel vervangt, en wat het oplevert aan rendement per offertebezoek.
 
@@ -29,13 +29,13 @@ Al deze redenen zijn vóór je in de bus stapt te voorspellen, als je de juiste 
 Voor elke klustype horen andere vervolgvragen, maar dit is het minimum per aanvraag:
 
 - **Exacte adres inclusief postcode.** Automatisch wordt dan duidelijk of het binnen je werkgebied valt en wat de reistijd is.
-- **Foto van de huidige situatie.** Voor laadpaal-installatie, groepenkast, wandcontactdoos-plaatsing — een foto vertelt je het meeste van wat je anders ter plekke moet opnemen.
+- **Foto van de huidige situatie.** Voor laadpaal-installatie, groepenkast, wandcontactdoos-plaatsing: een foto vertelt je het meeste van wat je anders ter plekke moet opnemen.
 - **Exacte omschrijving van de klus** in plaats van een vaag "ik wil iets met elektra". Specificaties zoals type contactdoos, gewenste locatie, eventuele bestaande voorzieningen.
 - **Realistische kostenverwachting van de klant.** "Hoeveel denkt u ongeveer kwijt te zijn?" filtert de prijsshoppers eruit die een bezichtiging willen om kunstmatig laag aan te dingen.
 - **Gewenste startdatum.** Als ze "pas na de zomer" willen en jij volledig bezet bent voor het eerste half jaar, is een offertebezoek nu waardeverlies.
 - **Of ze al andere elektriciens hebben gecontact.** Eerlijk antwoord geeft je context. Meestal zijn dit de serieuze klussen waar je wél tijd in wilt investeren.
 
-Deze vijf of zes datapunten verzamel je niet per telefoon — dat is te veel gedoe voor klant en jou. Je verzamelt ze via een [AI chatbot op je website](/chatbot) die de flow automatisch uitvraagt en de antwoorden op WhatsApp bij jou aflevert.
+Deze vijf of zes datapunten verzamel je niet per telefoon, want dat is te veel gedoe voor klant en jou. Je verzamelt ze via een [AI chatbot op je website](/chatbot) die de flow automatisch uitvraagt en de antwoorden op WhatsApp bij jou aflevert.
 
 ## Hoe foto-intake de helft van bezichtiging vervangt
 
