@@ -7,23 +7,23 @@ image: "/images/blog/werkspot-vs-elektroai-wat-is-slimmer.png"
 tags: ["Tools", "Vergelijking"]
 cluster: "automatisering"
 ---
-Veel elektriciens gebruiken Werkspot om aan klussen te komen. Het werkt — je betaalt per lead, reageert op aanvragen en hoopt dat de klant jou kiest. Maar is dat de slimste manier om je bedrijf te laten groeien?
+Veel elektriciens gebruiken Werkspot om aan klussen te komen. Het werkt: je betaalt per lead, reageert op aanvragen en hoopt dat de klant jou kiest. Maar is dat de slimste manier om je bedrijf te laten groeien?
 
 ## Wat is Werkspot?
 
-Werkspot is een marktplaats die particulieren koppelt aan vaklui. Klanten plaatsen een klusaanvraag, meerdere vaklui reageren, de klant kiest. Je betaalt credits om te reageren — ongeacht of je de klus krijgt.
+Werkspot is een marktplaats die particulieren koppelt aan vaklui. Klanten plaatsen een klusaanvraag, meerdere vaklui reageren, de klant kiest. Je betaalt credits om te reageren, ongeacht of je de klus krijgt.
 
 ## Wat is ElektroAI?
 
 ElektroAI is een 20-in-1 AI-platform voor elektriciensbedrijven. In plaats van leads kopen op een marktplaats, bouw je je eigen klantenkanaal:
 
-- **AI-telefoniste** — neemt storingen en aanvragen 24/7 aan
-- **Google Reviews** — automatisch reviewverzoek na elke klus
-- **SEO en AI-vindbaarheid** — klanten vinden jou direct via Google
-- **Social media** — AI genereert en plant content
-- **WhatsApp-automatisering** — bevestigingen en statusupdates
-- **Chatbot** — leads via je website
-- **SMS-campagnes** — voor onderhoudsbeurten en keuringen
+- **AI-telefoniste**: neemt storingen en aanvragen 24/7 aan
+- **Google Reviews**: automatisch reviewverzoek na elke klus
+- **SEO en AI-vindbaarheid**: klanten vinden jou direct via Google
+- **Social media**: AI genereert en plant content
+- **WhatsApp-automatisering**: bevestigingen en statusupdates
+- **Chatbot**: leads via je website
+- **SMS-campagnes**: voor onderhoudsbeurten en keuringen
 
 ## Het verschil in kosten
 
@@ -52,6 +52,6 @@ Werkspot levert leads, ElektroAI bouwt je bedrijf. Voor elektriciens die eigen k
 
 ## Managed service: jij focust op installaties
 
-Met onze managed service hoef je zelf niets te doen. We houden alles draaiend — van je SEO en social media tot je reviews en AI-vindbaarheid. Je hebt alleen een maandelijks gesprek van 15 minuten nodig om op de hoogte te blijven. De rest doen wij.
+Met onze managed service hoef je zelf niets te doen. We houden alles draaiend, van je SEO en social media tot je reviews en AI-vindbaarheid. Je hebt alleen een maandelijks gesprek van 15 minuten nodig om op de hoogte te blijven. De rest doen wij.
 
 Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://www.studiolee.nl) om te ontdekken wat er mogelijk is.

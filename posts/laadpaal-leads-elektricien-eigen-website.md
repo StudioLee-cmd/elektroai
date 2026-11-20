@@ -28,13 +28,13 @@ Vergelijk dat met je eigen leadmachine. Een goed gebouwde landingspagina met [lo
 
 Niet elke laadpaal-zoekopdracht is gelijk waardevol. Focus je inspanning op de queries met hoge intentie en lokale relevantie:
 
-- "laadpaal installateur [stad]" — hoogste commerciële intentie.
-- "laadpaal installeren kosten 2026" — informatief maar leidt vaak tot directe aanvraag.
-- "3-fase laadpaal thuis installeren" — specifieke technische zoeker, vaak hoge waarde.
-- "laadpaal subsidie [provincie]" — combineert info-intent met aankoopvoornemen.
-- "split-billing laadpaal zakelijk" — B2B-segment, hogere marge per klus.
+- "laadpaal installateur [stad]": hoogste commerciële intentie.
+- "laadpaal installeren kosten 2026": informatief maar leidt vaak tot directe aanvraag.
+- "3-fase laadpaal thuis installeren": specifieke technische zoeker, vaak hoge waarde.
+- "laadpaal subsidie [provincie]": combineert info-intent met aankoopvoornemen.
+- "split-billing laadpaal zakelijk": B2B-segment, hogere marge per klus.
 
-Maak voor elk van deze queries een aparte landingspagina of uitgebreide informatiepagina. Niet alles op één pagina proppen — Google rangschikt liever vijf gerichte pagina's dan één lange.
+Maak voor elk van deze queries een aparte landingspagina of uitgebreide informatiepagina. Niet alles op één pagina proppen, want Google rangschikt liever vijf gerichte pagina's dan één lange.
 
 ## Je Google-bedrijfsprofiel als laadpaal-specialist instellen
 
@@ -46,7 +46,7 @@ Voordat je tijd in landingspagina's stopt, optimaliseer je [Google Bedrijfsprofi
 - Publiceer wekelijks een Google Post over een afgeronde laadpaal-klus, een subsidie-update of een nieuwe service.
 - Verzamel actief reviews die specifiek het woord "laadpaal" of "EV" bevatten. Google waardeert keyword-relevante reviews.
 
-Vraag in je [gratis scan van je huidige Google-positie](/gratis-scan) naar een audit van je Bedrijfsprofiel — dit is meestal het laaghangende fruit waar binnen 30 dagen meer aanvragen uit komen.
+Vraag in je [gratis scan van je huidige Google-positie](/gratis-scan) naar een audit van je Bedrijfsprofiel. Dit is meestal het laaghangende fruit waar binnen 30 dagen meer aanvragen uit komen.
 
 ## De landingspagina die laadpaal-aanvragen omzet in geboekte klussen
 
@@ -62,7 +62,7 @@ Een landingspagina voor laadpalen is geen homepage met een knop. Het is een dedi
 - Een FAQ-sectie met de 8 meest gestelde vragen.
 - Eén grote, visueel duidelijke CTA om een offerte aan te vragen.
 
-Een kleine investering: laat zo'n [conversiegerichte laadpaal-landingspagina laten bouwen](/gratis-website) als je dit zelf niet zo snel wilt opzetten — het verdient zich binnen één extra geboekte klus terug.
+Een kleine investering: laat zo'n [conversiegerichte laadpaal-landingspagina laten bouwen](/gratis-website) als je dit zelf niet zo snel wilt opzetten. Het verdient zich binnen één extra geboekte klus terug.
 
 ## Lokale content: per gemeente, per laadpaal-type, per situatie
 
@@ -72,7 +72,7 @@ Eén landingspagina is een goede start, maar de echte volumegroei komt uit lokal
 - "/laadpaal-installateur-veldhoven"
 - "/laadpaal-installateur-best"
 
-Elke pagina krijgt unieke lokale content: noem buurten waar je werkt, lokale subsidies, het aantal laadpalen per duizend inwoners in die gemeente, een korte case study van een lokale klus. Niet copy-pasten met alleen de stadsnaam vervangen — dat ziet Google als duplicate content. Per gemeente kost dit 2 tot 3 uur werk, maar elke pagina kan 1 tot 4 aanvragen per maand opleveren zodra hij rankt.
+Elke pagina krijgt unieke lokale content: noem buurten waar je werkt, lokale subsidies, het aantal laadpalen per duizend inwoners in die gemeente, een korte case study van een lokale klus. Niet copy-pasten met alleen de stadsnaam vervangen, want dat ziet Google als duplicate content. Per gemeente kost dit 2 tot 3 uur werk, maar elke pagina kan 1 tot 4 aanvragen per maand opleveren zodra hij rankt.
 
 Naast geografische variatie, maak je ook situationele pagina's: "laadpaal aan vereniging van eigenaren", "laadpaal voor leaseauto", "laadpaal in monumentaal pand", "laadpaal met zonnepanelen". Elke pagina is een vangnet voor een specifieke zoekvraag.
 

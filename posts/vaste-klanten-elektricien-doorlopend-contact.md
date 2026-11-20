@@ -23,7 +23,7 @@ Bovendien zijn tevreden vaste klanten je beste reclame. Ze bevelen je aan bij bu
 
 Elektrische installaties moeten regelmatig gecontroleerd worden. De NEN 1010 schrijft voor dat installaties in woningen elke 5-10 jaar gekeurd moeten worden. Zakelijke panden hebben vaak strengere eisen.
 
-Bied je klanten proactief een periodieke keuring aan. Stuur een herinnering wanneer hun installatie aan inspectie toe is. Dit is geen opdringerige verkoop — het is een waardevolle service die veiligheid waarborgt. Klanten waarderen het als je meedenkt over hun veiligheid.
+Bied je klanten proactief een periodieke keuring aan. Stuur een herinnering wanneer hun installatie aan inspectie toe is. Dit is geen opdringerige verkoop, maar een waardevolle service die veiligheid waarborgt. Klanten waarderen het als je meedenkt over hun veiligheid.
 
 Maak het concreet: "Uw meterkast is in 2019 geinstalleerd. Wij adviseren een controle in 2026. Zal ik een afspraak inplannen?" Je kennis van [certificeringen en keuringsnormen](/blog/nen-1010-certificering-elektricien-online) versterkt je positie als betrouwbare partner.
 
@@ -39,7 +39,7 @@ Zakelijke klanten zijn hier bijzonder ontvankelijk voor. Kantoren, winkels en ho
 
 Na elke klus is het moment om de relatie te bestendigen. Stuur een bedankbericht via WhatsApp, vraag of alles naar tevredenheid is en vraag om een review. Dit kost je twee minuten maar bouwt enorm veel goodwill op.
 
-Stuur klanten een keer per kwartaal een kort bericht met een seizoenstip. "De wintermaanden komen eraan — laat je aardlekschakelaar controleren" of "Zomertijd: controleer de buitenverlichting na de donkere maanden." Deze berichten houden je top-of-mind zonder verkoopdruk.
+Stuur klanten een keer per kwartaal een kort bericht met een seizoenstip. "De wintermaanden komen eraan: laat je aardlekschakelaar controleren" of "Zomertijd: controleer de buitenverlichting na de donkere maanden." Deze berichten houden je top-of-mind zonder verkoopdruk.
 
 Gebruik een simpele klantenlijst (een spreadsheet is genoeg) om bij te houden wanneer je welke klant voor het laatst hebt geholpen en wanneer een keuring of onderhoud gepland staat.
 
@@ -47,7 +47,7 @@ Gebruik een simpele klantenlijst (een spreadsheet is genoeg) om bij te houden wa
 
 De energietransitie biedt elektriciens een unieke kans op terugkerende opdrachten. Klanten die vandaag een laadpaal installeren, willen morgen zonnepanelen en overmorgen een thuisbatterij. Door jezelf te positioneren als verduurzamingspartner, word je de vaste elektricien voor elke volgende stap.
 
-Adviseer klanten proactief over verduurzamingsmogelijkheden. Na een laadpaalinstallatie: "Heeft u al nagedacht over zonnepanelen? Met uw huidige energieverbruik verdient u de investering in 6 jaar terug." Dit is geen harde verkoop — het is relevant advies.
+Adviseer klanten proactief over verduurzamingsmogelijkheden. Na een laadpaalinstallatie: "Heeft u al nagedacht over zonnepanelen? Met uw huidige energieverbruik verdient u de investering in 6 jaar terug." Dit is geen harde verkoop, maar relevant advies.
 
 Combineer dit met kennis van subsidies (ISDE, gemeentelijke regelingen) en je wordt onmisbaar. Een professionele [offerte](/blog/offertes-elektricien-snelheid-duidelijkheid) met subsidie-informatie maakt de beslissing voor de klant gemakkelijker.
 

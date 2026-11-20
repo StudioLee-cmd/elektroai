@@ -29,7 +29,7 @@ Drie problemen, drie oplossingen. En alle drie kun je automatiseren.
 
 Hier is een sequentie die werkt voor elektriciens met 80+ procent succesratio:
 
-### Bij het inplannen — directe bevestiging
+### Bij het inplannen: directe bevestiging
 
 Zodra je de afspraak in je systeem zet, ontvangt de klant binnen één minuut een automatisch bericht via SMS of WhatsApp:
 
@@ -37,7 +37,7 @@ Zodra je de afspraak in je systeem zet, ontvangt de klant binnen één minuut ee
 
 Dit doet drie dingen: het bevestigt voor de klant dat zijn aanvraag is verwerkt, het zet de afspraak op zijn telefoon, en het geeft hem een laagdrempelige optie om te verzetten.
 
-### 48 uur vooraf — eerste herinnering
+### 48 uur vooraf: eerste herinnering
 
 Twee dagen voor de afspraak komt er een tweede bericht:
 
@@ -45,7 +45,7 @@ Twee dagen voor de afspraak komt er een tweede bericht:
 
 Dit is het moment waarop mensen die hun planning hebben veranderd nog kunnen reageren. Gebruik dit als kans, niet als probleem: een verzetting is altijd beter dan een no-show.
 
-### 24 uur vooraf — laatste herinnering
+### 24 uur vooraf: laatste herinnering
 
 Een dag van tevoren komt het laatste bericht:
 
@@ -55,7 +55,7 @@ Naast de herinnering geef je hier ook praktische instructies. Dat verlaagt de ka
 
 ![Multimeter en kabels op een werkbank](/images/blog/elektricien-afspraak-bevestiging-no-shows-2.jpg)
 
-## SMS, WhatsApp of e-mail — wat werkt?
+## SMS, WhatsApp of e-mail: wat werkt?
 
 Het korte antwoord: **WhatsApp en SMS werken het beste, e-mail werkt het slechtst**.
 
@@ -65,7 +65,7 @@ Het korte antwoord: **WhatsApp en SMS werken het beste, e-mail werkt het slechts
 
 Mijn advies: gebruik WhatsApp Business als hoofdkanaal en SMS als backup voor klanten zonder WhatsApp. Laat e-mail alleen voor de offerte en de factuur. Voor afspraakherinneringen is e-mail te traag.
 
-## Een no-show fee — werkt het?
+## Een no-show fee: werkt het?
 
 Sommige elektriciens rekenen 50 of 100 euro voor no-shows. Werkt het?
 
@@ -85,13 +85,13 @@ Naast de herinnering kun je in het laatste bericht ook praktische instructies me
 
 Dit voorkomt dat je 30 minuten kwijt bent aan voorbereidingen die de klant zelf had kunnen doen. En het laat zien dat je georganiseerd bent.
 
-## Automatisering — hoe je dit zonder werk regelt
+## Automatisering: hoe je dit zonder werk regelt
 
 Het beste systeem is er een dat je niet zelf hoeft te bedienen. Drie opties:
 
 1. **WhatsApp Business API** met automatische triggers vanuit je planningsoftware. Werkt prima maar vereist setup.
 2. **Een [chatbot](/chatbot) op je website** die niet alleen aanvragen verwerkt, maar ook bevestigingen en herinneringen automatisch verstuurt.
-3. **Een afsprakensysteem zoals Calendly of Cal.com** dat automatisch bevestigingen en herinneringen stuurt — werkt voor kleine bedrijven.
+3. **Een afsprakensysteem zoals Calendly of Cal.com** dat automatisch bevestigingen en herinneringen stuurt. Dit werkt voor kleine bedrijven.
 
 Wat je kiest hangt af van je grootte. Voor één elektricien werkt een tool zoals Cal.com prima. Voor een bedrijf met meerdere monteurs en complexere planning is een echte chatbot of CRM met automatisering nodig.
 
@@ -104,17 +104,17 @@ Reken even mee:
 - 48 × 200 = 9.600 euro per jaar extra omzet
 - Plus: de tijd die je niet meer aan herinneringen kwijt bent (ongeveer 4 uur per maand)
 
-Voor minder dan 100 euro per maand setup heb je een systeem dat je 9.600 euro per jaar oplevert — een veelvoud van wat het kost. Geen advertentiekanaal komt daar in de buurt.
+Voor minder dan 100 euro per maand setup heb je een systeem dat je 9.600 euro per jaar oplevert, een veelvoud van wat het kost. Geen advertentiekanaal komt daar in de buurt.
 
 ## Wat te doen als het toch een keer misgaat
 
 Een no-show overkomt iedereen, ook met perfecte automatisering. Wat doe je dan?
 
-- **Direct bellen** — soms zit de klant gewoon in het toilet of is even weg
+- **Direct bellen**: soms zit de klant gewoon in het toilet of is even weg
 - **Een berichtje sturen** met "Ik sta voor de deur, ben je er?"
-- **Tien minuten wachten** — daarna doorrijden
+- **Tien minuten wachten**, daarna doorrijden
 - **Nog dezelfde dag een berichtje sturen** met de optie om te verzetten naar een nieuwe datum
-- **Niet boos worden** — een professionele, vriendelijke reactie houdt de relatie goed
+- **Niet boos worden**: een professionele, vriendelijke reactie houdt de relatie goed
 
 Een no-show hoeft geen verloren klant te zijn. Veel klanten verzetten en komen alsnog. Maar dat lukt alleen als je het netjes oppakt.
 

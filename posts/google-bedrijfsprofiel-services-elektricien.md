@@ -21,11 +21,11 @@ Google's algoritme gebruikt het services-veld om te bepalen voor welke specifiek
 
 Voor brede zoekopdrachten ("elektricien Amsterdam") helpt je primaire categorie. Voor smalle zoekopdrachten ("laadpaal Type 2 installateur Utrecht-Oost") doet je services-veld het werk. En juist daar zit de marge: een laadpaal-klus is 600-900 euro, een gewone stopcontact-vervanging is 80 euro.
 
-Voor het bredere ranking-mechanisme zie ons [Google Bedrijfsprofiel als elektricien pillar](/blog/google-bedrijfsprofiel-elektricien) artikel — services is laag 2, na categorie en werkgebied.
+Voor het bredere ranking-mechanisme zie ons [Google Bedrijfsprofiel als elektricien pillar](/blog/google-bedrijfsprofiel-elektricien) artikel: services is laag 2, na categorie en werkgebied.
 
 ## De 12 services die het meeste opleveren voor een elektricien
 
-Onderstaande lijst is gebaseerd op klant-zoekgedrag van Nederlandse elektricien-doelgroepen in 2025-2026. Vul ze allemaal in als ze van toepassing zijn op je bedrijf — gemiddelde 12 services-listings is wat de top-3 in de meeste Nederlandse steden hebben.
+Onderstaande lijst is gebaseerd op klant-zoekgedrag van Nederlandse elektricien-doelgroepen in 2025-2026. Vul ze allemaal in als ze van toepassing zijn op je bedrijf, want gemiddeld 12 services-listings is wat de top-3 in de meeste Nederlandse steden hebben.
 
 **1. Laadpaal-installatie** (Charging station installation)
 Hoog-marge. Wel duidelijk specificeren: enkelfase 11kW, driefase 22kW, met of zonder MID-meter, type 2 vs vaste kabel. Klanten googlen heel specifiek.
@@ -34,13 +34,13 @@ Hoog-marge. Wel duidelijk specificeren: enkelfase 11kW, driefase 22kW, met of zo
 Een van de meest gevraagde klussen voor de oudere woningvoorraad. Zet erbij of je werkt met aardlekschakelaars 30mA, automaten, en of je rekening houdt met de NEN 1010-eis voor nieuwbouw.
 
 **3. Zonnepanelen aansluiting elektrisch werk**
-Niet de panelen zelf — alleen de elektrische aansluiting na plaatsing. Veel solar-bedrijven besteden dat uit aan een NEN 3140 elektricien.
+Niet de panelen zelf, alleen de elektrische aansluiting na plaatsing. Veel solar-bedrijven besteden dat uit aan een NEN 3140 elektricien.
 
 **4. Stroomstoring oplossen / spoedreparatie**
 De spoeddienst-zoekopdracht. Vermeld of je 24/7 werkt en welk werkgebied. Zie ook onze [werkgebied Google Bedrijfsprofiel elektricien](/blog/werkgebied-google-bedrijfsprofiel-elektricien) gids voor hoe je dat juist instelt.
 
 **5. Domotica en slimme installaties**
-KNX, Loxone, Philips Hue, smart sensoren, smart deurbel, slimme thermostaten. Zet de fabrikanten erbij die je daadwerkelijk installeert — Google's algoritme koppelt brand-specifieke zoekopdrachten ("Loxone installateur Utrecht") naar profielen die de naam expliciet lijsten.
+KNX, Loxone, Philips Hue, smart sensoren, smart deurbel, slimme thermostaten. Zet de fabrikanten erbij die je daadwerkelijk installeert, want Google's algoritme koppelt brand-specifieke zoekopdrachten ("Loxone installateur Utrecht") naar profielen die de naam expliciet lijsten.
 
 **6. Verlichting installeren (binnen + buiten)**
 Inbouwspots, LED-strips, hanglampen, tuinverlichting met schemerschakelaar, gevelverlichting met sensor. Specifieke sub-types verhogen je vindbaarheid voor smal-zoekgedrag.
@@ -70,7 +70,7 @@ Per service heb je 300 tekens om de scope te beschrijven. Schrijf concreet, met 
 1. **Begin met wat je doet (werkwoord + object).** "Plaatsen en aansluiten van laadpalen tot 22kW driefase" beats "Wij doen ook laadpaal-installaties indien gewenst".
 2. **Voeg merken of types toe als ze relevant zijn.** "Type 2 stekker, vaste kabel of stopcontact, MID-gecertificeerd" trekt zoekopdrachten met die specifieke termen.
 3. **Vermeld doorlooptijd of prijsindicatie als je dat publiekelijk wilt delen.** "Oplevering binnen 1 werkdag voor standaard installatie, vanaf 800 euro all-in".
-4. **Vermijd vakjargon zonder context.** "Conform NEN 1010 deel 7-722" zegt klanten niets — schrijf "voldoet aan de Nederlandse veiligheidsnormen voor laadpunten".
+4. **Vermijd vakjargon zonder context.** "Conform NEN 1010 deel 7-722" zegt klanten niets. Schrijf "voldoet aan de Nederlandse veiligheidsnormen voor laadpunten".
 
 ![Werkbalie close-up: schroevendraaier set, een tablet face-up met een Google Bedrijfsprofiel services-pagina (geblurde tekst) en een kop koffie op een houten werkbank in een werkplaats, late ochtendzon](/images/blog/google-bedrijfsprofiel-services-elektricien-2.jpg)
 
@@ -84,14 +84,14 @@ In `business.google.com`:
 4. Voor elke eigen service: vul de naam (max 60 tekens) en beschrijving (max 300 tekens) in.
 5. Sla op. Wijzigingen verschijnen meestal binnen 24-72 uur op je profiel.
 
-Standaard-services van Google voor elektriciens zijn beperkt en algemeen ("Lichtinstallatie", "Reparatie"). Voeg jouw specifieke diensten toe als eigen services — dat helpt voor smalle zoekopdrachten meer dan generieke labels.
+Standaard-services van Google voor elektriciens zijn beperkt en algemeen ("Lichtinstallatie", "Reparatie"). Voeg jouw specifieke diensten toe als eigen services, want dat helpt voor smalle zoekopdrachten meer dan generieke labels.
 
 ## Hoe vaak update je je services?
 
 Drie momenten:
 
-- **Na elke seizoenswisseling** (lente, zomer, herfst, winter) — voorjaar piekt op buitenverlichting en laadpalen, zomer op zonnepanelen, herfst op groepenkasten en warmtepompen, winter op storingen en verwarmingsaansluitingen.
-- **Wanneer je een nieuwe certificering haalt** — een vermelding "SCIOS Scope 8" of "Loxone Partner" trekt zakelijk zoekgedrag.
+- **Na elke seizoenswisseling** (lente, zomer, herfst, winter): voorjaar piekt op buitenverlichting en laadpalen, zomer op zonnepanelen, herfst op groepenkasten en warmtepompen, winter op storingen en verwarmingsaansluitingen.
+- **Wanneer je een nieuwe certificering haalt**: een vermelding "SCIOS Scope 8" of "Loxone Partner" trekt zakelijk zoekgedrag.
 - **Bij elke prijswijziging die je publiek wilt delen.**
 
 Hou een eenvoudige spreadsheet bij: wanneer welke service is toegevoegd, of de beschrijving is bijgewerkt, en met welke seizoens-tag.
@@ -106,15 +106,15 @@ Hou een eenvoudige spreadsheet bij: wanneer welke service is toegevoegd, of de b
 
 **4. Beschrijving leeg laten.** De service-naam alleen ranked minder goed dan service-naam plus 200 tekens beschrijving met long-tail zoekwoorden.
 
-**5. Brand-namen vermijden.** "Tesla Wall Connector installateur" is een echte zoekopdracht. Lijst de merken die je daadwerkelijk plaatst — geen merken claimen die je niet kent.
+**5. Brand-namen vermijden.** "Tesla Wall Connector installateur" is een echte zoekopdracht. Lijst de merken die je daadwerkelijk plaatst, en claim geen merken die je niet kent.
 
 Een [gratis ai scan voor elektriciens](/gratis-scan) brengt in 30 minuten in kaart welke 5-10 services je nu nog mist, gebaseerd op zoekvolume in jouw stad.
 
 ## Hoe services-veld samenwerkt met de rest van je profiel
 
-Services alleen brengen je niet in de Local Pack — ze zorgen alleen dat je in aanmerking komt voor smalle zoekopdrachten. De volgorde wordt verder bepaald door:
+Services alleen brengen je niet in de Local Pack. Ze zorgen alleen dat je in aanmerking komt voor smalle zoekopdrachten. De volgorde wordt verder bepaald door:
 
-- **Reviews aantal en gemiddelde score** (mik op 50+ reviews, 4.6+ gemiddeld) — zie [review management voor elektriciens](/reviews)
+- **Reviews aantal en gemiddelde score** (mik op 50+ reviews, 4.6+ gemiddeld): zie [review management voor elektriciens](/reviews)
 - **Profiel-volledigheid** (foto's, openingstijden, posts, bedrijfsomschrijving, kenmerken)
 - **Activiteit** (recent posts, recent beantwoorde reviews)
 - **Website-signalen** (lokale SEO-content die je services bevestigt)
@@ -123,7 +123,7 @@ Voor de bredere [lokale seo voor elektriciens](/seo) hangen al deze lagen aan de
 
 ## Bereikbaarheid voor specifieke services
 
-Voor spoed-services (storingen, lekkages aan elektrische apparatuur) is bereikbaarheid de tweede ranking-factor na services. Een [ai telefonist voor elektriciens](/voice-ai) neemt buiten kantoortijden op en boekt direct intake-vragen voor de specifieke service waar de klant mee belt — dat verhoogt zowel je conversie als de signaal-rating dat je profiel actief is.
+Voor spoed-services (storingen, lekkages aan elektrische apparatuur) is bereikbaarheid de tweede ranking-factor na services. Een [ai telefonist voor elektriciens](/voice-ai) neemt buiten kantoortijden op en boekt direct intake-vragen voor de specifieke service waar de klant mee belt. Dat verhoogt zowel je conversie als de signaal-rating dat je profiel actief is.
 
 ## Veelgestelde vragen
 
@@ -137,7 +137,7 @@ Voor brede zoekopdrachten gelijk. Voor smalle zoekopdrachten ("Loxone installate
 
 ### Worden services-listings automatisch vertaald voor anderstalige zoekers?
 
-Nee. Schrijf in het Nederlands en houd alle tekst in het Nederlands. Voor expat-doelgroepen kun je een tweede profiel of een tweetalige website overwegen — niet via Google Bedrijfsprofiel.
+Nee. Schrijf in het Nederlands en houd alle tekst in het Nederlands. Voor expat-doelgroepen kun je een tweede profiel of een tweetalige website overwegen, maar niet via Google Bedrijfsprofiel.
 
 ### Hoe lang duurt het voor nieuwe services impact hebben op rankings?
 
@@ -145,6 +145,6 @@ Indexering: 24-72 uur. Eerste ranking-effect: 2-4 weken. Volledige nieuwe baseli
 
 ## Aan de slag
 
-Het services-veld invullen kost je 60-90 minuten — 5-7 minuten per service voor een goede beschrijving. De ranking-impact bouwt op over 4-8 weken en blijft daarna jarenlang doorwerken voor de smalle zoekopdrachten waar je marge zit.
+Het services-veld invullen kost je 60-90 minuten: 5-7 minuten per service voor een goede beschrijving. De ranking-impact bouwt op over 4-8 weken en blijft daarna jarenlang doorwerken voor de smalle zoekopdrachten waar je marge zit.
 
 Wil je weten welke services je nu nog mist en welke jouw concurrenten in jouw stad wel hebben? Plan een [gratis ai scan voor elektriciens](/gratis-scan) via [de demo-aanvraag](/demo). Wij doen een live audit op je services-veld plus een concurrentie-vergelijking, en geven een 30-dagenplan.

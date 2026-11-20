@@ -1,7 +1,7 @@
 ---
 title: "Elektricien website laten maken: meer storingsaanvragen via je site"
 seoTitle: "Elektricien website laten maken"
-excerpt: "Een professionele website maakt het verschil voor elektriciens. Van storingsdienst tot groepenkast — zo genereer je meer aanvragen via je eigen site."
+excerpt: "Een professionele website maakt het verschil voor elektriciens. Van storingsdienst tot groepenkast: zo genereer je meer aanvragen via je eigen site."
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elektricien-website-laten-maken.jpg"
@@ -20,11 +20,11 @@ Bij een kortsluiting, stroomuitval of defecte groepenkast pakt iemand zijn telef
 
 ### Werkspot kost je geld per lead
 
-Werkspot rekent €5-€40 per lead, afhankelijk van het type klus. Een eigen website levert leads op voor €0 per stuk na de initiële investering. Bij 10 leads per maand bespaar je al €50-€400 — en dat bedrag groeit naarmate je website beter vindbaar wordt.
+Werkspot rekent €5-€40 per lead, afhankelijk van het type klus. Een eigen website levert leads op voor €0 per stuk na de initiële investering. Bij 10 leads per maand bespaar je al €50-€400, en dat bedrag groeit naarmate je website beter vindbaar wordt.
 
 ### Vertrouwen opbouwen vóór het eerste telefoontje
 
-Een klant belt liever een elektricien met een professionele website, duidelijke diensten en reviews dan een nummer van een Facebook-advertentie. Je website is je visitekaartje — 24/7 beschikbaar.
+Een klant belt liever een elektricien met een professionele website, duidelijke diensten en reviews dan een nummer van een Facebook-advertentie. Je website is je visitekaartje, 24/7 beschikbaar.
 
 ## De 6 must-haves voor een elektricien website
 
@@ -34,15 +34,15 @@ Bij een storing wil niemand een formulier invullen. Je telefoonnummer moet boven
 
 ### 2. Storingsdienst duidelijk vermeld
 
-Als je 24/7 of buiten kantooruren bereikbaar bent, maak dit prominent zichtbaar. Dit is je grootste concurrentievoordeel — de meeste elektriciens zijn alleen tijdens werkdagen bereikbaar.
+Als je 24/7 of buiten kantooruren bereikbaar bent, maak dit prominent zichtbaar. Dit is je grootste concurrentievoordeel, want de meeste elektriciens zijn alleen tijdens werkdagen bereikbaar.
 
 ### 3. Dienstenoverzicht per categorie
 
 Verdeel je diensten helder:
-- **Storingen & reparaties** — groepenkast, kortsluiting, stroomuitval
-- **Installatie** — nieuwbouw, verbouwing, uitbreiding
-- **Keuring & onderhoud** — NEN 1010, periodieke inspectie
-- **Domotica & slim wonen** — slimme verlichting, laadpaal, zonnepanelen
+- **Storingen & reparaties**: groepenkast, kortsluiting, stroomuitval
+- **Installatie**: nieuwbouw, verbouwing, uitbreiding
+- **Keuring & onderhoud**: NEN 1010, periodieke inspectie
+- **Domotica & slim wonen**: slimme verlichting, laadpaal, zonnepanelen
 
 ### 4. Werkgebied op een kaart
 
@@ -102,6 +102,6 @@ Na 3-6 maanden SEO-werk en een goed Google Bedrijfsprofiel: 5-15 leads per maand
 
 ## Conclusie
 
-Een professionele website is de beste investering die je als elektricien kunt doen. Het levert je spoedopdrachten, vermindert je Werkspot-afhankelijkheid en bouwt aan je eigen merk. Begin vandaag — je toekomstige klanten zoeken nu online.
+Een professionele website is de beste investering die je als elektricien kunt doen. Het levert je spoedopdrachten, vermindert je Werkspot-afhankelijkheid en bouwt aan je eigen merk. Begin vandaag, want je toekomstige klanten zoeken nu online.
 
 Benieuwd hoe je website er nu voor staat? [Vraag een gratis scan aan](/gratis-scan) en ontdek direct de verbeterpunten.
