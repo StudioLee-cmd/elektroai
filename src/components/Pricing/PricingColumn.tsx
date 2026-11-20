@@ -60,13 +60,13 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                     {!(isAnnual) && <span className="text-lg font-normal text-[var(--foreground-accent)]"> p/m</span>}
                     {isAnnual && name === 'Managed Groei Basis' && <span className="text-lg font-normal text-[var(--foreground-accent)]"> eenmalig</span>}
                     <span className="text-xs font-normal text-[var(--foreground-accent)] opacity-75 ml-1">
-                        ({name === 'Managed Groei Basis' ? 'Incl BTW' : 'Excl BTW'})
+                        (Excl BTW)
                     </span>
                 </p>
                 <div className="mb-6 h-6">
                     {isAnnual ? (
                         <span className="text-xs font-semibold text-green-600 bg-green-50 px-2 py-1 rounded-full border border-green-200">
-                            {name === 'Managed Groei Basis' ? `Eenmalig €${(typeof basePrice === 'number' ? basePrice : 0) * 12},- — nooit meer maandkosten` : `Eenmalig €${(typeof basePrice === 'number' ? basePrice : 0) * 12},- per jaar`}
+                            {name === 'Managed Groei Basis' ? `Eenmalig €${(typeof basePrice === 'number' ? basePrice : 0) * 12},- en nooit meer maandkosten` : `Eenmalig €${(typeof basePrice === 'number' ? basePrice : 0) * 12},- per jaar`}
                         </span>
                     ) : (
                         <span className="text-xs font-semibold text-[var(--foreground-accent)]">
@@ -142,7 +142,7 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                     {currentSavings}
                 </div>
                 <ul className="space-y-4 mb-8">
-                    {(!isAnnual && name === 'Managed Groei Basis' ? ['Maandelijks opzegbaar', ...features] : features).map((feature, index) => (
+                    {features.map((feature, index) => (
                         <li key={index} className="flex items-center">
                             <BsFillCheckCircleFill className="h-5 w-5 text-secondary mr-2" />
                             <span className="text-foreground-accent">

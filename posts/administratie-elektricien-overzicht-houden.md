@@ -10,7 +10,7 @@ cluster: "automatisering"
 ---
 ## Waarom administratie ertoe doet
 
-Als elektricien draait alles om vakmanschap — veilige installaties, tevreden klanten, schoon werk. Maar zonder goede administratie loop je het risico dat facturen vergeten worden, materiaalkosten uit de hand lopen en je aan het einde van het jaar voor verrassingen staat.
+Als elektricien draait alles om vakmanschap: veilige installaties, tevreden klanten, schoon werk. Maar zonder goede administratie loop je het risico dat facturen vergeten worden, materiaalkosten uit de hand lopen en je aan het einde van het jaar voor verrassingen staat.
 
 Goede administratie is geen luxe, het is de basis van een gezond bedrijf. Het geeft je overzicht over je inkomsten, je kosten en je winstgevendheid per project. En dat overzicht helpt je om betere beslissingen te nemen.
 
@@ -24,7 +24,7 @@ Belangrijke tips:
 - Stuur de factuur **dezelfde dag** als de klus is afgerond. Hoe sneller je factureert, hoe sneller je betaald wordt.
 - Neem een **gedetailleerde omschrijving** op: welke werkzaamheden, welke materialen, hoeveel uur.
 - Stel **automatische betalingsherinneringen** in. De meeste klanten betalen gewoon te laat, niet met opzet.
-- Bied iDEAL aan naast bankoverschrijving — klanten betalen sneller als het makkelijk is.
+- Bied iDEAL aan naast bankoverschrijving, want klanten betalen sneller als het makkelijk is.
 
 Een goede factuur voorkomt ook discussie achteraf. Als duidelijk is wat je hebt gedaan en wat het kost, zijn er geen verrassingen.
 
@@ -42,7 +42,7 @@ Praktische aanpak:
 
 ## Materiaalkosten en projectadministratie
 
-Als elektricien werk je met dure materialen — kabels, schakelaars, groepenkastonderdelen, slimme componenten. Het bijhouden van materiaalkosten per project is essentieel voor nauwkeurige offertes en gezonde marges.
+Als elektricien werk je met dure materialen: kabels, schakelaars, groepenkastonderdelen, slimme componenten. Het bijhouden van materiaalkosten per project is essentieel voor nauwkeurige offertes en gezonde marges.
 
 Houd per project bij:
 - Welke materialen je hebt gebruikt en wat ze kosten
@@ -61,13 +61,13 @@ Er zijn betaalbare tools die het leven van een elektricien een stuk makkelijker 
 - **Urenregistratie-apps**: start en stop per project op je telefoon, automatisch gekoppeld aan je facturatie
 - **Kilometerregistratie**: bijhouden voor belastingaangifte, veel apps doen dit automatisch
 
-De investering is minimaal — de meeste pakketten kosten €10-20 per maand — maar de tijdsbesparing is enorm.
+De investering is minimaal (de meeste pakketten kosten €10-20 per maand), maar de tijdsbesparing is enorm.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-voorkomen-elektricien" class="text-dark fw-semibold">No-shows voorkomen als elektricien: zo houd je je planning vol</a> →</p></div></div></div>
 
 ## Structuur aanbrengen in je bedrijf
 
-Het doel is niet meer administratie, maar minder — door het slim in te richten:
+Het doel is niet meer administratie, maar minder, door het slim in te richten:
 
 1. **Offerte** → maak digitaal aan na het bezichtigen
 2. **Planning** → koppel aan je agenda
@@ -78,6 +78,6 @@ Het doel is niet meer administratie, maar minder — door het slim in te richten
 
 Deze keten kost een middag om in te richten, maar bespaart je jarenlang uren per week. En je hebt altijd overzicht over je financiën.
 
-Goede administratie is geen doel op zich — het is een middel om je bedrijf gezond te houden en meer tijd te besteden aan wat je het liefst doet: installaties maken.
+Goede administratie is geen doel op zich. Het is een middel om je bedrijf gezond te houden en meer tijd te besteden aan wat je het liefst doet: installaties maken.
 
 Wil je weten hoe je jouw bedrijfsvoering kunt optimaliseren? [Vraag een gratis scan aan](https://www.elektroai.nl/gratis-scan) en ontdek waar je tijd kunt besparen.

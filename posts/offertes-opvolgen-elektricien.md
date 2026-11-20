@@ -9,9 +9,9 @@ tags: ["Leads", "Lead opvolging"]
 ---
 ## Het probleem: offertes die in het niets verdwijnen
 
-Je krijgt een aanvraag via je website, Werkspot of WhatsApp. Je bent op een klus en kan niet direct reageren. 's Avonds vergeet je het, of je stelt het uit naar morgen. Ondertussen heeft de klant drie andere elektriciens gebeld — en de snelste heeft de klus al binnen.
+Je krijgt een aanvraag via je website, Werkspot of WhatsApp. Je bent op een klus en kan niet direct reageren. 's Avonds vergeet je het, of je stelt het uit naar morgen. Ondertussen heeft de klant drie andere elektriciens gebeld, en de snelste heeft de klus al binnen.
 
-Dit scenario speelt zich dagelijks af bij elektriciens. Niet omdat ze slecht werk leveren, maar omdat ze te druk zijn om snel te reageren. De oplossing is niet harder werken — het is slimmer opvolgen.
+Dit scenario speelt zich dagelijks af bij elektriciens. Niet omdat ze slecht werk leveren, maar omdat ze te druk zijn om snel te reageren. De oplossing is niet harder werken, maar slimmer opvolgen.
 
 ## Snelheid is de belangrijkste factor
 
@@ -23,7 +23,7 @@ Bij elektriciens speelt urgentie vaak een rol: een kortsluiting, een defecte gro
 
 De simpelste oplossing: een automatisch antwoord dat direct na een aanvraag verstuurd wordt. Niet een generiek "we nemen zo snel mogelijk contact met u op", maar een persoonlijk bericht:
 
-"Hoi [naam], bedankt voor je aanvraag! Ik ben nu op een klus maar bel je vandaag nog terug. Als het urgent is, bel me direct op [nummer]. — [Jouw naam]"
+"Hoi [naam], bedankt voor je aanvraag! Ik ben nu op een klus maar bel je vandaag nog terug. Als het urgent is, bel me direct op [nummer]. [Jouw naam]"
 
 Dit bericht wordt automatisch verstuurd via WhatsApp of SMS zodra er een aanvraag binnenkomt. De klant weet dat je bestaat, dat je het gezien hebt en dat je terugbelt. Dat voorkomt dat hij verder belt.
 
@@ -33,7 +33,7 @@ Na het eerste automatische bericht:
 
 - **Binnen 2 uur:** Bel de klant terug of stuur een persoonlijke WhatsApp met beschikbaarheid
 - **Binnen 24 uur:** Als je nog geen contact hebt gehad, stuur een herinnering
-- **Na 3 dagen:** Laatste follow-up — "Heb je al een elektricien gevonden? Ik kan [dag] langskomen"
+- **Na 3 dagen:** Laatste follow-up: "Heb je al een elektricien gevonden? Ik kan [dag] langskomen"
 
 ![Moderne meterkast met professionele bedrading](/images/blog/offertes-opvolgen-elektricien-2.jpg)
 
@@ -42,8 +42,8 @@ Na het eerste automatische bericht:
 De aanvraag is pas de helft van het verhaal. Na het versturen van een offerte hoor je vaak niets meer terug. Klanten vergelijken, twijfelen en vergeten. Een gestructureerde offerte-opvolging maakt het verschil:
 
 - **Dag 1:** Offerte versturen met een persoonlijk bericht erbij
-- **Dag 3:** Kort berichten — "Heb je de offerte ontvangen? Vragen? Ik leg het graag even toe"
-- **Dag 7:** Als er geen reactie is — "Ik snap dat je wilt vergelijken. Als je vragen hebt over de prijs of planning, hoor ik het graag"
+- **Dag 3:** Kort berichten: "Heb je de offerte ontvangen? Vragen? Ik leg het graag even toe"
+- **Dag 7:** Als er geen reactie is: "Ik snap dat je wilt vergelijken. Als je vragen hebt over de prijs of planning, hoor ik het graag"
 
 De toon is belangrijk: behulpzaam, niet opdringerig. Je bent er om te helpen, niet om te pushen.
 
@@ -84,6 +84,6 @@ Zolang je contactgegevens alleen gebruikt voor het beantwoorden van de aanvraag 
 
 ## Conclusie
 
-Als elektricien win je klussen met snelheid, niet alleen met vakmanschap. Automatische opvolging zorgt ervoor dat je geen enkele aanvraag mist en dat elke offerte de aandacht krijgt die het verdient. Meer klussen, minder gemiste kansen — het begint met een snellere reactie.
+Als elektricien win je klussen met snelheid, niet alleen met vakmanschap. Automatische opvolging zorgt ervoor dat je geen enkele aanvraag mist en dat elke offerte de aandacht krijgt die het verdient. Meer klussen, minder gemiste kansen: het begint met een snellere reactie.
 
 Benieuwd hoeveel leads je laat liggen? Start een [gratis scan](/gratis-scan) en ontdek het binnen 24 uur.

@@ -10,7 +10,7 @@ tags: ["Klanttevredenheid", "Service"]
 ---
 ## De klant die zwijgt en nooit meer belt
 
-Als elektricien hoor je zelden dat iemand ontevreden is. De meeste klanten zeggen niks — ze bellen gewoon de volgende keer een ander. Geen klacht, geen uitleg. Ze verdwijnen stilletjes.
+Als elektricien hoor je zelden dat iemand ontevreden is. De meeste klanten zeggen niks. Ze bellen gewoon de volgende keer een ander. Geen klacht, geen uitleg. Ze verdwijnen stilletjes.
 
 Dat is het gevaarlijke aan klanttevredenheid in de installatiebranche. Je denkt dat alles goed gaat, terwijl er langzaam klanten weglekken.
 
@@ -52,7 +52,7 @@ Bel of app na een week: "Werkt alles nog goed?" Deze 30 seconden investering lev
 
 Tevreden klanten zijn je beste marketing. Ze vertellen het aan buren, familie, collega's. Eén tevreden klant levert gemiddeld 2-3 nieuwe klanten op via mond-tot-mondreclame.
 
-Maar ze laten niet vanzelf een review achter. Automatische review-verzoeken via WhatsApp — verzonden na elke afgeronde klus — verdrievoudigen je Google-reviews.
+Maar ze laten niet vanzelf een review achter. Automatische review-verzoeken via WhatsApp, verzonden na elke afgeronde klus, verdrievoudigen je Google-reviews.
 
 
 
@@ -60,12 +60,12 @@ Maar ze laten niet vanzelf een review achter. Automatische review-verzoeken via 
 
 Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als elektricien.
 
-Een [review management](/reviews) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+Een [review management](/reviews) vangt automatisch vragen op en plant afspraken in, ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
 
-Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [AI chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [AI chatbot](/chatbot): we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
 ## Conclusie
 
-Klanttevredenheid is geen toeval — het is een systeem. Communiceer helder, ruim op, vraag om feedback en maak nazorg standaard. Je werk is al goed; nu moet de ervaring eromheen ook goed zijn.
+Klanttevredenheid is geen toeval, maar een systeem. Communiceer helder, ruim op, vraag om feedback en maak nazorg standaard. Je werk is al goed; nu moet de ervaring eromheen ook goed zijn.
 
 Wil je weten hoe je automatisch feedback verzamelt? [Vraag een gratis scan aan](/gratis-scan) en ontdek de mogelijkheden.

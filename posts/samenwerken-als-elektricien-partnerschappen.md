@@ -8,7 +8,7 @@ image: "/images/blog/samenwerken-als-elektricien-partnerschappen.png"
 tags: ["Samenwerkingen"]
 cluster: "branding"
 ---
-De energietransitie heeft het werk van elektriciens fundamenteel veranderd. Zonnepanelen, warmtepompen, laadpalen, domotica — al deze installaties vereisen samenwerking met andere vakmensen. Elektriciens die slim samenwerken, profiteren het meest van deze groeimarkt.
+De energietransitie heeft het werk van elektriciens fundamenteel veranderd. Zonnepanelen, warmtepompen, laadpalen, domotica: al deze installaties vereisen samenwerking met andere vakmensen. Elektriciens die slim samenwerken, profiteren het meest van deze groeimarkt.
 
 ## Waarom samenwerking nu belangrijker is dan ooit
 
@@ -24,10 +24,10 @@ Voordelen van samenwerking:
 
 | Partner | Samenwerking | Kans |
 |---------|-------------|------|
-| Zonnepaneelbedrijf | Aansluiting en meterkast bij installatie | Zeer hoog — elk paneel vereist een elektricien |
-| Loodgieter / installateur | Warmtepompen en hybride systemen | Hoog — energietransitie |
-| Aannemer | Vaste elektricien bij nieuwbouw en renovatie | Hoog — volume |
-| Domotica-leverancier | Installatie van slimme systemen | Gemiddeld-hoog — groeimarkt |
+| Zonnepaneelbedrijf | Aansluiting en meterkast bij installatie | Zeer hoog: elk paneel vereist een elektricien |
+| Loodgieter / installateur | Warmtepompen en hybride systemen | Hoog (energietransitie) |
+| Aannemer | Vaste elektricien bij nieuwbouw en renovatie | Hoog (volume) |
+| Domotica-leverancier | Installatie van slimme systemen | Gemiddeld-hoog (groeimarkt) |
 | Vastgoedbeheerder | Onderhoud en periodieke keuring | Regelmatig werk |
 
 ## Hoe bouw je samenwerkingen op?
@@ -48,7 +48,7 @@ Bied samen met een loodgieter een "compleet verduurzamingspakket" aan: warmtepom
 
 ## Aannemers en projectontwikkelaars
 
-Bij nieuwbouw en grote renovaties werken aannemers met vaste teams. Als jij de vaste elektricien bent, heb je maandenlang werk gegarandeerd. Lever altijd kwaliteit, wees betrouwbaar en communiceer duidelijk — dat is hoe je een vaste positie verdient.
+Bij nieuwbouw en grote renovaties werken aannemers met vaste teams. Als jij de vaste elektricien bent, heb je maandenlang werk gegarandeerd. Lever altijd kwaliteit, wees betrouwbaar en communiceer duidelijk: zo verdien je een vaste positie.
 
 Versterk dit met [NEN 1010 certificering](/blog/nen-1010-certificering-elektricien-online) die aannemers vereisen.
 
@@ -60,11 +60,11 @@ Laat partners een [Google review](/blog/meer-google-reviews-als-elektricien) sch
 
 ## Evalueer en groei
 
-Bijhouden welke partners hoeveel klussen opleveren is essentieel. Bespreek elk kwartaal de resultaten. Goede samenwerkingen groeien mee met de markt — slechte kosten je tijd zonder resultaat.
+Bijhouden welke partners hoeveel klussen opleveren is essentieel. Bespreek elk kwartaal de resultaten. Goede samenwerkingen groeien mee met de markt. Slechte kosten je tijd zonder resultaat.
 
 ## De toekomst is samenwerking
 
-De energietransitie versnelt en de projecten worden complexer. Huiseigenaren willen niet vijf vakmensen apart bellen voor zonnepanelen, batterijopslag, een warmtepomp en een laadpaal. Het samenwerkingsverband dat dit als totaalpakket aanbiedt, wint de markt. Elektriciens die nu investeren in samenwerkingen met installateurs en zonnepaneelbedrijven, positioneren zich voor de grootste groeimarkt van het decennium. De tijd om te beginnen is nu — wacht niet tot je concurrenten het eerst doen.
+De energietransitie versnelt en de projecten worden complexer. Huiseigenaren willen niet vijf vakmensen apart bellen voor zonnepanelen, batterijopslag, een warmtepomp en een laadpaal. Het samenwerkingsverband dat dit als totaalpakket aanbiedt, wint de markt. Elektriciens die nu investeren in samenwerkingen met installateurs en zonnepaneelbedrijven, positioneren zich voor de grootste groeimarkt van het decennium. De tijd om te beginnen is nu. Wacht niet tot je concurrenten het eerst doen.
 
 ## Hulp nodig?
 

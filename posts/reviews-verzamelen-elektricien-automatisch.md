@@ -35,7 +35,7 @@ Deze link kun je inkorten via een dienst als bit.ly, zodat hij er minder intimid
 
 ## Stap 2: Automatische WhatsApp-berichten na elke klus
 
-WhatsApp is in Nederland vrijwel overal in gebruik, en berichten worden er bijna altijd gelezen — e-mail lang niet. Als je ergens om een review moet vragen, is het via WhatsApp.
+WhatsApp is in Nederland vrijwel overal in gebruik, en berichten worden er bijna altijd gelezen. E-mail lang niet. Als je ergens om een review moet vragen, is het via WhatsApp.
 
 Het bericht hoeft niet ingewikkeld te zijn:
 

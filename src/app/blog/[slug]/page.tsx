@@ -98,7 +98,7 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
     };
 
     return (
-        <div className="py-24 bg-[var(--background)]">
+        <div className="pt-32 md:pt-52 pb-24 bg-[var(--background)]">
             <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
             <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
             <Container className="max-w-4xl">

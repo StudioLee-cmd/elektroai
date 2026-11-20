@@ -9,7 +9,7 @@ tags: ["Specialisatie", "Niche"]
 cluster: "branding"
 ---
 
-Storingen oplossen, groepen bijplaatsen, bekabeling aanleggen — het standaardwerk van een elektricien. Maar juist omdat elke elektricien dit kan, concurreer je op prijs. Specialiseren doorbreekt dat patroon.
+Storingen oplossen, groepen bijplaatsen, bekabeling aanleggen: het standaardwerk van een elektricien. Maar juist omdat elke elektricien dit kan, concurreer je op prijs. Specialiseren doorbreekt dat patroon.
 
 In dit artikel ontdek je welke specialisaties het meest opleveren en hoe je de overstap maakt zonder je bestaande klanten te verliezen.
 
@@ -19,16 +19,16 @@ De elektrotechnische branche verandert snel. Verduurzaming, domotica en elektrif
 
 Specialisten profiteren van:
 
-- **Hogere uurtarieven** — duidelijk meer dan generalisten
-- **Minder concurrentie** — minder elektriciens in jouw niche
-- **Grotere projecten** — complexer werk = hogere factuurbedragen
-- **Doorverwijzingen** — collega's sturen specialistisch werk jouw kant op
+- **Hogere uurtarieven**: duidelijk meer dan generalisten
+- **Minder concurrentie**: minder elektriciens in jouw niche
+- **Grotere projecten**: complexer werk = hogere factuurbedragen
+- **Doorverwijzingen**: collega's sturen specialistisch werk jouw kant op
 
 ## De meest winstgevende specialisaties
 
 ### 1. Laadpalen en elektrische mobiliteit
 
-De EV-markt explodeert. Elke nieuwe elektrische auto heeft een laadpaal nodig — thuis, op kantoor of bij winkels. Dit is een markt die de komende 10 jaar alleen maar groeit.
+De EV-markt explodeert. Elke nieuwe elektrische auto heeft een laadpaal nodig: thuis, op kantoor of bij winkels. Dit is een markt die de komende 10 jaar alleen maar groeit.
 
 ### 2. Zonnepanelen en thuisbatterijen
 
@@ -36,7 +36,7 @@ Van installatie tot optimalisatie van zonne-energiesystemen. Steeds meer huishou
 
 ### 3. Domotica en smart home
 
-Slimme installaties — van verlichting tot klimaatbeheersing. Dit segment trekt klanten die bereid zijn premium te betalen voor comfort en gemak.
+Slimme installaties, van verlichting tot klimaatbeheersing. Dit segment trekt klanten die bereid zijn premium te betalen voor comfort en gemak.
 
 ### 4. Industriele elektrotechniek
 
@@ -83,4 +83,4 @@ Bij StudioLee positioneren we elektriciens als specialist in hun niche. Van [lea
 
 ## Conclusie
 
-De elektrotechnische branche beloont specialisten. Of je nu kiest voor laadpalen, zonnepanelen, domotica of energiemanagement — de markt groeit en de marges zijn hoger dan bij standaardwerk. Begin met certificeringen, bouw een portfolio, en communiceer je expertise overal. De investering betaalt zich snel terug.
+De elektrotechnische branche beloont specialisten. Of je nu kiest voor laadpalen, zonnepanelen, domotica of energiemanagement: de markt groeit en de marges zijn hoger dan bij standaardwerk. Begin met certificeringen, bouw een portfolio, en communiceer je expertise overal. De investering betaalt zich snel terug.

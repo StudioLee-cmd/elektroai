@@ -16,7 +16,7 @@ Het irritante: dezelfde vakmensen met 12 reviews hebben tijdens hun carrière al
 
 - Elektriciens met 80+ Google reviews krijgen structureel meer leads dan die met minder dan 20.
 - WhatsApp-verzoeken converteren een veelvoud beter dan e-mail-verzoeken.
-- Versturen binnen 2 uur na afronding van de klus is kritiek — daarna zakt je conversie steil.
+- Versturen binnen 2 uur na afronding van de klus is kritiek, want daarna zakt je conversie steil.
 - Een NFC-kaart in de meterkast-ruimte achter laten biedt een fysieke backup voor klanten die WhatsApp niet gebruiken.
 - Automatiseer dit volledig; handmatig volhoud je dit geen 3 maanden.
 

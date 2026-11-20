@@ -9,11 +9,11 @@ cluster: "automatisering"
 ---
 ## Waarom snelheid belangrijker is dan prijs
 
-Als elektricien concurreer je op meer dan alleen prijs. De klant die belt met een kapotte groepenkast of een storing wil niet drie offertes vergelijken — die wil dat het vandaag nog opgelost wordt. De elektricien die als eerste opneemt, krijgt de klus.
+Als elektricien concurreer je op meer dan alleen prijs. De klant die belt met een kapotte groepenkast of een storing wil niet drie offertes vergelijken. Die wil dat het vandaag nog opgelost wordt. De elektricien die als eerste opneemt, krijgt de klus.
 
 Dit geldt ook voor geplande klussen. Een klant die een offerte aanvraagt voor een nieuwe installatie belt meestal twee of drie elektriciens. Degene die als eerste terugbelt met een professioneel antwoord, wint veruit het vaakst.
 
-In de praktijk betekent dit dat een elektricien die binnen 5 minuten reageert op een aanvraag, vier keer meer kans heeft om de klus te winnen dan iemand die na een uur terugbelt. Niet omdat die snellere elektricien beter is — maar omdat de klant niet langer wil zoeken.
+In de praktijk betekent dit dat een elektricien die binnen 5 minuten reageert op een aanvraag, vier keer meer kans heeft om de klus te winnen dan iemand die na een uur terugbelt. Niet omdat die snellere elektricien beter is, maar omdat de klant niet langer wil zoeken.
 
 Denk aan de situatie vanuit de klant: het licht in de hal doet het niet meer, de groepen slaan steeds af, of de kookplaat krijgt geen stroom. Ze willen het opgelost hebben. De eerste elektricien die zegt "ik kan morgenochtend langskomen" krijgt een "ja." De rest hoort nooit meer iets.
 
@@ -27,7 +27,7 @@ Het ergste is dat je niet eens weet dat je ze misloopt. De klant belt de volgend
 
 Tel daarbij op dat veel aanvragen binnenkomen via platformen als Werkspot of via je website-contactformulier. Als je daar pas uren later op reageert, hebben twee of drie concurrenten al een offerte gestuurd. Je kans is dan bijna nul, hoe scherp je prijs ook is.
 
-Gemiste weekendoproepen zijn extra pijnlijk. Veel huiseigenaren ontdekken storingen in het weekend — precies wanneer jij vrij bent. Ze bellen, krijgen geen gehoor, en zoeken een concurrent die wél bereikbaar is. Maandagochtend is het te laat.
+Gemiste weekendoproepen zijn extra pijnlijk. Veel huiseigenaren ontdekken storingen in het weekend, precies wanneer jij vrij bent. Ze bellen, krijgen geen gehoor, en zoeken een concurrent die wél bereikbaar is. Maandagochtend is het te laat.
 
 ## Automatische opvolging bij elke aanvraag
 
@@ -37,7 +37,7 @@ Dat simpele bericht maakt het verschil tussen een gewonnen en verloren klus. De 
 
 Voeg een vraag toe aan je automatische bericht: "Stuur gerust een foto van de meterkast of het probleem, dan kan ik alvast een inschatting maken." Dit heeft twee voordelen: de klant stuurt een foto in plaats van een concurrent te bellen, en jij hebt alvast informatie om je terugbelgesprek efficiënt te maken.
 
-Bij contactformulier-aanvragen is automatische bevestiging net zo belangrijk. Binnen 60 seconden een e-mail of WhatsApp met "Bedankt voor je aanvraag, we nemen binnen 2 uur contact op" houdt de klant vast. Zonder die bevestiging denkt de klant dat het formulier niet is aangekomen — en belt de concurrent.
+Bij contactformulier-aanvragen is automatische bevestiging net zo belangrijk. Binnen 60 seconden een e-mail of WhatsApp met "Bedankt voor je aanvraag, we nemen binnen 2 uur contact op" houdt de klant vast. Zonder die bevestiging denkt de klant dat het formulier niet is aangekomen en belt hij de concurrent.
 
 ## De perfecte eerste reactie
 
@@ -48,9 +48,9 @@ Als je terugbelt, maak het dan professioneel:
 - Geef direct een indicatie van beschikbaarheid
 - Stuur na het gesprek een bevestiging via WhatsApp
 
-Klanten die zich serieus genomen voelen, kiezen voor jou — zelfs als een concurrent iets goedkoper is.
+Klanten die zich serieus genomen voelen, kiezen voor jou, zelfs als een concurrent iets goedkoper is.
 
-Een concreet voorbeeld: "Hoi Mark, ik bel terug over de storing in je groepenkast. Ik heb je foto gezien — het lijkt op een doorgeslagen aardlekschakelaar. Ik kan morgenochtend om 09:00 langskomen, dan ben ik er waarschijnlijk een uur mee bezig. Is dat goed?" Die reactie is persoonlijk, inhoudelijk en geeft direct een plan. Vergelijk dat met "Ja hallo, u had gebeld?" — en je snapt het verschil.
+Een concreet voorbeeld: "Hoi Mark, ik bel terug over de storing in je groepenkast. Ik heb je foto gezien en het lijkt op een doorgeslagen aardlekschakelaar. Ik kan morgenochtend om 09:00 langskomen, dan ben ik er waarschijnlijk een uur mee bezig. Is dat goed?" Die reactie is persoonlijk, inhoudelijk en geeft direct een plan. Vergelijk dat met "Ja hallo, u had gebeld?" en je snapt het verschil.
 
 Stuur na het gesprek een WhatsApp-bevestiging met de afspraakdatum, het adres en een indicatie van de kosten. Professioneel, overzichtelijk, en de klant voelt zich geholpen.
 
@@ -72,6 +72,6 @@ Het resultaat: meer klussen, minder verspilde marketing, en een volle agenda.
 
 Proactief werken betekent ook dat je bestaande klanten niet vergeet. Een klant waar je vorig jaar een nieuwe groepenkast hebt geïnstalleerd, heeft misschien nu interesse in een laadpaal voor zijn elektrische auto. Of een klant waar je vijf jaar geleden de bedrading hebt vernieuwd, is toe aan een controle. Met een simpel klantenbestand en af en toe een WhatsApp-bericht hou je het contact warm.
 
-Met AI-opvolging combineer je het beste van twee werelden: automatische snelheid bij nieuwe aanvragen en persoonlijke aandacht bij het terugbellen. Het systeem vangt alles op wat jij mist terwijl je aan het werk bent — en jij doet wat je het beste kunt: vakwerk leveren.
+Met AI-opvolging combineer je het beste van twee werelden: automatische snelheid bij nieuwe aanvragen en persoonlijke aandacht bij het terugbellen. Het systeem vangt alles op wat jij mist terwijl je aan het werk bent, en jij doet wat je het beste kunt: vakwerk leveren.
 
 Wil je weten hoeveel aanvragen jij misloopt? Vraag een [gratis AI-scan](/gratis-scan) aan.

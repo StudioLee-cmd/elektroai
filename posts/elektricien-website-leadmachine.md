@@ -3,7 +3,7 @@ title: "Je elektricien-website als leadmachine: meer aanvragen zonder advertenti
 seoTitle: "Je elektricien-website als leadmachine"
 slug: "elektricien-website-leadmachine"
 date: "2026-03-21"
-excerpt: "Je website kan je beste medewerker zijn. Leer hoe je als elektricien meer aanvragen genereert via je website — zonder te adverteren."
+excerpt: "Je website kan je beste medewerker zijn. Leer hoe je als elektricien meer aanvragen genereert via je website, zonder te adverteren."
 image: "/images/blog/elektricien-website-leadmachine.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
@@ -12,7 +12,7 @@ cluster: "website"
 ---
 ## Waarom je website je beste verkoper is
 
-De meeste elektriciens zien hun website als een digitaal visitekaartje. Het staat er, het ziet er redelijk uit, en af en toe belt iemand. Maar een website kan veel meer zijn dan dat — het kan je primaire bron van aanvragen worden.
+De meeste elektriciens zien hun website als een digitaal visitekaartje. Het staat er, het ziet er redelijk uit, en af en toe belt iemand. Maar een website kan veel meer zijn dan dat: het kan je primaire bron van aanvragen worden.
 
 Het verschil zit in hoe je de website inricht. Een site die alleen informatie geeft, genereert weinig. Een site die bezoekers actief begeleidt naar een aanvraag, genereert veel. Het goede nieuws: de aanpassingen zijn niet ingewikkeld en kosten weinig.
 
@@ -60,7 +60,7 @@ Zonder meten weet je niet of je verbeteringen werken.
 - **Contactformulier-tel**: houd een simpele lijst bij van alle aanvragen via je website
 - **Vraag elke klant**: "Hoe heeft u ons gevonden?" Simpel maar essentieel
 
-Vergelijk je cijfers maandelijks. Als je website nu twee aanvragen per maand genereert en dat groeit naar zes na je verbeteringen, zijn dat vier extra klussen per maand — zonder marketingkosten.
+Vergelijk je cijfers maandelijks. Als je website nu twee aanvragen per maand genereert en dat groeit naar zes na je verbeteringen, zijn dat vier extra klussen per maand, zonder marketingkosten.
 
 ## Veelgemaakte fouten
 
