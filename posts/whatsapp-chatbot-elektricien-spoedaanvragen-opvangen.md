@@ -52,7 +52,7 @@ Zodra een aanvraag in het spoedspoor valt, hoeft die niet te wachten. De chatbot
 
 Zo houd je twee snelheden naast elkaar: spoed gaat direct, de rest wordt keurig verzameld en klaargezet. Wat er na het eerste contact gebeurt, kun je koppelen aan je verdere [workflow automatisering voor elektriciens](/automatisering): de bevestiging, de herinnering en later het review-verzoek lopen dan door zonder dat jij er nog aan hoeft te denken.
 
-**Lees ook:** [WhatsApp-flow voor elektriciens: aanvraag tot review](/blog/whatsapp-flow-elektricien-aanvraag-tot-review) - hoe je die losse stappen aan elkaar knoopt tot één doorlopende flow.
+**Lees ook:** [WhatsApp-flow voor elektriciens: aanvraag tot review](/blog/whatsapp-flow-elektricien-aanvraag-tot-review): hoe je die losse stappen aan elkaar knoopt tot één doorlopende flow.
 
 ## Zo zet je het op in je bedrijf
 
